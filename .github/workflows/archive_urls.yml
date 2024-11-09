@@ -1,9 +1,11 @@
+# @format
+
 name: Archive URLs to Wayback Machine
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *" 
+    - cron: "0 3 * * *"
 
 jobs:
   archive_urls:
@@ -28,20 +30,25 @@ jobs:
             temp_file=$(mktemp)
 
             while IFS= read -r url; do
+              # Skip URLs already marked as submitted
               if echo "$url" | grep -q " - submitted$"; then
                 echo "Already marked as submitted: $url"
                 echo "$url" >> "$temp_file"
                 continue
               fi
 
+              # Skip URLs already logged as submitted
               if grep -Fxq "$url" archive/submitted.log; then
                 echo "Skipping already submitted URL: $url"
                 echo "$url - submitted" >> "$temp_file"
                 continue
               fi
 
-              echo "Submitting URL: $url"
-              response=$(curl -s -o /dev/null -w "%{http_code}" "https://web.archive.org/save/$url")
+              # URL encode to handle non-ASCII characters
+              encoded_url=$(printf '%s' "$url" | jq -s -R -r @uri)
+
+              echo "Submitting URL: $encoded_url"
+              response=$(curl -s -o /dev/null -w "%{http_code}" "https://web.archive.org/save/$encoded_url")
 
               if [ "$response" -eq 200 ]; then
                 echo "$url - submitted" >> "$temp_file"
@@ -51,6 +58,7 @@ jobs:
                 echo "$url" >> "$temp_file"
               fi
 
+              # Wait 5 seconds between submissions to avoid rate limiting
               sleep 5
             done < "$file"
 
