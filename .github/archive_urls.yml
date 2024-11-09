@@ -1,0 +1,66 @@
+name: Archive URLs to Wayback Machine
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *" 
+
+jobs:
+  archive_urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: sudo apt-get install -y jq
+
+      - name: Initialize submission log if missing
+        run: |
+          if [ ! -f archive/submitted.log ]; then
+            touch archive/submitted.log
+          fi
+
+      - name: Archive URLs with tagging and delay
+        run: |
+          for file in archive/*/urls.txt; do
+            echo "Processing file: $file"
+            temp_file=$(mktemp)
+
+            while IFS= read -r url; do
+              if echo "$url" | grep -q " - submitted$"; then
+                echo "Already marked as submitted: $url"
+                echo "$url" >> "$temp_file"
+                continue
+              fi
+
+              if grep -Fxq "$url" archive/submitted.log; then
+                echo "Skipping already submitted URL: $url"
+                echo "$url - submitted" >> "$temp_file"
+                continue
+              fi
+
+              echo "Submitting URL: $url"
+              response=$(curl -s -o /dev/null -w "%{http_code}" "https://web.archive.org/save/$url")
+
+              if [ "$response" -eq 200 ]; then
+                echo "$url - submitted" >> "$temp_file"
+                echo "$url" >> archive/submitted.log
+              else
+                echo "Failed to submit URL: $url, HTTP Status: $response"
+                echo "$url" >> "$temp_file"
+              fi
+
+              sleep 5
+            done < "$file"
+
+            mv "$temp_file" "$file"
+          done
+
+      - name: Commit submission log and updated URL files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add archive/submitted.log archive/*/urls.txt
+          git commit -m "Update submission log and mark URLs as submitted"
+          git push
