@@ -1,0 +1,766 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": [
+      {
+        "title": "සා.පෙළ අයදුම්කරුවන්ට දැනුම්දීමක්",
+        "url": "https://www.dinamina.lk/2024/12/02/breaking-news/146059/%e0%b7%83%e0%b7%8f-%e0%b6%b4%e0%b7%99%e0%b7%85-%e0%b6%85%e0%b6%ba%e0%b6%af%e0%b7%94%e0%b6%b8%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a%e0%b6%a7-%e0%b6%af%e0%b7%90%e0%b6%b1/",
+        "timestamp": "2024-12-02T21:45:38+05:30",
+        "checkSum": "ac764282e99dd1c2a89d0d94d2ab35f178441cb6552e47afa193ca2e9298fee5",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T21:45:38+05:30"
+      },
+      {
+        "title": "විපක්ෂයේ ප්‍රධාන සංවිධායක මෙන්න",
+        "url": "https://www.dinamina.lk/2024/12/02/breaking-news/146057/%e0%b7%80%e0%b7%92%e0%b6%b4%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b6%b0%e0%b7%8f%e0%b6%b1-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%ba/",
+        "timestamp": "2024-12-02T21:41:37+05:30",
+        "checkSum": "1f5c82f9a5ce286e1c19b2987366dfe23e54eb92fbf598b237f5e170db51d4af",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T21:41:37+05:30"
+      },
+      {
+        "title": "ජනපති සහල් මෝල් හිමියන් සමග විශේෂ සාකච්ඡාවක් තියලා",
+        "url": "https://www.dinamina.lk/2024/12/02/breaking-news/146050/%e0%b6%a2%e0%b6%b1%e0%b6%b4%e0%b6%ad%e0%b7%92-%e0%b7%83%e0%b7%84%e0%b6%bd%e0%b7%8a-%e0%b6%b8%e0%b7%9d%e0%b6%bd%e0%b7%8a-%e0%b7%84%e0%b7%92%e0%b6%b8%e0%b7%92%e0%b6%ba%e0%b6%b1%e0%b7%8a-%e0%b7%83/",
+        "timestamp": "2024-12-02T21:40:24+05:30",
+        "checkSum": "7d7d5cea82ce4f8262075c2c62fb58367632658b1f69566bcfa99134009e6ef2",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T21:40:24+05:30"
+      },
+      {
+        "title": "පුද්ගලයන් 15,000ක් තවදුරටත් ආරක්ෂිත මධ්‍යස්ථානවල",
+        "url": "https://www.dinamina.lk/2024/12/02/local/146002/%e0%b6%b4%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%9c%e0%b6%bd%e0%b6%ba%e0%b6%b1%e0%b7%8a-15000%e0%b6%9a%e0%b7%8a-%e0%b6%ad%e0%b7%80%e0%b6%af%e0%b7%94%e0%b6%bb%e0%b6%a7%e0%b6%ad%e0%b7%8a-%e0%b6%86%e0%b6%bb/",
+        "timestamp": "2024-12-02T14:45:14+05:30",
+        "checkSum": "609f1f7a586facc774ddbd83c94e96d7ccd76570ad1d2754e13cf999dd343d1b",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T14:45:14+05:30"
+      },
+      {
+        "title": "ඉන්දීය මහ කොමසාරිස් අලුත් කථානායක හමුවෙලා",
+        "url": "https://www.dinamina.lk/2024/12/02/breaking-news/145998/%e0%b6%89%e0%b6%b1%e0%b7%8a%e0%b6%af%e0%b7%93%e0%b6%ba-%e0%b6%b8%e0%b7%84-%e0%b6%9a%e0%b7%9c%e0%b6%b8%e0%b7%83%e0%b7%8f%e0%b6%bb%e0%b7%92%e0%b7%83%e0%b7%8a-%e0%b6%85%e0%b6%bd%e0%b7%94%e0%b6%ad/",
+        "timestamp": "2024-12-02T14:42:50+05:30",
+        "checkSum": "779a8a6946617808ab31fd9eb8e2d1802d04440e8b09dcd274ac972fc71abf44",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T14:42:50+05:30"
+      },
+      {
+        "title": "කියුබාවෙන් ශ්‍රී ලංකාවේ නව රජයට දෙන්න යන අලුත්ම සහයෝගය",
+        "url": "https://www.dinamina.lk/2024/12/02/breaking-news/145995/%e0%b6%9a%e0%b7%92%e0%b6%ba%e0%b7%94%e0%b6%b6%e0%b7%8f%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b7%81%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bd%e0%b6%82%e0%b6%9a%e0%b7%8f%e0%b7%80%e0%b7%9a/",
+        "timestamp": "2024-12-02T14:25:46+05:30",
+        "checkSum": "476042e0aad2efb811f49552e6afa272571c23e3b3a02bb3dff63ad1c53ef588",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T14:25:46+05:30"
+      },
+      {
+        "title": "ශිෂ්‍යත්ව ප්‍රතිඵල සම්බන්ධයෙන් නීතිපතිගෙන් දැනුම්දීමක්",
+        "url": "https://www.dinamina.lk/2024/12/02/lawnorder/145993/%e0%b7%81%e0%b7%92%e0%b7%82%e0%b7%8a%e0%b6%ba%e0%b6%ad%e0%b7%8a%e0%b7%80-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b6%ad%e0%b7%92%e0%b6%b5%e0%b6%bd-%e0%b7%83%e0%b6%b8%e0%b7%8a%e0%b6%b6%e0%b6%b1/",
+        "timestamp": "2024-12-02T14:22:22+05:30",
+        "checkSum": "2fabf20fd2cf2d4cd122792adcb0ac553ee9d84db455d06166b0c85ace217340",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T14:22:22+05:30"
+      },
+      {
+        "title": "රටඉඳි වලින් හැදූ ලොව ප්‍රථම සිසිල් බීම වර්ගය මෙන්න",
+        "url": "https://www.dinamina.lk/2024/12/02/foreign/145985/%e0%b6%bb%e0%b6%a7%e0%b6%89%e0%b6%b3%e0%b7%92-%e0%b7%80%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%84%e0%b7%90%e0%b6%af%e0%b7%96-%e0%b6%bd%e0%b7%9c%e0%b7%80-%e0%b6%b4%e0%b7%8a%e0%b6%bb/",
+        "timestamp": "2024-12-02T14:14:12+05:30",
+        "checkSum": "ba692b67b7cb2a23620df407ab1f6a288fc8e0c41c4bd981abf7ab9ecfc4265f",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T14:14:12+05:30"
+      },
+      {
+        "title": "කිරුළපන ධම්මවිජය හාමුදුරුවෝ ගැන දුක හිතෙන ආරංචියක්",
+        "url": "https://www.dinamina.lk/2024/12/02/local/145982/%e0%b6%9a%e0%b7%92%e0%b6%bb%e0%b7%94%e0%b7%85%e0%b6%b4%e0%b6%b1-%e0%b6%b0%e0%b6%b8%e0%b7%8a%e0%b6%b8%e0%b7%80%e0%b7%92%e0%b6%a2%e0%b6%ba-%e0%b7%84%e0%b7%8f%e0%b6%b8%e0%b7%94%e0%b6%af%e0%b7%94%e0%b6%bb/",
+        "timestamp": "2024-12-02T14:02:28+05:30",
+        "checkSum": "b3ff24639fefe3616d1d5761a2088daeaec7731497276e27db5388e3e11aba12",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T14:02:28+05:30"
+      },
+      {
+        "title": "ලොහාන් සහ ඔහුගේ බිරිඳ තවදුරටත් රිමාන්ඩ්",
+        "url": "https://www.dinamina.lk/2024/12/02/lawnorder/145980/%e0%b6%bd%e0%b7%9c%e0%b7%84%e0%b7%8f%e0%b6%b1%e0%b7%8a-%e0%b7%83%e0%b7%84-%e0%b6%94%e0%b7%84%e0%b7%94%e0%b6%9c%e0%b7%9a-%e0%b6%b6%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%b3-%e0%b6%ad%e0%b7%80%e0%b6%af/",
+        "timestamp": "2024-12-02T13:57:53+05:30",
+        "checkSum": "55531ddff3b6019bb02568c1c7a866f8e2a4434163693e9ba054a98a5520a5f6",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2024-12-02T13:57:53+05:30"
+      }
+    ]
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "ගංවතුර අනතුරු ඇඟවීම ඉවත් කරයි",
+        "url": "https://www.ada.lk/breaking_news/ගංවතුර-අනතුරු-ඇඟවීම-ඉවත්-කරයි/11-413409",
+        "timestamp": "2 12 2024 21:18:00",
+        "byline": "පසුගිය දිනවල දිවයිනේ බොහෝ ප්‍රදේශවලට ඇති වූ තද වැසි තත්ත්වය සැලකිල්ලට ගෙන  මහවැලි ගඟ හා දැදුරුඔය ආශ්‍රිත ප්‍ර දේශවලට නිකුත් කර තිබූ ගංවතුර අනතුරු ඇඟවීම අද (02දා) ඉවත් කර තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "47354906dc17ef960af4aab4d8d53d66357af3b6b8ef9109057ed3b7915a118e"
+      },
+      {
+        "title": "මැතිවරණ වියදම් වාර්තා නොදෙන අයට කොමිෂමෙන් රතු නිවේදනයක්",
+        "url": "https://www.ada.lk/breaking_news/මැතිවරණ-වියදම්-වාර්තා-නොදෙන-අයට-කොමිෂමෙන්-රතු-නිවේදනයක්/11-413408",
+        "timestamp": "2 12 2024 20:29:00",
+        "byline": "මැතිවරණ වියදම් වාර්තා නියමිත දිනට භාර නොදෙන පාර්ලිමේන්තුවට තරග කළ  දේශපාලන පක්ෂ, ස්වාධීන කණ්ඩායම්  සහ අපෙක්ෂකයන්ට නීති මගින් කටයුතු කරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f3e4e098963d7db13acf96757e7fa0661c4edfa9db49b01f2d85f8fed67e0f3b"
+      },
+      {
+        "title": "මැති ඇමති හිටපු ජනපති වරප්‍රසාද ගැන සෙවූ කමිටු වාර්තාව ජනපතිට",
+        "url": "https://www.ada.lk/breaking_news/මැති-ඇමති-හිටපු-ජනපති-වරප්‍රසාද-ගැන-සෙවූ-කමිටු-වාර්තාව-ජනපතිට/11-413407",
+        "timestamp": "2 12 2024 19:42:00",
+        "byline": "මන්ත්‍රීවරුන්, අමාත්‍යවරුන් හා හිටපු ජනාධිපතිවරුන්ට ලබාදෙන දීමනා හා වරප්‍රසාද පිළිබඳ නැවත සලකා බැලීමට පත්කළ කේ. ටී. චිත්‍රසිරි කමිටුවේ වාර්තාව ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත භාර දී තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "adf1e829b6e0ba1a9bbcb11ce95ccf4cca59f01b2f40934646edfe5c5bb7385b"
+      },
+      {
+        "title": "සුළු හා මධ්‍ය පරිමාණ සහල් මෝල් හිමියන් හා ජනපති අතර හමුවක්",
+        "url": "https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-සහල්-මෝල්-හිමියන්-හා-ජනපති-අතර-හමුවක්/11-413415",
+        "timestamp": "2 12 2024 19:16:00",
+        "byline": "සහල් හිඟයකින් තොරව සාධාරණ මිලට, අඛණ්ඩව ජනතාවට ලබා දීමේ අවශ්‍යතාව ජනපති අවධාරණය කරයි",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "45b2ff0f2c410d06a13acef79b71a56ea42bb04db0f4b20f16a75bfff9608938"
+      },
+      {
+        "title": "ශිෂ්‍යත්වයේ ගැටලුව ගැන කැබිනට් මණ්ඩලයේ ස්ථාවරය අධිකරණයට කියයි",
+        "url": "https://www.ada.lk/breaking_news/ශිෂ්‍යත්වයේ-ගැටලුව-ගැන-කැබිනට්-මණ්ඩලයේ-ස්ථාවරය-අධිකරණයට-කියයි/11-413405",
+        "timestamp": "2 12 2024 18:59:00",
+        "byline": "05 වසර ශිෂ්‍යත්ව විභාගයේ පළමු ප්‍රශ්න පත්‍රයේ කලින් පිටවූ ප්‍රශ්න තුන සඳහා විභාගයට ඉදිරිපත් වූ සියලු සිසු සිසුවියන්ට නිදහස් ලකුණු ලබාදීමට කැබිනට් මණ්ඩලය නිර්දේශ කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (02) දැනුම් දුන්නේය.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "24af76d4ac8fb842732653d785c62c4a90d457401f27ce6b2d4e467227dc42be"
+      },
+      {
+        "title": "සහල් මෝල් හිමියන් සහල් තොග මිල යළි වැඩිකරයි",
+        "url": "https://www.ada.lk/breaking_news/සහල්-මෝල්-හිමියන්-සහල්-තොග-මිල-යළි-වැඩිකරයි/11-413404",
+        "timestamp": "2 12 2024 18:01:00",
+        "byline": "සහල් මෝල් හිමියන් විසින් නාඩු, සම්බා සහ කීරි සම්බා සහල් තොග මිල (02) දින වැඩි කර ඇති බව දිවයින පුරා සහල් තොග වෙලෙදුන් වෙත දැනුම් දි ඇත.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3814cf01390c5c769f8a73ffd8eec83ba29397ca001de9ea9bafd1bda6df4f93"
+      },
+      {
+        "title": "කොකේන් මත්ද්‍රව්‍ය මෙට්‍රික් ටොන් 2.3ක් සමග පුද්ගලයන් 13 අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-මෙට්‍රික්-ටොන්-2-3ක්-සමග-පුද්ගලයන්-13-අත්අඩංගුවට/11-413410",
+        "timestamp": "2 12 2024 17:16:00",
+        "byline": "ඕස්ට්‍රේලියානු පොලීසිය කොකේන් මත්ද්‍රව්‍ය මෙට්‍රික් ටොන් 2.3ක් සමග පුද්ගලයන් 13 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4f3da54a4f99edc75b8420495c9f835e8a9a69dfd35765ebdd0bb5a84d48a70b"
+      },
+      {
+        "title": "මගේ රැස්විම් වලට මින් පස්සේ වි.අයි.පි. පුටු එපා",
+        "url": "https://www.ada.lk/breaking_news/මගේ-රැස්විම්-වලට-මින්-පස්සේ-වි-අයි-පි--පුටු-එපා/11-413402",
+        "timestamp": "2 12 2024 17:13:00",
+        "byline": "ඇමතිවරු, මන්ත්‍රිවරුන් එනවා කියලා මින් පස්සේ කිසිම රැස්විමකට අනවශ්‍ය වියදමක් කරන්න ඒපා. මගේ සියලුම උත්සව වල වියදම අඩු කරන එක ගැන ආයතන දැනුවත් කරන්න සුදානමින් ඉන්නේ. අපිට වි.අයි.පී.පුටු ගෙන්න ඒපා අනිත් අය වාගේ අපිටත්  ප්ලාස්ටික් පුටුවක ඉදගන්න පුළුවන් අය යැයි රාජ්‍ය පරිපාලන පළාත් සභා හා පළාත් පාලන ඇමති චන්දන අබේරත්න මහතා පැවසිය.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b0e4191638c9bcc1a78af92a082f27f319ba8ae81e1986b4679eaec80bb46217"
+      },
+      {
+        "title": "ඩෙංගු මර්දනය සඳහා කියුබානු රජයේ සහාය ලබාගැනීමට යයි",
+        "url": "https://www.ada.lk/breaking_news/ඩෙංගු-මර්දනය-සඳහා-කියුබානු-රජයේ-සහාය-ලබාගැනීමට-යයි/11-413401",
+        "timestamp": "2 12 2024 16:29:00",
+        "byline": "වරින් වර හිස ඔසවනු ලබන ඩෙංගු රෝගය සම්පූර්ණයෙන් පාලනය කර ගැනීමට නව රජය සැළසුම් කරන වැඩසටහන තුල ප්‍රතිකාර සේවා ශක්තිමත් කර ගැනීමට, මදුරු කීට බෝවීම මර්දනය කිරීමට සහ විධිමත් ඖෂධ භාවිතාවන් ආදී කරුණු සම්බන්ධව කියුබානු රජයේ විශේෂඥ දැනුම, තාක්ෂණික මෙවලම් සහ අත්දැකීම් සෘජුවම යොදා ගැනීමට සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා තීරණය කර ඇත.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8f6d64a3aa0fed44de9c5665817e2e6cdf9e911510540ceb4f80b6589d0c57b7"
+      },
+      {
+        "title": "දුම්රියක් පීලි පනියි - උඩරට දුම්රිය ධාවනයට බාධා",
+        "url": "https://www.ada.lk/breaking_news/දුම්රියක්-පීලි-පනියි---උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413403",
+        "timestamp": "2 12 2024 15:54:00",
+        "byline": "කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වූ අංක 1007 මගි ප්‍රවාහන දුම්රිය පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය ධාවනයට බාධා පැමිණ ඇති බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසිය.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e2df79294ce895380ed26bb37ba1fc928df483607a146f638c6fdc1b92ec5551"
+      },
+      {
+        "title": "දිලීප පීරීස් සහ ශනිල් කුලරත්න ශ්‍රේෂ්ඨාධිකරණ නීතිඥවරු ලෙස දිවුරුම් දෙති",
+        "url": "https://www.ada.lk/breaking_news/දිලීප-පීරීස්-සහ-ශනිල්-කුලරත්න-ශ්‍රේෂ්ඨාධිකරණ-නීතිඥවරු-ලෙස-දිවුරුම්-දෙති/11-413399",
+        "timestamp": "2 12 2024 15:49:00",
+        "byline": "අතිරේක සොලිසිටර් ජනරාල්වරුන් වන දිලීප පීරීස් සහ ශනිල් කුලරත්න යන මහත්වරු ජනාධිපති නීතීඥවරුන් වශයෙන් ශ්‍රේෂ්ඨාධිකරණයේදී දිව්රුම් දුන්හ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4dc4df3a85aa78bb717b538be66c55b7973849a67e1fbd7306e633d597a91c79"
+      },
+      {
+        "title": "මුහුදු කැස්බෑවෙකුගේ මස් අනුභව කළ පුද්ගලයන් 03ක් මරුට - 32ක් රෝහල් ගත කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/මුහුදු-කැස්බෑවෙකුගේ-මස්-අනුභව-කළ-පුද්ගලයන්-03ක්-මරුට---32ක්-රෝහල්-ගත-කෙරේ/11-413398",
+        "timestamp": "2 12 2024 15:05:00",
+        "byline": "වඳවීමේ තර්ජනයට මුහුණ දී සිටින  මුහුදු කැස්බෑවෙකුගේ මස් අනුභව කළ පිලිපීන ජාතිකයින් තිදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e51f7d8d544658d8fc8b39c25aad1bb5392021ede7d1d99bfeda5118ab8afb19"
+      },
+      {
+        "title": "ලොහාන් සහ බිරිඳ යළි රක්ෂිත බන්ධනාගාර ගත කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/ලොහාන්-සහ-බිරිඳ-යළි-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-413396",
+        "timestamp": "2 12 2024 13:45:00",
+        "byline": "හිටපු පාර්ලිමේන්තු මන්ත්‍රී ලොහාන් රත්වත්තේ මහතා සහ ඔහුගේ බිරිඳ ලබන 06 වැනිදා දක්වා යළි රක්ෂිත බන්ධනාගාර ගත කර තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f8ff50e820777369773ebd0e269e983e5d3ed9ceaa1edb3a1b6b3f303d72a5d9"
+      },
+      {
+        "title": "ඇමති නිල නිවස ප්‍රතික්ෂේප කර මාදිවෙල මන්ත්‍රි නිවාසයකට යන නියෝජ්‍ය ඇමති",
+        "url": "https://www.ada.lk/breaking_news/ඇමති-නිල-නිවස-ප්‍රතික්ෂේප-කර-මාදිවෙල-මන්ත්‍රි-නිවාසයකට-යන-නියෝජ්‍ය-ඇමති/11-413394",
+        "timestamp": "2 12 2024 13:39:00",
+        "byline": "පාර්ලිමේන්තු මන්ත්‍රීවරුන් සඳහා මන්ත්‍රි නිල නිවාස ලබාදීමේදී තමන් ඇමති නිල නිවස ප්‍රතික්ෂේප කර පාර්ලිමේන්තු මන්ත්‍රී ඒ.ජී.රොෂාන්  ප්‍රියසංජන මහතා සමග මාදිවෙල පිහිටි  එක මන්ත්‍රි නිල නිවසක් පරිහරණය කිරීමට තීරණය කළ බව විදේශ කටයුතු හා විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය හා ත්‍රිකුණාමල දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී අරුන් හේමචන්ද්‍රා මහතා පැවසීය.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c5c44461c705cc10f62456327da1afd3a0b791c2b8259424469dfe10572f4297"
+      },
+      {
+        "title": "අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට උණුසුම් තත්ත්වයක්",
+        "url": "https://www.ada.lk/breaking_news/අධ්‍යාපන-අමාත්‍යාංශය-ඉදිරිපිට-උණුසුම්-තත්ත්වයක්/11-413397",
+        "timestamp": "2 12 2024 13:28:00",
+        "byline": "බත්තරමුල්ල අධ්‍යාපන අමාත්‍යාංශය ඉදිරිපිට උණුසුම් තත්ත්වයක් හටගෙන තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c7096fe910228f2fef74688b6e2eb1d162f73553b44b323133d234765eb376f1"
+      },
+      {
+        "title": "මාතලේ පොල් මිල රු. 230ට යයි",
+        "url": "https://www.ada.lk/breaking_news/මාතලේ-පොල්-මිල-රු--230ට-යයි/11-413393",
+        "timestamp": "2 12 2024 12:56:00",
+        "byline": "මාතලේ නගරයේ වෙළදැසල්වල පොල් ගෙඩියක මිල රුපියල් 200ත් 230ත් අතර වන බව පාරිභෝගිකයෝ පවසයි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "825b6bba472c48e2974548ea0897ad54440bb9c0fa63ec22106e5349cfc1c4e6"
+      },
+      {
+        "title": "රුපියල් මිලියන 192,500 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් අනිද්දා",
+        "url": "https://www.ada.lk/breaking_news/රුපියල්-මිලියන-192-500-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-අනිද්දා/11-413391",
+        "timestamp": "2 12 2024 12:08:00",
+        "byline": "රුපියල් මිලියන එක්ලක්ෂ අනූ දෙදහස් පන්සියයක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් දෙසැම්බර්  04  දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4698040544fb9da63d6bcc0fcf8a3952bc4b96e5be0b29d9c76752983825bb52"
+      },
+      {
+        "title": "නව අගවිනිසුරුවරිය ජනපති ඉදිරියේ දිවුරුම් දෙයි",
+        "url": "https://www.ada.lk/breaking_news/නව-අගවිනිසුරුවරිය-ජනපති-ඉදිරියේ-දිවුරුම්-දෙයි/11-413395",
+        "timestamp": "2 12 2024 11:55:00",
+        "byline": "මෙරට නව අගවිනිසුරු ලෙස මුර්දු ප්‍රනාන්දු මහත්මිය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද(02දා) දිවුරුම් දෙනු ලැබිණි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9c9ca81fadd9f088a4356f29c02ee4f4a92b62d33b7a24c18de7c7e025334adf"
+      },
+      {
+        "title": "වසර හයක් තිස්සේ දුම්රිය එන්ජින් 78ක් කොට උඩ",
+        "url": "https://www.ada.lk/breaking_news/වසර-හයක්-තිස්සේ-දුම්රිය-එන්ජින්-78ක්-කොට-උඩ/11-413389",
+        "timestamp": "2 12 2024 11:25:00",
+        "byline": "අලුත්වැඩියා කටයුතු සඳහා යොමු කොට තිබූ දුම්රිය එන්ජින් 78ක් අලුත්වැඩියා  කිරීම සිදු නොකොට, 2017 වර්ෂයේ සිට 2023 දෙසැම්බර් 31 දක්වා වසර 06ක කාලයක් තුළ ධාවනාගාරවල හෝ රත්මලාන ප්‍රධාන දුම්රිය වැඩපළෙහි රඳවා ගෙන තිබූ බව ජාතික විගණන කාර්යාලය මගින් නොවැම්බර් 29 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b34b2ab98eb015e0c7d24549c5b58d7c262a8afe498c73262bf496a1f14f39d5"
+      },
+      {
+        "title": "උඩරට දුම්රිය ධාවනය සාමාන්‍ය පරිදි",
+        "url": "https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-සාමාන්‍ය-පරිදි/11-413392",
+        "timestamp": "2 12 2024 11:03:00",
+        "byline": "උඩරට දුම්රිය මාර්ගයේ බදුල්ල දක්වා දුම්රිය ධාවනය  පෙර පරිදි අද (02) සිට ධාවනය කරනු ලබන බව නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d1323903a0c8d987e19b40465f0267193edb6178998dc808c544961cb9e7526e"
+      },
+      {
+        "title": "ඊටීඑෆ් වැඩිවෙලා ඊපීඑෆ් අඩුවෙලා",
+        "url": "https://www.ada.lk/breaking_news/ඊටීඑෆ්-වැඩිවෙලා-ඊපීඑෆ්-අඩුවෙලා/11-413386",
+        "timestamp": "2 12 2024 10:20:00",
+        "byline": "සේවක අර්ථසාධක අරමුදලේ ලියාපදිංචි වීම පැහැර හරිමින් සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ පමණක් ලියාපදිංචිව සිටින සේවා යෝජකයන් සංඛ්‍යාව 2024නොවැම්බර් මස 15වැනිදා වනවිට25,610 ක් දක්වා ඉහළ ගොස් ඇති බව කම්කරු දෙපාර්තමේන්තුවේ  විගණන අංශය මගින් අනාවරණය කර ඇත.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "30ebd78b0cdc526b7ff9b924ef6840e80c8732abfcdf0319777a475b0b248175"
+      },
+      {
+        "title": "2021 සිට 2023 දක්වා අලි වැටට රු. කෝටි 235ක් වැය කළත් වැඩක් වෙලා නෑ",
+        "url": "https://www.ada.lk/breaking_news/2021-සිට-2023-දක්වා-අලි-වැටට-රු--කෝටි-235ක්-වැය-කළත්-වැඩක්-වෙලා-නෑ/11-413385",
+        "timestamp": "2 12 2024 09:29:00",
+        "byline": "විදුලි වැටවල් ඉදිකිරීම සහ  එහි නඩත්තු කටයුතු සඳහා ඉකුත් වසර (2021-2023)තුනක කාලයෙහිදී රජය විසින් රුපියල් දෙසිය තිස්පන් කෝටි,පනස්අට ලක්ෂ,අසූ දෙදහස් දෙසිය හතළිස් අටක මුදලක් (2,355,882,248)  වැයකොට ඇතත්  අලි මිනිස්  ගැටුම් අවම වීමක් සිදුවි නොමැති බව ජාතික විගණන කාර්යාලය  මගින් නිකුත්කොට ඇති  විගණන වාර්තාවක සඳහන් වේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f17bcec496b6e30fe2bbac3d515081eb7396b420277dddfb473d682a4ef30f9c"
+      },
+      {
+        "title": "ජනවාරි 1 දා සිට නොවැම්බර් 30 දා දක්වා වන අලි 330ක් මැරිලා",
+        "url": "https://www.ada.lk/breaking_news/ජනවාරි-1-දා-සිට-නොවැම්බර්-30-දා-දක්වා-වන-අලි-330ක්-මැරිලා/11-413384",
+        "timestamp": "2 12 2024 08:39:00",
+        "byline": "මේ වසරේ ජනවාරි 01වන දින සිට පෙරේදා (30දා) දිනය වන විට වනඅලින්  330 ක් මරණයට පත් වී තිබෙන බව වනසත්ත්ව හා ස්වභාව ආරක්ෂක සංගමය සඳහන් කරයි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4a8c96df3e5bcdc06a9e9bf2f3c544ff075f2b21cdf541cd0a944add5fc7324d"
+      },
+      {
+        "title": "දුම්රිය රියදුරන්ට 2007 සිට අමුතු විදිහට අතිකාල ගෙවූ හැටි විගණනයකින් හෙළිවෙයි",
+        "url": "https://www.ada.lk/breaking_news/දුම්රිය-රියදුරන්ට-2007-සිට-අමුතු-විදිහට-අතිකාල-ගෙවූ-හැටි-විගණනයකින්-හෙළිවෙයි/11-413378",
+        "timestamp": "2 12 2024 07:25:00",
+        "byline": "දුම්රිය රියදුරන්ට අතිකාල ගෙවිය යුත්තේ සතියට පැය 42 කට වඩා වැඩියෙන් සේවය කරන ලද පැය ගණන පදනම් කර ගෙන වුවත් 2007 වර්ෂයේ සිටම සතියට පැය 42 අඩු කිරීමකින් තොරව අතිකාල ගෙවා තිබෙන බව දුම්රිය දෙපාර්තමේන්තුව සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5a3a9f2a8b7107f2d16ffab9ac0183c70817cb9c30f618b08b7699763a1c0922"
+      },
+      {
+        "title": "උද්ධමනය තවත් පහළට",
+        "url": "https://www.ada.lk/breaking_news/උද්ධමනය-තවත්-පහළට/11-413388",
+        "timestamp": "1 12 2024 22:12:00",
+        "byline": "මෙරට උද්ධමනය තවදුරටත් පහළ බැස තිබේ. ඒ අනුව  කොළඹ නාගරික ප්‍රජාවගේ පාරිභෝගික උද්ධමන අනුපාතය   2024  නොවැම්බර් මාසය සඳහා -2.1% ක් දක්වා අඩු වී ඇත.  එය 2024 ඔක්තෝබර් මාසය සඳහා -0.8% ක් ලෙස වාර්තා වී තිබේ.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c4a0092abb590d9b5ba89971427a12ecbe5d0a6d29a87c921ec303870b521159"
+      },
+      {
+        "title": "කාලගුණයෙන් විනාශ වූ එළවළු වගාවටත් වන්දි ඉල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/කාලගුණයෙන්-විනාශ-වූ-එළවළු-වගාවටත්-වන්දි-ඉල්ලයි/11-413387",
+        "timestamp": "1 12 2024 21:37:00",
+        "byline": "අයහපත් කාලගුණයෙන් වගා හානි වූ තමන්ටද  වන්දි මුදලක් ලබා දෙන ලෙස වගා හානියට පත් උඩරට එළවළු ගොවීහු රජයෙන් ඉල්ලා සිටිති.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "69f2bd13b860288823e80e748eb239a3af850134a26f881ed1bb2108648e90f9"
+      },
+      {
+        "title": "අධිවේගී මාර්ගයේ දි මෝටර් රථයක් ගිනි ගනී",
+        "url": "https://www.ada.lk/breaking_news/අධිවේගී-මාර්ගයේ-දි-මෝටර්-රථයක්-ගිනි-ගනී/11-413383",
+        "timestamp": "1 12 2024 20:14:00",
+        "byline": "දක්ෂිණ අධිවේගී මාර්ගයේ වැලි පැන්න සහ කුරුඳුගහ හැතැප්ම අතර කිලෝමීටර් 66 දශම 6 ප්‍රදේශයේදී අද (1) සවස පිරිසක් ගමන් ගත් මෝටර් රථයක් හදිසියේ ගිනි ගැනීමට ලක් වූ බව දක්ෂිණ අධිවේගී රථවාහන පොලිසිය කියයි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "69ae821e317ad2fa1e27bf7e8e6252c4668630570c1088427735aa3799affd61"
+      },
+      {
+        "title": "ලග්ගල මැණික් ව්‍යාපාරිකයාගේ රු. කෝටි 7ක කොල්ලයට හිමිනමක් ඇතුළු 10ක් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/ලග්ගල-මැණික්-ව්‍යාපාරිකයාගේ-රු--කෝටි-7ක-කොල්ලයට-හිමිනමක්-ඇතුළු-10ක්-අල්ලයි/11-413382",
+        "timestamp": "1 12 2024 19:29:00",
+        "byline": "මාතලේ ලග්ගල හත්තොට අමුණ ප්‍රදේශයේ මැණික් ව්‍යාපාරිකයකුගේ නිවසක සිදුකරන ලද කෝටි හතක මැණික් හා මුදල් ස්වර්ණාභරණ  මංකොල්ලකෑමට අදාළව සැලසුම සිදුකල භික්ෂූන් වහන්සේ නමක් සමග සැකකරුවන් 10 දෙනෙකු හා මුදලින් රුපියල් ලක්ෂ 23 ක්  මැණික් ස්වර්ණාභරණ මුදල් සමග අත්අඩංගුවට ගත් බව ලග්ගල පොලිසිය පවසයි.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5f54f0462f3c1441f2187d31785f50e3d28ee6796985d0455634ab20540344f5"
+      },
+      {
+        "title": "යෝජිත ගාලු වරාය සංවර්ධනයට මුහුද ගොඩ කිරීම ගැන මහජන අදහස් විමසයි",
+        "url": "https://www.ada.lk/breaking_news/යෝජිත-ගාලු-වරාය-සංවර්ධනයට-මුහුද-ගොඩ-කිරීම-ගැන-මහජන-අදහස්-විමසයි/11-413381",
+        "timestamp": "1 12 2024 18:43:00",
+        "byline": "ශ්‍රී ලංකා වරාය අධිකාරිය මගින් ක්‍රියාත්මක කිරීමට යෝජිත ගාල්ල වරාය සංවර්ධනය කිරීමේ ව්‍යාපෘතිය යටතේ සිදු කිරීමට යෝජිත මුහුද ගොඩ කිරීමේ ව්‍යාපෘතිය සඳහාවූ පරිපූරක පාරිසරික බලපෑම් ඇගැයීමේ වාර්තාව වෙරළ සංරක්ෂණ දෙපාර්තමේන්තුව විසින් මහජන පරීක්ෂාවට ඉදිරිපත් කර ඇත.",
+        "isoTimestamp": "2024-12-02T22:45:42+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fb5efb2cd65dac078bea683819ac2ff9e33a5715424a51a52336046d2337a415"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka rupee appreciates against major foreign currencies for 2nd year",
+        "url": "https://economynext.com/sri-lanka-rupee-appreciates-against-major-foreign-currencies-for-2nd-year-191193/",
+        "timestamp": "December 2, 2024",
+        "byline": "Sri Lanka currency faced sharp depreciation against same currencies in 2022",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0a51a8b487300bf5c2535ba00aa164c78ca68f047e6a4c46b367874ad04c1428"
+      },
+      {
+        "title": "Sri Lanka stocks close up, retail interest in consumer goods segment",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-retail-interest-in-consumer-goods-segment-191151/",
+        "timestamp": "December 2, 2024",
+        "byline": "Turnover was 2.3 billion. Most of this came from the food, beverage and tobacco sector (Rs645mn).",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ab98ff3e7d4cd2c14b897920c82a00b48a24298c95f9f6b17ad235590432baf4"
+      },
+      {
+        "title": "Sri Lanka can expand blue economy with mini marinas in 21 fishery harbours: official",
+        "url": "https://economynext.com/sri-lanka-can-expand-blue-economy-with-mini-marinas-in-21-fishery-harbours-official-191144/",
+        "timestamp": "December 2, 2024",
+        "byline": "We will be renewing the discussions with the government to convert  21 fisheries harbours partly for mini marinas",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a7d8d33560d2adf23fbc8454c29618232fc6ad45ff51f645c8845e145d8e9f6f"
+      },
+      {
+        "title": "Sri Lanka's new Chief Justice Murdu Fernando",
+        "url": "https://economynext.com/sri-lankas-new-chief-justice-murdu-fernando-146813/",
+        "timestamp": "December 2, 2024",
+        "byline": "Supreme Court Justice Murdu Fernando took oath as Sri Lanka’s 48th Chief Justice",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ac060e641984e6d1afe4a2b1a13e7c0f0c16fa1121fe7b056fe478ef37eb6263"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs18.4bn Treasury bonds after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs18-4bn-treasury-bonds-after-auction-166184/",
+        "timestamp": "December 2, 2024",
+        "byline": "Bonds offered on tap at average rates set at an auction last week",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5eff10e306a10cb9fe9d44156e1f4e4b194cfc9fbe20b9e6dbee0c6804225309"
+      },
+      {
+        "title": "Sri Lanka’s Abans revises its debenture issue",
+        "url": "https://economynext.com/sri-lankas-abans-revises-its-debenture-issue-190980/",
+        "timestamp": "December 2, 2024",
+        "byline": "\"The issue size is to be revised to as follows; An initial Issue up to three million debentures",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "13bf10f43d26d50672fb0a27b0dae5f7b0357462050ff76e2eb076c161bc20d9"
+      },
+      {
+        "title": "Sri Lanka rupee opens flat at 290.60/80 to dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-flat-at-290-60-80-to-dollar-bond-yields-steady-191085/",
+        "timestamp": "December 2, 2024",
+        "byline": "Stocks were up",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8fa7e7d9577ea0f7d5d22202e39d36ecc77c89034ee5dcf8c3dae2592714c215"
+      },
+      {
+        "title": "Sri Lanka private credit up for the sixth month, credit to govt flat",
+        "url": "https://economynext.com/sri-lanka-private-credit-up-for-the-sixth-month-credit-to-govt-flat-191082/",
+        "timestamp": "December 2, 2024",
+        "byline": "Loans to state enterprises expanded marginally",
+        "isoTimestamp": "2024-12-02T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d80e2d7eb962ca2c15d2d9fb9070956203711966d1cf10efe22d4b3f61b1e634"
+      },
+      {
+        "title": "Sri Lanka to defer imputed rental tax: report",
+        "url": "https://economynext.com/sri-lanka-to-defer-imputed-rental-tax-report-191070/",
+        "timestamp": "December 1, 2024",
+        "byline": "Targeted subsidies instead of sweeping tax cuts",
+        "isoTimestamp": "2024-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "83930597a02f1402c6963fe0415dd6487f63377c6d14fb18b365b015afea7961"
+      },
+      {
+        "title": "Sri Lanka debt relief US$8.4bn to August, banking system outflow $7.3bn",
+        "url": "https://economynext.com/sri-lanka-debt-relief-us8-4bn-to-august-banking-system-outflow-7-3bn-191015/",
+        "timestamp": "December 1, 2024",
+        "byline": "Excess of debt relief over banking system outflows US$1.1bn",
+        "isoTimestamp": "2024-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "582f55e055bc1a19627c99d6fe22dbaeac6b25a76514d4d8001870f31c3a4d66"
+      },
+      {
+        "title": "Will Tibetans be led by a Reincarnated Dalai Lama, or One Picked by China?",
+        "url": "https://economynext.com/will-tibetans-be-led-by-a-reincarnated-dalai-lama-or-one-picked-by-china-190282/",
+        "timestamp": "December 1, 2024",
+        "byline": "Tibet has been under the control of China since 1951, with a government in exile",
+        "isoTimestamp": "2024-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8665138b78e2271ea48e10b10820363f4145788fc57d7f958385263d28401d25"
+      },
+      {
+        "title": "Sri Lanka extends food tax on potatoes at $200 a tonne, slashes onion levy",
+        "url": "https://economynext.com/sri-lanka-extends-food-tax-on-potatoes-at-200-a-tonne-slashes-onion-levy-190993/",
+        "timestamp": "December 1, 2024",
+        "byline": "The taxes will be applicable from December 01 to December 31",
+        "isoTimestamp": "2024-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5c2ced0d2c2c3d7d78be4aac6eaf83d8b2a38b17e45ed69866093a03381e16bd"
+      },
+      {
+        "title": "Sri Lanka cuts Octane 92 price by Rs.2, raises diesel by Rs.3, Kerosine by Rs.5",
+        "url": "https://economynext.com/sri-lanka-cuts-octane-92-price-by-rs-2-raises-diesel-by-rs-3-kerosine-by-rs-5-190990/",
+        "timestamp": "December 1, 2024",
+        "byline": "CPC maintained prices of Octane 95, Super Diesel unchanged",
+        "isoTimestamp": "2024-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "71c7404998f0726c9d22414a91824a247eec5e6abd6d4a1f69138440752c44dd"
+      },
+      {
+        "title": "Fitch confirms 'AAA(lka)' rating of Sri Lanka's Lion Brewery amid new competition",
+        "url": "https://economynext.com/fitch-confirms-aaalka-rating-of-sri-lankas-lion-brewery-amid-new-competition-190978/",
+        "timestamp": "November 30, 2024",
+        "byline": "We expect Lion to maintain its solid market position in the local beer industry over the medium term",
+        "isoTimestamp": "2024-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0e7599a359ef0530192efb82b3b32dc626decacdd4f3561c1db867e34b0f25e5"
+      },
+      {
+        "title": "Sri Lanka current dollar inflows exceed imports by US$549mn in October",
+        "url": "https://economynext.com/sri-lanka-current-dollar-inflows-exceed-imports-by-us549mn-in-october-190954/",
+        "timestamp": "November 30, 2024",
+        "byline": "Services outflows were reported as $283mn",
+        "isoTimestamp": "2024-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "20a213d882bec039a8c955c1d566df8c4cc0735fa3301b85a228713764d5a284"
+      },
+      {
+        "title": "Sri Lanka consumer price index deflates to September 2022 levels",
+        "url": "https://economynext.com/sri-lanka-consumer-price-index-deflates-to-september-2022-levels-190892/",
+        "timestamp": "November 29, 2024",
+        "byline": ".",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0b2ef76dba58ea4fe8dbd954febfaadee62f4b14d1a50cd69bb95ca449b56a48"
+      },
+      {
+        "title": "Sri Lanka rupee closes stronger at 290.65/75 to dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-65-75-to-dollar-bonds-steady-137243/",
+        "timestamp": "November 29, 2024",
+        "byline": "Bond yields were broadly steady, dealers said",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "cc3be200f189f8f1d8259705da61a0eb46fee5023f1603b36594b7a45088a506"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs12.5bn Treasury bills after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs12-5bn-treasury-bills-after-auction-140139/",
+        "timestamp": "November 29, 2024",
+        "byline": "On Wednesday (27) the debt office raised 125 billion rupees of 3, 6 and 12 month bills.",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6217f045e9029117df4a300ee6ac9f07e812601d957aaa6cae17bbd56c64c9b2"
+      },
+      {
+        "title": "Sri Lanka stocks close on mixed note, hotels draw interest",
+        "url": "https://economynext.com/sri-lanka-stocks-close-on-mixed-note-hotels-draw-interest-141698/",
+        "timestamp": "November 29, 2024",
+        "byline": "Turnover was 3.7 billion. Most of this came from consumer services (Rs899mn), banking (Rs784mn), and capital goods stock",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "42e6e28a0886a7ecae99888ae66d41762754bc20890a12bb49962d85874e1f49"
+      },
+      {
+        "title": "Southern Gujarat Chamber proposes Sri Lanka prioritise wedding tourism",
+        "url": "https://economynext.com/southern-gujarat-chamber-proposes-sri-lanka-prioritise-wedding-tourism-131823/",
+        "timestamp": "November 29, 2024",
+        "byline": "SGCCI proposed that Sri Lanka \"prioritise Wedding Tourism to tap into the growing Indian market for destination weddings",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6360e923afd56080475ebdc96f1cb784b3f976a238791b753529dadea7aaa10f"
+      },
+      {
+        "title": "Southern Gujarat Chamber proposes Sri Lanka prioritise wedding tourism",
+        "url": "https://economynext.com/southern-gujarat-chamber-proposes-sri-lanka-prioritise-wedding-tourism-131823/",
+        "timestamp": "November 29, 2024",
+        "byline": "SGCCI proposed that Sri Lanka \"prioritise Wedding Tourism to tap into the growing Indian market for destination weddings",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6360e923afd56080475ebdc96f1cb784b3f976a238791b753529dadea7aaa10f"
+      },
+      {
+        "title": "Sri Lanka coconut auction prices rise 9.4-pct, hit record high",
+        "url": "https://economynext.com/sri-lanka-coconut-auction-prices-rise-9-4-pct-hit-record-high-190756/",
+        "timestamp": "November 29, 2024",
+        "byline": "This is the highest prices recorded",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "44d514a0f2fd8066eafde27db2adf4bf53012094d24be36591257133f57304de"
+      },
+      {
+        "title": "Sri Lanka construction rebounds in October 2024: PMI",
+        "url": "https://economynext.com/sri-lanka-construction-rebounds-in-october-2024-pmi-143129/",
+        "timestamp": "November 29, 2024",
+        "byline": "Outlook for construction activities for next three months remains\npositive, due to increase in project availability",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "186e75544d6c1db73437159ef19ac5199cc106f8ce27c61a23c695ccb54dcb20"
+      },
+      {
+        "title": "Sri Lanka rupee opens stronger at 290.55/65 to dollar, bond yields up",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-55-65-to-dollar-bond-yields-up-145501/",
+        "timestamp": "November 29, 2024",
+        "byline": "Bond yields were up",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8911e5dba091fbe6d2bf20b7c9323b8daa38ccbde2c5b004b4afa32c9bc914ea"
+      },
+      {
+        "title": "Sri Lanka to call bids for two 500MW offshore wind farms",
+        "url": "https://economynext.com/sri-lanka-to-call-bids-for-two-500mw-offshore-wind-farms-190750/",
+        "timestamp": "November 29, 2024",
+        "byline": "The Mannar site is substantially superior in energy yield compared to Puttalam",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "57248a4542c1bc36e35b456e13433aefc4fb2acad1d916f67ec5cbe2231e6207"
+      },
+      {
+        "title": "Sri Lanka floods kill 12, over 370,000 under water or homeless",
+        "url": "https://economynext.com/sri-lanka-floods-kill-12-over-370000-under-water-or-homeless-190747/",
+        "timestamp": "November 29, 2024",
+        "byline": "Depression expected to cross Tamil Nadu coast on November 30 after passing by Sri Lanka's North on November 29",
+        "isoTimestamp": "2024-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "38bc1e1dc98c8f8bdff82e5e92ffc1ac10a1aa79a5d7466cb93c057722dd47ef"
+      },
+      {
+        "title": "Sri Lanka rupee closes stronger at 290.70/80 to dollar, bonds down",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-70-80-to-dollar-bonds-down-146795/",
+        "timestamp": "November 28, 2024",
+        "byline": "Sri Lanka’s rupee closed stronger at 290.70/80 to the US dollar on Thursday from 291.00/10 to the US dollar on Wednesd...",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f1b513f3168c9eb61407980ce2e5ae79c622b916e1d05260b2073e6669a2d3e6"
+      },
+      {
+        "title": "Sri Lanka sells Rs205bn in 2028, 2031, and 2033 bonds",
+        "url": "https://economynext.com/sri-lanka-sells-rs205bn-in-2028-2031-and-2033-bonds-147099/",
+        "timestamp": "November 28, 2024",
+        "byline": "All offered bonds sold, available on tap",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4d6c01d350273b8754c183da4a8576c61981550120c436a862720eebc2f071f1"
+      },
+      {
+        "title": "Sri Lanka stocks close up, banking shares attract local interest",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-banking-shares-attract-local-interest-147111/",
+        "timestamp": "November 28, 2024",
+        "byline": "\"Now that the government has announced a deadline for the ISB exchange, banking sector is getting positive traction",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "33a779c4d414bdd26940e7f29a9ef5c39fce9196309556d5e876e7030896ddd6"
+      },
+      {
+        "title": "Nine ambassadors, high commissioner present credentials to Sri Lanka president",
+        "url": "https://economynext.com/nine-ambassadors-high-commissioner-present-credentials-to-sri-lanka-president-190508/",
+        "timestamp": "November 28, 2024",
+        "byline": "All 10 will be based in New Delhi",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "979d4a96c30ec5eb554f659eef8ed8629bc2924a11ebb2cfbb06c1e5a2956e5c"
+      },
+      {
+        "title": "Sri Lanka among 20 nations chosen to host World Bank’s integrated South Asia office",
+        "url": "https://economynext.com/sri-lanka-among-20-nations-chosen-to-host-world-banks-integrated-south-asia-office-190682/",
+        "timestamp": "November 28, 2024",
+        "byline": "New office will coordinate among four key World Bank Group institutions",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e0a78ef88a32aea157304d50ef0505ddc0db7218b0433cd8a86c57e59ee59dfa"
+      },
+      {
+        "title": "Sri Lanka leader stresses on increasing govt revenue through key sectors, energy",
+        "url": "https://economynext.com/sri-lanka-leader-stresses-on-increasing-govt-revenue-through-key-sectors-energy-190672/",
+        "timestamp": "November 28, 2024",
+        "byline": "President of World Bank Group highlights his commitment on job creation",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "cbf1add77101205ecf0814bdc31a7255d611e894730711b978ca9c4e5afcb809"
+      },
+      {
+        "title": "Sri Lanka hardline elements ready to exploit racial hatred: Former minister",
+        "url": "https://economynext.com/sri-lanka-hardline-elements-ready-to-exploit-racial-hatred-former-minister-141702/",
+        "timestamp": "November 28, 2024",
+        "byline": "\"Hardline elements in the South are ever-watchful, ready to exploit any opportunity to stoke racial hatred",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "93713adb6dc6f82d2e2b1405fab72bb527875e419065ceb917a58e21ff84ddcb"
+      },
+      {
+        "title": "Sri Lanka parliament to debate policy statement, vote on account",
+        "url": "https://economynext.com/sri-lanka-parliament-to-debate-policy-statement-vote-on-account-151965/",
+        "timestamp": "November 28, 2024",
+        "byline": "Debate on Government's Policy Statement on Dec 3, 4, debate on vote on account Dec 5,6",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b5fe3f2ab16bd0c49a45e5992caa8199e6acb1477db9c9742c5dc659514c7fe5"
+      },
+      {
+        "title": "Sri Lanka welcomes Israel-Lebanon ceasefire",
+        "url": "https://economynext.com/sri-lanka-welcomes-israel-lebanon-ceasefire-151992/",
+        "timestamp": "November 28, 2024",
+        "byline": "\"We remain hopeful that the ceasefire will pave the way for enduring peace and stability in Lebanon and in the region,\"",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "875f03e97cb63023a0632aad5f92f53c9dd901e57ac414d79dafe0da74f395e4"
+      },
+      {
+        "title": "Ambeon Holdings Plc buys 7.63-pct of Seylan Bank",
+        "url": "https://economynext.com/ambeon-holdings-plc-buys-7-63-pct-of-seylan-bank-190525/",
+        "timestamp": "November 28, 2024",
+        "byline": "The shares were paid between 58-60 rupees a share",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "91fb4ad878cf97ffc66a32c6e901649ea969e877105c5b7b03f493a76c6a40ba"
+      },
+      {
+        "title": "Sri Lanka exchange bonds provisionally rated (Caa1), sovereign on upgrade watch: Moody's",
+        "url": "https://economynext.com/sri-lanka-exchange-bonds-provisionally-rated-caa1-sovereign-on-upgrade-watch-moodys-190549/",
+        "timestamp": "November 28, 2024",
+        "byline": "Ca national rating on watch for upgrade",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "172a94a09980e0b67990a8684ec233af2631e00245c682f2bca57ed05cb4e407"
+      },
+      {
+        "title": "Sri Lanka rupee opens stronger at 290.95/291.05 to dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-stronger-at-290-95-291-05-to-dollar-bond-yields-steady-190537/",
+        "timestamp": "November 28, 2024",
+        "byline": "Stocks opened up",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c28881ba92be47a827d4c218a42a1662b880052f8dc19e23e94c32da7a975e9a"
+      },
+      {
+        "title": "Sri Lanka bondholders have sufficient incentives to join exchange: CB Governor",
+        "url": "https://economynext.com/sri-lanka-bondholders-have-sufficient-incentives-to-join-exchange-cb-governor-190497/",
+        "timestamp": "November 28, 2024",
+        "byline": "I do not think it would be in the best interests of anyone to holdout",
+        "isoTimestamp": "2024-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "118f03ef9d8c5174994013d1182d223e45df551cd434dcc534feced2e8e2df50"
+      },
+      {
+        "title": "Sri Lanka to grow 4.5 -5.0 pct in 2024, 3.0-pct plus in 2025: CB Governor",
+        "url": "https://economynext.com/sri-lanka-to-grow-4-5-5-0-pct-in-2024-3-0-pct-plus-in-2025-cb-governor-190391/",
+        "timestamp": "November 27, 2024",
+        "byline": "It was still too early to make a firm projection for 2025",
+        "isoTimestamp": "2024-11-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b3d385205e9c2d298a9faa20c4deacd0449b6d2d88e9ccd33042fa16ca9e6af6"
+      }
+    ]
+  }
+}

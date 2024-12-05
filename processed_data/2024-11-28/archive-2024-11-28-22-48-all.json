@@ -1,0 +1,102 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "aruna": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "themorning": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thamilan": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "economynext": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  }
+}
