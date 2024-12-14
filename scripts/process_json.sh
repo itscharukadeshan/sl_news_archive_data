@@ -2,9 +2,10 @@
 
 # Directory paths
 DATA_DIR="../"                   # Directory containing JSON files
-OUTPUT_DIR="../archive"         # Directory for separated output
-ARCHIVE_DIR="../processed_data" # Directory for storing processed files
-LOG_FILE="../process_log.txt"   # Log file for command logs
+OUTPUT_DIR="../archive"          # Directory for separated output
+ARCHIVE_DIR="../processed_data"  # Directory for storing processed files
+LOG_FILE="../process_log.txt"    # Log file for command logs
+README_FILE="../README.md"       # README file for summary
 
 # Get the current date for organizing processed data by day
 current_date=$(date +"%Y-%m-%d")
@@ -35,17 +36,14 @@ for file in "$DATA_DIR"/*.json; do
 
         # Only process if success is true
         if [ "$success" = "true" ]; then
-            data_array=$(echo "$entry" | jq -c '.value.data[]')
+            # Validate that the 'data' key exists and is not null
+            data_array=$(echo "$entry" | jq -c '.value.data // empty')
+            if [ -z "$data_array" ] || [ "$data_array" = "[]" ]; then
+                echo "No data to process for key: $key" >> "$LOG_FILE"
+                continue
+            fi
 
-            # Create a subdirectory for each unique key if it does not already exist
-            key_dir="$OUTPUT_DIR/$key"
-            mkdir -p "$key_dir"
-
-            # Key-level checksum and URLs files
-            key_checksum_file="$key_dir/checksum.txt"
-            key_urls_file="$key_dir/urls.txt"
-
-            # Loop through each item in the data array
+            # Process each item in the data array
             echo "$data_array" | while read -r item; do
                 # Remove null or empty key-value pairs
                 item=$(echo "$item" | jq 'del(.[] | select(. == null or . == ""))')
@@ -73,7 +71,7 @@ for file in "$DATA_DIR"/*.json; do
 
                 # Extract date from isoTimestamp to create date-based folder
                 date=$(echo "$isoTimestamp" | cut -d'T' -f1)
-                date_key_dir="$key_dir/$date"
+                date_key_dir="$OUTPUT_DIR/$key/$date"
                 mkdir -p "$date_key_dir"
 
                 # Output file for articles on specific dates
@@ -85,6 +83,7 @@ for file in "$DATA_DIR"/*.json; do
                 fi
 
                 # Check for duplicate by checking key-level checksum file
+                key_checksum_file="$OUTPUT_DIR/$key/checksum.txt"
                 if ! grep -q "$checkSum" "$key_checksum_file" 2>/dev/null; then
                     # Append new entry if not duplicated
                     existing_data=$(cat "$output_file")
@@ -101,9 +100,8 @@ for file in "$DATA_DIR"/*.json; do
                     updated_data=$(echo "$existing_data" | jq ". += [$new_entry]")
                     echo "$updated_data" > "$output_file"
 
-                    # Append checksum and URL to the key-level files
+                    # Append checksum to key-level file
                     echo "$checkSum" >> "$key_checksum_file"
-                    echo "$url" >> "$key_urls_file"
 
                     ((added_articles++))
                     echo "Added new entry for date: $date in key: $key" >> "$LOG_FILE"
@@ -122,15 +120,25 @@ for file in "$DATA_DIR"/*.json; do
     echo "Moved $filename to archive in $date_dir" >> "$LOG_FILE"
 done
 
-# Summary report
+# Generate README.md with a summary
+echo "# News Archive Summary" > "$README_FILE"
+echo "## Summary Report as of $(date)" >> "$README_FILE"
+
+# Generate total and today's counts by key
+echo "| Newspaper | Today's Articles | Total Articles |" >> "$README_FILE"
+echo "|-----------|------------------|----------------|" >> "$README_FILE"
+for key_dir in "$OUTPUT_DIR"/*; do
+    if [ -d "$key_dir" ]; then
+        key=$(basename "$key_dir")
+        today_count=$(find "$key_dir" -type f -path "*/$current_date/articles.json" -exec jq '. | length' {} + | awk '{s+=$1} END {print s}')
+        total_count=$(find "$key_dir" -type f -name "articles.json" -exec jq '. | length' {} + | awk '{s+=$1} END {print s}')
+        echo "| $key | $today_count | $total_count |" >> "$README_FILE"
+    fi
+done
+
+# Log completion
 echo "Process completed at $(date)" >> "$LOG_FILE"
-echo "Summary:" >> "$LOG_FILE"
 echo "Added articles: $added_articles" >> "$LOG_FILE"
 echo "Duplicate entries: $duplicate_count" >> "$LOG_FILE"
 echo "Skipped entries due to missing data: $skip_count" >> "$LOG_FILE"
-echo "Missing data fields:" >> "$LOG_FILE"
-for key in "${!missing_data_keys[@]}"; do
-    echo "  $key: ${missing_data_keys[$key]}" >> "$LOG_FILE"
-done
-
-echo "Processing complete! Data separated by keys and dates in '$OUTPUT_DIR'. Logs saved to '$LOG_FILE'."
+echo "Processing complete! Summary saved to '$README_FILE'. Logs saved to '$LOG_FILE'."
