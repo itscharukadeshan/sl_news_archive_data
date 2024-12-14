@@ -8,7 +8,7 @@ LOG_FILE="../process_log.txt"    # Log file for command logs
 README_FILE="../README.md"       # README file for summary
 
 # Get the current date for organizing processed data by day
-current_date=$(date +"%Y-%m-%d")
+current_date=$(date +"%Y-%m-%d")  # Format: 2024-12-14
 date_dir="$ARCHIVE_DIR/$current_date"
 
 # Ensure output and archive directories exist
@@ -73,6 +73,12 @@ for file in "$DATA_DIR"/*.json; do
 
                 # Extract date from isoTimestamp to create date-based folder
                 date=$(echo "$isoTimestamp" | cut -d'T' -f1)
+
+                # Check if the article's date matches today's date
+                if [ "$date" != "$current_date" ]; then
+                    continue  # Skip articles that don't belong to today
+                fi
+
                 date_key_dir="$OUTPUT_DIR/$key/$date"
                 mkdir -p "$date_key_dir"
 
@@ -138,24 +144,29 @@ for key_dir in "$OUTPUT_DIR"/*; do
         # Calculate today's articles dynamically
         today_count=$(find "$key_dir" -type f -name "articles.json" \
             -exec jq "[.[] | select(.isoTimestamp | startswith(\"$current_date\"))] | length" {} + | \
-            awk '{s+=$1} END {print s}')
-        
-        # Calculate total articles
+            awk '{s+=$1} END {print s}' || echo 0)  # Default to 0 if no matching articles
+
+        # Calculate total articles (all articles for this key)
         total_count=$(find "$key_dir" -type f -name "articles.json" \
             -exec jq '. | length' {} + | \
-            awk '{s+=$1} END {print s}')
-        
+            awk '{s+=$1} END {print s}' || echo 0)  # Default to 0 if no articles
+
         language_totals["$key"]=$total_count
         language_today_totals["$key"]=$today_count
-        
+
         echo "| $key | ${language_today_totals["$key"]} | $total_count |" >> "$README_FILE"
         ((total_articles+=total_count))
     fi
 done
 
 # Add overall totals to the summary
-total_today=$(awk -v sum=0 '{sum += $1} END {print sum}' <<< "${language_today_totals[*]}")
+total_today=0
+for today in "${language_today_totals[@]}"; do
+    ((total_today+=today))
+done
+
 echo "| Total | $total_today | $total_articles |" >> "$README_FILE"
+
 
 # Log completion
 echo "Process completed at $(date)" >> "$LOG_FILE"
