@@ -22,6 +22,8 @@ echo "Process started at $(date)" >> "$LOG_FILE"
 added_articles=0
 duplicate_count=0
 skip_count=0
+declare -A language_totals
+declare -A language_today_totals
 declare -A missing_data_keys
 
 # Loop over each JSON file in the data directory
@@ -104,6 +106,7 @@ for file in "$DATA_DIR"/*.json; do
                     echo "$checkSum" >> "$key_checksum_file"
 
                     ((added_articles++))
+                    ((language_today_totals["$key"]++))
                     echo "Added new entry for date: $date in key: $key" >> "$LOG_FILE"
                 else
                     ((duplicate_count++))
@@ -124,17 +127,35 @@ done
 echo "# News Archive Summary" > "$README_FILE"
 echo "## Summary Report as of $(date)" >> "$README_FILE"
 
-# Generate total and today's counts by key
-echo "| Newspaper | Today's Articles | Total Articles |" >> "$README_FILE"
-echo "|-----------|------------------|----------------|" >> "$README_FILE"
+total_articles=0
+echo "| Language | Today's Articles | Total Articles |" >> "$README_FILE"
+echo "|----------|------------------|----------------|" >> "$README_FILE"
+
 for key_dir in "$OUTPUT_DIR"/*; do
     if [ -d "$key_dir" ]; then
         key=$(basename "$key_dir")
-        today_count=$(find "$key_dir" -type f -path "*/$current_date/articles.json" -exec jq '. | length' {} + | awk '{s+=$1} END {print s}')
-        total_count=$(find "$key_dir" -type f -name "articles.json" -exec jq '. | length' {} + | awk '{s+=$1} END {print s}')
-        echo "| $key | $today_count | $total_count |" >> "$README_FILE"
+
+        # Calculate today's articles dynamically
+        today_count=$(find "$key_dir" -type f -name "articles.json" \
+            -exec jq "[.[] | select(.isoTimestamp | startswith(\"$current_date\"))] | length" {} + | \
+            awk '{s+=$1} END {print s}')
+        
+        # Calculate total articles
+        total_count=$(find "$key_dir" -type f -name "articles.json" \
+            -exec jq '. | length' {} + | \
+            awk '{s+=$1} END {print s}')
+        
+        language_totals["$key"]=$total_count
+        language_today_totals["$key"]=$today_count
+        
+        echo "| $key | ${language_today_totals["$key"]} | $total_count |" >> "$README_FILE"
+        ((total_articles+=total_count))
     fi
 done
+
+# Add overall totals to the summary
+total_today=$(awk -v sum=0 '{sum += $1} END {print sum}' <<< "${language_today_totals[*]}")
+echo "| Total | $total_today | $total_articles |" >> "$README_FILE"
 
 # Log completion
 echo "Process completed at $(date)" >> "$LOG_FILE"
