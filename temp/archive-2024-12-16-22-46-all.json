@@ -1,0 +1,700 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thamilan": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "ඩී.එම්.ටී. ලිපිකරුගේ හා බිරිඳගේ නමින් රු. කෝටි ගණනක බැංකු ගිණුම් හා වත්කම්",
+        "url": "https://www.ada.lk/breaking_news/ඩී-එම්-ටී--ලිපිකරුගේ-හා-බිරිඳගේ-නමින්-රු--කෝටි-ගණනක-බැංකු-ගිණුම්-හා-වත්කම්/11-413679",
+        "timestamp": "16 12 2024 21:48:00",
+        "byline": "රුපියල් කෝටි ගණනක මුදල් හා වත්කම් උපයාගෙන ගෙන ඇති ආකාරය හෙළි කිරීමට අපොහොසත් වූ බව කියන මෝටර් රථ ප්‍රවාහන කොමසාරිස් දෙපාර්තමේන්තුවේ ලිපිකරුවෙකුගේ හා ඔහුගේ බිරිඳගේ නමින් මෙන්ම, ව්‍යාපාරිකයෙකුගේ නමින් පවත්වාගෙන යන රාජ්‍ය සහ පෞද්ගලික බැංකුවල ගිණුම් මාස තුනක කාලයක් සඳහා අත්හිටුවීමට කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා අද (16ද) නියම කළේය.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "22b83e2988a70c9ebe6f71359db2a9f367df95f6ce9948d4a1b108313f013a9f"
+      },
+      {
+        "title": "කොටස් වෙළඳපොළ වාර්තා අලුත් කරයි",
+        "url": "https://www.ada.lk/breaking_news/කොටස්-වෙළඳපොළ-වාර්තා-අලුත්-කරයි/11-413677",
+        "timestamp": "16 12 2024 20:59:00",
+        "byline": "ශ්‍රී ලංකා කොටස් වෙළඳපොළ ඉතිහාසය තුළ දැවැන්ත කඩයිමක් පසුකරමින් අද දිනයේදී කොළඹ කොටස් හුවමාරුවේ සමස්ත මිල දර්ශකය ඒකක 14500 සීමාව ඉක්මවා ගියේය.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ea4c68b0a1cc3a99bbb16e35d8e2116cfe87de0f071d4995bd7483881cd5fe52"
+      },
+      {
+        "title": "ත්‍රීපෝෂ  අඛණ්ඩව ලබාදීම ප්‍රමුඛ අරමුණක්",
+        "url": "https://www.ada.lk/breaking_news/ත්‍රීපෝෂ--අඛණ්ඩව-ලබාදීම-ප්‍රමුඛ-අරමුණක්/11-413675",
+        "timestamp": "16 12 2024 20:09:00",
+        "byline": "මෙරට ළදරුවන්ට හා මවුවරුන්ට ඉහළම පෝෂණ ගුණයෙන් පරිපූර්ණ, සුව ගුණ සපිරි ත්‍රීපෝෂ අතිරේක  ආහාරය  අඛණ්ඩව ලබාදීම සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රමුඛතම අරමුණක් බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා අවධාරණය කරයි.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3fc96a4cd33d932bb02350c8cbee05fa86125b44be2ad7a96b830d8d149aba02"
+      },
+      {
+        "title": "රු. 50000ක් ජනපති ප්‍රදානය ලෙසින් සෑම නිවසකටම දෙන කථාව අසත්‍යයි",
+        "url": "https://www.ada.lk/breaking_news/රු--50000ක්-ජනපති-ප්‍රදානය-ලෙසින්-සෑම-නිවසකටම-දෙන-කථාව-අසත්‍යයි/11-413674",
+        "timestamp": "16 12 2024 19:19:00",
+        "byline": "ජනාධිපති ප්‍රදානය යන මාතෘකාව යටතේ රුපියල් 50000ක දීමනාවක් සෑම නිවසකටම ලබා දෙන බවට ස ඳහන් කරමින් ව්‍යාජ පුවතක් මේ වන විට සමාජ ජාල ඔස්සේ සංසරණය බව රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුව කියයි.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "27fb8485c6e2b46250cbe753b1783842c80abb47ee703cf3472f2c087fb06044"
+      },
+      {
+        "title": "මෛත්‍රී ආයේ නිදහස් පක්ෂයේ සභාපතිධුරයට ඉදිරිපත් වන්නේ නැතිලු",
+        "url": "https://www.ada.lk/breaking_news/මෛත්‍රී-ආයේ-නිදහස්-පක්ෂයේ-සභාපතිධුරයට-ඉදිරිපත්-වන්නේ-නැතිලු/11-413672",
+        "timestamp": "16 12 2024 18:35:00",
+        "byline": "හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා මින් ඉදිරියට ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති ධුරය සඳහා ඉදිරිපත් නොවන බව ඔහු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා අද අභියාචනාධිකරණයට  දැනුම් දුන්නේය.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fbc7f8a824747bed02d6efb2bcb4b833efdee8b723efddc41090ec55b17f12a1"
+      },
+      {
+        "title": "බලශක්ති අමාත්‍ය ඉංජිනේරු ජයකොඩි සිය උපාධිය ගැන කියයි",
+        "url": "https://www.ada.lk/breaking_news/බලශක්ති-අමාත්‍ය-ඉංජිනේරු-ජයකොඩි-සිය-උපාධිය-ගැන-කියයි/11-413670",
+        "timestamp": "16 12 2024 17:59:00",
+        "byline": "බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතාගේ අධ්‍යාපන සුදුසුකම් පිළිබදව විශේෂයෙන් සමාජ මාධ්‍ය ඇතුළු විවිධ මාධ්‍ය හරහා සාවද්‍ය තොරතුරු පතුරවන්නන්ට එරෙහිව අමාත්‍යවරයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "74f03c260fdb73ae3008d24bb7d5336a3a35831f4e31edd79217d30b56203379"
+      },
+      {
+        "title": "මාතලේ SSP ගේ පුද්ගලික සහකාර CI අනතුරට ලක්කර පළා ගිය රියදුරු අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/මාතලේ-SSP-ගේ-පුද්ගලික-සහකාර-CI-අනතුරට-ලක්කර-පළා-ගිය-රියදුරු-අල්ලයි/11-413669",
+        "timestamp": "16 12 2024 17:09:00",
+        "byline": "මාතලේ කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරයාගේ පුද්ගලික සහකාර තනතුරේ රාජකාරි ඉටුකරමින් සිටි ප්‍රධාන පොලිස් පරීක්ෂක එස්.පී.එම්.එල්.බී මොලගොඩ මහතා අනතුරට ලක්කර පලාගිය කාර් රථයේ රියදුරු මාතලේ පොලිස් වසමේ උකුවෙල ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "bd581af618bbd558abdf72521a440ae271e1de579795f5da6e83a4445aa95e6b"
+      },
+      {
+        "title": "ලංකාවේ විදුලි බලාගාරවලට ඉන්දියාවෙන් ගෑස්",
+        "url": "https://www.ada.lk/breaking_news/ලංකාවේ-විදුලි-බලාගාරවලට-ඉන්දියාවෙන්-ගෑස්/11-413668",
+        "timestamp": "16 12 2024 16:24:00",
+        "byline": "ශ්‍රී ලංකාවේ විදුලි බලාගාරවලට අවශ්‍ය ද්‍රව ස්වභාවික ගෑස් (LNG) සැපයීමට ඉන්දියාව සැලසුම් කර ඇති බවත් දෙරටේ විදුලිබල ජාල සම්බන්ධ කිරීමට මෙන්ම පෙට්‍රෝලියම් නිශ්පාදන ලබාදීම වෙනුවෙන් නල මාර්ගයක් සැකසීමටද කටයුතු කරන බව ඉන්දීය අගමැති නරේන්ද්‍ර මෝදි මහතා පැවැසීය.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0a9feefea054b1e0081b49fbb401fe4872d8e5e74155e7810f0da8ca36a45c8a"
+      },
+      {
+        "title": "ජනපති අනුරට ඉන්දියාවෙන් උණුසුම් පිළිගැනීමක්",
+        "url": "https://www.ada.lk/picture_story/ජනපති-අනුරට-ඉන්දියාවෙන්-උණුසුම්-පිළිගැනීමක්/10-413667",
+        "timestamp": "16 12 2024 15:47:00",
+        "byline": "(PHOTOS) ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා පිළිගැනීමේ නිල උත්සවය ඉන්දීය ජනාධිපති නිලනිවස වන රාෂ්ට්‍රපති භවන්හීදී අද (16) පෙරවරුවේ පැවැත්විණ.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7e99c247d4f25d5e0574a9fedd6062a82db0d80afe45ff353e4f7e9f7580eb33"
+      },
+      {
+        "title": "LANKA T10 ලීග් ක්‍රිකට් තරගාවලියේ ජැෆ්නා කණ්ඩායම තවදුරටත් පෙරමුණේ",
+        "url": "https://www.ada.lk/sports/LANKA-T10-ලීග්-ක්‍රිකට්-තරගාවලියේ-ජැෆ්නා-කණ්ඩායම-තවදුරටත්-පෙරමුණේ/9-413665",
+        "timestamp": "16 12 2024 15:00:00",
+        "byline": "LANKA T10 ලීග් ක්‍රිකට් තරගාවලියේ ප්‍රසාධ ලකුණු සටහනේ තවදුරටත් පෙරමුණ ගැනීමට ජැෆ්නා ටයිටන්ස් කණ්ඩායම සමත්ව තිබේ.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "84dfd8a71aa306406268e39792c37b235391d1ef17935cb32b592834a10e24d4"
+      },
+      {
+        "title": "ශ්‍රී ලංකාවේ සංචාරයක නිරත වන ලෙස ජනපති අනුරගෙන් අගමැති මෝදිට ආරාධනා",
+        "url": "https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-සංචාරයක-නිරත-වන-ලෙස-ජනපති-අනුරගෙන්-අගමැති-මෝදිට-ආරාධනා/11-413666",
+        "timestamp": "16 12 2024 14:18:00",
+        "byline": "ශ්‍රී ලංකාවේ සංචාරයක නිරත වන ලෙස ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිට ආරාධනා කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.",
+        "isoTimestamp": "2024-12-16T22:46:17+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fb705854d7c7e12e50142e8527fe0a9ff89b896ad4f7bbab2d1eb326ec0fc832"
+      },
+      {
+        "title": "පොලොන්නරුවෙන් පමණක් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වෙයි",
+        "url": "https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-පමණක්-මිනිස්-ජීවිත-21-ක්-සහ-වන-අලින්ගේ-ජීවිත-70-ක්-අහිමි-වෙයි/11-413663",
+        "timestamp": "16 12 2024 13:47:00",
+        "byline": "මේ වසරේ ගත වූ කාලය තුළ පොළොන්නරුව වනජීවී කලාපයේ පමණක් අලි මිනිස් ගැටුම් වලින් මිනිස් ජීවිත 21 ක් සහ වන අලින්ගේ ජීවිත 70 ක් අහිමි වී ඇති බව පොළොන්නරුව වනජීවී කලාප කාර්යාලයේ තොරතුරු සනාථ කරයි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a41340709fa7257f77fdf27060ba6b1af8d408fb9e4ae526c9ba4b9d0c28d883"
+      },
+      {
+        "title": "සාගරිකා හා රජරට රැජිනගේ ගැටුමට තිදෙනෙකුගේ වැඩ තහනම්",
+        "url": "https://www.ada.lk/breaking_news/සාගරිකා-හා-රජරට-රැජිනගේ-ගැටුමට-තිදෙනෙකුගේ-වැඩ-තහනම්/11-413662",
+        "timestamp": "16 12 2024 12:56:00",
+        "byline": "බෙලිඅත්ත දුම්රිය ස්ථානයේ දී සාගරිකා දුම්රිය හා රජරට රැජින දුම්රියේ එංජිම ගැටීමෙන් සිදුවූ අනතුර සම්බන්ධයෙන් තිදෙනෙකුගේ වැඩතහනමට ලක්කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f5edc47452dce3679b8b32d31d5ee92f366a07d10e93c156eacd23e3092d1a73"
+      },
+      {
+        "title": "ජනපති අනුර අගමැති මෝදි හමුවෙයි",
+        "url": "https://www.ada.lk/breaking_news/ජනපති-අනුර-අගමැති-මෝදි-හමුවෙයි/11-413664",
+        "timestamp": "16 12 2024 12:42:00",
+        "byline": "ඉන්දීය සංචාරයක නිරත ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී හමුව තිබේ.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "33ed53083b348014d1077a74132961f42b5bdb9c63100f78a23e3b999841356d"
+      },
+      {
+        "title": "පොලිස් කොස්තාපල්වරුන්ගේ හා වරියන්ගේ සියයට 50ක හිඟයක්",
+        "url": "https://www.ada.lk/breaking_news/පොලිස්-කොස්තාපල්වරුන්ගේ-හා-වරියන්ගේ-සියයට-50ක-හිඟයක්/11-413653",
+        "timestamp": "16 12 2024 12:17:00",
+        "byline": "ශ්‍රී ලංකා පොලීසියේ පිරිමි හා කාන්තා පොලිස් කොස්තාපල් තනතුරු අනුමත ප්‍රමාණයට වඩා 50% කට ආසන්න ප්‍රමාණයක් පුරප්පාඩුව තිබෙන බව ජාතික විගණන මහ ලේකම් කාර්යාලය සිදුකරන ලද විගණන පරීක්ෂණයකදී තහවුරු වී තිබේ.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9e55d4433642929ab629998ef1cf511fc88513f008d5ba94ea9aba825bccc0ea"
+      },
+      {
+        "title": "මේ වසරේ වෙළඳ ශේෂ හිඟය ඩො.බි. 6ක් ඉක්මවා යා හැකියි",
+        "url": "https://www.ada.lk/breaking_news/මේ-වසරේ-වෙළඳ-ශේෂ-හිඟය-ඩො-බි--6ක්-ඉක්මවා-යා-හැකියි/11-413650",
+        "timestamp": "16 12 2024 11:29:00",
+        "byline": "2024 වර්ෂයේ ජනවාරි මස සිට දෙසැම්බර් අවසන් වන කාල සීමාව දක්වා වෙළෙඳ ශේෂ හිඟය ඩොලර් බිලියන 6 ඉක්මවා යාමට හැකි බව ද 2024 වර්ෂයේ ජනවාරි සිට ඔක්තෝබර් 30 දක්වා කාල සීමාව තුළ භාණ්ඩ අපනයනයෙන්  ඩොලර් බිලියන 10. 68 ක් උපයාගෙන ඇති අතර  එය පෙර වසරේ කාල පරිච්ඡේදය හා  සසඳන වනවිට 7. 7% පමණ වර්ධනයක් බවද පේරාදෙණිය විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා සංඛ්‍යානය පිළිබඳ මහාචාර්ය වසන්ත අතුකෝරල මහතා පවසයි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "72db1033d13ab032ff5b49947bbf2e123cfaba79d07e7fb99d1fecabaa55429d"
+      },
+      {
+        "title": "මීටියාගොඩ වෙඩි තැබිමකින් පියාට හා දියණියට බරපතලයි",
+        "url": "https://www.ada.lk/breaking_news/මීටියාගොඩ-වෙඩි-තැබිමකින්-පියාට-හා-දියණියට-බරපතලයි/11-413660",
+        "timestamp": "16 12 2024 10:47:00",
+        "byline": "මීටියාගොඩ , බලිමුල්ල නිවසකට ඊයේ (15) රෑ කඩාවැදුණු පිරිසක් විසින් කළ වෙඩි තැබීමකින් නිවසේ සිටි පියා හා දියණිය බරපතල තුවාල ලබා ඇති බවත් ඔවුන් බලපිටිය රෝහලට ඇතුළත් කළ බවත්  මීටියාගොඩ පොලීසිය කියයි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2f7d2dc827e201692e38a05255e2be47a01b0ef1a2dc6e374c4dc608ad74705d"
+      },
+      {
+        "title": "ෂකීබ් පන්දුව දමා ගසනවාද? පන්දු යැවීමත් අත්හිටුවයි",
+        "url": "https://www.ada.lk/sports/ෂකීබ්-පන්දුව-දමා-ගසනවාද--පන්දු-යැවීමත්-අත්හිටුවයි/9-413661",
+        "timestamp": "16 12 2024 10:41:00",
+        "byline": "බංග්ලාදේශ තුන් ඉරියව් ක්‍රීඩක ශකීබ් අල් හසන්ගේ පන්දු යැවීම අත්හිටුවා ඇති බව බංග්ලාදේශ ක්‍රිකට් ආයතනය නිවේදනයක් නිකුත් කරමින් සඳහන් කර ඇත.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ff6c62f61e5d90ec558e975bdd79ab1a8967bf41a2d72408fe1a6a05bf8d9916"
+      },
+      {
+        "title": "ලංවිම ණය බර රු. බිලියන 289.4 ක්",
+        "url": "https://www.ada.lk/breaking_news/ලංවිම-ණය-බර-රු--බිලියන-289-4-ක්/11-413648",
+        "timestamp": "16 12 2024 10:18:00",
+        "byline": "ලංකා විදුලි බල මණ්ඩලය විසින් ගෙවිය යුතු ණය සහ ව්‍යාපෘති ණය වශයෙන් මෙම වර්ෂයේ 2024 ජනවාරි 01 වැනිදා සිට ජුනි මස 30 වැනි දින දක්වා මාස 06 ක කාලසීමාව තුළදී රුපියල් බිලියන 289.4 කමුදලක් ගෙවීමට තිබූ බැව් පාර්ලිමේන්තුවට ඉදිරිපත් කර ඇති වසර මැද මූල්‍ය තත්ත්වය පිළිබඳව ශ්‍රී ලංකා මහා බැංකුවට නිකුත් කර තිබූ කාර්ය සාධක වාර්තාවකින් අනාවරණය වෙයි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "032821abd459350b28d06b6d89531e9ff95b52eb710fbf50edf7c19d2c968596"
+      },
+      {
+        "title": "නව කථානායක පොලොන්නරුවේ වෛද්‍ය ජගත් වික්‍රමරත්න?",
+        "url": "https://www.ada.lk/breaking_news/නව-කථානායක-පොලොන්නරුවේ-වෛද්‍ය-ජගත්-වික්‍රමරත්න-/11-413659",
+        "timestamp": "16 12 2024 09:44:00",
+        "byline": "නව කතානායකවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ නම යෝජනා වී ඇති බව ද වාර්තා වේ. ඒ පිළිබඳව අවසන් තීරණය ගැනීම වෙනුවෙන් ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම අද (16දා) රැස්වීමට නියමිතය. ඔහු පොළොන්නරුව දිස්ත්‍රික්කයෙන් පාර්ලිමේන්තුවට තේරී පත් වූ මන්ත්‍රීවරයෙකි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c71ec1564443fc7400f717c2dc0aaf7dd67a6bb1c171f6c7130ccc66a7992d83"
+      },
+      {
+        "title": "බදු ඉහළ යාමෙන් දුම්වැටි අලෙවිය සියයට  21.8කින් පහළට",
+        "url": "https://www.ada.lk/breaking_news/බදු-ඉහළ-යාමෙන්-දුම්වැටි-අලෙවිය-සියයට--21-8කින්-පහළට/11-413646",
+        "timestamp": "16 12 2024 09:21:00",
+        "byline": "දුම්වැටි අලෙවිය 2024 වර්ෂයේ පළමු මාස 08 ක කාල සීමාවේ දී පහත වැටීම නිසා දුම්වැටි මත පළවන ලැබූ නිෂ්පාදන  බද්දෙන් ලද ආදායම රුපියල් බිලියන 71.6 දක්වා 10.8% කින් පහළ ගොස් ඇති බැව් පූර්ණ මැතිවරණ අය වැයේ තත්වය පිළිබඳ පාර්ලිමේන්තුව විසින් මහ බැංකුවට ඉදිරිපත් කරන ලද කාර්ය සාධක  වාර්තාවෙන් අනාවරණය වේ.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c32ef5fefeb8395e90a310c9c4be8bab1aa3d2415bdcbfb2bff1b8ee083f316d"
+      },
+      {
+        "title": "සජබ මන්ත්‍රී කණ්ඩායම අද රැස්වෙයි",
+        "url": "https://www.ada.lk/breaking_news/සජබ-මන්ත්‍රී-කණ්ඩායම-අද-රැස්වෙයි/11-413645",
+        "timestamp": "16 12 2024 08:29:00",
+        "byline": "සමගි ජන බලවේග මන්ත්‍රී කණ්ඩායමේ රැස්වීමක් අද (16දා) පැවැත්වීමට නියමිත බව විපක්ෂයේ ප්‍රධාන සංවිධායක පාර්ලිමේන්තු මන්ත්‍රී ගයන්ත කරුණාතිලක මහතා ‘අද’ පුවත්පතට පැවසීය.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8814d05c926d969a802cd2afa551369cb536fffe06be144d86ed03530cace970"
+      },
+      {
+        "title": "ජනපති ඉන්දියාවේදි විශේෂ හමු කිහිපයක",
+        "url": "https://www.ada.lk/uncategorized/ජනපති-ඉන්දියාවේදි-විශේෂ-හමු-කිහිපයක/1-413658",
+        "timestamp": "16 12 2024 07:51:00",
+        "byline": "ඉන්දියාවේ තෙදින නිල සංචාරයක නිරත  ජනපති අනුර කුමාර දිසානායක මහත.ා නවාතැන්ගෙන සිටින නවදිල්ලි නුවර ITC MAURYA හෝටලය වෙත ඊයේ (15) පැමිණි ඉන්දීය මුදල් හා ආයතනික කටයුතු පිළිබඳ අමාත්‍ය නිර්මලා සීතා රාමන්, විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් (Dr. S. Jaishankar) සහ ඉන්දියාවේ ජාතික ආරක්ෂක උපදේශක ශ්‍රී අජිත් දොවාල් (Shri Ajith Doval) යන මහත්ම මහත්මීන් ජනපති හා සාකච්ඡා පවත්වා තිබේ.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "36f564e8d1156cb83809c18c16099a4d4eba574504f997d2e108ca5deaaf3f76"
+      },
+      {
+        "title": "ඊ ග්‍රාම නිලධාරී ව්‍යාපෘතියට වැය කළ ලක්ෂ 153ක් නිෂ්ඵල වෙයිද?",
+        "url": "https://www.ada.lk/breaking_news/ඊ ග්‍රාම-නිලධාරී-ව්‍යාපෘතියට-වැය-කළ-ලක්ෂ-153ක්-නිෂ්ඵල-වෙයිද-/11-413644",
+        "timestamp": "16 12 2024 07:29:00",
+        "byline": "ඊ-ග්‍රාම නිලධාරී ව්‍යාපෘතියේ මෘදුකාංග සංවර්ධන හා විවිධ කටයුතු සඳහා රුපියල් එක්කෝටි පනස් තුන් ලක්ෂයකට අධික මුදලක් වැය කර ඇතත්, ඊට අදාළව ග්‍රාම නිලධාරීන් පුහුණු කිරීමේ කටයුතු කර නැතැයි තොරතුරු අනාවරණය වේ. මේ හේතුව මත වහාම ස්වාධීන කමිටුවක් පත්කර පරීක්ෂණයක් සිදුකර ඊට වගකිවයුතු නිලධාරීන්ගෙන් අලාභය අය කිරීමට අධිකරණ රාජ්‍ය පරිපාලන ස්වදේශ කටයුතු පළාත් සභා පළාත් පාලන සහ කම්කරු අමාත්‍යාංශය තීරණය කර ඇත.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "75c81946ff28c9e39d9b685cad5b4d56390d9168fdc3d524141407672eefffe4"
+      },
+      {
+        "title": "ආණ්ඩු පක්ෂ මන්ත්‍රී කණ්ඩායම අද රැස්වෙයි",
+        "url": "https://www.ada.lk/breaking_news/ආණ්ඩු-පක්ෂ-මන්ත්‍රී-කණ්ඩායම-අද-රැස්වෙයි/11-413655",
+        "timestamp": "16 12 2024 06:22:00",
+        "byline": "නව කතානායකවරයෙක් පත් කරගැනීම පිළිබඳව සහ ඉදිරි පාර්ලිමේන්තු කටයුතු පිළිබඳව සාකච්ඡා කිරීම වෙනුවෙන් අද (16දා) ආණ්ඩු පක්ෂයේ මන්ත්‍රී කණ්ඩායම රැස්වීමට නියමිතය.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9ef1752bd3cb30319d8833f29b7377793593c3038844917bba60368e418a5263"
+      },
+      {
+        "title": "නව කථානායක පත්කිරීම අනිද්දා",
+        "url": "https://www.ada.lk/breaking_news/නව-කථානායක-පත්කිරීම-අනිද්දා/11-413649",
+        "timestamp": "15 12 2024 22:26:00",
+        "byline": "මෙම සතියේ පාර්ලිමේන්තුව 17දා සහ අනිද්දා 18දා යන දින දෙකේදී රැස්වීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කර තිබේ. හෙට දිනයේ පාර්ලිමේන්තුව ආරම්භයේදී නවක මන්ත්‍රීවරුන්ගේ දිවුරුම් දීම සිදු කිරීමට නියමිතව ඇත.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d540e47bd06ebec311e5ed94e3ce9eaa5f852d75086f178bc759480d2c7e0593"
+      },
+      {
+        "title": "2018ට සාපේක්ෂව 2023දී  ඝාතන හා අපරාධවල සියයට 50ක වර්ධනයක්",
+        "url": "https://www.ada.lk/breaking_news/2018ට-සාපේක්ෂව-2023දී--ඝාතන-හා-අපරාධවල-සියයට-50ක-වර්ධනයක්/11-413654",
+        "timestamp": "15 12 2024 21:06:00",
+        "byline": "මනුෂ්‍ය ඝාතන, බරපතල තුවාල සිදු කිරීම්, ගෙවල් බිදීම් හා මංකොල්ල කෑම් 2018 වර්ෂයට සාපේක්ෂව 2023 වර්ෂයේ 50% ක වර්ධනයක් පෙන්නුම් කරන බවත් වසර 06 ක කාලය තුල 2023වර්ෂය වැඩිම අපරාධ වාර්තා වූ බවත් ශ්‍රී ලංකා පොලීසිය සම්බන්ධයෙන් වූ 2023 විගණන වාර්තාවේ සදහන් වේ.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ba6883f7031705460e3dacba4cf7da14ac1d0a49daf5369574633b3b7a9cb22c"
+      },
+      {
+        "title": "ඖෂධ අටක ගුණාත්මකභාවය අඩුවීම නිසා භාවිතයෙන් ඉවතට",
+        "url": "https://www.ada.lk/breaking_news/ඖෂධ-අටක-ගුණාත්මකභාවය-අඩුවීම-නිසා-භාවිතයෙන්-ඉවතට/11-413657",
+        "timestamp": "15 12 2024 20:29:00",
+        "byline": "ඖෂධ  වර්ග අටක ගුණාත්මකභාවය අඩුවීම නිසා(quality Failure)  පසුගිය සතියෙහිදී භාවිතයෙන් ඉවත් කර තිබෙන බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමති සන්ධානය සඳහන් කරයි.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f96267c1da93e626f663b3feffd787fcf2296d8d892253dfb17f1d770a76fcb9"
+      },
+      {
+        "title": "වැඩ බලන අමාත්‍යවරු පත්කරයි",
+        "url": "https://www.ada.lk/breaking_news/වැඩ-බලන-අමාත්‍යවරු-පත්කරයි/11-413652",
+        "timestamp": "15 12 2024 19:27:00",
+        "byline": "නිල සංචාරයක් සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා දිවයිනෙන් පිටත්ව යාම හේතුවෙන්  අමාත්‍යාංශ 05ක් සඳහා වැඩබලන අමාත්‍යවරුන් පත් කර තිබේ.",
+        "isoTimestamp": "2024-12-16T22:46:18+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "05cd353a0081ffec091f2c7449ff9a0094a8f32d6a6754a26fdc5b0d5b14f138"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "India confident of Sri Lanka giving due care for concerns over Chinese research ship visits",
+        "url": "https://economynext.com/india-confident-of-sri-lanka-giving-due-care-for-concerns-over-chinese-research-ship-visits-194548/",
+        "timestamp": "December 16, 2024",
+        "byline": "Sri Lanka's one-year ban on foreign research ship ends soon",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "cc7356ac592d6e30d4f0eb2316b08ee12ccd11d7b4758074a2043cb2168add92"
+      },
+      {
+        "title": "India eyes joint Sri Lanka offshore wind power development in Palk Straits",
+        "url": "https://economynext.com/india-eyes-joint-sri-lanka-offshore-wind-power-development-in-palk-straits-194546/",
+        "timestamp": "December 16, 2024",
+        "byline": "Sri Lanka's CEB is developing two off shore sites, for wind power, with one location off Mannar",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "901899920075dc56fedbb8cee36f613c5ba2f803d479b7bb17135486ad91bbf9"
+      },
+      {
+        "title": "Sri Lanka, India plan second ferry connection",
+        "url": "https://economynext.com/sri-lanka-india-plan-second-ferry-connection-194528/",
+        "timestamp": "December 16, 2024",
+        "byline": "Officials should work towards early recommencement of the passenger ferry service between Rameshwaram and Talaimannar",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6cd678587069048c8f29f44a35f04d48bd3725989a328d8684d284975b55033c"
+      },
+      {
+        "title": "Sri Lanka leader assures secured Indian Ocean region in Delhi visit",
+        "url": "https://economynext.com/sri-lanka-leader-assures-secured-indian-ocean-region-in-delhi-visit-194520/",
+        "timestamp": "December 16, 2024",
+        "byline": "This is Dissanayake’s first foreign visit since elected as the president in September this year",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "59f33af5f36ac959a57c67f3af0cb382e6956dc0d8762b7190658b3c5edda1be"
+      },
+      {
+        "title": "Sri Lanka rupee closes weaker at 290.70/80 to dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-weaker-at-290-70-80-to-dollar-bonds-steady-194487/",
+        "timestamp": "December 16, 2024",
+        "byline": "Bond yields were broadly steady",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9c2e19ac2deaffe3be96b7e601dfeb61a84cb767c24b0032768bd868c8e2d5d0"
+      },
+      {
+        "title": "Sri Lanka stocks hit new high",
+        "url": "https://economynext.com/sri-lanka-stocks-hit-new-high-194481/",
+        "timestamp": "December 16, 2024",
+        "byline": "Turnover was 8.2 billion.",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "cef9286bc205f45fd2408451fad8be7a1eb08cac9afd148c11c8cd0b5f8d7ce5"
+      },
+      {
+        "title": "Sri Lanka, India leaders discuss energy connectivity, fishermen's issue",
+        "url": "https://economynext.com/sri-lanka-india-leaders-discuss-energy-connectivity-fishermens-issue-194471/",
+        "timestamp": "December 16, 2024",
+        "byline": "\"Pace will be given to the Sampur solar power plant.\"",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "014d6668e6bd1297a42ac9f01e32b21f647b5185e5eef21a28bf1634c0f49af9"
+      },
+      {
+        "title": "Sri Lanka India joint statement after meeting between President Dissanayake and PM Modi",
+        "url": "https://economynext.com/sri-lanka-india-joint-statement-after-meeting-between-president-dissanayake-and-pm-modi-194473/",
+        "timestamp": "December 16, 2024",
+        "byline": ".",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "311d939624124d3e6ee1d0f6125a3d4c4f0b47a0e4291e7a984e65d49f7f1d62"
+      },
+      {
+        "title": "Sri Lanka rice importers forced to cancel orders amid state food controls",
+        "url": "https://economynext.com/sri-lanka-rice-importers-forced-to-cancel-orders-amid-state-food-controls-194445/",
+        "timestamp": "December 16, 2024",
+        "byline": "We cannot do miracles. There is the threat of re-exports if there is a delay",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "131b4b34247a8ae8083f73e9d926bdefa2414a2073e7ab0e095debfbd69b7215"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs4.2bn Treasury bonds after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs4-2bn-treasury-bonds-after-auction-194443/",
+        "timestamp": "December 16, 2024",
+        "byline": "The debt office sold a 15 September 2029 maturity bond (LKB00629I154) at a weighted average yield rate of 10.75 percent.",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d6c7650161bf7b7669be62b46aa1fb9e75d56935c672a673f47f61bed4b3522a"
+      },
+      {
+        "title": "Germany’s labour market shortages a boon for Indian workers",
+        "url": "https://economynext.com/germanys-labour-market-shortages-a-boon-for-indian-workers-194431/",
+        "timestamp": "December 16, 2024",
+        "byline": "Germany is also fast becoming the country of choice for Indians",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "80c362b8e190baa5e20134fef415c9b7d26454d84b95c1b21c15235ac9ebec11"
+      },
+      {
+        "title": "Sri Lanka rupee opens weaker at 290.20/40 to dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-weaker-at-290-20-40-to-dollar-bonds-steady-194414/",
+        "timestamp": "December 16, 2024",
+        "byline": "Bond yields were broadly steady after the ISB restructure news",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "30459f6377f685e47295db4b6151ac708742113d51c88614804b4410919cb727"
+      },
+      {
+        "title": "Sri Lanka President in economic talks with Indian finance, foreign ministers",
+        "url": "https://economynext.com/sri-lanka-president-in-economic-talks-with-indian-finance-foreign-ministers-194403/",
+        "timestamp": "December 16, 2024",
+        "byline": "Fisheries, national unity also discussed",
+        "isoTimestamp": "2024-12-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1facd14016e6a3f101c667c95644efce0ac506b6ecf8b7c2f294bac2de9d7f1e"
+      },
+      {
+        "title": "Karl Marx, Engels would have approved Sri Lanka rice imports for working class: analysis",
+        "url": "https://economynext.com/karl-marx-engels-would-have-approved-sri-lanka-rice-imports-for-working-class-analysis-194348/",
+        "timestamp": "December 15, 2024",
+        "byline": "To impose protective duties on foreign corn is infamous, it is to speculate on the famine of peoples",
+        "isoTimestamp": "2024-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d72362e209455ca761a300f0f2cd6f5c986041db62c2f7cbdf707583f1df1883"
+      },
+      {
+        "title": "Sri Lanka President arrives in India, to meet Jayashankar, Doval Sunday night",
+        "url": "https://economynext.com/sri-lanka-president-arrives-in-india-to-meet-jayashankar-doval-sunday-night-194393/",
+        "timestamp": "December 15, 2024",
+        "byline": "President Dissanayake will be in India till December 17",
+        "isoTimestamp": "2024-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5989bfbef199ad4472b626aeabb7fafa0792194c6b41b345b8dd73e0310b3a05"
+      },
+      {
+        "title": "Sri Lanka expects 250,000 tourists in Dec 2024 after ending visa restrictions",
+        "url": "https://economynext.com/sri-lanka-expects-250000-tourists-in-dec-2024-after-ending-visa-restrictions-194325/",
+        "timestamp": "December 15, 2024",
+        "byline": "One of the first initiatives was to end visa restrictions",
+        "isoTimestamp": "2024-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ec65a514bf2c1d2262a1d20aa1bb3459795dfc6f28a644c754693547c92f2fac"
+      },
+      {
+        "title": "Bill & Melinda Gates Foundation to expand support in Sri Lanka",
+        "url": "https://economynext.com/bill-melinda-gates-foundation-to-expand-support-in-sri-lanka-194298/",
+        "timestamp": "December 14, 2024",
+        "byline": "Focus on nutrition projects, school meal programs, agriculture modernization, digitalization, and livestock development",
+        "isoTimestamp": "2024-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "58e893a565503849d08f0c65c4dba2138a346b02846596e8575c3b9ae132e27e"
+      },
+      {
+        "title": "Sri Lanka President accepts Asoka Ranwala's resignation as Speaker",
+        "url": "https://economynext.com/sri-lanka-president-accepts-asoka-ranwalas-resignation-as-speaker-194294/",
+        "timestamp": "December 14, 2024",
+        "byline": "The Secretary to the President has informed the Secretary General of Parliament",
+        "isoTimestamp": "2024-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e5224375a7ae40d063d21dd1f777352f59597f954dfd6aa6e2909591ba1784f2"
+      },
+      {
+        "title": "European Union allocates 175,000 euros for Sri Lankans affected by floods",
+        "url": "https://economynext.com/european-union-allocates-175000-euros-for-sri-lankans-affected-by-floods-194274/",
+        "timestamp": "December 14, 2024",
+        "byline": "The funding will benefit over 37,000 people in some of the hardest-hit areas in the eastern and northern provinces,",
+        "isoTimestamp": "2024-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b6eb657ea2db5a7d4e5727873f72ad8fadc87ce4be3e3d7c174079c26812f8b6"
+      },
+      {
+        "title": "Sri Lanka gets only 73-pct acceptances to exchange Hamilton Reserve linked ISB",
+        "url": "https://economynext.com/sri-lanka-gets-only-73-pct-acceptances-to-exchange-hamilton-reserve-linked-isb-194246/",
+        "timestamp": "December 13, 2024",
+        "byline": "Holdout Hamilton Reserve has claimed a 25 percent holding",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "feb02949754323a8db74501019032fff1df38dce9dc17117dfe817a871ca976a"
+      },
+      {
+        "title": "Sri Lanka says 98-pct of bondholders agreed to exchange defaulted ISBs",
+        "url": "https://economynext.com/sri-lanka-says-98-pct-of-bondholders-agreed-to-exchange-defaulted-isbs-194218/",
+        "timestamp": "December 13, 2024",
+        "byline": "We are very pleased to see this vote of confidence from our international and local bondholders",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9939ed61821d2fda49e0d920a6539bac910bf57cdc9060572c6cada6712018e1"
+      },
+      {
+        "title": "Sri Lanka Parliament Speaker resigns after allegations over fake doctorate",
+        "url": "https://economynext.com/sri-lanka-parliament-speaker-resigns-after-allegations-over-fake-doctorate-194209/",
+        "timestamp": "December 13, 2024",
+        "byline": "Opposition parties have demanded the resignation of the Speaker after allegations",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b2edf3c0d3fa00c874380cd3842232eabeb73dc03d7460bccafe20ff5412a627"
+      },
+      {
+        "title": "Sri Lanka’s new government faces credibility test after fake doctorate allegations",
+        "url": "https://economynext.com/sri-lankas-new-government-faces-credibility-test-after-fake-doctorate-allegations-194169/",
+        "timestamp": "December 13, 2024",
+        "byline": "NPP has promised a clean government with no corruption",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "89b925c666131eaba15e51d45092c307b0eb114ab851f0530bb3af06ce5c3123"
+      },
+      {
+        "title": "Sri Lanka rupee closes stronger at 290.15/30 to dollar, bonds down",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-15-30-to-dollar-bonds-down-194158/",
+        "timestamp": "December 13, 2024",
+        "byline": "Bond yields were marginally down.",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f677378d7acd7a31e1ed3c97f6fcff6bd9872517ac6437ff0ed75d8b85ff26cb"
+      },
+      {
+        "title": "Sri Lanka stocks close up, indices continue climb",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-indices-continue-climb-194151/",
+        "timestamp": "December 13, 2024",
+        "byline": "Turnover was 6.1 billion",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "88e8554289c19964bb3a92749bd9cabde6a617d5359ff68c341695ea4a55877e"
+      },
+      {
+        "title": "Sri Lanka Port City Economic Commission gets new chairman, members",
+        "url": "https://economynext.com/sri-lanka-port-city-economic-commission-gets-new-chairman-members-194137/",
+        "timestamp": "December 13, 2024",
+        "byline": "Harsha Amarasekera PC chairman,",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ebdc4ab0648d630831740c9889ffe971ed5fe329901948aa08e4bd0c8eec5979"
+      },
+      {
+        "title": "Sri Lanka coconut auction postponed for second week due to lack of nuts",
+        "url": "https://economynext.com/sri-lanka-coconut-auction-postponed-for-second-week-due-to-lack-of-nuts-192544/",
+        "timestamp": "December 13, 2024",
+        "byline": "According to CDA, wholesale prices for large nuts were 150-160 and 120-140 rupees for small nuts",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4931b3d9069cebc424731912b377761043c54823e49f35cea1f76ea5f08cf9fc"
+      },
+      {
+        "title": "Sri Lanka central bank, banks under FX global code",
+        "url": "https://economynext.com/sri-lanka-central-bank-banks-under-fx-global-code-194097/",
+        "timestamp": "December 13, 2024",
+        "byline": "FXGC is a set of global principles of good practice in the FX market,",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "670fde39aa654c343a0ab4761050b5318907a5d4e3316c23d41292c289d8882b"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs20.6bn Treasury bills after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs20-6bn-treasury-bills-after-auction-194093/",
+        "timestamp": "December 13, 2024",
+        "byline": "Bills offered on tap at average rates of 8.69%, 8.88% and 9.07%",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "69e4f8de9e82b287e4cc9d7187de5f7dbfee0d79dc9708133b84c358e932c358"
+      },
+      {
+        "title": "Sri Lanka rupee opens at 290.20/25 against US dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-at-290-20-25-against-us-dollar-bond-yields-steady-194077/",
+        "timestamp": "December 13, 2024",
+        "byline": "Stocks opened up",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b8475702e481e970c607cf7af749e9ffc014fad7592412e21331689fdf413e13"
+      },
+      {
+        "title": "Sri Lanka ISB exchange deadline passes amid Hamilton case",
+        "url": "https://economynext.com/sri-lanka-isb-exchange-deadline-passes-amid-hamilton-case-194043/",
+        "timestamp": "December 13, 2024",
+        "byline": ".",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a51b7ee1fa3ce87e7bb3d2b7ee136e31a9fa30dd2c5c89cecab25c408012878f"
+      },
+      {
+        "title": "Sri Lanka's CEB seeks award of LNG terminal tender",
+        "url": "https://economynext.com/sri-lankas-ceb-seeks-award-of-lng-terminal-tender-194028/",
+        "timestamp": "December 13, 2024",
+        "byline": "Our preference is to go ahead with the bidding round that was concluded,",
+        "isoTimestamp": "2024-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "544feca017e73dba94b664bb441db231dcf754d536c2bdfedb8a6b0e661bc1a9"
+      },
+      {
+        "title": "UK-Sri Lanka trade mission boosts women entrepreneurs' export potential",
+        "url": "https://economynext.com/uk-sri-lanka-trade-mission-boosts-women-entrepreneurs-export-potential-193998/",
+        "timestamp": "December 12, 2024",
+        "byline": "buyers from West and North Yorkshire Chamber of Commerce and Greater Birmingham Chamber of Commerce visit Sri Lanka",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b00dcd341d85ed1bc872715d725efe7e7ece03e6e3967eff1724428aa8c0ee14"
+      },
+      {
+        "title": "Sri Lanka president to visit UAE",
+        "url": "https://economynext.com/sri-lanka-president-to-visit-uae-194004/",
+        "timestamp": "December 12, 2024",
+        "byline": "Dissanayake met ambassador Al Ameri and discussed expanding employment opportunities for Sri Lankans in UAE",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a84e9747e64b9a96e1a861769dd419fc15c5c4150c2edb868cadfa540d5eaa4b"
+      },
+      {
+        "title": "Sri Lanka sells Rs130bn in 2029 and 2033 bonds",
+        "url": "https://economynext.com/sri-lanka-sells-rs130bn-in-2029-and-2033-bonds-193993/",
+        "timestamp": "December 12, 2024",
+        "byline": "The LKB00629I154 bond was available on tap after the auction.",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e9c308973335c39789c53b06b64ad3c67bdf00b8e311cb238cbd05b52457d4f1"
+      },
+      {
+        "title": "Sri Lanka rupee closes flat at 290.20/35 to dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-flat-at-290-20-35-to-dollar-bonds-steady-193991/",
+        "timestamp": "December 12, 2024",
+        "byline": "Bond yields held steady after auction",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e4b747a9736a71473ca96d6f618fb5ecf91fdb0f42e5d7b689ca928652309b13"
+      },
+      {
+        "title": "Sri Lanka's central bank calls for depositors to get unique identification numbers",
+        "url": "https://economynext.com/sri-lankas-central-bank-calls-for-depositors-to-get-unique-identification-numbers-193984/",
+        "timestamp": "December 12, 2024",
+        "byline": "Deadline December 31",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0c563f388bfee36067855a5e712e84042886348683d1b51ee640bce2c2173c22"
+      },
+      {
+        "title": "TISL launches research report on Sri Lanka’s  private sector corruption risks",
+        "url": "https://economynext.com/tisl-launches-research-report-on-sri-lankas-private-sector-corruption-risks-193974/",
+        "timestamp": "December 12, 2024",
+        "byline": "Sri Lanka private sector functions as supply side for corruption - report",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "19059871d1093001d800da18d1a6c72b6d1e1f69ca31cc44bb084b692bdb51d7"
+      },
+      {
+        "title": "Sri Lanka stocks close up, ASPI hits 14,000 on ISB deadline day",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-aspi-hits-14000-on-isb-deadline-day-193967/",
+        "timestamp": "December 12, 2024",
+        "byline": "Turnover was 7.3 billion.",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a83df2ac0c5cdc994a6f603eeed4785d9d1b76d57086f0f74ac5a0dd041c1df8"
+      },
+      {
+        "title": "Sri Lanka Excise Department nets Rs200bn up to November",
+        "url": "https://economynext.com/sri-lanka-excise-department-nets-rs200bn-up-to-november-193962/",
+        "timestamp": "December 12, 2024",
+        "byline": "It's revenue target for the year was 232 billion rupees.",
+        "isoTimestamp": "2024-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "05ed698790084e9d3bdaaa222fe666d22b1525f5d91fbfe2cc3088955150bba6"
+      }
+    ]
+  }
+}
