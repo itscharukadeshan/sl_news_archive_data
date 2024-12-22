@@ -121,6 +121,7 @@ for file in "$DATA_DIR"/*.json; do
                         --arg byline "$byline" \
                         --arg timestamp "$timestamp" \
                         --arg url "$url" \
+                        --arg formattedUrl "$formattedUrl"\
                         --arg isoTimestamp "$isoTimestamp" \
                         --arg baseUrl "$baseUrl" \
                         --arg checkSum "$checkSum" \
