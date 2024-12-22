@@ -120,12 +120,11 @@ for file in "$DATA_DIR"/*.json; do
                         --arg href "$href" \
                         --arg byline "$byline" \
                         --arg timestamp "$timestamp" \
-                        --arg formatted_url "$formatted_url" \
                         --arg url "$url" \
                         --arg isoTimestamp "$isoTimestamp" \
                         --arg baseUrl "$baseUrl" \
                         --arg checkSum "$checkSum" \
-                        '{title: $title, href: $href, byline: $byline, timestamp: $timestamp, url: $formatted_url, isoTimestamp: $isoTimestamp, baseUrl: $baseUrl, checkSum: $checkSum}')
+                        '{title: $title, href: $href, byline: $byline, timestamp: $timestamp, url: $url , formattedUrl: $formatted_url, isoTimestamp: $isoTimestamp, baseUrl: $baseUrl, checkSum: $checkSum}')
                     updated_data=$(echo "$existing_data" | jq ". += [$new_entry]")
                     echo "$updated_data" > "$output_file"
 
