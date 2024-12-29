@@ -8,7 +8,7 @@ CURRENT_DATE=$(date +"%a %b %d %T %z %Y")
 # Initialize summary content
 SUMMARY_CONTENT="## News Archive Summary\n\n"
 SUMMARY_CONTENT+="Summary Report as of $CURRENT_DATE\n\n"
-SUMMARY_CONTENT+="| Language           | Today's Articles | Total Articles |\n"
+SUMMARY_CONTENT+="| News paper         | Today's Articles | Total Articles |\n"
 SUMMARY_CONTENT+="|--------------------|------------------|----------------|\n"
 
 # Initialize totals

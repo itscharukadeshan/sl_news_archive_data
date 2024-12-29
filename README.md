@@ -1,9 +1,9 @@
 <!-- @format -->
 ## News Archive Summary
 
-Summary Report as of Sun Dec 29 10:03:26 +0530 2024
+Summary Report as of Sun Dec 29 10:27:01 +0530 2024
 
-| Language           | Today's Articles | Total Articles |
+| News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
 | ada               | 0          | 1173        |
 | adaderana               | 0          | 1512        |
