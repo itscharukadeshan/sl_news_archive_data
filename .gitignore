@@ -2,6 +2,6 @@ process_log.txt
 combined_urls.txt
 ./bin
 scripts/bin/wayback
-decoded_urls.txt
+
 
 scripts/trigger_log_*.log
