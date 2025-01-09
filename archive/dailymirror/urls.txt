@@ -1582,6 +1582,19 @@ https://www.dailymirror.lk/breaking-news/Tibet-earthquake-Nine-dead-as-7-1-magni
 https://www.dailymirror.lk/breaking-news/Two-killed-in-shooting-in-Mount-Lavinia/108-299595
 https://www.dailymirror.lk/breaking-news/Should-public-be-worried-about-virus-spreading-in-China/108-299524
 https://www.dailymirror.lk/breaking-news/What-is-the-HMPV-which-is-spreading-in-China/108-299517
+<<<<<<< Updated upstream
+=======
+https://www.dailymirror.lk/breaking-news/Tourists-and-pilot-killed-in-Australian-seaplane-crash/108-299710
+https://www.dailymirror.lk/breaking-news/Private-bus-strike-called-off-after-discussions-with-police/108-299709
+https://www.dailymirror.lk/breaking-news/CEJ-calls-for-government-action-Tax-single-use-plastics-to-curb-waste/108-299708
+https://www.dailymirror.lk/international/Run-for-your-lives-LA-residents-abandon-cars-to-flee-wildfire-on-foot/107-299703
+https://www.dailymirror.lk/breaking-news/Red-rice-shortage-due-to-free-distribution-of-rice-by-previous-government-Minister/108-299698
+https://www.dailymirror.lk/breaking-news/Clean-Sri-Lanka-debate-on-January-21-22-Prime-Minister/108-299699
+https://www.dailymirror.lk/breaking-news/Grade-5-exam-answer-script-evaluation-begins-today/108-299685
+https://www.dailymirror.lk/breaking-news/Former-State-Minister-Lucky-Jayawardana-passes-away/108-299672
+https://www.dailymirror.lk/breaking-news/Trishaw-operators-in-Dambulla-stage-protest-against-NPP-candidate/108-299669
+https://www.dailymirror.lk/breaking-news/Sri-Lanka-look-to-bounce-back-in-second-ODI/108-299666
+>>>>>>> Stashed changes
 https://www.dailymirror.lk/breaking-news/Despite-sterilisation-vaccination-irresponsible-puppy-abandonment-continues-Veterinarians/108-299639
 https://www.dailymirror.lk/breaking-news/Daily-Mirror-shines-at-Journalism-Awards/108-299641
 https://www.dailymirror.lk/breaking-news/Colombo-Badulla-train-journey-among-Worlds-Best-for-2025/108-299642
@@ -1596,12 +1609,46 @@ https://www.dailymirror.lk/breaking-news/Canadas-Justin-Trudeau-cites-internal-b
 https://www.dailymirror.lk/breaking-news/MP-Archchunas-fate-to-be-decided-after-committee-probe-Speaker/108-299607
 https://www.dailymirror.lk/breaking-news/Concerns-raised-over-GPS-technology-in-efforts-to-relocate-elephants/108-299605
 https://www.dailymirror.lk/breaking-news/Partly-built-buildings-under-Langama-Pasala-Hondama-Pasala-to-be-completed-PM/108-299604
+<<<<<<< Updated upstream
+=======
+https://www.dailymirror.lk/breaking-news/Post-eye-surgery-complications-17-patients-to-be-compensated-Minister/108-299603
+>>>>>>> Stashed changes
 https://www.dailymirror.lk/breaking-news/Government-to-act-tough-on-quacks-Health-Minister/108-299601
 https://www.dailymirror.lk/breaking-news/Heavy-smog-diverts-four-flights-from-BIA/108-299600
 https://www.dailymirror.lk/breaking-news/Only-orangutan-at-Dehiwala-Zoo-dies/108-299598
 https://www.dailymirror.lk/international/Tibet-earthquake-Nine-dead-as-7-1-magnitude-quake-felt-in-Nepal-and-India/107-299596
+<<<<<<< Updated upstream
 https://www.dailymirror.lk/breaking-news/Govt-to-tap-migrant-worker-savings-with-Rs-744-75mn-entrepreneurship-scheme/108-299588
 https://www.dailymirror.lk/breaking-news/Sri-Lanka-look-to-bounce-back-in-second-ODI/108-299666
 https://www.dailymirror.lk/breaking-news/Former-State-Minister-Lucky-Jayawardana-passes-away/108-299672
 https://www.dailymirror.lk/breaking-news/Trishaw-operators-in-Dambulla-stage-protest-against-NPP-candidate/108-299669
 https://www.dailymirror.lk/breaking-news/Post-eye-surgery-complications-17-patients-to-be-compensated-Minister/108-299603
+=======
+https://www.dailymirror.lk/breaking-news/Govt-not-against-free-trade-agreements-Chaturanga-Abeysinghe/108-299721
+https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-action-against-over-1-000-candidates-party-leaders-for-election-expenditure-violations/108-299720
+https://www.dailymirror.lk/breaking-news/Unregistered-medicines-sold-near-National-Hospital-Colombo-and-countrywide/108-299719
+https://www.dailymirror.lk/breaking-news/Pod-of-Common-Bottlenose-Dolphins-found-dead-near-Wilpattu/108-299718
+https://www.dailymirror.lk/breaking-news/Investigate-into-fraud-involving-medicines-passports-Professionals/108-299717
+https://www.dailymirror.lk/breaking-news/New-Zealand-crush-Sri-Lanka-by-113-runs-in-2nd-ODI-to-win-series/108-299712
+https://www.dailymirror.lk/breaking-news/Kiwi-blaster-Guptill-retires-from-international-cricket/108-299727
+https://www.dailymirror.lk/breaking-news/Controversy-swirls-over-unauthorized-Israeli-religious-culture-centres/108-299723
+https://www.dailymirror.lk/breaking-news/100-000-illegal-migrants-could-arrive-in-Sri-Lanka-in-the-coming-days-Public-Security-Minister/108-299722
+https://www.dailymirror.lk/breaking-news/Clean-Sri-Lanka-programme-will-bring-vast-social-reforms-Prime-Minister/108-299724
+https://www.dailymirror.lk/breaking-news/President-appoints-two-new-judges-to-Court-of-Appeal/108-299798
+https://www.dailymirror.lk/breaking-news/Metal-piece-found-in-fish-bun-bought-in-Panadura/108-299800
+https://www.dailymirror.lk/breaking-news/Justice-Minister-apologises-to-Speaker-for-addressing-him-Your-Honour/108-299799
+https://www.dailymirror.lk/breaking-news/Experts-warn-of-rising-influenza-cases-stress-importance-of-hygiene/108-299796
+https://www.dailymirror.lk/breaking-news/Johnny-the-dog-follows-trail-for-4-kilometres-to-find-battery-thief/108-299795
+https://www.dailymirror.lk/breaking-news/IMF-has-no-objection-to-public-sector-salary-increment-Deputy-Minister/108-299793
+https://www.dailymirror.lk/breaking-news/No-HMPV-case-detected-in-Sri-Lanka-20-locations-assigned-for-testing-Nalinda/108-299783
+https://www.dailymirror.lk/breaking-news/Appropriation-Bill-2025-presented-to-Parliament/108-299779
+https://www.dailymirror.lk/breaking-news/Presidents-Secretary-prohibits-Ministers-meeting-foreign-diplomats-Dayasiri/108-299778
+https://www.dailymirror.lk/breaking-news/Six-killed-several-injured-in-Tirupati-stampede/108-299777
+https://www.dailymirror.lk/breaking-news/Gnanasara-Thera-sentenced-to-9-months-imprisonment/108-299776
+https://www.dailymirror.lk/breaking-news/President-of-three-wheeler-association-injured-in-shooting/108-299774
+https://www.dailymirror.lk/breaking-news/Concrete-mixer-truck-pushes-car-at-Orugodawatta-injures-two/108-299775
+https://www.dailymirror.lk/breaking-news/Emirates-on-track-to-become-worlds-1st-Autism-Certified-Airline/108-299773
+https://www.dailymirror.lk/breaking-news/Rohingya-arrivals-UNHCR-seeks-continued-compassion-hospitality-from-Sri-Lanka/108-299772
+https://www.dailymirror.lk/international/Los-Angeles-wildfires-5-dead-in-California-as-Palisades-fire-rages/107-299770
+https://www.dailymirror.lk/breaking-news/Sri-Lanka-aims-for-transformative-acceleration-in-post-crisis-growth/108-299746
+>>>>>>> Stashed changes
