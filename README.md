@@ -1,45 +1,23 @@
 <!-- @format -->
 ## News Archive Summary
 
-<<<<<<< Updated upstream
-Summary Report as of Wed Jan 08 15:06:53 +0530 2025
+Summary Report as of Fri Jan 10 08:19:39 +0530 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 25          | 1356        |
-| adaderana               | 11          | 1784        |
-| adaderana-sinhala               | 15          | 2578        |
-| adaderana-tamil               | 21          | 3526        |
-| aruna               | 1          | 2000        |
-| dailymirror               | 4          | 1513        |
-| dinamina               | 83          | 5367        |
-| economynext               | 2          | 832        |
-| island               | 0          | 2530        |
-| lankadeepa               | 50          | 5279        |
-| tamilmirror               | 11          | 1887        |
-| thamilan               | 11          | 1759        |
-| themorning               | 36          | 2450        |
-| thinakaran               | 44          | 4220        |
-| **Total**          | **314**      | **37081** |
-=======
-Summary Report as of Thu Jan 09 15:48:41 +0530 2025
-
-| News paper         | Today's Articles | Total Articles |
-|--------------------|------------------|----------------|
-| ada               | 11          | 1379        |
-| adaderana-sinhala               | 20          | 2622        |
-| adaderana-tamil               | 25          | 3592        |
-| adaderana               | 14          | 1804        |
-| aruna               | 19          | 2041        |
-| dailymirror               | 21          | 1546        |
-| dinamina               | 91          | 5422        |
-| economynext               | 8          | 851        |
-| island               | 32          | 2617        |
-| lankadeepa               | 53          | 5336        |
-| tamilmirror               | 19          | 1908        |
-| thamilan               | 18          | 1775        |
-| themorning               | 38          | 2460        |
-| thinakaran               | 41          | 4253        |
-| **Total**          | **410**      | **37606** |
->>>>>>> Stashed changes
+| ada               | 0          | 1380        |
+| adaderana-sinhala               | 0          | 2608        |
+| adaderana-tamil               | 0          | 3568        |
+| adaderana               | 0          | 1806        |
+| aruna               | 0          | 2022        |
+| dailymirror               | 0          | 1542        |
+| dinamina               | 0          | 5467        |
+| economynext               | 0          | 831        |
+| island               | 0          | 2621        |
+| lankadeepa               | 0          | 5372        |
+| tamilmirror               | 0          | 1913        |
+| thamilan               | 0          | 1791        |
+| themorning               | 0          | 2490        |
+| thinakaran               | 0          | 4278        |
+| **Total**          | **0**      | **37689** |
 
