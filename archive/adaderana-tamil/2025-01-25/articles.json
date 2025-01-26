@@ -1,772 +1,873 @@
 [
+  [
+    {
+      "title": "இன்றைய வானிலை",
+      "href": "news.php?nid=199259",
+      "byline": "ஊவா மற்றும் தென் மாகாணங்களிலும் அம்பாறை, மட்டக்களப்பு, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய",
+      "timestamp": "January 25, 2025  6:16 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199259",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "5ab76ea9a9357c78f2be7cb7c6c6f26529f6973704bc5a77e2e66558cbcd1e8c"
+    },
+    {
+      "title": "மன்னார் துப்பாக்கிச் சூட்டு சம்பவம் - வௌியான பகீர் தகவல்",
+      "href": "news.php?nid=199260",
+      "byline": "மன்னார் நீதிமன்றத்தின் முன் கடந்த 16 ஆம் திகதி இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடையதாக கைது செய்யப்பட்ட 5 சந்தேக நபர்களையும்",
+      "timestamp": "January 25, 2025  6:33 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199260",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "32dd9c1d6e62d7324e5f464e920af98e30abdab63ba10abcbaee99d027187305"
+    },
+    {
+      "title": "தப்பிச் சென்ற கைதி மதுபோதையில் கைது",
+      "href": "news.php?nid=199261",
+      "byline": "சிறைச்சாலை அதிகாரிகளிடமிருந்து தப்பிச் சென்ற சந்தேக நபர் மதுபோதையில் மோட்டார் சைக்கிளில் சென்றுக் கொண்டிருந்த போது பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.",
+      "timestamp": "January 25, 2025  7:25 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199261",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "e9848a2a0621fd884e7858c28e98a95f8fe81378a206a3e3ec2abcd1b26fa904"
+    },
+    {
+      "title": "போதைப்பொருள் மற்றும் ஆயுதங்களுடன் நபரொருவர் கைது",
+      "href": "news.php?nid=199263",
+      "byline": "குற்றம் மற்றும் போதைப்பொருள் தடுப்பு நடவடிக்கை தொடர்பாக பொலிஸ் விசேட அதிரடிப் படையின் சிறப்பு நடவடிக்கைப் பிரிவினரால் நேற்று (24) மேற்கொள்ளப்பட்ட நடவடிக்கையின்",
+      "timestamp": "January 25, 2025  7:55 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199263",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "a637cfd569b1bed7c1295c9d353c0c7ccdd491ef838ac6e323429dab824849a1"
+    },
+    {
+      "title": "டிரம்பின் உத்தரவுக்கு தடை விதித்த அமெரிக்க நீதிமன்றம்",
+      "href": "news.php?nid=199264",
+      "byline": "அமெரிக்க குடியுரிமை பெறாத பெற்றோருக்கு பிறக்கும் குழந்தைகளுக்கு வழங்கப்பட்டு வந்த பிறப்பின் அடிப்படையிலான குடியுரிமையை ரத்து செய்யும் அமெரிக்க",
+      "timestamp": "January 25, 2025  8:05 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199264",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "ed093a60e82861732fa6a462d7b8f819692c0d6dbd7e44686ccb1303faa0a171"
+    },
+    {
+      "title": "தேங்காய் தட்டுப்பாட்டிற்கான காரணம் வௌியானது",
+      "href": "news.php?nid=199265",
+      "byline": "நாட்டில் தேங்காய்களின் விலை அதிகமாக இருப்பதற்கு முக்கிய காரணம், மக்கள்தொகை அதிகரிப்புடன் ஒப்பிடும்போது கடந்த 20 ஆண்டுகளில் தேங்காய் உற்பத்தி",
+      "timestamp": "January 25, 2025  8:44 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199265",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9db3957b627fa1736622f3d74ef28b6aa9b2f6a5471b569ace541e58b9cc91d6"
+    },
+    {
+      "title": "கஞ்சா செடியை வளர்க்க அரசு அனுமதி",
+      "href": "news.php?nid=199266",
+      "byline": "கடந்தாண்டு இந்தியா முழுவதும் சட்டவிரோதமாக கஞ்சா செடிகள் வளர்த்த விவகாரத்தில் பலர் கைது செய்யப்பட்டுள்ளனர். இதனிடையே இளைஞர்களிடையே கஞ்சா",
+      "timestamp": "January 25, 2025  9:08 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199266",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9dd3d8d377b4a4c69c73b37023a6903384c57788d965f577d9e17aa16d5dc363"
+    },
+    {
+      "title": "இலங்கை வந்த அவுஸ்திரேலியா அணி",
+      "href": "news.php?nid=199267",
+      "byline": "'வோர்ன் - முரளி' டெஸ்ட் கிரிக்கெட் தொடரில் பங்கேற்க அவுஸ்திரேலிய அணி நேற்று (24) இரவு நாட்டை வந்தடைந்தது. துபாயில் நடந்த பயிற்சி முகாமில் கலந்து கொண்ட அவர்கள் துபாயிலிருந்து",
+      "timestamp": "January 25, 2025  9:12 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199267",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "3661666e349d37b4fb6c1c23c6489b93d95b596bd51f8fc062e34da1a474a0ea"
+    },
+    {
+      "title": "காற்று மாசுபாட்டால் திணறும் தாய்லாந்து",
+      "href": "news.php?nid=199268",
+      "byline": "உலகின் சமீபத்திய மிகப்பெரும் பிரச்சனையாக காலநிலை மாற்றம் உருவெடுத்துள்ளது. இதன் விளைவாக உலகம் வெப்பமயமாதல், கடல் நீர் மட்டம் உயர்வு, அதீத கனமழை",
+      "timestamp": "January 25, 2025  9:32 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199268",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "5f636ab34df5e049e400eba3ec0b1381a2f124722cfd0222a62e2d788315ee71"
+    },
+    {
+      "title": "தந்தையின் சாதனையை முறியடித்த மகன்",
+      "href": "news.php?nid=199269",
+      "byline": "இங்கிலாந்தின் உள்ளூர் போட்டி ஒன்றில் இங்கிலாந்து லயன்ஸ் அணியும், அவுஸ்திரேலியா லெவன் அணியும் மோதின. முதலில் ஆடிய அவுஸ்திரேலியா லெவன் அணி முதல் இன்னிங்சில்",
+      "timestamp": "January 25, 2025  9:41 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199269",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "6f80e63736c6de2c5ef0fed57e4347264b1b13193a45ca74852b5048d493740e"
+    },
+    {
+      "title": "பேர வாவியில் உயிரிழக்கும் பறவைகள்..! காரணம் பறவைக் காய்ச்சலா?",
+      "href": "news.php?nid=199270",
+      "byline": "கொழும்பு, பேர வாவியில்  பறவைகள் உயிரிழக்கின்றமை தொடர்பில் நீர் மாதிரிகள் குறித்த ஆராய்ச்சி அறிக்கையை மூன்று நாட்களுக்குள் வழங்க நடவடிக்கை",
+      "timestamp": "January 25, 2025  9:43 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199270",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "025b47c1b1b462189f7246958dacbb08602d4df3c1b14f9b585eadd916b44f68"
+    },
+    {
+      "title": "யோஷித ராஜபக்ஷ கைது",
+      "href": "news.php?nid=199271",
+      "byline": "முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் புதல்வன் யோஷித ராஜபக்ஷ குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.",
+      "timestamp": "January 25, 2025  10:08 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199271",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "96b875f2c7bfd9b6fab3dc7485efc602ad9745da69eb27e257593ff0761b22e6"
+    },
+    {
+      "title": "பொலிஸார் துப்பாக்கிச்சூடு நடத்திய காரில் சென்ற இருவர் கைது",
+      "href": "news.php?nid=199209",
+      "byline": "கொழும்பு வடக்கு குற்றப் புலனாய்வுப் பணியகத்தின் மோட்டார் சைக்கிள் குழு நேற்று (23) கிரான்ட்பாஸ் பகுதியில் திடீர் போக்குவரத்து சோதனையை மேற்கொண்டிருந்தது.",
+      "timestamp": "January 24, 2025  7:49 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199209",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "8ad7dd3e9b0d2801e30286717e2d2efd057483dccf0598f19e3f925dee49236b"
+    },
+    {
+      "title": "புகையிலை நிறுவனத்தின் இலாபம் 400 சதவீதத்தால் அதிகரிப்பு",
+      "href": "news.php?nid=199210",
+      "byline": "முறையற்ற வரி நிர்ணயம் காரணமாக கடந்த 5 வருடங்களில் நாடு சுமார் 100 பில்லியன் ரூபா கலால் வருவாயை இழந்துள்ளதாக மது மற்றும் போதைப்பொருள் தகவல் மையம் தெரிவித்துள்ளது.",
+      "timestamp": "January 24, 2025  8:47 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199210",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "b1c6930980ede03802a40dd054ada77584ff034a7c6e2b82587048f6314ccbbf"
+    },
+    {
+      "title": "தூதுவர்களுக்கு வழங்கப்பட்ட இலக்கு!",
+      "href": "news.php?nid=199211",
+      "byline": "நாடுகளுக்காக நியமிக்கப்படும் தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களுக்கு குறிப்பிட்ட இலக்குகள் நிர்ணயிக்கப்பட்டுள்ளதாக தொழிற் கல்வி பிரதி அமைச்சர் நலின் ஹேவகே தெரிவித்தார்.",
+      "timestamp": "January 24, 2025  9:11 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199211",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "b7a03f31b70b0fed6ad00b48aa0999fa0391b438cd1f6f1fc378a25216fe4a0f"
+    },
+    {
+      "title": "இன்றைய ராசி பலன்",
+      "href": "news.php?nid=199212",
+      "byline": "இன்று (24) குரோதி வருடம் தை மாதம் 11 வெள்ளிக்கிழமை, சந்திரன் விருச்சிகம் ராசியில் சஞ்சரிக்கிறார். மீனம், மேஷம் ராசியில் ரேவதி, அஸ்வினி நட்சத்திரத்தை",
+      "timestamp": "January 24, 2025  9:19 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199212",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9df1ce4fe0f59f7f9a050e4e3b5f05741a6c7ce045d36376f0f9c23224aad8c3"
+    },
+    {
+      "title": "இன்றைய பாராளுமன்ற கூட்டத்தொடர் ஆரம்பம்",
+      "href": "news.php?nid=199213",
+      "byline": "சபாநாயகர் தலைமையில் பாராளுமன்ற நடவடிக்கைகள் ஆரம்பமாகியுள்ளன. பாராளுமன்ற கூட்டத்தொடர் மு.ப. 09.30 முதல் பி.ப. 5.30 மணிவரை",
+      "timestamp": "January 24, 2025  9:31 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199213",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "e9e367c72409922d5d21848e44e4edb6e69795f73f2b8c1cece58e009fa5da1c"
+    },
+    {
+      "title": "தீ விபத்து வதந்தியால் ரயிலில் இருந்து குதித்த பயணிகள்",
+      "href": "news.php?nid=199214",
+      "byline": "இந்தியாவில் மகாராஷ்டிரா மாநிலம் ஜல்கானில் கர்நாடக விரைவு ரயில் மோதியதில் 12 பயணிகள் உயிரிழந்தனர். உத்தர பிரதேச மாநிலம் லக்னோவில் இருந்து, மும்பைக்கு புஷ்பக் விரைவு",
+      "timestamp": "January 24, 2025  9:36 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199214",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "f84c43255130e0cb5e99334ee23be74a84cc89a3a2bc9742b33a5decdc21c7d2"
+    },
+    {
+      "title": "கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபரொருவர் கொலை!",
+      "href": "news.php?nid=199215",
+      "byline": "ஈச்சங்குளம் பொலிஸ் பிரிவின் சுந்தரபுரம் பகுதியில் இன்று (24) அதிகாலை கூரிய ஆயுதத்தால் தாக்கி ஒருவர் படுகொலை செய்யப்பட்டுள்ளார். உயிரிழந்த நபருக்கும் மற்றைய நபருக்கும் இடையே ஏற்பட்ட",
+      "timestamp": "January 24, 2025  9:46 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199215",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "ea78e3d82a72986b39c189f538cdcda11e8beab6d6683e7cbec56d9f62c7f9b8"
+    },
+    {
+      "title": "சர்வதேச நடைமுறைகளை பின்பற்ற வேண்டியது அவசியம்",
+      "href": "news.php?nid=199216",
+      "byline": "எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நேற்று (23) பாராளுமன்றத்தில் ரோஹின்யா மக்களின் உரிமைகள் தொடர்பாக பாராளுமன்றத்தில் மேற்கொண்ட உரை பின்வருமாறு,",
+      "timestamp": "January 24, 2025  9:50 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199216",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "c978a43524955b0b130302cc8702bb5e236efe2892e99aa3c1b29c9147bafcf5"
+    },
+    {
+      "title": "மியான்மரில் 4.8 ரிக்டர் அளவில் லேசான நிலநடுக்கம்",
+      "href": "news.php?nid=199217",
+      "byline": "மியான்மரில் இன்று (24) அதிகாலை லேசான நிலநடுக்கம் ஏற்பட்டது. இந்த நிலநடுக்கம் 4.8 ரிக்டர் அளவில் பதிவானது என அந்நாட்டு தேசிய நில அதிர்வு ஆய்வு மையம்",
+      "timestamp": "January 24, 2025  10:00 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199217",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "855cdd3de0f05abd80637a91c858872a0e15aa8ad75d931f3fe8772ed3bf58eb"
+    },
+    {
+      "title": "கூட்டுறவு பயிற்சி நிலையத்தை விடுவிக்க இராணுவம் இணக்கம்",
+      "href": "news.php?nid=199218",
+      "byline": "15 வருடமாக இராணுவத்தின் வசமுள்ள வவுனியா கூட்டுறவு பயிற்சி நிலையத்தை விடுவிக்க இராணுவம் இணக்கம் தெரிவித்துள்ளதாக தேசிய மக்கள் சக்தியின் வன்னி மாவட்ட",
+      "timestamp": "January 24, 2025  10:05 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199218",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "a144f64bebc31ae55229901683671c6c527fb381acfb1f694cd51f548636f8b7"
+    },
+    {
+      "title": "பாதசாரி மீது மோதிய லொறி - இங்கிரியவில் சம்பவம்",
+      "href": "news.php?nid=199219",
+      "byline": "இங்கிரிய பொலிஸ் பிரிவுக்குட்பட்ட இரத்தினபுரி - பானந்துறை வீதியின் திவுல்பத பிரதேசத்தில் இரத்தினபுரி திசையிலிருந்து இங்கிரிய நோக்கி பயணித்த லொறியொன்று வீதியின் குறுக்காக",
+      "timestamp": "January 24, 2025  10:13 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199219",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "c34ef937cd341d0d6060e3e9203c189717b25c931de8e9cf1ff29a8d0fbe0445"
+    },
+    {
+      "title": "பரீட்சைகள் ஆணையாளர் தலைமையில் விசேட ஊடகவியலாளர் சந்திப்பு",
+      "href": "news.php?nid=199220",
+      "byline": "2020 ஆம் ஆண்டு தரம் ஐந்து புலமைப்பரிசில் பரீட்சையில் 188 என்ற அதிக மதிப்பெண்களை மாணவரொருவர் பெற்றுள்ளதாக  பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.",
+      "timestamp": "January 24, 2025  10:43 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199220",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9a43e9d6f9e9e584bbf7f02d4b99b3e6110efc6454b5b84599c6653320bb16b3"
+    },
+    {
+      "title": "விவசாய நவீனமயமாக்கல் செயற்திட்ட அறுவடை விழா!",
+      "href": "news.php?nid=199221",
+      "byline": "நெற்செய்கையில் விவசாய நவீனமயமாக்கல் கிராமங்களை உருவாக்கும் முன்மாதிரி செயற்திட்ட அறுவடை விழா இன்று (24) கிளிநொச்சியில் இடம்பெற்றது.",
+      "timestamp": "January 24, 2025  10:53 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199221",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "e6fa97a3e0cae6c8f50dabda7b49b4a0ec9dc88d7f8ee971c3c097bae5902115"
+    },
+    {
+      "title": "புலமைப்பரிசில் பரீட்சையில் சாதித்த மாணவர்கள்",
+      "href": "news.php?nid=199222",
+      "byline": "2024 தரம் 5 புலமைப்பரிசில் பரீட்சையில் 18 மாணவர்கள் அதிக மதிப்பெண்களை பெற்றுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜெயசுந்தர தெரிவித்துள்ளார்.",
+      "timestamp": "January 24, 2025  11:01 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199222",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9b4ab4b4290619ecb1dd3fd50a35dd3db3d31b72fa3b50f1bae0f469a94fc5cb"
+    },
+    {
+      "title": "சோழன் உலக சாதனை படைத்த 8 வயது மாணவன்",
+      "href": "news.php?nid=199223",
+      "byline": "மாத்தளை, கலாதுவெல பகுதியில் வசித்து வரும் தினேஸ்ராஜ் மற்றும் ஷெரின் போன்றோரின் 8 வயது மகனான நிஷ்விக் மாத்தளையில் இயங்கி வரும் எஸ்.ஐ.பி அபாகஸ் திறன்",
+      "timestamp": "January 24, 2025  11:07 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199223",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "fbdb3537c584a4f9744abc83eff7d39d2a5057226681d26b234810bc84b0c59f"
+    },
+    {
+      "title": "டிக்டொக் காதலியின் வீட்டுக்கு வந்த இளைஞன் கைது!",
+      "href": "news.php?nid=199224",
+      "byline": "நுவரெலியா மாவட்டம், அக்கரபத்தனை, பசுமலை பகுதியிலுள்ள பாடசாலை மாணவியான, டிக்டொக் காதலியின் வீட்டுக்கு சென்ற திருகோணமலை பகுதியைச் சேர்ந்த இளைஞன்",
+      "timestamp": "January 24, 2025  11:14 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199224",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "18a0e6b73c588ad5fbccc5f10628cc91bad966d697f3ffdc93be173e6f4cb384"
+    },
+    {
+      "title": "'யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையம்' என பெயர் மாற்றம்",
+      "href": "news.php?nid=199225",
+      "byline": "இந்திய நிதியுதவியில் யாழ்ப்பாணத்தில் கட்டப்பட்டுள்ள கட்டடத்திற்கு 'யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையம்' என தற்போது பெயர் பலகை பொருத்தப்பட்டுள்ளது.",
+      "timestamp": "January 24, 2025  11:38 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199225",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "5cfa3d1e8eb58b996030acfb38ec387e8216dd18b75088c5c190df2b8693ff4f"
+    },
+    {
+      "title": "சலோச்சன கமகே பிணையில் விடுவிப்பு",
+      "href": "news.php?nid=199226",
+      "byline": "9 மில்லியன் ரூபா இலஞ்சம் பெற்ற சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் மாகாண சபை உறுப்பினர் சலோச்சன கமகே உள்ளிட்ட இரண்டு சந்தேக நபர்களை",
+      "timestamp": "January 24, 2025  11:43 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199226",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "526f711131f95c3a864e13f4f5de21be73869f384913185d51260ddba2695679"
+    },
+    {
+      "title": "வவுனியாவில் 128 கிலோ மாட்டிறச்சியுடன் வாகனம் மடக்கி பிடிப்பு",
+      "href": "news.php?nid=199227",
+      "byline": "வவுனியா நெளுக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட 4 ஆம் கட்டை பகுதியில் 128 கிலோ மாட்டிறச்சியுடன் வாகனம் ஒன்றினை பொலிஸார் கைப்பற்றியுள்ளதுடன் இருவரை கைது செய்துள்ளனர்.",
+      "timestamp": "January 24, 2025  11:57 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199227",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "af1bc777018c334f403c7c3fc3898265a444581f728bbc925d71048037f685e7"
+    },
+    {
+      "title": "சூப்பர் 6 சுற்றில் இலங்கை அணி விளையாடும் போட்டிகள் அறிவிப்பு",
+      "href": "news.php?nid=199228",
+      "byline": "மலேசியாவில் இடம்பெற்று வரும் 19 வயதுக்குட்பட்ட மகளிர் இருபதுக்கு 20 உலகக் கிண்ணத் தொடரில் சூப்பர் 6 சுற்றில் இலங்கை அணி விளையாடும் போட்டிகள் தற்போது அறிவிக்கப்பட்டுள்ளன.",
+      "timestamp": "January 24, 2025  12:27 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199228",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "3701b73714c2d99c26b35f3444bdd955176c790f7530baa6c1eaf7736f5f6341"
+    },
+    {
+      "title": "வவுனியா சுந்தரபுரத்தில் ஒருவர் வெட்டிக் கொலை",
+      "href": "news.php?nid=199229",
+      "byline": "வவுனியா சுந்தரபுரத்தில் நேற்று (23) இரவு ஒருவர் வெட்டிக் கொலை செய்யப்பட்டுள்ளார். சுந்தரபுரம் பகுதியில் வசித்து வந்த 28 வயதுடைய ஒரு பிள்ளையின் தந்தையே கொலை",
+      "timestamp": "January 24, 2025  12:42 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199229",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "7ae8da92277d73b60268090432eeab4bdacd368e38f4bbdcc4f42a3b9b8c3111"
+    },
+    {
+      "title": "2024 ஆம் ஆண்டுக்கான ஐசிசி ஒருநாள் அணி அறிவிப்பு;  அணித்தலைவரான அசலங்க!",
+      "href": "news.php?nid=199230",
+      "byline": "2024 ஆம் ஆண்டுக்கான ஐசிசி சிறந்த ஆடவர் ஒருநாள் கனவு அணி அறிவிக்கப்பட்டுள்ளது. இதில், இலங்கை அணியின் சரித் அசலங்க அணித்தலைவராக நியமிக்கப்பட்டுள்ளார்.",
+      "timestamp": "January 24, 2025  12:55 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199230",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "afd1de65ec388b53a658b77e3a6ef42b6b50913961c7ee3734c9a9d2295bd998"
+    },
+    {
+      "title": "மொட்டுவின் தேர்தல் பிரச்சாரம் நாளை ஆரம்பம்",
+      "href": "news.php?nid=199231",
+      "byline": "உள்ளூராட்சி மன்றத் தேர்தலுக்கான ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேர்தல் பிரச்சார நடவடிக்கைகள் நாளை (25) அனுராதபுரத்தில் ஆரம்பமாக உள்ளது.",
+      "timestamp": "January 24, 2025  1:10 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199231",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "3998dcbfbd2ac150eec43bd8e7639ea471beb5a38a77ddee2a888b57e05f043c"
+    },
+    {
+      "title": "மக்களுக்கு பல சேவைகளை செய்தவர்கள்",
+      "href": "news.php?nid=199232",
+      "byline": "இன்றைய பாராளுமன்ற கூட்டத்தொடரில் இடம்பெற்று வரும் அனுதாபப் பிரேரணையில் உரையாற்றிய காதர் மஸ்தானின் உரை,",
+      "timestamp": "January 24, 2025  1:22 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199232",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "6c61da28dbea4c1b040729801c86ec7d948b0fe6d022cd9cd176a5b51c5d8998"
+    },
+    {
+      "title": "சோதனையின்றி விடுவிக்கப்படும் கொள்கலன்கள் - பொறுப்பை ஏற்கும் அரசாங்கம்",
+      "href": "news.php?nid=199233",
+      "byline": "இறக்குமதி செய்யப்பட்ட கொள்கலன்களை விடுவிப்பதில் ஏற்பட்ட தாமதம் மற்றும் நெரிசல் காரணமாக, சோதனைக்கு உட்படுத்தாமல் சுங்கத்திலிருந்து விடுவிக்கப்பட்ட 323 கொள்கலன்களுக்கான",
+      "timestamp": "January 24, 2025  1:32 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199233",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "20eebf72bca15fcd8f1b971bf4e097f91f2244badb9bf51fd9c6df94967f2c34"
+    },
+    {
+      "title": "புலமைப்பரிசில் பரீட்சை - அகில இலங்கை ரீதியில் முதலிடம் பிடித்த மாணவி",
+      "href": "news.php?nid=199234",
+      "byline": "2024 புலமைப்பரிசில் பரீட்சையில் ஹொரணை ரோயல் கல்லூரியைச் சேர்ந்த மாணவி ஒருவர் அகில இலங்கை ரீதியில்  அதிக மதிப்பெண்களை பெற்று முதலிடம் பிடித்துள்ளார்.",
+      "timestamp": "January 24, 2025  1:51 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199234",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "526aefab4b7a59c14a43a4ca5d82a3dc4fa71ed5640ec166f4bcdd06cb971211"
+    },
+    {
+      "title": "ஒரு நல்ல பண்பை கொண்ட மனிதன்",
+      "href": "news.php?nid=199235",
+      "byline": "இன்றைய பாராளுமன்ற கூட்டத்தொடரில் இடம்பெற்று வரும் அனுதாபப் பிரேரணையில் உரையாற்றிய ஹிஸ்புல்லாஹ் உரை,",
+      "timestamp": "January 24, 2025  2:32 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199235",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "4f965fc84f5d95e919b5f44a889063d8e2144c13f45bc6f214d409848f78056b"
+    },
+    {
+      "title": "2024 ஐசிசி மகளிர் ஒருநாள் அணி அறிவிப்பு",
+      "href": "news.php?nid=199236",
+      "byline": "2024 ஆம் ஆண்டுக்கான ஐசிசி சிறந்த மகளிர் ஒருநாள் கனவு அணி அறிவிக்கப்பட்டுள்ளது. இதில், இலங்கை அணியின் சமரி அத்தபத்து இடம்பெற்றுள்ளார்.",
+      "timestamp": "January 24, 2025  2:42 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199236",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "3f6ecb4a38a2ca385c955d6cde604cad626113597b45d9a6e226943ab0d91b9c"
+    },
+    {
+      "title": "கோபா தலைவராக அரவிந்த செனரத் நியமனம்",
+      "href": "news.php?nid=199237",
+      "byline": "பத்தாவது பாராளுமன்றத்தின் அரசாங்க கணக்குகள் பற்றிய குழுவின் (COPA) தலைவராக பாராளுமன்ற உறுப்பினர் அரவிந்த செனரத் நியமிக்கப்பட்டுள்ளார்.",
+      "timestamp": "January 24, 2025  2:51 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199237",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "874f1c53ef5e39b7400f2c750a8734026ae24684424015e2e8095095c07e7efa"
+    },
+    {
+      "title": "மக்களின் உரிமைகளுக்காக தன்னை அர்ப்பணித்த ஒருவர்",
+      "href": "news.php?nid=199238",
+      "byline": "ருக்மன் சேனாநாயக்க, ஐதுருஸ் முஹம்மது இல்லயாஸ் மறைவுக்கு தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (24) பாராளுமன்றத்தில் தனது அனுதாபப்",
+      "timestamp": "January 24, 2025  2:59 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199238",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "fb3812940e527d90f9eb8ac19c8e5753d2cc1b89a4a3808b7da1ece1c2fb12ac"
+    },
+    {
+      "title": "பல படங்களில் நடித்த துணை நடிகர் மரணம்",
+      "href": "news.php?nid=199239",
+      "byline": "தனுஷ் நடித்த புதுப்பேட்டை, பிகில், விக்ரம் வேதா உள்ளிட்ட பல படங்களில் துணை நடிகராக நடித்தவர் ஜெயசீலன். அட்லீ இயக்கத்தில் விஜய் நடித்த 'தெறி' படத்தில் பாடசாலையில் இருக்கும்",
+      "timestamp": "January 24, 2025  3:21 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199239",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "246d76cec0f25c15fe8e11e667fc6608360d69b8e6d22d1f4ef67ed0adb0320a"
+    },
+    {
+      "title": "சர்வதேச வர்த்தகக் கண்காட்சி",
+      "href": "news.php?nid=199240",
+      "byline": "15 ஆவது யாழ்ப்பாணம் சர்வதேச வர்த்தகக் கண்காட்சி இன்று (24) ஆரம்பமானது. இன்று காலை 10:30 மணிக்கு யாழ்ப்பாணம் முற்றவெளி மைதானத்தில்",
+      "timestamp": "January 24, 2025  3:36 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199240",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "aa18803c9523094d505117009a33a0b2488369d5cb444b5b2cbcdd7de778e0ef"
+    },
+    {
+      "title": "மசாஜ் நிலைய உரிமையாளருக்கு 15 ஆண்டுகள் கடூழிய சிறைத்தண்டனை",
+      "href": "news.php?nid=199241",
+      "byline": "இந்தோனேசியாவிலிருந்து மூன்று இளம் பெண்களை சிகிச்சை நிபுணர்கள் தொழிலுக்காக அழைத்து வந்து விபச்சாரத்தில் ஈடுபடுத்தியதற்காக மசாஜ் நிலைய உரிமையாளருக்கு",
+      "timestamp": "January 24, 2025  3:38 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199241",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "acb04c2f92fed02a49dcc5755b0f509caf2bc8850803c74d73d8137f73e58fe7"
+    },
+    {
+      "title": "சொத்துக்களை மீட்பதற்கு சுவிட்சர்லாந்து ஆதரவு",
+      "href": "news.php?nid=199242",
+      "byline": "இலங்கையிலிருந்து எடுத்துச் செல்லப்பட்ட சொத்துக்களை மீட்பதற்கு சுவிட்சர்லாந்து அரசாங்கம் உதவி வழங்கும் என்று இலங்கை மற்றும் மாலைதீவுகளுக்கான",
+      "timestamp": "January 24, 2025  3:50 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199242",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "60c16b956ce5aecca829150684010b642dfa1389bf497243764f3fa01265d230"
+    },
+    {
+      "title": "உயர் நீதிமன்றம் சென்ற மஹிந்த",
+      "href": "news.php?nid=199243",
+      "byline": "தனது பாதுகாப்புப் பிரிவை மீண்டும் வழங்க உத்தரவிடக் கோரி முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ உயர் நீதிமன்றத்தில் அடிப்படை உரிமைகள் மனுவொன்றைத் தாக்கல் செய்துள்ளார்.",
+      "timestamp": "January 24, 2025  3:58 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199243",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "0f650b41094e3ba7a104a9c3550aa869d17d0dd4078ce2c3ccf5adcaaaf5ea85"
+    },
+    {
+      "title": "'வோர்ன்-முரளி' டெஸ்ட் தொடருக்கான இலங்கை அணி அறிவிப்பு",
+      "href": "news.php?nid=199244",
+      "byline": "இலங்கை மற்றும் அவுஸ்திரேலியா அணிகளுக்கு இடையிலான இரண்டு போட்டிகள் கொண்ட 'வோர்ன்-முரளி' டெஸ்ட் தொடருக்கான இலங்கை அணி இன்று (24) அறிவிக்கப்பட்டுள்ளது.",
+      "timestamp": "January 24, 2025  4:19 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199244",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9577af30719d20cf267454b80ef71b3a4ceb14aa6af8a37865cc32753cc7c320"
+    },
+    {
+      "title": "பாராளுமன்றத்தில் தைப்பொங்கல் தினம்",
+      "href": "news.php?nid=199245",
+      "byline": "கடந்த 14 ஆம் திகதி அனுஷ்டிக்கப்பட்ட தைப்பொங்கல் தினத்தை கொண்டாடும் வகையில் இலங்கை பாராளுமன்ற வளாகத்தில் தைப்பொங்கல் தின நிகழ்வு இன்று (24) வைபவரீதியாக",
+      "timestamp": "January 24, 2025  4:25 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199245",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "fb2c0978adba30a4fe6e02a4e476267ab59dedbbde67d6f8f1a9c4cefe60e717"
+    },
+    {
+      "title": "கண்டி மற்றும் மஹியங்கனை இரண்டு வீதிகளுக்கு பூட்டு",
+      "href": "news.php?nid=199246",
+      "byline": "கண்டி மற்றும் மஹியங்கனை வீதியின் சில வீதிகளை மறு அறிவித்தல் வரை மூடுவதற்கு வீதி அபிவிருத்தி அதிகாரசபை நடவடிக்கை எடுத்துள்ளது.",
+      "timestamp": "January 24, 2025  4:54 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199246",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "33966ea1501d312056feeda2c9975bb30ec5a0bcf09697e887716d680a145ebd"
+    },
+    {
+      "title": "அரசாங்கக் கணக்குகள் பற்றிய குழுவின் தலைவர் தெரிவு",
+      "href": "news.php?nid=199247",
+      "byline": "அரசாங்கக் கணக்குகள் பற்றிய குழுவின் புதிய தலைவராக தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அரவிந்த செனரத் இன்று (24) தெரிவு செய்யப்பட்டார்.",
+      "timestamp": "January 24, 2025  5:01 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199247",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "bc0a0804ea82e5f1bdee0c2bd3e090bd4e4e1c2e6d56397faa351c7a0dbdb67d"
+    },
+    {
+      "title": "ஐசிசி டெஸ்ட் அணியில் இடம்பிடித்த கமிந்து",
+      "href": "news.php?nid=199248",
+      "byline": "சர்வதேச கிரிக்கெட் சம்மேளனம் (ஐ.சி.சி) இன்று (24) அறிவித்த 2024 டெஸ்ட் அணியில் கமிந்து மெந்திஸ் இடம்பெற்றுள்ளார். இந்தக் அணியில் கமிந்து 6வது இடத்தில் உள்ளார்.",
+      "timestamp": "January 24, 2025  5:10 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199248",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "4512a2c0dadc798a4fd1b1f188ecdf9b6db63bda61f489a16d8f3ef7970503c9"
+    },
+    {
+      "title": "மன்னார் காற்றாலை திட்டம் ரத்துச் செய்யப்படவில்லை - அதானி குழுமம்",
+      "href": "news.php?nid=199249",
+      "byline": "மன்னார் மற்றும் பூநகரியில் அமையவுள்ள அதானியின் 484 MW காற்றாலை மின் திட்டங்கள் ரத்து செய்யப்பட்டுள்ளதாக வரும் செய்திகள் தவறானவை என அதானி குழுமம் தெரிவித்துள்ளது.",
+      "timestamp": "January 24, 2025  5:20 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199249",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "e9c67ef7636f56d4d3796478564be690b3ef123a3ddac45b28f6869e4433d98f"
+    },
+    {
+      "title": "யாழில். புகைப்பட கண்காட்சி",
+      "href": "news.php?nid=199250",
+      "byline": "நெதர்லாந்து தூதரகத்துடன் இலங்கை பத்திரிகை ஸ்தாபனம் இணைந்து நடத்தும் உலக ஊடகப் புகைப்படக் கண்காட்சி இன்று (24) யாழ்ப்பாணம் கலாச்சார மண்டபத்தில் ஆரம்பமாகியது.",
+      "timestamp": "January 24, 2025  5:27 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199250",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "14f6fd5ba84cd485825b85b8fdf5fcaf60fcea8241e0dbe4ac64b57bd8911028"
+    },
+    {
+      "title": "அநீதிக்கு எதிராக போராட்ட உணர்வோடு செயற்பட்டவர்",
+      "href": "news.php?nid=199251",
+      "byline": "மறைந்த முன்னாள் பாராளுமன்ற உறுப்பினர் டாக்டர். ஐ.எம்.இல்யாஸ் அவர்கள், அநீதிக்கு எதிராக துணிச்சலோடும் போராட்ட உணர்வோடும் செயற்பட்ட ஒருவர் என்று அகில",
+      "timestamp": "January 24, 2025  5:41 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199251",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "b9f5e10a16f06dcb26d774aa3ba2cdeb377dfd315e063f56f9655ec2ee9d778c"
+    },
+    {
+      "title": "யாழில் புலமை பரிசில் பரீட்சையில் அதிக புள்ளிகளை பெற்றவர்கள்",
+      "href": "news.php?nid=199252",
+      "byline": "யாழ்ப்பாணம் இந்து ஆரம்ப பாடசாலை மாணவனான பரமேஸ்வரன் பிரசோதன் புலமை பரிசில் பரீட்சையில் 186 புள்ளிகளை பெற்றுள்ளார். குறித்த பாடசாலையில் 220 மாணவர்கள் பரீட்சை எழுதிய நிலையில், 134",
+      "timestamp": "January 24, 2025  5:50 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199252",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "f85b8fd6af2055db8ba4c4234e5924ff353694437710a145407d693012e36c66"
+    },
+    {
+      "title": "திசைகாட்டி எல்லாவற்றையும் மாயையால் மறைக்கிறது",
+      "href": "news.php?nid=199253",
+      "byline": "ஜே.வி.பி தற்போது அதன் சொந்த மக்களிடமிருந்தே ஒரு சவாலை எதிர்கொள்கிறது என்று சர்வஜன அதிகாரத்தின் தலைவரும் பாராளுமன்ற உறுப்பினருமான தொழில்முனைவோர்",
+      "timestamp": "January 24, 2025  6:32 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199253",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "285e1f549f73a4ee1f4a3267a7c424ca79acbb5732c71fc5f22d95da62002ccc"
+    },
+    {
+      "title": "உள்ளூராட்சி தேர்தல் சட்டமூலத்திற்கு எதிரான மனு விசாரணை ஆரம்பம்",
+      "href": "news.php?nid=199254",
+      "byline": "அரசாங்கத்தால் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள உள்ளூராட்சி மன்றத் தேர்தல் தொடர்பான (விசேட ஏற்பாடுகள்) சட்டமூலத்தின் சில சரத்துக்கள்",
+      "timestamp": "January 24, 2025  7:23 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199254",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "d3f238b80d74535082baa17deae98cbe29ba6f09a6cf8a7491e322029175119d"
+    },
+    {
+      "title": "அதிக விலைக்கு அரிசி விற்பனை - இரவிலும் சுற்றிவளைப்பு",
+      "href": "news.php?nid=199255",
+      "byline": "அதிக விலைக்கு அரிசி விற்பனை செய்வது தொடர்பில்  கடந்த சில நாட்களில் நுகர்வோர் விவகார அதிகார சபை நூற்றுக்கும் மேற்பட்ட சுற்றிவளைப்புகளை மேற்கொண்டுள்ளது.",
+      "timestamp": "January 24, 2025  8:30 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199255",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "b2178420cd037b8093dcb1658800489bd2b735a42db779751caa150faa8650ae"
+    },
+    {
+      "title": "யாழ். பல்கலை மாணவர்கள் உணவு தவிர்ப்பு போராட்டம்",
+      "href": "news.php?nid=199256",
+      "byline": "யாழ்ப்பாண பல்கலைக்கழக மாணவர்கள் 09 பேருக்கு விதிக்கப்பட்டுள்ள வகுப்புத்தடைகளை நீக்க வேண்டும் உள்ளிட்ட சில கோரிக்கைகளை முன் வைத்து மாணவ",
+      "timestamp": "January 24, 2025  9:19 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199256",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "1a6fe74e75178b7ed1a31e0e3c656df366584a53bf6ce632fc1c274897854297"
+    },
+    {
+      "title": "வன்கொடுமைக்கு ஆளான இளம்பெண் பிறப்புறுப்பில் கத்தியை சொருகிக்கொண்ட பயங்கரம்!",
+      "href": "news.php?nid=199257",
+      "byline": "மகாராஷ்டிர மாநிலம் மும்பையில் ஆட்டோ ஓட்டுநரால் 20 வயது பெண் பாலியல் வன்கொடுமை பலாத்காரம் செய்யப்பட்ட சம்பவம் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.",
+      "timestamp": "January 24, 2025  10:06 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199257",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "531c2a72c955464c817b0c2c2f0f9f6005b27a6cff322e9a2b359a02bd4f1608"
+    },
+    {
+      "title": "இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் கைது",
+      "href": "news.php?nid=199258",
+      "byline": "20,000 ரூபா இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் ஒருவரை இலஞ்ச ஊழல் ஆணைக்குழு கைது செய்துள்ளது. கிரிபாவ பகுதியைச் சேர்ந்த ஒருவர் அளித்த முறைப்பாட்டின் பேரில் குறித்த",
+      "timestamp": "January 24, 2025  11:07 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199258",
+      "isoTimestamp": "2025-01-25T10:30:21+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "d3a39fe1a9b7443d6ad7a78c426ad89d86ac9bcb6edd1cd8f0053db35b9a16cf"
+    },
+    {
+      "title": "தொலைபேசியால் குழந்தையுடன் பாதாள குழியில் விழுந்த பெண்",
+      "href": "news.php?nid=199272",
+      "byline": "தொலைபேசி அனைவருமே பயன்படுத்தி வரும் நிலையில், சிலர் தொலைபேசிக்கு அடிமையாகும் சம்பவங்களையும் காண முடிகிறது. நடக்கும் போது தொடங்கி",
+      "timestamp": "January 25, 2025  11:06 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199272",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "eaa58ac54f377677e05febf037200b4c8ceac74c50430c69095267af98519f56"
+    },
+    {
+      "title": "வெளிநாட்டு வேலைவாய்ப்பு மோசடி - 132 பேர் கைது",
+      "href": "news.php?nid=199273",
+      "byline": "வெளிநாடுகளுக்கு செல்வதற்காக சட்டவிரோத நிறுவனங்களுக்கு பணம் வழங்கும் சம்பவங்கள் அதிகரித்து வருவதாக வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் தெரிவித்துள்ளது",
+      "timestamp": "January 25, 2025  11:12 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199273",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "c2d5b086e4f846a9d24950534e2ca410b1e69dbfff6f494c55e7bf6fa5d14abe"
+    },
+    {
+      "title": "இன்றைய ராசி பலன்",
+      "href": "news.php?nid=199274",
+      "byline": "இன்று (25) குரோதி வருடம் தை மாதம் 12, சனிக் கிழமை, சந்திரன் விருச்சிக ராசியில் சஞ்சரிக்கிறார். மேஷம் ராசியில் உள்ள அஸ்வினி, பரணி சேர்ந்தவர்களுக்கு",
+      "timestamp": "January 25, 2025  11:58 am",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199274",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "c46b240af8db86f49059c6bbb4445ce70450215b5711eeee5a1a8e96afc43e11"
+    },
+    {
+      "title": "உலர்ந்த திராட்சையில் கிடந்த பல்லி!",
+      "href": "news.php?nid=199275",
+      "byline": "கடையொன்றில் இருந்து வாங்கிய உலர்ந்த திராட்சைப் பொதியில் இறந்த பல்லி இருப்பதைக் காட்டும் வீடியோ 'அத தெரண'வுக்குக் கிடைத்தது. இது தொடர்பில் முன்னெடுத்த விசாரணையில்",
+      "timestamp": "January 25, 2025  12:10 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199275",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "9323c7813f805ce7c9636031a432eafbe22e4eb6b9682c9e0b1e02bf21ccb484"
+    },
+    {
+      "title": "யோஷித ராஜபக்ஷ கைது - காரணம் வெளியானது",
+      "href": "news.php?nid=199276",
+      "byline": "முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இரண்டாவது மகன் யோஷித ராஜபக்ஷ இன்று (25) காலை குற்றப் புலனாய்வுத் திணைக்களத்தால் கைது செய்யப்பட்டமை தொடர்பான மேலதிக விபரங்கள்",
+      "timestamp": "January 25, 2025  12:27 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199276",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "4b1214693652af2b589be6f6d74873f07cf225ee7a27b30c6d0ed4114d311990"
+    },
+    {
+      "title": "கட்டாருக்கான தூதுவராக பொறுப்பேற்ற முதலாவது பெண்!",
+      "href": "news.php?nid=199277",
+      "byline": "கட்டாருக்கான இலங்கை தூதுவராக ரோஷன் சித்தாரா கான் அசாத் அண்மையில் டோஹாவில் கடமைகளை பொறுப்பேற்றுக்கொண்டார். கட்டார் நாட்டிற்கான இலங்கைத் தூதராகத்",
+      "timestamp": "January 25, 2025  1:08 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199277",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "776e0920efce993c9c24791536d90eff67f24530ae0b7765fec0aebd46a166c3"
+    },
+    {
+      "title": "அமெரிக்காவின் புதிய பாதுகாப்பு செயலாளர் நியமனம்",
+      "href": "news.php?nid=199278",
+      "byline": "முன்னாள் fox news தொகுப்பாளரான பீட்டர் ஹெக்செத், அமெரிக்காவின் புதிய பாதுகாப்பு செயலாளராக நியமிக்கப்பட்டுள்ளார். அவரது நியமனத்திற்காக நடத்தப்பட்ட செனட் சபை",
+      "timestamp": "January 25, 2025  2:14 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199278",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "2aeaa2bf853fe810dd66803b350f14e158c61d6c2ab3c18346de43c3e23cb0b9"
+    },
+    {
+      "title": "கைதான யோஷித சி.ஐ.டியில்",
+      "href": "news.php?nid=199279",
+      "byline": "கைது செய்யப்பட்ட யோஷித ராஜபக்ஷ சற்றுமுன்னர் குற்றப் புலனாய்வுத் திணைக்களத்திற்கு அழைத்து வரப்பட்டுள்ளார். இன்று (25) காலை குற்றப் புலனாய்வுத்  திணைக்களத்தால்",
+      "timestamp": "January 25, 2025  2:25 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199279",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "2d4f7338e064ea7465d644a7e9ff819f66a977ad5e1c79b5f08f9e121b888eb7"
+    },
+    {
+      "title": "பல்கலைக்கழக மாணவர்கள் உண்ணாவிரதப் போராட்டம்",
+      "href": "news.php?nid=199280",
+      "byline": "யாழ்ப்பாண பல்கலைக்கழக மாணவர்கள் 09 பேருக்கு விதிக்கப்பட்டுள்ள வகுப்புத்தடைகளை நீக்க வேண்டும் உள்ளிட்ட கோரிக்கைகளை முன் வைத்து மாணவ ஒன்றிய பிரதிநிதிகள் உணவு",
+      "timestamp": "January 25, 2025  2:40 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199280",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "0ad524c9a7f150f74f88dcea72d21aee1b361b2acb6f6dc9936f516e7288387c"
+    },
+    {
+      "title": "பல புதிய ரயில் சேவைகள் விரைவில்",
+      "href": "news.php?nid=199281",
+      "byline": "சுற்றுலாத் தொழிற்துறையை மேம்படுத்துவதற்கும் நீண்ட தூர சேவைகளுக்காகவும் பல புதிய ரயில் சேவைகளை அறிமுகப்படுத்த ரயில்வே திணைக்களம் தீர்மானித்துள்ளது",
+      "timestamp": "January 25, 2025  2:51 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199281",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "0eb68384e34a46d97c7eee925566d8c18ef985133ecbe0818a680954ad9d5319"
+    },
+    {
+      "title": "யாழில் சர்வதேச வர்த்தகக் கண்காட்சி",
+      "href": "news.php?nid=199282",
+      "byline": "15 ஆவது யாழ்ப்பாணம் சர்வதேச வர்த்தகக் கண்காட்சி இரண்டாவது நாள் இன்று (25) இடம்பெற்று வருகிறது. நேற்று (24) காலை 10:30 மணிக்கு யாழ்ப்பாணம் முற்றவெளி மைதானத்தில்",
+      "timestamp": "January 25, 2025  3:29 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199282",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "3c0feb3f9c00d6abd631f729d727e349e0143c5b97764b1a0e32b8320d2bbd4d"
+    },
+    {
+      "title": "ஜனாதிபதி நிதியத்தின் விசேட அறிவிப்பு",
+      "href": "news.php?nid=199283",
+      "byline": "மக்களுக்கு மிகவும் பயனுள்ள சேவையை வழங்கும் நோக்கில் ஜனாதிபதி நிதியத்தின் பிரதேச செயலக மட்டத்தில் சேவை வழங்கும் வேலைத்திட்டம் எதிர்வரும் 7ஆம் திகதி அலரி மாளிகையில்",
+      "timestamp": "January 25, 2025  3:34 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199283",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "bdba1dc32885494346275d842c68a5bf5f9d8aed023b3c332b1e9cca12b8b1e2"
+    },
+    {
+      "title": "புத்தளத்தில் மஞ்சள், ஏலக்காய் மீட்பு",
+      "href": "news.php?nid=199284",
+      "byline": "புத்தளம் கற்பிட்டி, கீரிமுந்தல் மற்றும் துறையடி ஆகிய கடற்பிரதேசங்களில் இருந்து ஒருகொகை மஞ்சள் மற்றும் ஏலக்காய் என்பவற்றுடன் சந்தேக நபர்கள் இருவர் நேற்று (24) கடற்படையினரால்",
+      "timestamp": "January 25, 2025  3:42 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199284",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "06a8ab51784d8df849f62d0724942c6a9619f400971ae2af7e0145f9959d0868"
+    },
+    {
+      "title": "சுங்கத்தில் 4,000 மெட்ரிக் தொன் அரிசி தடுத்து வைப்பு",
+      "href": "news.php?nid=199285",
+      "byline": "தனியார் துறையால் இறக்குமதி செய்யப்பட்ட 4,000 மெட்ரிக் தொன் அரிசியை விடுவிக்க முடியாமல் சுங்கத்தில் தடுத்து வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. அரசாங்கம் அரிசி இறக்குமதி செய்வதற்கு",
+      "timestamp": "January 25, 2025  4:15 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199285",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "e0b86b64b07be1fa44dc29327b170efec267fdb1ba976181c7478e627eb4ce05"
+    },
+    {
+      "title": "நுவரெலியாவில் உந்துருளி விபத்து - ஒருவர் பலி",
+      "href": "news.php?nid=199286",
+      "byline": "நுவரெலியா - உடப்புசல்லாவ குறுக்கு வீதியில் சமூர்த்தி வங்கிக்கு அருகில் நேற்று (24) இரவு இடம்பெற்ற விபத்தில் உந்துருளியில் பயணித்த ஒருவர் உயிரிழந்துள்ளார்.",
+      "timestamp": "January 25, 2025  4:16 pm",
+      "url": "https://tamil.adaderana.lk/news.php?nid=199286",
+      "isoTimestamp": "2025-01-25T16:30:35+05:30",
+      "baseUrl": "https://tamil.adaderana.lk",
+      "checkSum": "640ad01bb3f979c11cfca41cb3dd9ddc50dd3e87f083e7c8fc4f010e36cdc90d"
+    }
+  ],
   {
     "title": "இன்றைய வானிலை",
     "href": "news.php?nid=199259",
     "byline": "ஊவா மற்றும் தென் மாகாணங்களிலும் அம்பாறை, மட்டக்களப்பு, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய",
     "timestamp": "January 25, 2025  6:16 am",
     "url": "https://tamil.adaderana.lk/news.php?nid=199259",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "5ab76ea9a9357c78f2be7cb7c6c6f26529f6973704bc5a77e2e66558cbcd1e8c"
-  },
-  {
-    "title": "மன்னார் துப்பாக்கிச் சூட்டு சம்பவம் - வௌியான பகீர் தகவல்",
-    "href": "news.php?nid=199260",
-    "byline": "மன்னார் நீதிமன்றத்தின் முன் கடந்த 16 ஆம் திகதி இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்துடன் தொடர்புடையதாக கைது செய்யப்பட்ட 5 சந்தேக நபர்களையும்",
-    "timestamp": "January 25, 2025  6:33 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199260",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "32dd9c1d6e62d7324e5f464e920af98e30abdab63ba10abcbaee99d027187305"
-  },
-  {
-    "title": "தப்பிச் சென்ற கைதி மதுபோதையில் கைது",
-    "href": "news.php?nid=199261",
-    "byline": "சிறைச்சாலை அதிகாரிகளிடமிருந்து தப்பிச் சென்ற சந்தேக நபர் மதுபோதையில் மோட்டார் சைக்கிளில் சென்றுக் கொண்டிருந்த போது பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.",
-    "timestamp": "January 25, 2025  7:25 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199261",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "e9848a2a0621fd884e7858c28e98a95f8fe81378a206a3e3ec2abcd1b26fa904"
-  },
-  {
-    "title": "போதைப்பொருள் மற்றும் ஆயுதங்களுடன் நபரொருவர் கைது",
-    "href": "news.php?nid=199263",
-    "byline": "குற்றம் மற்றும் போதைப்பொருள் தடுப்பு நடவடிக்கை தொடர்பாக பொலிஸ் விசேட அதிரடிப் படையின் சிறப்பு நடவடிக்கைப் பிரிவினரால் நேற்று (24) மேற்கொள்ளப்பட்ட நடவடிக்கையின்",
-    "timestamp": "January 25, 2025  7:55 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199263",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "a637cfd569b1bed7c1295c9d353c0c7ccdd491ef838ac6e323429dab824849a1"
-  },
-  {
-    "title": "டிரம்பின் உத்தரவுக்கு தடை விதித்த அமெரிக்க நீதிமன்றம்",
-    "href": "news.php?nid=199264",
-    "byline": "அமெரிக்க குடியுரிமை பெறாத பெற்றோருக்கு பிறக்கும் குழந்தைகளுக்கு வழங்கப்பட்டு வந்த பிறப்பின் அடிப்படையிலான குடியுரிமையை ரத்து செய்யும் அமெரிக்க",
-    "timestamp": "January 25, 2025  8:05 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199264",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "ed093a60e82861732fa6a462d7b8f819692c0d6dbd7e44686ccb1303faa0a171"
-  },
-  {
-    "title": "தேங்காய் தட்டுப்பாட்டிற்கான காரணம் வௌியானது",
-    "href": "news.php?nid=199265",
-    "byline": "நாட்டில் தேங்காய்களின் விலை அதிகமாக இருப்பதற்கு முக்கிய காரணம், மக்கள்தொகை அதிகரிப்புடன் ஒப்பிடும்போது கடந்த 20 ஆண்டுகளில் தேங்காய் உற்பத்தி",
-    "timestamp": "January 25, 2025  8:44 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199265",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9db3957b627fa1736622f3d74ef28b6aa9b2f6a5471b569ace541e58b9cc91d6"
-  },
-  {
-    "title": "கஞ்சா செடியை வளர்க்க அரசு அனுமதி",
-    "href": "news.php?nid=199266",
-    "byline": "கடந்தாண்டு இந்தியா முழுவதும் சட்டவிரோதமாக கஞ்சா செடிகள் வளர்த்த விவகாரத்தில் பலர் கைது செய்யப்பட்டுள்ளனர். இதனிடையே இளைஞர்களிடையே கஞ்சா",
-    "timestamp": "January 25, 2025  9:08 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199266",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9dd3d8d377b4a4c69c73b37023a6903384c57788d965f577d9e17aa16d5dc363"
-  },
-  {
-    "title": "இலங்கை வந்த அவுஸ்திரேலியா அணி",
-    "href": "news.php?nid=199267",
-    "byline": "'வோர்ன் - முரளி' டெஸ்ட் கிரிக்கெட் தொடரில் பங்கேற்க அவுஸ்திரேலிய அணி நேற்று (24) இரவு நாட்டை வந்தடைந்தது. துபாயில் நடந்த பயிற்சி முகாமில் கலந்து கொண்ட அவர்கள் துபாயிலிருந்து",
-    "timestamp": "January 25, 2025  9:12 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199267",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "3661666e349d37b4fb6c1c23c6489b93d95b596bd51f8fc062e34da1a474a0ea"
-  },
-  {
-    "title": "காற்று மாசுபாட்டால் திணறும் தாய்லாந்து",
-    "href": "news.php?nid=199268",
-    "byline": "உலகின் சமீபத்திய மிகப்பெரும் பிரச்சனையாக காலநிலை மாற்றம் உருவெடுத்துள்ளது. இதன் விளைவாக உலகம் வெப்பமயமாதல், கடல் நீர் மட்டம் உயர்வு, அதீத கனமழை",
-    "timestamp": "January 25, 2025  9:32 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199268",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "5f636ab34df5e049e400eba3ec0b1381a2f124722cfd0222a62e2d788315ee71"
-  },
-  {
-    "title": "தந்தையின் சாதனையை முறியடித்த மகன்",
-    "href": "news.php?nid=199269",
-    "byline": "இங்கிலாந்தின் உள்ளூர் போட்டி ஒன்றில் இங்கிலாந்து லயன்ஸ் அணியும், அவுஸ்திரேலியா லெவன் அணியும் மோதின. முதலில் ஆடிய அவுஸ்திரேலியா லெவன் அணி முதல் இன்னிங்சில்",
-    "timestamp": "January 25, 2025  9:41 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199269",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "6f80e63736c6de2c5ef0fed57e4347264b1b13193a45ca74852b5048d493740e"
-  },
-  {
-    "title": "பேர வாவியில் உயிரிழக்கும் பறவைகள்..! காரணம் பறவைக் காய்ச்சலா?",
-    "href": "news.php?nid=199270",
-    "byline": "கொழும்பு, பேர வாவியில்  பறவைகள் உயிரிழக்கின்றமை தொடர்பில் நீர் மாதிரிகள் குறித்த ஆராய்ச்சி அறிக்கையை மூன்று நாட்களுக்குள் வழங்க நடவடிக்கை",
-    "timestamp": "January 25, 2025  9:43 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199270",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "025b47c1b1b462189f7246958dacbb08602d4df3c1b14f9b585eadd916b44f68"
-  },
-  {
-    "title": "யோஷித ராஜபக்ஷ கைது",
-    "href": "news.php?nid=199271",
-    "byline": "முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் புதல்வன் யோஷித ராஜபக்ஷ குற்றப்புலனாய்வுத் திணைக்கள அதிகாரிகளால் கைது செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.",
-    "timestamp": "January 25, 2025  10:08 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199271",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "96b875f2c7bfd9b6fab3dc7485efc602ad9745da69eb27e257593ff0761b22e6"
-  },
-  {
-    "title": "பொலிஸார் துப்பாக்கிச்சூடு நடத்திய காரில் சென்ற இருவர் கைது",
-    "href": "news.php?nid=199209",
-    "byline": "கொழும்பு வடக்கு குற்றப் புலனாய்வுப் பணியகத்தின் மோட்டார் சைக்கிள் குழு நேற்று (23) கிரான்ட்பாஸ் பகுதியில் திடீர் போக்குவரத்து சோதனையை மேற்கொண்டிருந்தது.",
-    "timestamp": "January 24, 2025  7:49 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199209",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "8ad7dd3e9b0d2801e30286717e2d2efd057483dccf0598f19e3f925dee49236b"
-  },
-  {
-    "title": "புகையிலை நிறுவனத்தின் இலாபம் 400 சதவீதத்தால் அதிகரிப்பு",
-    "href": "news.php?nid=199210",
-    "byline": "முறையற்ற வரி நிர்ணயம் காரணமாக கடந்த 5 வருடங்களில் நாடு சுமார் 100 பில்லியன் ரூபா கலால் வருவாயை இழந்துள்ளதாக மது மற்றும் போதைப்பொருள் தகவல் மையம் தெரிவித்துள்ளது.",
-    "timestamp": "January 24, 2025  8:47 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199210",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "b1c6930980ede03802a40dd054ada77584ff034a7c6e2b82587048f6314ccbbf"
-  },
-  {
-    "title": "தூதுவர்களுக்கு வழங்கப்பட்ட இலக்கு!",
-    "href": "news.php?nid=199211",
-    "byline": "நாடுகளுக்காக நியமிக்கப்படும் தூதுவர்கள் மற்றும் உயர்ஸ்தானிகர்களுக்கு குறிப்பிட்ட இலக்குகள் நிர்ணயிக்கப்பட்டுள்ளதாக தொழிற் கல்வி பிரதி அமைச்சர் நலின் ஹேவகே தெரிவித்தார்.",
-    "timestamp": "January 24, 2025  9:11 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199211",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "b7a03f31b70b0fed6ad00b48aa0999fa0391b438cd1f6f1fc378a25216fe4a0f"
-  },
-  {
-    "title": "இன்றைய ராசி பலன்",
-    "href": "news.php?nid=199212",
-    "byline": "இன்று (24) குரோதி வருடம் தை மாதம் 11 வெள்ளிக்கிழமை, சந்திரன் விருச்சிகம் ராசியில் சஞ்சரிக்கிறார். மீனம், மேஷம் ராசியில் ரேவதி, அஸ்வினி நட்சத்திரத்தை",
-    "timestamp": "January 24, 2025  9:19 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199212",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9df1ce4fe0f59f7f9a050e4e3b5f05741a6c7ce045d36376f0f9c23224aad8c3"
-  },
-  {
-    "title": "இன்றைய பாராளுமன்ற கூட்டத்தொடர் ஆரம்பம்",
-    "href": "news.php?nid=199213",
-    "byline": "சபாநாயகர் தலைமையில் பாராளுமன்ற நடவடிக்கைகள் ஆரம்பமாகியுள்ளன. பாராளுமன்ற கூட்டத்தொடர் மு.ப. 09.30 முதல் பி.ப. 5.30 மணிவரை",
-    "timestamp": "January 24, 2025  9:31 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199213",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "e9e367c72409922d5d21848e44e4edb6e69795f73f2b8c1cece58e009fa5da1c"
-  },
-  {
-    "title": "தீ விபத்து வதந்தியால் ரயிலில் இருந்து குதித்த பயணிகள்",
-    "href": "news.php?nid=199214",
-    "byline": "இந்தியாவில் மகாராஷ்டிரா மாநிலம் ஜல்கானில் கர்நாடக விரைவு ரயில் மோதியதில் 12 பயணிகள் உயிரிழந்தனர். உத்தர பிரதேச மாநிலம் லக்னோவில் இருந்து, மும்பைக்கு புஷ்பக் விரைவு",
-    "timestamp": "January 24, 2025  9:36 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199214",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "f84c43255130e0cb5e99334ee23be74a84cc89a3a2bc9742b33a5decdc21c7d2"
-  },
-  {
-    "title": "கூரிய ஆயுதத்தால் தாக்கப்பட்டு நபரொருவர் கொலை!",
-    "href": "news.php?nid=199215",
-    "byline": "ஈச்சங்குளம் பொலிஸ் பிரிவின் சுந்தரபுரம் பகுதியில் இன்று (24) அதிகாலை கூரிய ஆயுதத்தால் தாக்கி ஒருவர் படுகொலை செய்யப்பட்டுள்ளார். உயிரிழந்த நபருக்கும் மற்றைய நபருக்கும் இடையே ஏற்பட்ட",
-    "timestamp": "January 24, 2025  9:46 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199215",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "ea78e3d82a72986b39c189f538cdcda11e8beab6d6683e7cbec56d9f62c7f9b8"
-  },
-  {
-    "title": "சர்வதேச நடைமுறைகளை பின்பற்ற வேண்டியது அவசியம்",
-    "href": "news.php?nid=199216",
-    "byline": "எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நேற்று (23) பாராளுமன்றத்தில் ரோஹின்யா மக்களின் உரிமைகள் தொடர்பாக பாராளுமன்றத்தில் மேற்கொண்ட உரை பின்வருமாறு,",
-    "timestamp": "January 24, 2025  9:50 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199216",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "c978a43524955b0b130302cc8702bb5e236efe2892e99aa3c1b29c9147bafcf5"
-  },
-  {
-    "title": "மியான்மரில் 4.8 ரிக்டர் அளவில் லேசான நிலநடுக்கம்",
-    "href": "news.php?nid=199217",
-    "byline": "மியான்மரில் இன்று (24) அதிகாலை லேசான நிலநடுக்கம் ஏற்பட்டது. இந்த நிலநடுக்கம் 4.8 ரிக்டர் அளவில் பதிவானது என அந்நாட்டு தேசிய நில அதிர்வு ஆய்வு மையம்",
-    "timestamp": "January 24, 2025  10:00 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199217",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "855cdd3de0f05abd80637a91c858872a0e15aa8ad75d931f3fe8772ed3bf58eb"
-  },
-  {
-    "title": "கூட்டுறவு பயிற்சி நிலையத்தை விடுவிக்க இராணுவம் இணக்கம்",
-    "href": "news.php?nid=199218",
-    "byline": "15 வருடமாக இராணுவத்தின் வசமுள்ள வவுனியா கூட்டுறவு பயிற்சி நிலையத்தை விடுவிக்க இராணுவம் இணக்கம் தெரிவித்துள்ளதாக தேசிய மக்கள் சக்தியின் வன்னி மாவட்ட",
-    "timestamp": "January 24, 2025  10:05 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199218",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "a144f64bebc31ae55229901683671c6c527fb381acfb1f694cd51f548636f8b7"
-  },
-  {
-    "title": "பாதசாரி மீது மோதிய லொறி - இங்கிரியவில் சம்பவம்",
-    "href": "news.php?nid=199219",
-    "byline": "இங்கிரிய பொலிஸ் பிரிவுக்குட்பட்ட இரத்தினபுரி - பானந்துறை வீதியின் திவுல்பத பிரதேசத்தில் இரத்தினபுரி திசையிலிருந்து இங்கிரிய நோக்கி பயணித்த லொறியொன்று வீதியின் குறுக்காக",
-    "timestamp": "January 24, 2025  10:13 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199219",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "c34ef937cd341d0d6060e3e9203c189717b25c931de8e9cf1ff29a8d0fbe0445"
-  },
-  {
-    "title": "பரீட்சைகள் ஆணையாளர் தலைமையில் விசேட ஊடகவியலாளர் சந்திப்பு",
-    "href": "news.php?nid=199220",
-    "byline": "2020 ஆம் ஆண்டு தரம் ஐந்து புலமைப்பரிசில் பரீட்சையில் 188 என்ற அதிக மதிப்பெண்களை மாணவரொருவர் பெற்றுள்ளதாக  பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.",
-    "timestamp": "January 24, 2025  10:43 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199220",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9a43e9d6f9e9e584bbf7f02d4b99b3e6110efc6454b5b84599c6653320bb16b3"
-  },
-  {
-    "title": "விவசாய நவீனமயமாக்கல் செயற்திட்ட அறுவடை விழா!",
-    "href": "news.php?nid=199221",
-    "byline": "நெற்செய்கையில் விவசாய நவீனமயமாக்கல் கிராமங்களை உருவாக்கும் முன்மாதிரி செயற்திட்ட அறுவடை விழா இன்று (24) கிளிநொச்சியில் இடம்பெற்றது.",
-    "timestamp": "January 24, 2025  10:53 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199221",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "e6fa97a3e0cae6c8f50dabda7b49b4a0ec9dc88d7f8ee971c3c097bae5902115"
-  },
-  {
-    "title": "புலமைப்பரிசில் பரீட்சையில் சாதித்த மாணவர்கள்",
-    "href": "news.php?nid=199222",
-    "byline": "2024 தரம் 5 புலமைப்பரிசில் பரீட்சையில் 18 மாணவர்கள் அதிக மதிப்பெண்களை பெற்றுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜெயசுந்தர தெரிவித்துள்ளார்.",
-    "timestamp": "January 24, 2025  11:01 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199222",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9b4ab4b4290619ecb1dd3fd50a35dd3db3d31b72fa3b50f1bae0f469a94fc5cb"
-  },
-  {
-    "title": "சோழன் உலக சாதனை படைத்த 8 வயது மாணவன்",
-    "href": "news.php?nid=199223",
-    "byline": "மாத்தளை, கலாதுவெல பகுதியில் வசித்து வரும் தினேஸ்ராஜ் மற்றும் ஷெரின் போன்றோரின் 8 வயது மகனான நிஷ்விக் மாத்தளையில் இயங்கி வரும் எஸ்.ஐ.பி அபாகஸ் திறன்",
-    "timestamp": "January 24, 2025  11:07 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199223",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "fbdb3537c584a4f9744abc83eff7d39d2a5057226681d26b234810bc84b0c59f"
-  },
-  {
-    "title": "டிக்டொக் காதலியின் வீட்டுக்கு வந்த இளைஞன் கைது!",
-    "href": "news.php?nid=199224",
-    "byline": "நுவரெலியா மாவட்டம், அக்கரபத்தனை, பசுமலை பகுதியிலுள்ள பாடசாலை மாணவியான, டிக்டொக் காதலியின் வீட்டுக்கு சென்ற திருகோணமலை பகுதியைச் சேர்ந்த இளைஞன்",
-    "timestamp": "January 24, 2025  11:14 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199224",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "18a0e6b73c588ad5fbccc5f10628cc91bad966d697f3ffdc93be173e6f4cb384"
-  },
-  {
-    "title": "'யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையம்' என பெயர் மாற்றம்",
-    "href": "news.php?nid=199225",
-    "byline": "இந்திய நிதியுதவியில் யாழ்ப்பாணத்தில் கட்டப்பட்டுள்ள கட்டடத்திற்கு 'யாழ்ப்பாணம் திருவள்ளுவர் பண்பாட்டு மையம்' என தற்போது பெயர் பலகை பொருத்தப்பட்டுள்ளது.",
-    "timestamp": "January 24, 2025  11:38 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199225",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "5cfa3d1e8eb58b996030acfb38ec387e8216dd18b75088c5c190df2b8693ff4f"
-  },
-  {
-    "title": "சலோச்சன கமகே பிணையில் விடுவிப்பு",
-    "href": "news.php?nid=199226",
-    "byline": "9 மில்லியன் ரூபா இலஞ்சம் பெற்ற சம்பவம் தொடர்பில் விளக்கமறியலில் வைக்கப்பட்டிருந்த முன்னாள் மாகாண சபை உறுப்பினர் சலோச்சன கமகே உள்ளிட்ட இரண்டு சந்தேக நபர்களை",
-    "timestamp": "January 24, 2025  11:43 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199226",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "526f711131f95c3a864e13f4f5de21be73869f384913185d51260ddba2695679"
-  },
-  {
-    "title": "வவுனியாவில் 128 கிலோ மாட்டிறச்சியுடன் வாகனம் மடக்கி பிடிப்பு",
-    "href": "news.php?nid=199227",
-    "byline": "வவுனியா நெளுக்குளம் பொலிஸ் பிரிவுக்குட்பட்ட 4 ஆம் கட்டை பகுதியில் 128 கிலோ மாட்டிறச்சியுடன் வாகனம் ஒன்றினை பொலிஸார் கைப்பற்றியுள்ளதுடன் இருவரை கைது செய்துள்ளனர்.",
-    "timestamp": "January 24, 2025  11:57 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199227",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "af1bc777018c334f403c7c3fc3898265a444581f728bbc925d71048037f685e7"
-  },
-  {
-    "title": "சூப்பர் 6 சுற்றில் இலங்கை அணி விளையாடும் போட்டிகள் அறிவிப்பு",
-    "href": "news.php?nid=199228",
-    "byline": "மலேசியாவில் இடம்பெற்று வரும் 19 வயதுக்குட்பட்ட மகளிர் இருபதுக்கு 20 உலகக் கிண்ணத் தொடரில் சூப்பர் 6 சுற்றில் இலங்கை அணி விளையாடும் போட்டிகள் தற்போது அறிவிக்கப்பட்டுள்ளன.",
-    "timestamp": "January 24, 2025  12:27 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199228",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "3701b73714c2d99c26b35f3444bdd955176c790f7530baa6c1eaf7736f5f6341"
-  },
-  {
-    "title": "வவுனியா சுந்தரபுரத்தில் ஒருவர் வெட்டிக் கொலை",
-    "href": "news.php?nid=199229",
-    "byline": "வவுனியா சுந்தரபுரத்தில் நேற்று (23) இரவு ஒருவர் வெட்டிக் கொலை செய்யப்பட்டுள்ளார். சுந்தரபுரம் பகுதியில் வசித்து வந்த 28 வயதுடைய ஒரு பிள்ளையின் தந்தையே கொலை",
-    "timestamp": "January 24, 2025  12:42 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199229",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "7ae8da92277d73b60268090432eeab4bdacd368e38f4bbdcc4f42a3b9b8c3111"
-  },
-  {
-    "title": "2024 ஆம் ஆண்டுக்கான ஐசிசி ஒருநாள் அணி அறிவிப்பு;  அணித்தலைவரான அசலங்க!",
-    "href": "news.php?nid=199230",
-    "byline": "2024 ஆம் ஆண்டுக்கான ஐசிசி சிறந்த ஆடவர் ஒருநாள் கனவு அணி அறிவிக்கப்பட்டுள்ளது. இதில், இலங்கை அணியின் சரித் அசலங்க அணித்தலைவராக நியமிக்கப்பட்டுள்ளார்.",
-    "timestamp": "January 24, 2025  12:55 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199230",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "afd1de65ec388b53a658b77e3a6ef42b6b50913961c7ee3734c9a9d2295bd998"
-  },
-  {
-    "title": "மொட்டுவின் தேர்தல் பிரச்சாரம் நாளை ஆரம்பம்",
-    "href": "news.php?nid=199231",
-    "byline": "உள்ளூராட்சி மன்றத் தேர்தலுக்கான ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேர்தல் பிரச்சார நடவடிக்கைகள் நாளை (25) அனுராதபுரத்தில் ஆரம்பமாக உள்ளது.",
-    "timestamp": "January 24, 2025  1:10 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199231",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "3998dcbfbd2ac150eec43bd8e7639ea471beb5a38a77ddee2a888b57e05f043c"
-  },
-  {
-    "title": "மக்களுக்கு பல சேவைகளை செய்தவர்கள்",
-    "href": "news.php?nid=199232",
-    "byline": "இன்றைய பாராளுமன்ற கூட்டத்தொடரில் இடம்பெற்று வரும் அனுதாபப் பிரேரணையில் உரையாற்றிய காதர் மஸ்தானின் உரை,",
-    "timestamp": "January 24, 2025  1:22 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199232",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "6c61da28dbea4c1b040729801c86ec7d948b0fe6d022cd9cd176a5b51c5d8998"
-  },
-  {
-    "title": "சோதனையின்றி விடுவிக்கப்படும் கொள்கலன்கள் - பொறுப்பை ஏற்கும் அரசாங்கம்",
-    "href": "news.php?nid=199233",
-    "byline": "இறக்குமதி செய்யப்பட்ட கொள்கலன்களை விடுவிப்பதில் ஏற்பட்ட தாமதம் மற்றும் நெரிசல் காரணமாக, சோதனைக்கு உட்படுத்தாமல் சுங்கத்திலிருந்து விடுவிக்கப்பட்ட 323 கொள்கலன்களுக்கான",
-    "timestamp": "January 24, 2025  1:32 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199233",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "20eebf72bca15fcd8f1b971bf4e097f91f2244badb9bf51fd9c6df94967f2c34"
-  },
-  {
-    "title": "புலமைப்பரிசில் பரீட்சை - அகில இலங்கை ரீதியில் முதலிடம் பிடித்த மாணவி",
-    "href": "news.php?nid=199234",
-    "byline": "2024 புலமைப்பரிசில் பரீட்சையில் ஹொரணை ரோயல் கல்லூரியைச் சேர்ந்த மாணவி ஒருவர் அகில இலங்கை ரீதியில்  அதிக மதிப்பெண்களை பெற்று முதலிடம் பிடித்துள்ளார்.",
-    "timestamp": "January 24, 2025  1:51 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199234",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "526aefab4b7a59c14a43a4ca5d82a3dc4fa71ed5640ec166f4bcdd06cb971211"
-  },
-  {
-    "title": "ஒரு நல்ல பண்பை கொண்ட மனிதன்",
-    "href": "news.php?nid=199235",
-    "byline": "இன்றைய பாராளுமன்ற கூட்டத்தொடரில் இடம்பெற்று வரும் அனுதாபப் பிரேரணையில் உரையாற்றிய ஹிஸ்புல்லாஹ் உரை,",
-    "timestamp": "January 24, 2025  2:32 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199235",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "4f965fc84f5d95e919b5f44a889063d8e2144c13f45bc6f214d409848f78056b"
-  },
-  {
-    "title": "2024 ஐசிசி மகளிர் ஒருநாள் அணி அறிவிப்பு",
-    "href": "news.php?nid=199236",
-    "byline": "2024 ஆம் ஆண்டுக்கான ஐசிசி சிறந்த மகளிர் ஒருநாள் கனவு அணி அறிவிக்கப்பட்டுள்ளது. இதில், இலங்கை அணியின் சமரி அத்தபத்து இடம்பெற்றுள்ளார்.",
-    "timestamp": "January 24, 2025  2:42 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199236",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "3f6ecb4a38a2ca385c955d6cde604cad626113597b45d9a6e226943ab0d91b9c"
-  },
-  {
-    "title": "கோபா தலைவராக அரவிந்த செனரத் நியமனம்",
-    "href": "news.php?nid=199237",
-    "byline": "பத்தாவது பாராளுமன்றத்தின் அரசாங்க கணக்குகள் பற்றிய குழுவின் (COPA) தலைவராக பாராளுமன்ற உறுப்பினர் அரவிந்த செனரத் நியமிக்கப்பட்டுள்ளார்.",
-    "timestamp": "January 24, 2025  2:51 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199237",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "874f1c53ef5e39b7400f2c750a8734026ae24684424015e2e8095095c07e7efa"
-  },
-  {
-    "title": "மக்களின் உரிமைகளுக்காக தன்னை அர்ப்பணித்த ஒருவர்",
-    "href": "news.php?nid=199238",
-    "byline": "ருக்மன் சேனாநாயக்க, ஐதுருஸ் முஹம்மது இல்லயாஸ் மறைவுக்கு தொடர்பில் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று (24) பாராளுமன்றத்தில் தனது அனுதாபப்",
-    "timestamp": "January 24, 2025  2:59 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199238",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "fb3812940e527d90f9eb8ac19c8e5753d2cc1b89a4a3808b7da1ece1c2fb12ac"
-  },
-  {
-    "title": "பல படங்களில் நடித்த துணை நடிகர் மரணம்",
-    "href": "news.php?nid=199239",
-    "byline": "தனுஷ் நடித்த புதுப்பேட்டை, பிகில், விக்ரம் வேதா உள்ளிட்ட பல படங்களில் துணை நடிகராக நடித்தவர் ஜெயசீலன். அட்லீ இயக்கத்தில் விஜய் நடித்த 'தெறி' படத்தில் பாடசாலையில் இருக்கும்",
-    "timestamp": "January 24, 2025  3:21 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199239",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "246d76cec0f25c15fe8e11e667fc6608360d69b8e6d22d1f4ef67ed0adb0320a"
-  },
-  {
-    "title": "சர்வதேச வர்த்தகக் கண்காட்சி",
-    "href": "news.php?nid=199240",
-    "byline": "15 ஆவது யாழ்ப்பாணம் சர்வதேச வர்த்தகக் கண்காட்சி இன்று (24) ஆரம்பமானது. இன்று காலை 10:30 மணிக்கு யாழ்ப்பாணம் முற்றவெளி மைதானத்தில்",
-    "timestamp": "January 24, 2025  3:36 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199240",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "aa18803c9523094d505117009a33a0b2488369d5cb444b5b2cbcdd7de778e0ef"
-  },
-  {
-    "title": "மசாஜ் நிலைய உரிமையாளருக்கு 15 ஆண்டுகள் கடூழிய சிறைத்தண்டனை",
-    "href": "news.php?nid=199241",
-    "byline": "இந்தோனேசியாவிலிருந்து மூன்று இளம் பெண்களை சிகிச்சை நிபுணர்கள் தொழிலுக்காக அழைத்து வந்து விபச்சாரத்தில் ஈடுபடுத்தியதற்காக மசாஜ் நிலைய உரிமையாளருக்கு",
-    "timestamp": "January 24, 2025  3:38 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199241",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "acb04c2f92fed02a49dcc5755b0f509caf2bc8850803c74d73d8137f73e58fe7"
-  },
-  {
-    "title": "சொத்துக்களை மீட்பதற்கு சுவிட்சர்லாந்து ஆதரவு",
-    "href": "news.php?nid=199242",
-    "byline": "இலங்கையிலிருந்து எடுத்துச் செல்லப்பட்ட சொத்துக்களை மீட்பதற்கு சுவிட்சர்லாந்து அரசாங்கம் உதவி வழங்கும் என்று இலங்கை மற்றும் மாலைதீவுகளுக்கான",
-    "timestamp": "January 24, 2025  3:50 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199242",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "60c16b956ce5aecca829150684010b642dfa1389bf497243764f3fa01265d230"
-  },
-  {
-    "title": "உயர் நீதிமன்றம் சென்ற மஹிந்த",
-    "href": "news.php?nid=199243",
-    "byline": "தனது பாதுகாப்புப் பிரிவை மீண்டும் வழங்க உத்தரவிடக் கோரி முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ உயர் நீதிமன்றத்தில் அடிப்படை உரிமைகள் மனுவொன்றைத் தாக்கல் செய்துள்ளார்.",
-    "timestamp": "January 24, 2025  3:58 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199243",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "0f650b41094e3ba7a104a9c3550aa869d17d0dd4078ce2c3ccf5adcaaaf5ea85"
-  },
-  {
-    "title": "'வோர்ன்-முரளி' டெஸ்ட் தொடருக்கான இலங்கை அணி அறிவிப்பு",
-    "href": "news.php?nid=199244",
-    "byline": "இலங்கை மற்றும் அவுஸ்திரேலியா அணிகளுக்கு இடையிலான இரண்டு போட்டிகள் கொண்ட 'வோர்ன்-முரளி' டெஸ்ட் தொடருக்கான இலங்கை அணி இன்று (24) அறிவிக்கப்பட்டுள்ளது.",
-    "timestamp": "January 24, 2025  4:19 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199244",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9577af30719d20cf267454b80ef71b3a4ceb14aa6af8a37865cc32753cc7c320"
-  },
-  {
-    "title": "பாராளுமன்றத்தில் தைப்பொங்கல் தினம்",
-    "href": "news.php?nid=199245",
-    "byline": "கடந்த 14 ஆம் திகதி அனுஷ்டிக்கப்பட்ட தைப்பொங்கல் தினத்தை கொண்டாடும் வகையில் இலங்கை பாராளுமன்ற வளாகத்தில் தைப்பொங்கல் தின நிகழ்வு இன்று (24) வைபவரீதியாக",
-    "timestamp": "January 24, 2025  4:25 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199245",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "fb2c0978adba30a4fe6e02a4e476267ab59dedbbde67d6f8f1a9c4cefe60e717"
-  },
-  {
-    "title": "கண்டி மற்றும் மஹியங்கனை இரண்டு வீதிகளுக்கு பூட்டு",
-    "href": "news.php?nid=199246",
-    "byline": "கண்டி மற்றும் மஹியங்கனை வீதியின் சில வீதிகளை மறு அறிவித்தல் வரை மூடுவதற்கு வீதி அபிவிருத்தி அதிகாரசபை நடவடிக்கை எடுத்துள்ளது.",
-    "timestamp": "January 24, 2025  4:54 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199246",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "33966ea1501d312056feeda2c9975bb30ec5a0bcf09697e887716d680a145ebd"
-  },
-  {
-    "title": "அரசாங்கக் கணக்குகள் பற்றிய குழுவின் தலைவர் தெரிவு",
-    "href": "news.php?nid=199247",
-    "byline": "அரசாங்கக் கணக்குகள் பற்றிய குழுவின் புதிய தலைவராக தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அரவிந்த செனரத் இன்று (24) தெரிவு செய்யப்பட்டார்.",
-    "timestamp": "January 24, 2025  5:01 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199247",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "bc0a0804ea82e5f1bdee0c2bd3e090bd4e4e1c2e6d56397faa351c7a0dbdb67d"
-  },
-  {
-    "title": "ஐசிசி டெஸ்ட் அணியில் இடம்பிடித்த கமிந்து",
-    "href": "news.php?nid=199248",
-    "byline": "சர்வதேச கிரிக்கெட் சம்மேளனம் (ஐ.சி.சி) இன்று (24) அறிவித்த 2024 டெஸ்ட் அணியில் கமிந்து மெந்திஸ் இடம்பெற்றுள்ளார். இந்தக் அணியில் கமிந்து 6வது இடத்தில் உள்ளார்.",
-    "timestamp": "January 24, 2025  5:10 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199248",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "4512a2c0dadc798a4fd1b1f188ecdf9b6db63bda61f489a16d8f3ef7970503c9"
-  },
-  {
-    "title": "மன்னார் காற்றாலை திட்டம் ரத்துச் செய்யப்படவில்லை - அதானி குழுமம்",
-    "href": "news.php?nid=199249",
-    "byline": "மன்னார் மற்றும் பூநகரியில் அமையவுள்ள அதானியின் 484 MW காற்றாலை மின் திட்டங்கள் ரத்து செய்யப்பட்டுள்ளதாக வரும் செய்திகள் தவறானவை என அதானி குழுமம் தெரிவித்துள்ளது.",
-    "timestamp": "January 24, 2025  5:20 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199249",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "e9c67ef7636f56d4d3796478564be690b3ef123a3ddac45b28f6869e4433d98f"
-  },
-  {
-    "title": "யாழில். புகைப்பட கண்காட்சி",
-    "href": "news.php?nid=199250",
-    "byline": "நெதர்லாந்து தூதரகத்துடன் இலங்கை பத்திரிகை ஸ்தாபனம் இணைந்து நடத்தும் உலக ஊடகப் புகைப்படக் கண்காட்சி இன்று (24) யாழ்ப்பாணம் கலாச்சார மண்டபத்தில் ஆரம்பமாகியது.",
-    "timestamp": "January 24, 2025  5:27 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199250",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "14f6fd5ba84cd485825b85b8fdf5fcaf60fcea8241e0dbe4ac64b57bd8911028"
-  },
-  {
-    "title": "அநீதிக்கு எதிராக போராட்ட உணர்வோடு செயற்பட்டவர்",
-    "href": "news.php?nid=199251",
-    "byline": "மறைந்த முன்னாள் பாராளுமன்ற உறுப்பினர் டாக்டர். ஐ.எம்.இல்யாஸ் அவர்கள், அநீதிக்கு எதிராக துணிச்சலோடும் போராட்ட உணர்வோடும் செயற்பட்ட ஒருவர் என்று அகில",
-    "timestamp": "January 24, 2025  5:41 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199251",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "b9f5e10a16f06dcb26d774aa3ba2cdeb377dfd315e063f56f9655ec2ee9d778c"
-  },
-  {
-    "title": "யாழில் புலமை பரிசில் பரீட்சையில் அதிக புள்ளிகளை பெற்றவர்கள்",
-    "href": "news.php?nid=199252",
-    "byline": "யாழ்ப்பாணம் இந்து ஆரம்ப பாடசாலை மாணவனான பரமேஸ்வரன் பிரசோதன் புலமை பரிசில் பரீட்சையில் 186 புள்ளிகளை பெற்றுள்ளார். குறித்த பாடசாலையில் 220 மாணவர்கள் பரீட்சை எழுதிய நிலையில், 134",
-    "timestamp": "January 24, 2025  5:50 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199252",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "f85b8fd6af2055db8ba4c4234e5924ff353694437710a145407d693012e36c66"
-  },
-  {
-    "title": "திசைகாட்டி எல்லாவற்றையும் மாயையால் மறைக்கிறது",
-    "href": "news.php?nid=199253",
-    "byline": "ஜே.வி.பி தற்போது அதன் சொந்த மக்களிடமிருந்தே ஒரு சவாலை எதிர்கொள்கிறது என்று சர்வஜன அதிகாரத்தின் தலைவரும் பாராளுமன்ற உறுப்பினருமான தொழில்முனைவோர்",
-    "timestamp": "January 24, 2025  6:32 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199253",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "285e1f549f73a4ee1f4a3267a7c424ca79acbb5732c71fc5f22d95da62002ccc"
-  },
-  {
-    "title": "உள்ளூராட்சி தேர்தல் சட்டமூலத்திற்கு எதிரான மனு விசாரணை ஆரம்பம்",
-    "href": "news.php?nid=199254",
-    "byline": "அரசாங்கத்தால் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள உள்ளூராட்சி மன்றத் தேர்தல் தொடர்பான (விசேட ஏற்பாடுகள்) சட்டமூலத்தின் சில சரத்துக்கள்",
-    "timestamp": "January 24, 2025  7:23 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199254",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "d3f238b80d74535082baa17deae98cbe29ba6f09a6cf8a7491e322029175119d"
-  },
-  {
-    "title": "அதிக விலைக்கு அரிசி விற்பனை - இரவிலும் சுற்றிவளைப்பு",
-    "href": "news.php?nid=199255",
-    "byline": "அதிக விலைக்கு அரிசி விற்பனை செய்வது தொடர்பில்  கடந்த சில நாட்களில் நுகர்வோர் விவகார அதிகார சபை நூற்றுக்கும் மேற்பட்ட சுற்றிவளைப்புகளை மேற்கொண்டுள்ளது.",
-    "timestamp": "January 24, 2025  8:30 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199255",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "b2178420cd037b8093dcb1658800489bd2b735a42db779751caa150faa8650ae"
-  },
-  {
-    "title": "யாழ். பல்கலை மாணவர்கள் உணவு தவிர்ப்பு போராட்டம்",
-    "href": "news.php?nid=199256",
-    "byline": "யாழ்ப்பாண பல்கலைக்கழக மாணவர்கள் 09 பேருக்கு விதிக்கப்பட்டுள்ள வகுப்புத்தடைகளை நீக்க வேண்டும் உள்ளிட்ட சில கோரிக்கைகளை முன் வைத்து மாணவ",
-    "timestamp": "January 24, 2025  9:19 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199256",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "1a6fe74e75178b7ed1a31e0e3c656df366584a53bf6ce632fc1c274897854297"
-  },
-  {
-    "title": "வன்கொடுமைக்கு ஆளான இளம்பெண் பிறப்புறுப்பில் கத்தியை சொருகிக்கொண்ட பயங்கரம்!",
-    "href": "news.php?nid=199257",
-    "byline": "மகாராஷ்டிர மாநிலம் மும்பையில் ஆட்டோ ஓட்டுநரால் 20 வயது பெண் பாலியல் வன்கொடுமை பலாத்காரம் செய்யப்பட்ட சம்பவம் அதிர்ச்சியை ஏற்படுத்தி உள்ளது.",
-    "timestamp": "January 24, 2025  10:06 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199257",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "531c2a72c955464c817b0c2c2f0f9f6005b27a6cff322e9a2b359a02bd4f1608"
-  },
-  {
-    "title": "இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் கைது",
-    "href": "news.php?nid=199258",
-    "byline": "20,000 ரூபா இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் ஒருவரை இலஞ்ச ஊழல் ஆணைக்குழு கைது செய்துள்ளது. கிரிபாவ பகுதியைச் சேர்ந்த ஒருவர் அளித்த முறைப்பாட்டின் பேரில் குறித்த",
-    "timestamp": "January 24, 2025  11:07 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199258",
-    "isoTimestamp": "2025-01-25T10:30:21+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "d3a39fe1a9b7443d6ad7a78c426ad89d86ac9bcb6edd1cd8f0053db35b9a16cf"
-  },
-  {
-    "title": "தொலைபேசியால் குழந்தையுடன் பாதாள குழியில் விழுந்த பெண்",
-    "href": "news.php?nid=199272",
-    "byline": "தொலைபேசி அனைவருமே பயன்படுத்தி வரும் நிலையில், சிலர் தொலைபேசிக்கு அடிமையாகும் சம்பவங்களையும் காண முடிகிறது. நடக்கும் போது தொடங்கி",
-    "timestamp": "January 25, 2025  11:06 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199272",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "eaa58ac54f377677e05febf037200b4c8ceac74c50430c69095267af98519f56"
-  },
-  {
-    "title": "வெளிநாட்டு வேலைவாய்ப்பு மோசடி - 132 பேர் கைது",
-    "href": "news.php?nid=199273",
-    "byline": "வெளிநாடுகளுக்கு செல்வதற்காக சட்டவிரோத நிறுவனங்களுக்கு பணம் வழங்கும் சம்பவங்கள் அதிகரித்து வருவதாக வெளிநாட்டு வேலைவாய்ப்புப் பணியகம் தெரிவித்துள்ளது",
-    "timestamp": "January 25, 2025  11:12 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199273",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "c2d5b086e4f846a9d24950534e2ca410b1e69dbfff6f494c55e7bf6fa5d14abe"
-  },
-  {
-    "title": "இன்றைய ராசி பலன்",
-    "href": "news.php?nid=199274",
-    "byline": "இன்று (25) குரோதி வருடம் தை மாதம் 12, சனிக் கிழமை, சந்திரன் விருச்சிக ராசியில் சஞ்சரிக்கிறார். மேஷம் ராசியில் உள்ள அஸ்வினி, பரணி சேர்ந்தவர்களுக்கு",
-    "timestamp": "January 25, 2025  11:58 am",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199274",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "c46b240af8db86f49059c6bbb4445ce70450215b5711eeee5a1a8e96afc43e11"
-  },
-  {
-    "title": "உலர்ந்த திராட்சையில் கிடந்த பல்லி!",
-    "href": "news.php?nid=199275",
-    "byline": "கடையொன்றில் இருந்து வாங்கிய உலர்ந்த திராட்சைப் பொதியில் இறந்த பல்லி இருப்பதைக் காட்டும் வீடியோ 'அத தெரண'வுக்குக் கிடைத்தது. இது தொடர்பில் முன்னெடுத்த விசாரணையில்",
-    "timestamp": "January 25, 2025  12:10 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199275",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "9323c7813f805ce7c9636031a432eafbe22e4eb6b9682c9e0b1e02bf21ccb484"
-  },
-  {
-    "title": "யோஷித ராஜபக்ஷ கைது - காரணம் வெளியானது",
-    "href": "news.php?nid=199276",
-    "byline": "முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் இரண்டாவது மகன் யோஷித ராஜபக்ஷ இன்று (25) காலை குற்றப் புலனாய்வுத் திணைக்களத்தால் கைது செய்யப்பட்டமை தொடர்பான மேலதிக விபரங்கள்",
-    "timestamp": "January 25, 2025  12:27 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199276",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "4b1214693652af2b589be6f6d74873f07cf225ee7a27b30c6d0ed4114d311990"
-  },
-  {
-    "title": "கட்டாருக்கான தூதுவராக பொறுப்பேற்ற முதலாவது பெண்!",
-    "href": "news.php?nid=199277",
-    "byline": "கட்டாருக்கான இலங்கை தூதுவராக ரோஷன் சித்தாரா கான் அசாத் அண்மையில் டோஹாவில் கடமைகளை பொறுப்பேற்றுக்கொண்டார். கட்டார் நாட்டிற்கான இலங்கைத் தூதராகத்",
-    "timestamp": "January 25, 2025  1:08 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199277",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
-    "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "776e0920efce993c9c24791536d90eff67f24530ae0b7765fec0aebd46a166c3"
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
+    "baseUrl": "https://tamil.adaderana.lk"
   },
   {
-    "title": "அமெரிக்காவின் புதிய பாதுகாப்பு செயலாளர் நியமனம்",
-    "href": "news.php?nid=199278",
-    "byline": "முன்னாள் fox news தொகுப்பாளரான பீட்டர் ஹெக்செத், அமெரிக்காவின் புதிய பாதுகாப்பு செயலாளராக நியமிக்கப்பட்டுள்ளார். அவரது நியமனத்திற்காக நடத்தப்பட்ட செனட் சபை",
-    "timestamp": "January 25, 2025  2:14 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199278",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "புதையல் தோண்ட முயற்சித்த 10 பேர் கைது!",
+    "href": "news.php?nid=199287",
+    "byline": "புதையல் தோண்ட முயற்சித்ததாக தெரிவித்து 10 பேர் சந்தேகத்தின் பேரில் செய்யப்பட்டுள்ளனர். இன்று (25) காலை கிளிநொச்சி திருநகர் பகுதியில் புதையல் தோண்டிய",
+    "timestamp": "January 25, 2025  4:38 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199287",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "2aeaa2bf853fe810dd66803b350f14e158c61d6c2ab3c18346de43c3e23cb0b9"
+    "checkSum": "1111860fc517d988818a2d50cbbbd6f93e0ae2cd16cf70265b94fb9ee641026e"
   },
   {
-    "title": "கைதான யோஷித சி.ஐ.டியில்",
-    "href": "news.php?nid=199279",
-    "byline": "கைது செய்யப்பட்ட யோஷித ராஜபக்ஷ சற்றுமுன்னர் குற்றப் புலனாய்வுத் திணைக்களத்திற்கு அழைத்து வரப்பட்டுள்ளார். இன்று (25) காலை குற்றப் புலனாய்வுத்  திணைக்களத்தால்",
-    "timestamp": "January 25, 2025  2:25 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199279",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "2024 டி-20 ஆண்கள் அணியில் வனிந்து ஹசரங்க!",
+    "href": "news.php?nid=199288",
+    "byline": "சர்வதேச கிரிக்கெட் பேரவையால் அறிவிக்கப்பட்ட 2024 ஆம் ஆண்டுக்கான இருபதுக்கு 20 ஓவர் ஆண்கள் அணியில் இலங்கை சுழற்பந்து வீச்சாளர் வனிந்து ஹசரங்க உள்ளீர்க்கப்பட்டுள்ளார்",
+    "timestamp": "January 25, 2025  4:52 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199288",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "2d4f7338e064ea7465d644a7e9ff819f66a977ad5e1c79b5f08f9e121b888eb7"
+    "checkSum": "fefeb8fae4991a28d8238b0c4d6a6f49b84d071c41755f213d775e9e0382d577"
   },
   {
-    "title": "பல்கலைக்கழக மாணவர்கள் உண்ணாவிரதப் போராட்டம்",
-    "href": "news.php?nid=199280",
-    "byline": "யாழ்ப்பாண பல்கலைக்கழக மாணவர்கள் 09 பேருக்கு விதிக்கப்பட்டுள்ள வகுப்புத்தடைகளை நீக்க வேண்டும் உள்ளிட்ட கோரிக்கைகளை முன் வைத்து மாணவ ஒன்றிய பிரதிநிதிகள் உணவு",
-    "timestamp": "January 25, 2025  2:40 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199280",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "வத்திராயன் கடலில் பரபரப்பு- உயிருக்கு போராடியவர் வைத்தியசாலையில் அனுமதி",
+    "href": "news.php?nid=199289",
+    "byline": "வடமராட்சி கிழக்கு வத்திராயன் கடற்பகுதியில் இன்று (25) காலை தாக்குதல் சம்பவம் இடம்பெற்றுள்ளது.",
+    "timestamp": "January 25, 2025  5:07 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199289",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "0ad524c9a7f150f74f88dcea72d21aee1b361b2acb6f6dc9936f516e7288387c"
+    "checkSum": "16529f7896f63ae9cf8b0a3ac1dc4ffbbdcc7fac0967ed1afffbb95e06980c6b"
   },
   {
-    "title": "பல புதிய ரயில் சேவைகள் விரைவில்",
-    "href": "news.php?nid=199281",
-    "byline": "சுற்றுலாத் தொழிற்துறையை மேம்படுத்துவதற்கும் நீண்ட தூர சேவைகளுக்காகவும் பல புதிய ரயில் சேவைகளை அறிமுகப்படுத்த ரயில்வே திணைக்களம் தீர்மானித்துள்ளது",
-    "timestamp": "January 25, 2025  2:51 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199281",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "யாழ்ப்பாண சர்வதேச சட்ட மாநாடு",
+    "href": "news.php?nid=199290",
+    "byline": "யாழ்ப்பாணப் பல்கலைக்கழகச் சட்டத்துறையின் ஏற்பாட்டில் வருடாந்தம் நடாத்தப்படும் யாழ்ப்பாண சர்வதேச சட்ட மாநாடு இன்று (25) யாழ். பல்கலைக்கழகத்தில் ஆரம்பமானது.",
+    "timestamp": "January 25, 2025  5:35 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199290",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "0eb68384e34a46d97c7eee925566d8c18ef985133ecbe0818a680954ad9d5319"
+    "checkSum": "811b6c13635be287b7c2b53b07ceeda5ce5ad52f5753c78507a49e31b512b539"
   },
   {
-    "title": "யாழில் சர்வதேச வர்த்தகக் கண்காட்சி",
-    "href": "news.php?nid=199282",
-    "byline": "15 ஆவது யாழ்ப்பாணம் சர்வதேச வர்த்தகக் கண்காட்சி இரண்டாவது நாள் இன்று (25) இடம்பெற்று வருகிறது. நேற்று (24) காலை 10:30 மணிக்கு யாழ்ப்பாணம் முற்றவெளி மைதானத்தில்",
-    "timestamp": "January 25, 2025  3:29 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199282",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "அதானி குழுமத்துடனான ஒப்பந்தம் இரத்து செய்யப்படவில்லை",
+    "href": "news.php?nid=199291",
+    "byline": "காற்றாலை மின் திட்டம் தொடர்பாக அதானி குழுமத்துடனான ஒப்பந்தத்தை இரத்து செய்ய அமைச்சரவை எந்த முடிவும் எடுக்கவில்லை என்று அமைச்சர் நளிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.",
+    "timestamp": "January 25, 2025  5:39 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199291",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "3c0feb3f9c00d6abd631f729d727e349e0143c5b97764b1a0e32b8320d2bbd4d"
+    "checkSum": "60d106468e46e4cfb6091c5646618c92838ab37d65f23d6a99e957045b5b1988"
   },
   {
-    "title": "ஜனாதிபதி நிதியத்தின் விசேட அறிவிப்பு",
-    "href": "news.php?nid=199283",
-    "byline": "மக்களுக்கு மிகவும் பயனுள்ள சேவையை வழங்கும் நோக்கில் ஜனாதிபதி நிதியத்தின் பிரதேச செயலக மட்டத்தில் சேவை வழங்கும் வேலைத்திட்டம் எதிர்வரும் 7ஆம் திகதி அலரி மாளிகையில்",
-    "timestamp": "January 25, 2025  3:34 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199283",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "யோஷித ராஜபக்ஷ நீதிமன்றில்",
+    "href": "news.php?nid=199292",
+    "byline": "குற்றப் புலனாய்வுத் திணைக்களத்தால் இன்று (25) காலை கைது செய்யப்பட்ட யோஷித ராஜபக்ஷ, சற்றுமுன்னர் புதுக்கடை இலக்கம் 5 மேலதிக நீதவான் பவித்ரா சஞ்சீவனி முன்னிலையில்",
+    "timestamp": "January 25, 2025  6:04 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199292",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "bdba1dc32885494346275d842c68a5bf5f9d8aed023b3c332b1e9cca12b8b1e2"
+    "checkSum": "646950e4bca8b7d90e7a8e0799038d064947806914056fef50c864a4e4931588"
   },
   {
-    "title": "புத்தளத்தில் மஞ்சள், ஏலக்காய் மீட்பு",
-    "href": "news.php?nid=199284",
-    "byline": "புத்தளம் கற்பிட்டி, கீரிமுந்தல் மற்றும் துறையடி ஆகிய கடற்பிரதேசங்களில் இருந்து ஒருகொகை மஞ்சள் மற்றும் ஏலக்காய் என்பவற்றுடன் சந்தேக நபர்கள் இருவர் நேற்று (24) கடற்படையினரால்",
-    "timestamp": "January 25, 2025  3:42 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199284",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "திருமணமாகி 20 ஆண்டுக்கு பின் விவாகரத்து!",
+    "href": "news.php?nid=199293",
+    "byline": "இந்திய அணியின் முன்னாள் வீரராக சிறப்பாக செயல்பட்டு வந்தவர் விரேந்திர சேவாக். கடந்த 2004 இல் ஆர்த்தி என்பவரை திருமணம் செய்து வாழ்ந்து வந்தார்",
+    "timestamp": "January 25, 2025  6:08 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199293",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "06a8ab51784d8df849f62d0724942c6a9619f400971ae2af7e0145f9959d0868"
+    "checkSum": "d4cd62d52e7908bc4cc203bbf40da824ccc856f9fb4227a3ae5f81cfbf872ec0"
   },
   {
-    "title": "சுங்கத்தில் 4,000 மெட்ரிக் தொன் அரிசி தடுத்து வைப்பு",
-    "href": "news.php?nid=199285",
-    "byline": "தனியார் துறையால் இறக்குமதி செய்யப்பட்ட 4,000 மெட்ரிக் தொன் அரிசியை விடுவிக்க முடியாமல் சுங்கத்தில் தடுத்து வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. அரசாங்கம் அரிசி இறக்குமதி செய்வதற்கு",
-    "timestamp": "January 25, 2025  4:15 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199285",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "கைதான யோஷித ராஜபக்ஷ விளக்கமறியலில்",
+    "href": "news.php?nid=199294",
+    "byline": "கைது செய்யப்பட்ட யோஷித ராஜபக்ஷ விளக்கமறியலில் வைக்கப்பட்டுள்ளார். அவரை புதுக்கடை இலக்கம் 5 மேலதிக நீதவான் பவித்ரா சஞ்சீவனி முன்னிலையில் ஆஜர்ப்படுத்திய போது",
+    "timestamp": "January 25, 2025  6:09 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199294",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "e0b86b64b07be1fa44dc29327b170efec267fdb1ba976181c7478e627eb4ce05"
+    "checkSum": "b42aba92a226250746974f310f07cb35f17a3602cacb637e87b62ea137dc8601"
   },
   {
-    "title": "நுவரெலியாவில் உந்துருளி விபத்து - ஒருவர் பலி",
-    "href": "news.php?nid=199286",
-    "byline": "நுவரெலியா - உடப்புசல்லாவ குறுக்கு வீதியில் சமூர்த்தி வங்கிக்கு அருகில் நேற்று (24) இரவு இடம்பெற்ற விபத்தில் உந்துருளியில் பயணித்த ஒருவர் உயிரிழந்துள்ளார்.",
-    "timestamp": "January 25, 2025  4:16 pm",
-    "url": "https://tamil.adaderana.lk/news.php?nid=199286",
-    "isoTimestamp": "2025-01-25T16:30:35+05:30",
+    "title": "இரவு நேர  இசை நிகழ்ச்சிகள் தொடர்பில் கலந்துரையாடல்",
+    "href": "news.php?nid=199295",
+    "byline": "இரவில் நடைபெறும் இசை நிகழ்ச்சிகளின் நேரம் குறித்து பொது மக்கள் பாதுகாப்பு அமைச்சால் கலந்துரையாடல் ஒன்று ஆரம்பிக்கப்பட்டுள்ளதாக அமைச்சர் நலிந்த ஜயதிஸ்ஸ தெரிவித்துள்ளார்.",
+    "timestamp": "January 25, 2025  7:27 pm",
+    "url": "https://tamil.adaderana.lk/news.php?nid=199295",
+    "isoTimestamp": "2025-01-25T22:31:41+05:30",
     "baseUrl": "https://tamil.adaderana.lk",
-    "checkSum": "640ad01bb3f979c11cfca41cb3dd9ddc50dd3e87f083e7c8fc4f010e36cdc90d"
+    "checkSum": "5de5e486c425f926ffae5d602a72e53af04a69764e529d391db468940e0c9630"
   }
 ]
