@@ -88,5 +88,315 @@
     "isoTimestamp": "2025-02-14T10:30:11+05:30",
     "baseUrl": "https://sinhala.adaderana.lk",
     "checkSum": "0bb938007d5e9453ada3aa510a48b5ec62cacadd199a70d54b46f9548778f070"
+  },
+  {
+    "title": "අද තරගයේ ඔස්ට්‍රේලියාවේ වෙනස්කම් 5ක්",
+    "href": "news.php?nid=206594",
+    "byline": "අද (14) පැවැත්වෙන දෙවන හා අවසන් එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුව පන්දුවට පහරදීමට තීරණය කළේය.",
+    "timestamp": "February 14, 2025  10:03 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206594",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ea448dfe335750107ce8a2e145d997a0542cc0c88f084b53bf0fd8a1059a6ecd"
+  },
+  {
+    "title": "මෝදි - ට්‍රම්ප් ගිවිසුමක් ගැන දැඩි අවධානයෙන්",
+    "href": "news.php?nid=206595",
+    "byline": "දෙදින නිල සංචාරයක් සඳහා අමෙරිකාවට ගොස් සිටින ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි, අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් හමුවිය.",
+    "timestamp": "February 14, 2025  10:53 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206595",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5636109e4e1b0404cc7c8900b5f19b5da80048208d5cb86d0dd6c7933cae68c3"
+  },
+  {
+    "title": "වත්මන් රජයේ මංගල අයවැය එළැඹෙන සඳුදා",
+    "href": "news.php?nid=206596",
+    "byline": "මෙම වර්ෂය සඳහා වන රජයේ අයවැය එළැඹෙන සඳුදා (17) පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතව ඇත.",
+    "timestamp": "February 14, 2025  11:24 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206596",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6ae2a062914c9c5c5180b97df116eadb5c3072a985d361d446ea9b0c294d86ee"
+  },
+  {
+    "title": "වැලිගමදී වෑන් රථයක් දුම්රියක ගැටෙයි",
+    "href": "news.php?nid=206597",
+    "byline": "බෙලිඅත්තේ සිට අනුරාධපුරය බලා ධාවනය වූ රජරට රැජින දුම්රියේ වැලිගම පැලෑන දුම්රිය හරස් මාර්ගයේදී වෑන් රථයක් ගැටී අද (14) පෙරවරුවේ අනතුරක් සිදුව ඇත.",
+    "timestamp": "February 14, 2025  11:29 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206597",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "90f4c323d450aab5ce802d25b8847e6752d41930efddd9c255426cd911d684c9"
+  },
+  {
+    "title": "ජූලි චන්ග් පොහොට්ටු කාර්යාලයට",
+    "href": "news.php?nid=206598",
+    "byline": "ශ්‍රී ලංකාවේ අමෙරිකානු තානාපති ජූලි චන්ග් මහත්මිය අද (14) පෙරවරුවේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ කාර්යාලයට පැමිණ තිබේ.",
+    "timestamp": "February 14, 2025  11:54 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206598",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6e0863a4e8f0e84597195393be21a6dfc865e7e5d8b120cb7e1476f7b53e82e6"
+  },
+  {
+    "title": "නාමල් ලියූ නීති විභාගයට CIDයෙන් විමර්ශනයක්",
+    "href": "news.php?nid=206599",
+    "byline": "පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතා නීති විද්‍යාලයේ විභාගයක් සඳහා නීත්‍යාණුකූල නොවන ආකාරයට පෙනී සිටීම සම්බන්ධව කළ පැමිණිල්ලකට අනුව අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් විමර්ශනයක් ආරම්භ කර ඇත.",
+    "timestamp": "February 14, 2025  12:58 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206599",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "47f5b850a1d5da2358bd2c52e86596318b333afc98caf3291b4e025333036c8e"
+  },
+  {
+    "title": "කුසල්ගෙන් ශතකයක්",
+    "href": "news.php?nid=206600",
+    "byline": "ශ්‍රී ලංකාව හා ඔස්ට්‍රේලියාව අතර අද (14) පැවැත්වෙන දෙවන එක්දින තරගයේදී සිය එක්දින දිවියේ 5වන ශතකය රැස්කිරීමට කුසල් මෙන්ඩිස් සමත් විය.",
+    "timestamp": "February 14, 2025  1:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206600",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "68d5a4d4c4701873aa4ebfa26d315bd8ed4c0b6f9e21452ee02aca03d6301202"
+  },
+  {
+    "title": "විදුලි කප්පාදුව ගැන ඇමති කනගාටුව පළ කරයි",
+    "href": "news.php?nid=206601",
+    "byline": "දිවයින පුරා සිදුවූ හදිසි විදුලි බිඳවැටීමත් සමග විදුලි සැපයුම කළමනාකරණය සඳහා සිදුකළ දෛනික විදුලි කප්පාදුව අවසන් කිරීමට පියවර ගෙන ඇති බව බලශක්ති අමාත්‍යංශය පවසයි.",
+    "timestamp": "February 14, 2025  1:25 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206601",
+    "isoTimestamp": "2025-02-14T13:30:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8d32af27040a173480de5191526acb8ff7addbe6cbcd0e9b3050837c5809eecf"
+  },
+  {
+    "title": "මතභේදාත්මක USAID ගැන නාමල් සහ ජුලි චන්ග් අතර සාකච්ඡා",
+    "href": "news.php?nid=206598",
+    "byline": "ශ්‍රී ලංකාවේ අමෙරිකානු තානාපති ජුලි චන්ග් මහත්මිය අද (14) පෙරවරුවේ ශ්‍රී ලංකා පොදුජන පෙරමුණේ කාර්යාලයට පැමිණ තිබේ.",
+    "timestamp": "February 14, 2025  11:54 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206598",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "123202ee819d2dfa944c0241c35579357a53cb0334192c71116508d544a219c8"
+  },
+  {
+    "title": "තවමත් ඇවිළෙන ඇල්ල කඳු වැටිය",
+    "href": "news.php?nid=206602",
+    "byline": "ඇල්ල කඳුවැටිය ප්‍රදේශයේ හටගත් ගින්න අද (14) පෙරවරුව වනවිට අක්කර 20ක් පුරා පැතිරගොස් ඇති බව වාර්තා වේ.",
+    "timestamp": "February 14, 2025  1:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206602",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6cfbd4efb72f1004266b2ac19459a3da7ec2922c08bf35477c8262a2f3617609"
+  },
+  {
+    "title": "ඊලෝන් මස්ක්ගේ දරුවන්ට මෝදිගෙන් තෑගි",
+    "href": "news.php?nid=206603",
+    "byline": "අමෙරිකාවේ සංචාරයක නිරත ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ලොව ධනවත්ම පුද්ගලයෙකු ලෙස සැලකෙන ඊලෝන් මස්ක් හමුවිය.",
+    "timestamp": "February 14, 2025  1:40 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206603",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e41e0bd5c1fc00fda61016358c2b90fb1f25fbfa5641625da2a45692c8641f24"
+  },
+  {
+    "title": "ඔස්ට්‍රේලියාවට ලකුණු 282ක ඉලක්කයක්",
+    "href": "news.php?nid=206604",
+    "byline": "ශ්‍රී ලංකාව හා ඔස්ට්‍රේලියාව අතර දෙවන හා අවසන් එක්දින තරගයේ පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 50 තුළදී කඩුලු 4ක් දැවී ලකුණු 281ක් රැස්කිරීමට සමත් විය.",
+    "timestamp": "February 14, 2025  1:42 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206604",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1aea7246ca92d5ceef3b0e08f9c26197940b6d13ba208034b4f7c162a1cc2d7f"
+  },
+  {
+    "title": "ක්‍රීඩා අමාත්‍යංශයේ හිටපු ලේකම් ඉදිරිපත් කළ ඇප පෙත්සම ඉල්ලා අස්කර ගැනේ",
+    "href": "news.php?nid=206605",
+    "byline": "2014 වසරේ ක්‍රීඩා භාණ්ඩ මිලදී ගැනීමේදී සිදුව ඇතැයි කියන අක්‍රමිකතා සිද්ධියක් සම්බන්ධයෙන් සිදුකරන විමර්ශනවලට අදාළව අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව විසින් නඩු පවරා තිබුණි.",
+    "timestamp": "February 14, 2025  1:52 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206605",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9ddfeab6477f48c1c3eba6e5f92379a615d0287c3a623c0ce342ebc908b74b43"
+  },
+  {
+    "title": "ශූරයන්ගේ කුසලානයේ ජයග්‍රාහකයන්ට අතිදැවැන්ත මුදලක්",
+    "href": "news.php?nid=206606",
+    "byline": "ශූරයන්ගේ කුසලාන ක්‍රිකට් තරගාවලියේ ජයග්‍රාහකයන් වෙනුවෙන් අතිවිශාල මුදල් ත්‍යාගයක් ලබාදීමට ICCය කටයුතු යොදා ඇත.",
+    "timestamp": "February 14, 2025  3:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206606",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "67e241f0795a0a477daa33b471b22a84ad19ddeba9ceaf57b5f2f93912bf2c5d"
+  },
+  {
+    "title": "යෝෂිත සහ ඩේසි ආච්චිට එරෙහිව අධිචෝදනා ගොනු කෙරේ",
+    "href": "news.php?nid=206607",
+    "byline": "යෝෂිත රාජපක්ෂ සහ ඔහුගේ මිත්තණිය වන ඩේසි ෆොරස්ට් වික්‍රමසිංහ යන අයට එරෙහිව නීතිපතිවරයා විසින් අධිචෝදනා ඉදිරිපත් කර තිබේ.",
+    "timestamp": "February 14, 2025  3:13 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206607",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "99183c95cc9116815472fd5eaa3738772871cd323e4766ca28d38ffd42f23b2a"
+  },
+  {
+    "title": "පාරිසරික ප්‍රශ්න කඩිනමින් විසඳීමට වට්ස්ඇප් අංකයක්",
+    "href": "news.php?nid=206608",
+    "byline": "පාරිසරික ප්‍රශ්න සඳහා කඩිනමින් විසඳුම් සෙවීමට පරිසර අමාත්‍යංශයෙන් WhatsApp අංකයක් හඳුන්වා දී තිබේ.",
+    "timestamp": "February 14, 2025  3:24 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206608",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bca247496d80056458b8bce6ebbe1edddb7781e2428bbe159e6ef2f2cae35e27"
+  },
+  {
+    "title": "සෙම්ප්‍රතිශ්‍යාව සහ ඒ ආශ්‍රිතව වෛරස් රෝග ව්‍යාප්තියක්",
+    "href": "news.php?nid=206609",
+    "byline": "සෙම්ප්‍රතිශ්‍යාව සහ ඒ ආශ්‍රිත වෛරස් රෝග ව්‍යාප්ත වීමේ වර්ධනයක් මේ දිනවල දක්නට ලැබෙන බව සෞඛ්‍ය අංශ පවසයි.",
+    "timestamp": "February 14, 2025  3:48 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206609",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e5424963014efa731b79757317531fc006e4224efb3a870cfd0c6f02f6800621"
+  },
+  {
+    "title": "ශ්‍රී ලංකාවට වාර්තාගත සුපිරි ජයක්",
+    "href": "news.php?nid=206610",
+    "byline": "සංචාරක ඔස්ට්‍රේලියානු කණ්ඩායම පරාජය කර දෙවන එක්දින ක්‍රිකට් තරගයෙන් ලකුණු 174ක දැවැන්ත ජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායම අද (14) සමත් විය.",
+    "timestamp": "February 14, 2025  4:00 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206610",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ed9f5c9be4aa2a21453844f68d1567ade581570d7f1f6f898f397e3c1aea7ce3"
+  },
+  {
+    "title": "ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලයට නව කුලපතිවරයෙක්",
+    "href": "news.php?nid=206611",
+    "byline": "ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලයේ කුලපති ධුරය සඳහා ආචාර්ය පූජ්‍ය ගල්ලෑල්ලේ සුමනසිරි ස්වාමීන් වහන්සේ පත් කර තිබේ.",
+    "timestamp": "February 14, 2025  4:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206611",
+    "isoTimestamp": "2025-02-14T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6743357371c4dce64b53f8edeea59b04c6c6e97ce40024a35a38a2e025737a59"
+  },
+  {
+    "title": "පළාත් පාලන ආයතන විශේෂ විධිවිධාන පනත් කෙටුම්පතට අනුමැතිය",
+    "href": "news.php?nid=206612",
+    "byline": "පළාත් පාලන ආයතන ජන්ද විමසීම් (විශේෂ විධිවිධාන) පනත් කෙටුම්පතට අමාත්‍යාංශයීය උපදේශක කාරක සභාවේ අනුමතිය හිමිව තිබේ.",
+    "timestamp": "February 14, 2025  4:36 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206612",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8796c49f0e1f4dca486c5529784e8f87a7349d73b390439eeb515148ffae2d51"
+  },
+  {
+    "title": "රජයේ මුද්‍රණාල ගැටුම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන්ට ඇප",
+    "href": "news.php?nid=206613",
+    "byline": "රජයේ මුද්‍රණාලයේ ප්‍රධාන ආරක්ෂක නිලධාරියාට පහර දී තුවාල සිදු කළේ යැයි කියන සිද්ධියට අදාළව අධිකරණයට ඉදිරිපත් කරන ලද සැකකරුවන් සිව් දෙනෙකු ඇප මත මුදා හරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.",
+    "timestamp": "February 14, 2025  4:48 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206613",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5e82a336dc7553745fc523f5a44424d5d0d09c5439ed8b2093403cdd0d7d7602"
+  },
+  {
+    "title": "KKS තැපැල් දුම්රිය අද සිට මොරටුවෙන්",
+    "href": "news.php?nid=206614",
+    "byline": "කන්කසන්තුරය බලා ධාවනය වූ රාත්‍රී තැපැල් දුම්රිය අද (14) සිට මොරටුව දුම්රිය ස්ථානයෙන් ගමන් ආරම්භ කිරීමට කටයුතු යොදා ඇත.",
+    "timestamp": "February 14, 2025  5:13 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206614",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5bf78e22c53a5646294799b71dd28052fe3395b9c239d6d78616a55eb716cd98"
+  },
+  {
+    "title": "අඩු ආදායම්ලාභී වැඩිහිටියන්ට මාසික දීමනා ගෙවීම පෙබරවාරි සිට",
+    "href": "news.php?nid=206615",
+    "byline": "වසස අවුරුදු 70 ඉක්මවූ අඩු ආදායම්ලාභී වැඩිහිටියන්ට රුපියල් 3,000ක මාසීක දීමනා ගෙවීම පෙබරවාරි මස ගෙවීමට කටයුතු කරන බව ජාතික වැඩිහිටි මහලේකම් කාර්යාලය පවසයි.\n\nනිවේදනයක් නිකුත් කරමින් එම මණ්ඩලය පැවසුවේ අස්වැසුම පවුල්වල සිටින වයස අවුරුදු 70ට වැඩි වැඩිහිටියන් සඳහා පසුගිය 2024 වර්ෂයේ නොවැම්බර් සිට සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් සෘජුවම SLIPS ක්‍රමය මගින් අස්වැසුම ගිණුම්වලට අදාළ දීමනාව ගිනුම්ගත කරන බවය.",
+    "timestamp": "February 14, 2025  5:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206615",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "49d5b8dc1f601eae8bf1ab534d07599e1a465fcbf8a20490214c699b34832e82"
+  },
+  {
+    "title": "ජාතික ක්‍රීඩා සභාව පත් කෙරේ",
+    "href": "news.php?nid=206616",
+    "byline": "ශ්‍රී ලංකාවේ ක්‍රීඩාව දියුණු කිරීම, සංවර්ධනය කිරීම සහ පාලනය කිරීම, පිළිබඳ කරුණු සම්බන්ධයෙන් අමාත්‍යවරයාට උපදෙස් දීම අරමුණු කර ගනිමින් ජාතික ක්‍රීඩා සභාව පත් කර තිබේ.",
+    "timestamp": "February 14, 2025  5:33 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206616",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cab16d54224f18cf2b5f0a05452e2f22be7c72750602ce7eb6e23aed20f7d32d"
+  },
+  {
+    "title": "සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ පැවැති ක්‍රමය වෙනස් කිරීමට පියවර",
+    "href": "news.php?nid=206617",
+    "byline": "සින්නක්කර ඉඩම් ඔප්පු ලබාදීමේ පැවැති ක්‍රමය වෙනස් කිරීමට පියවර ගන්නා බව කෘෂිකර්ම, පශු සම්පත්, ඉඩම් හා වාරිමාර්ග අමාත්‍ය කේ.ඩී.ලාල්කාන්ත මහතා පවසයි.",
+    "timestamp": "February 14, 2025  6:13 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206617",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "97c9a90d8ff63c8e9d7a77b5128322d82b35bbe2d5ba3b0d5b2d69ef883d2571"
+  },
+  {
+    "title": "අවිස්සාවේල්ල - කහවත්ත දුම්රිය මාර්ගයේ ඉදිකිරීම් කඩිනම් කෙරේ",
+    "href": "news.php?nid=206618",
+    "byline": "අවිස්සාවේල්ල සිට කහවත්ත දක්වා ඉදිකිරීමට යෝජිත දුම්රිය මාර්ගයේ ඉදිකිරීම් කඩිනම් කිරීමට රජයේ අවදානය යොමුව ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "February 14, 2025  6:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206618",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "024d99d1f09bc1199020218bd50b1fa95b710f7bac7837560ab5edc203232d92"
+  },
+  {
+    "title": "අයිස් මත්ද්‍රව්‍ය සමග යුධ හමුදා නිලධාරීන් සිව් දෙනෙකු අත්අඩංගුවට",
+    "href": "news.php?nid=206619",
+    "byline": "අයිස් මත්ද්‍රව්‍ය සමග යුධ හමුදා විශේෂ කාර්ය බලකා සෙබළුන් සිව් දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "February 14, 2025  7:54 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206619",
+    "isoTimestamp": "2025-02-14T20:30:14+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4f26b43ced4e0266074e8a80fa9284595c8cd183d0667994d7cad12d333826f5"
+  },
+  {
+    "title": "එජාපයේ උප සභාපති ලෙස නවීන් දිසානායක පත් කෙරේ",
+    "href": "news.php?nid=206620",
+    "byline": "එක්සත් ජාතික පක්ෂයේ නව උප සභාපති ලෙස නවීන් දිසානායක මහතා පත් කර තිබේ.",
+    "timestamp": "February 14, 2025  8:31 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206620",
+    "isoTimestamp": "2025-02-14T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fe16ec7ecab07c4ebf871f32fdf6b303262e51f1dc3a1f0074249cdd0b980353"
+  },
+  {
+    "title": "මාලිමා මන්ත්‍රී ගමන් ගත් මෝටර් රථ අනතුර ගැන කරුණු රැසක් හෙළි වෙයි",
+    "href": "news.php?nid=206621",
+    "byline": "රිය අනතුරක් සම්බන්ධයෙන් ජාතික ජනබලවේගය පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රි මොහොමඩ් ෆයිසාල් මහතාගේ සහෝදරයා පොලීසිය විසින් අත්අඩංගුවට අද (14) අත්අඩංගුවට ගෙන තිබුණි.",
+    "timestamp": "February 14, 2025  9:18 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206621",
+    "isoTimestamp": "2025-02-14T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ac34d8640c878c760c5146846c2c79a9485b0887d9f849015d361a17fd10aa92"
+  },
+  {
+    "title": "මුහුදු මාර්ගයෙන් එන මත්කුඩු ජාවාරම් ගැන හෙළි වූ දේ",
+    "href": "news.php?nid=206622",
+    "byline": "මත්කුඩු ජාවාරම්කරුවන් මසුන් ඇල්ලීමට මුහුදු යන ධීවරයන්ට පහරදී, බලහත්කාරයෙන් මත්ද්‍රව්‍ය රැගෙන ඒම සඳහා පොළඹවගන්නා බව ආරක්ෂක අංශ අනාවරණය කරගෙන තිබේ.",
+    "timestamp": "February 14, 2025  9:54 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206622",
+    "isoTimestamp": "2025-02-14T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f9ea020eb17757c226877fca74702a48f4b33712da6bad43dda9d2a2f0bdaa49"
+  },
+  {
+    "title": "ෆ්‍රැන්සිස් පාප් වහන්සේ රෝහල් ගත කරයි",
+    "href": "news.php?nid=206623",
+    "byline": "ෆ්‍රැන්සිස් පාප් වහන්සේ බ්‍රොන්කයිට්ස් රෝගය වැළඳීම හේතුවෙන් එහි වැඩිදුර පරීක්ෂණ කටයුතු සඳහා රෝමයේ රෝහලක් වෙත ඇතුළත් කළ බව වතිකානුව නිවේදනය කර තිබේ.",
+    "timestamp": "February 14, 2025  10:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206623",
+    "isoTimestamp": "2025-02-14T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5176e0aa3b0c3527c4dae8817d6e0e4aa9762d7fed7bb07f96bceb4744ea0afa"
   }
 ]
