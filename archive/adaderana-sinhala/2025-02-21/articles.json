@@ -48,5 +48,335 @@
     "isoTimestamp": "2025-02-21T07:30:07+05:30",
     "baseUrl": "https://sinhala.adaderana.lk",
     "checkSum": "14efa283f43eccf770ca5b6a3ca465332b11d4f2d2831d921e2cef70d09f56e3"
+  },
+  {
+    "title": "OnmaxDT ප්‍රධාන සැකකරුවෙක් අත්අඩංගුවට",
+    "href": "news.php?nid=206869",
+    "byline": "OnmaxDT මූල්‍ය වංචාවේ ප්‍රධාන සැකකරු ලෙස හැඳින්වෙන ගයාන් වික්‍රමතිලක නම් පුද්ගලයෙකු ඩුබායි හිදී අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "February 21, 2025  7:24 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206869",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b11315d41a5450146028c9267c66b4872341a747e2d76d7e371b1d3306eccf7c"
+  },
+  {
+    "title": "රජරට කුලපති හිමියෝ ඉල්ලා අස්වෙති",
+    "href": "news.php?nid=206870",
+    "byline": "ශ්‍රී ලංකා රජරට විශ්වවිද්‍යාලයේ කුලපති ආචාර්ය ගල්ලෑල්ලේ සුමනසිරි හිමියෝ එම ධුරයෙන් ඉල්ලා අස්වී තිබේ.",
+    "timestamp": "February 21, 2025  8:44 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206870",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9702524bcdabbbaf5869e8e683e6bef02fe9712b06f48e9bf014d61a4d4390e7"
+  },
+  {
+    "title": "පාර්ලිමේන්තුව රැස්වෙයි",
+    "href": "news.php?nid=206871",
+    "byline": "කථානායකවරයාගේ ප්‍රධානත්වයෙන් අද (21) දිනට නියමිත පාර්ලිමේන්තු කටයුතු පෙරවරු 9:30ට ආරම්භ කෙරුණි.",
+    "timestamp": "February 21, 2025  9:30 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206871",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "46e96f7c3e6f0733ec583190cd9ebfa2fe7c78bf21215447107a048b47a60e2e"
+  },
+  {
+    "title": "මිද්දෙණිය ඝාතනයට පොලිස් නිලධාරියෙකු ඇතුළු තිදෙනෙක් අත්අඩංගුවට",
+    "href": "news.php?nid=206872",
+    "byline": "මිද්දෙනිය ඝාතනය සම්බන්ධයෙන් පොලිස් කොස්තාපල්වරයෙකු ඇතුළු තිදෙනෙකු අත්අඩංගුවට ගෙන ඇත.",
+    "timestamp": "February 21, 2025  10:19 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206872",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "463aaec1ee585cf6a248fc1ecd16075b73ee59c2b4905576d9475d4fbcf41a3e"
+  },
+  {
+    "title": "පාතාල ක්‍රියා ගැන මහජන ආරක්ෂක ඇමතිගේ විශේෂ ප්‍රකාශය මෙතැනින්",
+    "href": "news.php?nid=206873",
+    "byline": "රට තුළ පවතින ආරක්ෂක තත්ත්වය සහ පාතාල ක්‍රියා සම්බන්ධයෙන් මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා අද (21) පාර්ලිමේන්තුවේදී පැහැදිලි කිරීමක් කළේය.",
+    "timestamp": "February 21, 2025  10:20 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206873",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9d4fc673b2991f6a895a391c512ee866ba3f08967550afca4f8dd5f403604616"
+  },
+  {
+    "title": "ශ්‍රී ලංකාවේ ප්‍රථම ජල බැටරි විදුලි ව්‍යාපෘතිය ආරම්භ වෙයි",
+    "href": "news.php?nid=206874",
+    "byline": "ශ්‍රී ලංකාවේ ප්‍රථම 'ජල බැටරිය' වන මහ ඔය පොම්ප කළ ජල  ගබඩා විදුලි ව්‍යාපෘතිය ආරම්භ කිරීම සඳහා ලංකා විදුලි බල මණ්ඩලය පියවර ගෙන තිබේ.",
+    "timestamp": "February 21, 2025  10:45 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206874",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8d4a95af9c96422cecaeec2b2f9be96b5e629976596695d6b77159028f038ee8"
+  },
+  {
+    "title": "ශ්‍රී ලංකාව ලොව ඉදිරියේ සම-තරගකරුවෙකු කිරීම රජයේ අපේක්ෂාවයි",
+    "href": "news.php?nid=206875",
+    "byline": "නවෝත්පාදන ක්ෂේත්‍රයේ සම-තරගකරුවෙක් නොවන ශ්‍රී ලංකාව,  අනෙකුත් රාජ්‍ය හා සම-තරගකරුවෙකු බවට පත් කිරීම රජයේ අපේක්ෂාව බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.",
+    "timestamp": "February 21, 2025  11:07 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206875",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e74eff9d46096f99c32a25826c6c667c8d9d43b722e47b3f41e038e6db7dfb7b"
+  },
+  {
+    "title": "චීන ජාතික අපරාධ සැකකරුවන් 200 ක් මියන්මාරයේ සිට චීනයට",
+    "href": "news.php?nid=206876",
+    "byline": "චීන ජාතිකත්වය සහිත අපරාධ සැකකරුවන් 200කින් යුත් පළමු කණ්ඩායම මියන්මාරයේ සිට චීනයට රැගෙන විත් තිබේ.",
+    "timestamp": "February 21, 2025  11:27 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206876",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "38917c12f7cc413e2d797855f89cc67babdbb0514bc885a635b1e07eb1e3cc91"
+  },
+  {
+    "title": "අර්ච්චුනාගේ ක්‍රියාකලාපය ගැන විමර්ශනය කළ කමිටු වාර්තාව සභාගත කෙරේ",
+    "href": "news.php?nid=206877",
+    "byline": "පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) රාමනාදන් අර්ච්චුනා මහතාගේ ක්‍රියාකලාපය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා පත් කළ කමිටුවේ වාර්තාව සභාගත කරන බව කථානායකවරයා නිවේදනය කළේය.",
+    "timestamp": "February 21, 2025  11:35 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206877",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2f2cff1cbeda3e3637cbd22ef94004dbbb9c1291d2af3d6f99e3d643f512498d"
+  },
+  {
+    "title": "ජා ඇළ වෙඩි තැබීමෙන් පුද්ගලයෙකු මරුට",
+    "href": "news.php?nid=206878",
+    "byline": "ජා ඇළ පමුණුව මෝගන්වත්ත වෙරළ තීරයේ නාඳුනන තුවක්කුකරුවෙකු පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කර තිබේ.",
+    "timestamp": "February 21, 2025  12:07 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206878",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "df8c7a60cd7011f58e268fdce187b4648f60c5c4329595e864a7ca1d1d53f701"
+  },
+  {
+    "title": "නීති විරෝධී ධීවර කටයුතු කළ 17ක් නාවික හමුදා භාරයට",
+    "href": "news.php?nid=206879",
+    "byline": "නීති විරෝධීව ධීවර කටයුතු කළ ධීවරයින් 17 දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.",
+    "timestamp": "February 21, 2025  12:22 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206879",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "28e647e0497fe5768140c4b144c68744521f642e2fa74b880d91fe5373534efe"
+  },
+  {
+    "title": "පිරමීඩ ජාවාරම් සිද්ධියකට සම්බන්ධ අයෙකුගේ විදෙස් ගමන් තහනම් කෙරේ",
+    "href": "news.php?nid=206880",
+    "byline": "විදේශයක සිට ක්‍රියාත්මක වන පිරමීඩ ආයෝජන ක්‍රමයක් ශ්‍රී ලංකාව තුළ ප්‍රවර්ධනය කරනු ලබන බව කියන පුද්ගලයෙකුගේ විදෙස් ගමන් තහනම් කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.",
+    "timestamp": "February 21, 2025  12:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206880",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "576668c18d39105f477b68fd2e3b97324963e205236e956c5bc63644b0bfd02f"
+  },
+  {
+    "title": "ගණේමුල්ල සංජීවට මරු කැඳවූ වෙඩිල්ල ගැන තවත් තොරතුරු රැසක් හෙළිවෙයි",
+    "href": "news.php?nid=206881",
+    "byline": "අලුත්කඩේ මහෙස්ත්‍රාත් අධිකරණයේදී ඝාතනයට ලක්වූ ගණේමුල්ල සංජීවගේ දේහය මේවන විට බොරැල්ලේ පිහිටි පෞද්ගලික මල්ශාලාවක තැම්පත් කර තිබේ.",
+    "timestamp": "February 21, 2025  1:09 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206881",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3cf80839089d7a2aab4dc1162241a469b4b3f9bfeb8591a001e8804975139a94"
+  },
+  {
+    "title": "වසර 27කට පසු දිල්ලියේ බලය මෝදිට",
+    "href": "news.php?nid=206882",
+    "byline": "ඉන්දියාවේ දිල්ලි ප්‍රාන්තයේ නව මහඇමති ලෙස භාරතීය ජනතා පක්ෂයේ රේඛා ගුප්තා පත්වී තිබේ.",
+    "timestamp": "February 21, 2025  1:15 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206882",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "63193f53efbbea3bb0987f3b56f5eb665eb008a4082d943ef9a302c140847bcc"
+  },
+  {
+    "title": "අමෙරිකාව BRICS රටවල් සමග හැප්පෙයි",
+    "href": "news.php?nid=206883",
+    "byline": "අමෙරිකානු ඩොලරය විනාශ කිරීමට උත්සාහ කරන BRICS රටවල ආනයන මත සියයට 150ක තීරුබදු අය කරන බවට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් අනතුරු අඟවයි.",
+    "timestamp": "February 21, 2025  1:30 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206883",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "71cea9bed88fc5e2dbc618ee3502efba774e8649b63bcabd06ff3136e9bf22a2"
+  },
+  {
+    "title": "ලොවටම බලය පෙන්වමින් නේටෝ දැවැන්ත යුද අභ්‍යාසයක",
+    "href": "news.php?nid=206884",
+    "byline": "නේටෝ රටවල සහභාගීත්වයෙන් පැවති දැවැන්ත යුද අභ්‍යාසයක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.",
+    "timestamp": "February 21, 2025  1:53 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206884",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "eccf1baed7c3ad4dc2f4c93d1bbad71d5a27fc45138b201709488d55fd627345"
+  },
+  {
+    "title": "ඊශ්‍රායලයේ බෝම්බ ප්‍රහාර මාලාවක්",
+    "href": "news.php?nid=206885",
+    "byline": "ඊශ්‍රායලයේ වඩාත් ජනාකීර්ණ නගරයක් වන ටෙල් අවිව් හිදී  බස් බෝම්බ ප්‍රහාර මාලාවක් එල්ල වී තිබේ.",
+    "timestamp": "February 21, 2025  2:29 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206885",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "24a161706c06815cf5fefe278b4eeb42ab583739dc6df4388bf19c3c7a6e0786"
+  },
+  {
+    "title": "නිට්ටඹුවේදී පුද්ගලයින් දෙදෙනෙකුට තියුණු ආයුධ ප්‍රහාරයක්",
+    "href": "news.php?nid=206886",
+    "byline": "නිට්ටඹුව පොලිස් වසමේ දී පුද්ගලයන් දෙදෙනෙකුට තියුණු ආයුධයකින් ප්‍රහාරයක් එල්ල කර තිබේ.",
+    "timestamp": "February 21, 2025  2:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206886",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5c49abb4fd325630e4e4375297fe44938445eba50769ee76083ecb4c0e332e22"
+  },
+  {
+    "title": "OnmaxDT වංචාවේ සැකකරු රිමාන්ඩ් කෙරේ",
+    "href": "news.php?nid=206887",
+    "byline": "OnmaxDT පිරමීඩ මූල්‍ය ආයෝජන සිද්ධිය සම්බන්ධයෙන් ඩුබායි රාජ්‍යයේදී අත්අඩංගුවට ගනු ලැබූ සැකකරු රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.",
+    "timestamp": "February 21, 2025  3:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206887",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "10e97147ed45a207465ba85271fd1e2e97ab35d525d32776ac2f3adcee58eb35"
+  },
+  {
+    "title": "ජාතික උද්ධමනයේ දැවැන්ත පහළ යාමක්",
+    "href": "news.php?nid=206888",
+    "byline": "ජාතික පාරිභෝගික මිල දර්ශකයට (NCPI) අනුව 2025 ජනවාරි මාසයේ මෙරට ලක්ෂ්‍යමය මතුපිට උද්ධමනය -4.0% ක් දක්වා තවදුරටත් පහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව විසින් නිකුත් කරන ලද නවතම වාර්තාවක සඳහන් වේ.",
+    "timestamp": "February 21, 2025  3:36 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206888",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8dbe0b99b77cbce9f9b252d012a27905c69635e53076bac0a850ebed456d91ff"
+  },
+  {
+    "title": "උණුසුම් කාලගුණය දිස්ත්‍රික්ක කිහිපයකට අනතුරු අඟවයි",
+    "href": "news.php?nid=206889",
+    "byline": "දිස්ත්‍රික්ක කිහිපයක මිනිස් සිරුරට දැණෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "February 21, 2025  3:42 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206889",
+    "isoTimestamp": "2025-02-21T16:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8b49961fcb596819efc965e82ef36ef735544986846dd783869cf8d9875cdbef"
+  },
+  {
+    "title": "සංජීව ඝාතනයට සැකපිට අත්අඩංගුවට ගත් කොස්තාපල්ගේ දුරකතනයේ තිබී හෙළිවූ දේ",
+    "href": "news.php?nid=206890",
+    "byline": "ගනේමුල්ල සංජීවගේ ඝාතනය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් පොලිස් කොස්තාපල්වරයාගේ ජංගම දුරකතනයේ වෙඩි තැබීමට යොදා ගත් ගිනිඅවියේ ඡායාරූප මකා දමා තිබියදී පොලිස් විමර්ශන නිලධාරීන් විසින් සොයා ගෙන තිබේ.",
+    "timestamp": "February 21, 2025  4:43 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206890",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9bf59e8caa10409771ccc36e1a00b103ed412ec9c8bdf0cfa5e1e0cddd14837e"
+  },
+  {
+    "title": "සංජීව ඝාතනයට අත්අඩංගුවට ගත් පොලිස් නිලධාරියා රිමාන්ඩ්",
+    "href": "news.php?nid=206891",
+    "byline": "ගණේමුල්ල සංජීව ඝාතන සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් පොලිස් නිලධාරියා මාර්තු මස 07වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකරන ලෙස නියම කළේය.",
+    "timestamp": "February 21, 2025  4:46 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206891",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "99a69affd5a409a086b5a4cb5c3c1c1ac3dbcdafb8b4830f46cf47921fad0b1f"
+  },
+  {
+    "title": "තවත් වෙඩි තැබීමක් අනූ නමයෙන් ව්‍යර්ථ වෙයි",
+    "href": "news.php?nid=206892",
+    "byline": "මීගමුව ප්‍රදේශයේ අද (21) දහවල් සිදු කිරීමට ගිය තවත් වෙඩි තැබීමක් ව්‍යාර්ථ ව ගොස් තිබේ.",
+    "timestamp": "February 21, 2025  5:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206892",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cb2b6d4ae04ce989f00c24bdae1ece5109ae676e235eaf0caa0c55ceff2e7e6f"
+  },
+  {
+    "title": "ජනාධිපති ලේකම් සහ වියට්නාම තානාපතිනිය අතර හමුවක්",
+    "href": "news.php?nid=206893",
+    "byline": "ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ශ්‍රී ලංකාවේ වියට්නාම තානාපතිනි ට්‍රින් තී ටැම් මහත්මිය අතර හමුවක් අද (21) පෙරවරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී පැවැත්විණි.",
+    "timestamp": "February 21, 2025  6:07 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206893",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c7bc40845863dfe1204a40dffbc7f2ce48ae42239c9dbc44b7b9aa9d50d08493"
+  },
+  {
+    "title": "වැලිවිට සුද්දාගේ රථ වාහන කිහිපයක් මුදා හැරීමට නියෝග",
+    "href": "news.php?nid=206894",
+    "byline": "2024 වසරේදී යුක්තිය මෙහෙයුම මගින් මුදල් විශුද්ධීකරණ පනත යටතේ පොලිස් අත්අඩංගුවට ගත් සුදත් කිත්සිරි කුමාර හෙවත් \"වැලිවිට සුද්දා\" ගේ රථ වාහන කිහිපයක් මුදා හරින ලෙස කඩුවෙල මහෙස්ත්‍රාත්වරිය අද (21) නියෝග කළාය.",
+    "timestamp": "February 21, 2025  6:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206894",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6e795816509cfbc33618b9b8661018ef5413da75f120f57ad87db79dce5238f5"
+  },
+  {
+    "title": "මිද්දෙණිය ත්‍රිත්ව ඝාතනයේ තවත් කරුණු හෙළිවෙයි",
+    "href": "news.php?nid=206895",
+    "byline": "මිද්දෙණියේ දී වෙඩි ප්‍රහාරයකින් ඝාතනයට ලක්වූ අරුණ විදානගමගේ, ඔහුගේ දියණිය සහ පුතුගේ ඝාතකයන් පිළිබඳ තවත් කරුණු අනාවරණය කරගැනීමට පොලීසිය සමත්ව ඇත.",
+    "timestamp": "February 21, 2025  6:29 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206895",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4a4dbfc85c4b6ba1bbb956dd5cbeecd217819c07ce424887f201b8e2cbd3beae"
+  },
+  {
+    "title": "දුරකථනයෙන් හමු වූ සාක්ෂිය",
+    "href": "news.php?nid=206896",
+    "byline": "ගණේමුල්ල සංජීව ඝාතනය කිරීම සඳහා පැමිණි වෙඩික්කරු හා ඔහුට සහාය දුන් බවට පැවසෙන කාන්තාව එක්ව ගත් ඡායාරුපක් සොයාගැනීමට පොලීසියට හැකිව තිබේ.",
+    "timestamp": "February 21, 2025  6:59 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206896",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2080f6efcebe6c09808909f4295e3f175fceb62c6fa1ae5b42883d62f9d0256a"
+  },
+  {
+    "title": "ක්ලීන් ශ්‍රී ලංකා පාසල් වැඩසටහන ඇරඹේ",
+    "href": "news.php?nid=206897",
+    "byline": "රජයේ ප්‍රමුඛ වැඩසටහනක් ලෙස ක්‍රියාත්මක “ක්ලීන් ශ්‍රී ලංකා වැඩසටහන” පාසල් පද්ධතිය කරා ගෙන යමින් පාසල් දහසක ක්‍රියාත්මක වැඩසටහනේ පළමු අදියර දිවයිනේ තෝරාගත් පාසල් 200ක ඊයේ (20) ආරම්භ කෙරිණි.",
+    "timestamp": "February 21, 2025  7:08 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206897",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6e41a20855987c41f6c414f01f4da0df9102e011106dd08664bfc280fee98262"
+  },
+  {
+    "title": "වෙඩික්කරුගේ පෙම්වතිය අත්අඩංගුවට",
+    "href": "news.php?nid=206898",
+    "byline": "ගණේමුල්ල සංජීව ඝාතනය කිරීම සඳහා පැමිණි වෙඩික්කරුගේ පෙම්වතිය යැයි කියන කාන්තාවක් මහරගම පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.",
+    "timestamp": "February 21, 2025  8:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206898",
+    "isoTimestamp": "2025-02-21T20:31:21+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "24b6269d4fc140a7e29b5e6345a11bd9a784df96c68a9223e9b5036fd3f4e451"
+  },
+  {
+    "title": "ව්‍යාපාරිකයෙකුගේ ලක්ෂ 3ක සහල් රාජසන්තක කරයි",
+    "href": "news.php?nid=206899",
+    "byline": "වෙළඳසැලේ සහල් විකිණීමට තිබියදී, සහල් නොමැති බව ප්‍රකාශ කළ ව්‍යාපාරිකයකුට  එරෙහිව පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය නීතිමය පියවර ගෙන ඇත.",
+    "timestamp": "February 21, 2025  9:41 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206899",
+    "isoTimestamp": "2025-02-21T23:30:17+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4c6b05b0efc2c65089d24a87912e3630a43e5ec14eeddcd734e30069219c0413"
+  },
+  {
+    "title": "කොටහේනේ වෙඩිතැබීමක්",
+    "href": "news.php?nid=206900",
+    "byline": "කොටහේන ගල්පොත්ත හංදිය ප්‍රදේශයේ අද (21) පස්වරුවේ සිදුකළ වෙඩිතැබීමකින් එක් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇත.\n\nයතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙක් විසින් ටී-56 ගිනි අවියකින් මෙම වෙඩිතැබීම සිදුකර තිබේ.",
+    "timestamp": "February 21, 2025  9:48 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206900",
+    "isoTimestamp": "2025-02-21T23:30:17+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e84ee38b8270a00be0cb71cb7fc894a7c611dcca97751d71b790f2aec28984cb"
+  },
+  {
+    "title": "අනවසර සංක්‍රමණිකයින් අමෙරිකාවෙන් පිටුවහල් කරයි",
+    "href": "news.php?nid=206901",
+    "byline": "අමෙරිකාවේ සිට පැනමාවට පිටුවහල් කරන ලද ශ්‍රී ලාංකිකයන් ඇතුළු සංක්‍රමණිකයන් 100කට ආසන්න පිරිසක් ඔවුන් රඳවා සිටි ස්ථානයේ සිට වෙනත් ස්ථානයකට මාරුකර යවා ඇත.",
+    "timestamp": "February 21, 2025  11:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=206901",
+    "isoTimestamp": "2025-02-21T23:30:17+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fe125a99b5b1241c7a15afd79de4965f2e1ae7503e8d4e589706028ad54d91da"
   }
 ]
