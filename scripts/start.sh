@@ -23,7 +23,7 @@ SCRIPTS=(
     "combined_urls.sh"
     "generate_summary.sh"
     "extract_todays_urls.sh"
-    # Add more scripts here
+    "generate_table.sh"
 )
 
 # Loop through each script and execute it
