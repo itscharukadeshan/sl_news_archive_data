@@ -1,0 +1,684 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "තැපැල් ඡන්දය හෙට සිට",
+        "url": "https://www.ada.lk/breaking_news/තැපැල්-ඡන්දය-හෙට-සිට/11-415809",
+        "timestamp": "23 04 2025 09:48:00",
+        "byline": "ලබන මස 06දා පැවැත්වීමට නියමිත පළාත් පාලන ඡන්ද විමසීමට අදාළ තැපැල් ඡන්දය සලකුණු කිරීම හෙට (24දා) සිට ආරම්භ වන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d4640e4e28ed1575e1cc8278558c3213fc82f8ecfcd378369283e232ee8e25ef"
+      },
+      {
+        "title": "මාතර බන්ධනාගාර රැඳවියන්ට භාර වීමට අවස්ථාවක්",
+        "url": "https://www.ada.lk/breaking_news/මාතර-බන්ධනාගාර-රැඳවියන්ට-භාර-වීමට-අවස්ථාවක්/11-415810",
+        "timestamp": "23 04 2025 08:51:00",
+        "byline": "මාතර බන්ධනාගාරය තවදුරටත් රැදවියන්ගේ පාලනයට යටත්ව තිබෙන බව වාර්තා වෙයි. තත්ත්වය පාලනය කිරීම සඳහා පොලීසිය හා පොලිස් විශේෂ කාර්ය බලකාය බන්ධනාගාරයට ගෙන්වා ගෙන තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e219b37f448daa7ba523366c6492c9bdd69d0a9545f27b309e36742da0133168"
+      },
+      {
+        "title": "දළදා වන්දනාවට එන බැතිමතුන්ගෙන් ඉල්ලීමක්",
+        "url": "https://www.ada.lk/breaking_news/දළදා-වන්දනාවට-එන-බැතිමතුන්ගෙන්-ඉල්ලීමක්/11-415808",
+        "timestamp": "23 04 2025 08:29:00",
+        "byline": "සිරි දළදා වන්දනාව සඳහා දළදා මාළිගා පරිශ්‍රය වෙත පැමිණෙන සැදැහැවතුන් පොලිතින් ඇතුළු නොදිරන ද්‍රව්‍ය රැගෙන ඒමෙන් වළකින ලෙසත්, දළදා මාළිගය අවට පරිසරයේ පවිත්‍රතාව රැක ගැනීම පිළිබඳව උපරිම අවධානය යොමු කරන ලෙසත්, එසේම කැළිකසළ අදාළ ස්ථානවලටම පමණක් බැහැර කිරීම වෙනුවෙන් සාමුහිකව මැදිහත් වෙමින් පුරවැසියන් ලෙස වගකිම ඉටු කරන ලෙසත්  “ක්ලීන් ශ්‍රී ලංකා” වැඩසටහන සිහිපත් කර සිටියි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0bc761e556ad6948fb52f907e0d2fd4a862fa0ded4caa9b1bb6cd7370f1eeca6"
+      },
+      {
+        "title": "ඩෑන් ප්‍රියසාද් ජීවිතක්ෂයට",
+        "url": "https://www.ada.lk/breaking_news/ඩෑන්-ප්‍රියසාද්-ජීවිතක්ෂයට/11-415807",
+        "timestamp": "23 04 2025 07:41:00",
+        "byline": "වෙඩි ප්‍රහාර එල්ල වීම හේතුවෙන් බරපතල තුවාල ලබා කොළඹ ජාතික රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි සමාජ ක්‍රියාකාරිකයෙක් වන ඩෑන් ප්‍රියසාද් ජීවිතක්ෂයට පත්ව තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "177a367d7d6940da8f47f4619d7aa09f65be1410aa2698978a57467894900df5"
+      },
+      {
+        "title": "ඹෟෂධ හිඟය උගු වෙලා - වහාම ජනපති මැදහත් වෙන්න",
+        "url": "https://www.ada.lk/breaking_news/ඹෟෂධ-හිඟය-උගු-වෙලා---වහාම-ජනපති-මැදහත්-වෙන්න/11-415802",
+        "timestamp": "23 04 2025 07:36:00",
+        "byline": "ඖෂධ හිඟය උග්‍ර වෙමින් තිබෙන නිසා අදාළ ගැටලුව විසඳීම සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා වහාම මැදිහත් විය යුතු බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානය සඳහන් කරයි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7fc22dd20e9b38058207d64759ede15358c1d61bca2902db4246d974e3499bd9"
+      },
+      {
+        "title": "සිරි දළඳා වන්දනාවට අද වෙනුවෙට වෙන දිනයක එන්න",
+        "url": "https://www.ada.lk/breaking_news/සිරි-දළඳා-වන්දනාවට-අද-වෙනුවෙට-වෙන-දිනයක-එන්න/11-415804",
+        "timestamp": "23 04 2025 06:04:00",
+        "byline": "සිරි දළඳා වන්දනාව වෙනුවෙන් බැතිමතුන්ගේ වර්ධනයක් පෙනෙන් බවත් අද දිනයේදී විශාල බැතිමතුන් පිරිසක් නුවරට පැමිණෙනු ඇතැයි අපේක්ෂා කරන බව පොලිස් මූලස්ථානය පවසයි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ef518294c6f73bb146ef6696aec309e9803a28d41823f7e351f1200c8ed0d380"
+      },
+      {
+        "title": "ඩෑන් ප්‍රියසාද්ට වෙඩි තැබීමක්",
+        "url": "https://www.ada.lk/breaking_news/ඩෑන්-ප්‍රියසාද්ට-වෙඩි-තැබීමක්/11-415806",
+        "timestamp": "22 04 2025 22:43:00",
+        "byline": "කොලොන්නාව නගර සභාව සඳහා ශ්‍රී ලංකා පොදුජන පෙරමුණින් තරග කරන ඩෑන් ප්‍රියසාද් වෙඩි වැදීමක් හේතුවෙන් ජීවිතක්ෂයට පත්ව තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "373d54253e081bac6edcb89d070a2106230308d6533d16d1169631b5cd36e55a"
+      },
+      {
+        "title": "ලංකාව තුළ ආයෝජන හිතකාමී පරිසරයක් නිර්මාණය වී තිබෙනවා",
+        "url": "https://www.ada.lk/breaking_news/ලංකාව-තුළ-ආයෝජන-හිතකාමී-පරිසරයක්-නිර්මාණය-වී-තිබෙනවා/11-415801",
+        "timestamp": "22 04 2025 21:30:00",
+        "byline": "ශ්‍රී ලංකාව සමඟ දිගුකාලීන සබඳතා ඉහළම තලයකට ඔසවා තැබීමේදී බලශක්ති, සංචාරක, විදේශ ආයෝජන සහ විදේශ රැකියා යන ක්ෂේත්‍රවලට ප්‍රමුඛත්වය ලබා දෙමින් කටයුතු කරන බව එක්සත් අරාබි එමීර් රාජ්‍යයේ උප අගමැති, විදේශ කටයුතු අමාත්‍ය ෂෙයික් අබ්දුල්ලා බින් සයිඩ් අල් නහියාන් මහතා පැවසීය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f85f04a3f72639628853caaaaf91609bb3b1c39354aa7fbd50204d80ca69008a"
+      },
+      {
+        "title": "ලක්ෂ 6 හමාරක් දළඳා වන්දනාව සම්පූර්ණ කරයි",
+        "url": "https://www.ada.lk/breaking_news/ලක්ෂ 6-හමාරක්-දළඳා-වන්දනාව-සම්පූර්ණ-කරයි/11-415798",
+        "timestamp": "22 04 2025 20:32:00",
+        "byline": "ඓතිහාසික සිරි දළදා වන්දනාවේ පස්වැනි දිනය නිමා වූ අද (22) දිනය වන විට බැතිමතුන් ලක්ෂ 6 1/2කට ආසන්න පිරිසක් දළදා සමිඳු වැඳ පුදාගෙන ඇති බවට ගණන් බලා තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f40a53c48e8f482bde7d02a94107db899bb76a7d85fa3c229da1b41ff75c36ad"
+      },
+      {
+        "title": "සුනඛයෙක් බේරීමට ගොස් ත්‍රීරෝද රියේ ගමන් කළ කාන්තාවක් මරුට",
+        "url": "https://www.ada.lk/breaking_news/සුනඛයෙක්-බේරීමට-ගොස්-ත්‍රීරෝද-රියේ-ගමන්-කළ-කාන්තාවක්-මරුට/11-415797",
+        "timestamp": "22 04 2025 19:41:00",
+        "byline": "රත්නපුර ලෙල්ලොපිටිය ප්‍රදේශයේදි මාර්ගයට සුනඛයෙක් පැන ඇති අතර සුනඛයා බේරිමට ත්‍රිවිල් රථ රියදුරු උත්සාහ ගැනිමේදි ත්‍රිවිල් රථය පෙරලි එහි ගමන් ගත් කාන්තාවක් බරපතල තුවාල ලබා රත්නපුර රෝහලට ඇතුලත් කරන විටදි මියගොස් ඇතයි රත්නපුර පොලිසියේ රථ වාහන අංශය පවසයි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a34d3f03a91645e91cdc3c240f8ea4a4c638fa8f6a03c8af7a3c6521c51d17fa"
+      },
+      {
+        "title": "පාස්කු ප්‍රහාරය ගැන ජනපතිගෙන් ප්‍රකාශයක් - දෙදෙනෙකු සොයා ගනියි",
+        "url": "https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-ගැන-ජනපතිගෙන්-ප්‍රකාශයක්---දෙදෙනෙකු-සොයා-ගනියි/11-415803",
+        "timestamp": "22 04 2025 18:45:00",
+        "byline": "පාස්කු ප්‍රහාරය සම්බන්ධයෙන් මීට පෙර සඳහන් කළ පරිදී නිරාකරණය කර ගැනීමට තිබෙන ගැටළු 06න් 02ක් නිරාකරණය කරගෙන තිබෙන බවත් ඊට අදාළ පුද්ගලයන් දෙදෙනා සොයාගෙන තිබෙන බවත්  ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6a47478009c757cea05dad545458db65a270f857adcf43485f5d77de0a8b7217"
+      },
+      {
+        "title": "කොන්ක්‍රීට් මිශ්‍ර වාහන දෙකක් අනතුරට",
+        "url": "https://www.ada.lk/breaking_news/කොන්ක්‍රීට්-මිශ්‍ර-වාහන-දෙකක්-අනතුරට/11-415796",
+        "timestamp": "22 04 2025 18:42:00",
+        "byline": "කොන්ක්‍රීට් මිශ්‍රකරන ටැංකි සහිත ලොරි රථ දෙකක් අනතුරට පත් වීමෙන් එක් ලොරි රථයක රියදුරු සහ අනෙක් ලොරි රථයේ රිය සහයකයා බරපතල ලෙස තුවාල ලබා කොත්මලේ ප්‍රාදේශීය රෝහල වෙත (22) දින අතුළත් කල බව පූඩළුඔය පොලිසිය පැවසීය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2a5e0ddc91f1855ae0f06f789aa9b30ec7fbf5dbcbabcd7875caff5f98c836bc"
+      },
+      {
+        "title": "Earth Care සම්මානය දෙවැනි වතාවටත් ශ්‍රී ලංකාවට",
+        "url": "https://www.ada.lk/breaking_news/Earth-Care-සම්මානය-දෙවැනි-වතාවටත්-ශ්‍රී-ලංකාවට/11-415800",
+        "timestamp": "22 04 2025 18:17:00",
+        "byline": "2008 දී හඳුන්වා දුන් JSW - The Times of India Earth Care Awards යනු දේශගුණික විපර්යාසවල විපත්තිවලට ප්‍රතිචාර දක්වන දූරදර්ශී සහ නවෝත්පාදකයින් හඳුනා ගැනීම සඳහා වන ප්‍රධාන වේදිකාවකි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "01c55132a279ef0bf116ac79d93762a4d9cf6461a40e22693904bff193129054"
+      },
+      {
+        "title": "කඩවත ෆාමසි තුනකට ජනතාවගෙන් සමාව අයදින්නැයි අධිකරණ නියෝගයක්",
+        "url": "https://www.ada.lk/breaking_news/කඩවත-ෆාමසි-තුනකට-ජනතාවගෙන්-සමාව-අයදින්නැයි-අධිකරණ-නියෝගයක්/11-415795",
+        "timestamp": "22 04 2025 17:59:00",
+        "byline": "ලියාපදිංචි නොකර ගෙන්වන ලද ඖෂධ ගබඩා කිරීම සහ බලපත්‍ර නොමැතිව ඔසු සැළක් පවත්වාගෙන යෑමේ චෝදනාවන්ට වරද පිළිගත් කඩවත නගරයේ ඔසුසැල් තුනකට රුපියල් ලක්‍ෂ 03ක දඩ නියම කළ මහර මහෙස්ත්‍රාත් කාංචනා ද සිල්වා මහත්මිය මේ සම්බන්ධයෙන් ජනතාවගෙන් සමාව අයැදමින් පුවත්පත් දැන්වීම් පළ කරන ලෙස විත්තිකරුවන්ට නියම කළාය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "af736a4193083cae549b64f42d037f6a2ff5861d435f8cf9dd1d14c1af90e228"
+      },
+      {
+        "title": "සිරි දළඳා දැක්මට අදත් ලක්ෂ ගණනක ජන ගඟක්",
+        "url": "https://www.ada.lk/breaking_news/සිරි-දළඳා-දැක්මට-අදත්-ලක්ෂ-ගණනක-ජන-ගඟක්/11-415794",
+        "timestamp": "22 04 2025 17:09:00",
+        "byline": "මහනුවර ඓතිහාසික ශ්‍රී දළඳා මාලිගාවේදී වසර 16 කට පසුව පැවැත්වෙන සිරි දළඳා දැක්මේ පස් වන දිනය වූ  අද 22 වනදාද  මහනුවර නගරයට ජන ගඟක් ගලා මුළු නගරය පමණක් නොව නගරයෙන් පිට ප්‍රදේශ පවා  සැදැහැවතුන්ගෙන් පිරී ගොස් තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "743e74e372bdd62c05e862735822f7a45946eb9c75997473395ddde6d5b53932"
+      },
+      {
+        "title": "ආඬ්අම්බලම ව්‍යාපාරිකයෙකුට වෙඩි තැබීමේ තැත වරදියි",
+        "url": "https://www.ada.lk/breaking_news/ආඬ්අම්බලම-ව්‍යාපාරිකයෙකුට-වෙඩි-තැබීමේ-තැත-වරදියි/11-415793",
+        "timestamp": "22 04 2025 16:12:00",
+        "byline": "ආඩිඅම්බලම, දැවමොට්ටාව ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගේ නිවසට යතුරු පැදියකින් පැමිණි වෙඩික්කරුවන් දෙදෙනෙකු එම ව්‍යාපාරිකයා වෙඩිතබා ඝාතනය කිරිමට දැරූ සිය උත්සාහය අසාර්ථක වූ පසු ඔවුන් රැගෙන ආ ගිනි අවියක් සහ පතොරම් සමග එක් වෙඩික්කරුවෙකු 04/22 දින දහවල්  කටුනායක පොලීසිය විසින් අත් අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "41198627b18d5f569b9c97f96dda165c1d4e403402937dcf2b11541c4c985ff9"
+      },
+      {
+        "title": "ලක්නව් - දිල්ලි  තරගය අද",
+        "url": "https://www.ada.lk/sports/ලක්නව්---දිල්ලි--තරගය-අද/9-415792",
+        "timestamp": "22 04 2025 15:30:00",
+        "byline": "ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ තවත් තරගයක් අද (22දා) පැවැත්වේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e77d80750a130cceec2c7e5424ced5fbe38f5aa93d17d7fa5da0cb84e517daef"
+      },
+      {
+        "title": "අති උතුම් ශුද්ධෝත්තම ෆ්‍රැන්සිස් පාප් වහන්සේගේ දේහයේ ඡායාරූප නිකුත් වෙයි",
+        "url": "https://www.ada.lk/breaking_news/අති-උතුම්-ශුද්ධෝත්තම-ෆ්‍රැන්සිස්-පාප්-වහන්සේගේ-දේහයේ-ඡායාරූප-නිකුත්-වෙයි/11-415791",
+        "timestamp": "22 04 2025 14:18:00",
+        "byline": "අති උතුම් ශුද්ධෝත්තම ෆ්‍රැන්සිස් පාප් වහන්සේගේ දේහය ඡායාරූප මාධ්‍ය වෙත නිකුත් කර තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "35470ad57373966af2286f6b05b0b46653178cf9b16855f07f4902d5b07e94e9"
+      },
+      {
+        "title": "වසර දෙකක් අතුරුදන්ව සිටි බැසිල්ගේ හිස් කබල හා අස්ථි හමුවෙයි?",
+        "url": "https://www.ada.lk/breaking_news/වසර-දෙකක්-අතුරුදන්ව-සිටි-බැසිල්ගේ-හිස්-කබල-හා-අස්ථි-හමුවෙයි-/11-415789",
+        "timestamp": "22 04 2025 13:31:00",
+        "byline": "ඇල්පිටිය මගුරුකඩුව ඕලුවල තේ ඉඩමක ඇළ අසල තිබී මිනිස් හිස් කබලක් සහිත ඇටකටු කැබලි ඊයෙ (21) සොයා ගත් බව ඇල්පිටිය පොලීසිය කියයි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1e9ecbc91c142dc99e8993cce04b7fbe427f624dcb4a5ea8cc2fc19e31c4a51a"
+      },
+      {
+        "title": "හිටපු රජ පවුල සලිත වෙලා",
+        "url": "https://www.ada.lk/breaking_news/හිටපු-රජ-පවුල-සලිත-වෙලා/11-415788",
+        "timestamp": "22 04 2025 12:19:00",
+        "byline": "’’අපිට දැඩි විශ්වාසයක් තිබෙනවා තව සති දෙක තුනකින් ලබාගත් අළුත් සාක්ෂි තොරතුරු මත පාස්කු  ප්‍රහාරයේ ප්‍රධාන සැළසුම් කරුවන් සහ සිද්ධවුනේ කොහොමද කියලා හෙළිදරව් කරන්න. ඒ නිසා හිටපු රජ පවුල සලිත වි තිබෙනවා’’",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b646fe9000f7983ab51e17d43344673447fee13bb1707264c2b4c8464ce12d16"
+      },
+      {
+        "title": "පාස්කු ප්‍රහාරයේ මහමොලකරු ප්‍රකාශ කිරීම සී.අයි.ඩී.යට සහ අධිකරණයට භාර දෙමු",
+        "url": "https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයේ-මහමොලකරු-ප්‍රකාශ-කිරීම-සී-අයි-ඩී-යට-සහ-අධිකරණයට-භාර-දෙමු/11-415790",
+        "timestamp": "22 04 2025 11:50:00",
+        "byline": "පාස්කු ප්‍රහාරය ගැන පරීක්ෂණ නිසි පරිදි සිදු වන බවත්, ඊට අදාළ දින වකවානු ප්‍රකාශ කිරීමට මෙම අවස්ථාවේ නොහැකි බවත් කැබිනට් ප්‍රකාශක අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0759835cf177cbc8ff738fd688d5ad6f2c74eea94d8f02385a283ee8e234e253"
+      },
+      {
+        "title": "අසිතගේ ගෝලයෙක් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/අසිතගේ-ගෝලයෙක්-අල්ලයි/11-415787",
+        "timestamp": "22 04 2025 11:39:00",
+        "byline": "විදේශගත මහාපරිමාණ මත්ද්‍රව්‍ය ජාවාරම් කරුවකු වන ’’ අසිත ’’ යන අයගේ මෙරට මත්ද්‍රව්‍ය ජාවාරම සිදුකරගන යනු ලබන ප්‍රධාන ගෝලයෙකු රුපියල් ලක්ෂ 24 කට අධික වටිනා අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 200 ක්   හා වටිනා ස්මාර්ට් ජංගම දුරකථනයක්ද   සමග ලුනාව කලපු පාලම අසලදී ගල්කිස්ස කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය මගින් අත්අඩංගුවට ගෙන ඇතැයි.පොලීසිය පැවසීය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4919f6aa892db0bb9e2d77d4df91817f84f54e1599cf044e69f4d2bacb3c4fcd"
+      },
+      {
+        "title": "රත්නපුර ඩෙංගු වසන්ගත තත්ත්වයක් ඇතිවීමේ අවධානම",
+        "url": "https://www.ada.lk/breaking_news/රත්නපුර-ඩෙංගු-වසන්ගත-තත්ත්වයක්-ඇතිවීමේ-අවධානම/11-415786",
+        "timestamp": "22 04 2025 10:27:00",
+        "byline": "රත්නපුර මහ නගර සභා බලප්‍රදේශය තුල ඩෙංගු රෝග වසංගත තත්වයක් ඇතිවීමේ දැඩි අවදානමක් ඇති බව රත්නපුර ප්‍රාදේශිය සොඛ්‍ය සේවා අධ්‍යක්ෂ වෛද්‍ය අනොජ් රොඩ්‍රිගෝ මහතා 22දා අවධාරණය කලේය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d2eefcc3c162405e1abb68175a721ec512c9fc41fb9b2f2828c54fcf5461d3f9"
+      },
+      {
+        "title": "පාප්වහන්සේ ස්වර්ගස්ත වීමට හේතුව වතිකානුව නිවේදනය කරයි",
+        "url": "https://www.ada.lk/breaking_news/පාප්වහන්සේ-ස්වර්ගස්ත-වීමට-හේතුව-වතිකානුව-නිවේදනය-කරයි/11-415785",
+        "timestamp": "22 04 2025 09:36:00",
+        "byline": "ආඝාතය සහ හෘදයාබාධයක් හේතුවෙන් ෆ්‍රැන්සිස් පාප් වහන්සේ ස්වර්ගස්ත වූ බව වතිකානුව නිල වශයෙන් නිවේදනය කළේය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7fafdf9783579d41dee8339b0503b19c815af793c6f46c60cb983cca3975df4b"
+      },
+      {
+        "title": "පස්වරු 1න් පමණ පසු බොහෝ ප්‍ර දේශවලට වැසි",
+        "url": "https://www.ada.lk/breaking_news/පස්වරු-1න්-පමණ-පසු-බොහෝ-ප්‍ර-දේශවලට-වැසි/11-415784",
+        "timestamp": "22 04 2025 08:23:00",
+        "byline": "දිවයිනේ බොහෝ ප්‍ර දේශවලට පස්වරු 1.00 න් පමණ පසුව වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "bc34c201d72af235b768ce21592c53bac9c9693f5529147771ca13a7070f36f9"
+      },
+      {
+        "title": "බලන්ගොඩ රෝහල් වල ⁣ඖෂධ හිගයක්",
+        "url": "https://www.ada.lk/breaking_news/බලන්ගොඩ-රෝහල්-වල-⁣ඖෂධ-හිගයක්/11-415782",
+        "timestamp": "22 04 2025 07:28:00",
+        "byline": "බලන්ගොඩ ප්‍රදේශයේ  ඇති රජයේ රෝහල්වල සහ රජයේ ප්‍රථමික සෞඛ්‍ය ප්‍රතිකාර මධ්‍යස්ථාන වල මෙිි  දිනවල  උග්‍ර ඖෂධ හිගයක්  ඇති වි තිබෙන බව රෝගිි ජනතාව පවසති.\n\nරජයේ රෝහල්වල නේවාසිකව සහ බාහිර අං⁣යෙන් ප්‍රතිකාර ලබා ගැනිමට යන තමන් මෙම ඖෂධ හිඟයත්  සමග  දැඩි අපහසුවයට පත්වෙන බව එම රෝගිි  ජනතාව පෙන්වා දෙති.මෙම තත්ත්වය  හේතුවෙන් තමන්ට ලබා දිය යුතු  ඖෂධ වර්ගවලින් වර්ග කිහිපයක් පමණක් රජයේ රෝහල්වලින් ලබා දෙන  බවත්  ඉතිරි ඖෂධ වර්ග විශාල මුදලක්  ගෙවා  පෞද්ගලික ඖෂධ ස",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fc635d4d07030e08dc1cf0ce052c32505472c75cbc8470420f5e7605f274261c"
+      },
+      {
+        "title": "අධිවේගී මාර්ග පද්ධතියෙන් අවුරුදු සමයේ දින 11 ට රු. කෝටි 50 ක ආදායමක්",
+        "url": "https://www.ada.lk/breaking_news/අධිවේගී-මාර්ග-පද්ධතියෙන්-අවුරුදු-සමයේ-දින-11-ට-රු--කෝටි-50-ක-ආදායමක්/11-415781",
+        "timestamp": "21 04 2025 19:17:00",
+        "byline": "සිංහල හා දෙමළ අලුත් අවුරුද්ද නිමිත්තෙන් අධිවේගී මාර්ග පද්ධතියෙන් ගත වූ දින 11 තුළ  රුපියල් මිලියන 502  (රුපියල් කෝටි 50 කට) අධික ආදායමක් ලැබී ඇතැයි මාර්ග සංවර්ධන අධිකාරියේ නියෝජ්‍ය අධ්‍යක්ෂක ජනරාල්  ( නඩත්තු හා මෙහෙයුම් අංශය)  ආර් .ඒ . ඩි. කහට පිටිය මහතා පැවසීය.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d668e3f69529387a1a5bd9832e236c899d25390c73e7121b69a47f62514efcba"
+      },
+      {
+        "title": "මධ්‍යම අධිවේගී මාර්ගයේ ආදායමත් ඉහළට",
+        "url": "https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගී-මාර්ගයේ-ආදායමත්-ඉහළට/11-415780",
+        "timestamp": "21 04 2025 16:33:00",
+        "byline": "මහනුවර දළදා මාලිගා පරිශ්‍රයේ පැවැත්වෙන ’’ සිරි දළදා වන්දනා 2025’’ දන්තධාතු වන්දනාමාන කිරීම සඳහා\nයන බැතිමතුන් මධ්‍යම අධිවේගී මාර්ගය බහුල වශයෙන් යොදා ගැනීමේ හේතුවෙන් එහි ආදායම 20% ඉහළ ගොස් ඇතැයි මාර්ග සංවර්ධන අධිකාරියේ නියෝජ්‍ය අධ්‍යක්ෂක ජනරාල්  ( නඩත්තු හා මෙහෙයුම්) ආර් .ඒ. ඩි. කහට පිටිය මහතා පැවසීය",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7bd0435b328e3dde2500f18c3e1bde1bfde7413dfff181123cb82fb2e1ced1b1"
+      },
+      {
+        "title": "අද දිනය අවසන් වන විට 435000ක් දළඳා වන්දනාව සිදුකරගනු ඇතැයි විශ්වාස කරේ",
+        "url": "https://www.ada.lk/breaking_news/අද-දිනය-අවසන්-වන-විට-435000ක්-දළඳා-වන්දනාව-සිදුකරගනු-ඇතැයි-විශ්වාස-කරේ/11-415779",
+        "timestamp": "21 04 2025 15:52:00",
+        "byline": "මේ දිනවල ආරම්භ වී ඇති සිරි දළදා වන්දනාව සඳහා දිනෙන් දින බැතිමතුන් වැඩිවන සෙයක් පෙනෙන්නට තිබෙන බැවින් වන්දනා කාලසීමාව දීර්ඝ කිරීමට මල්වතු අස්ගිරි මහා නා හිමිවරුන් ප්‍රමුඛ දියවඩන නිලමේවරයා පියවර ගෙන තිබේ.",
+        "isoTimestamp": "2025-04-23T10:43:21+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "35bc6316541b3bfbe3b45fd872a0745d9b70dd29727c5a95e8f06d888da193a7"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "UAE deputy PM in Sri Lanka; backs energy, tourism, investment, foreign jobs",
+        "url": "https://economynext.com/uae-deputy-pm-in-sri-lanka-backs-energy-tourism-investment-foreign-jobs-217139/",
+        "timestamp": "April 23, 2025",
+        "byline": "UAE top delegation comes to Sri Lanka following President Dissanayake visit to Dubai in February",
+        "isoTimestamp": "2025-04-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c82b50f723c2aa36ee7272f85ab5e05481676c11089763c46bb0326cc172343a"
+      },
+      {
+        "title": "India needs to agree to disclose defence MoU with Sri Lanka: Cabinet Spokesman",
+        "url": "https://economynext.com/india-needs-to-agree-to-disclose-defence-mou-with-sri-lanka-cabinet-spokesman-217121/",
+        "timestamp": "April 22, 2025",
+        "byline": "Both countries signed seven MoUs including on Defence during the recent visit of Indian Prime Minister Narendra Modi",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4a4616e10d8542b7505e5c5e71a150da517da77c5d1f8bf590d73bff39ef3af5"
+      },
+      {
+        "title": "Spot US dollar 299.86/95 Sri Lanka rupees, bond yields flat",
+        "url": "https://economynext.com/spot-us-dollar-299-86-95-sri-lanka-rupees-bond-yields-flat-217113/",
+        "timestamp": "April 22, 2025",
+        "byline": "Bond yields were broadly steady.",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0840f3fd9c67ffd9c03e20799f9eda07ffe332e134e346c279698b4aaeb18708"
+      },
+      {
+        "title": "Sri Lanka stocks ended lower on banks, export firms",
+        "url": "https://economynext.com/sri-lanka-stocks-ended-lower-on-banks-export-firms-217086/",
+        "timestamp": "April 22, 2025",
+        "byline": "“Uncertainty is slowing down things and creating a bit of a selling pressure,”",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "30b1596a28484c683c36b4eb98ac81b6f0c4f822e11fc02397ce376fbb0db2bf"
+      },
+      {
+        "title": "Sri Lanka's Siyapatha Finance debt rated 'A(EXP)(lka)' by Fitch",
+        "url": "https://economynext.com/sri-lankas-siyapatha-finance-debt-rated-aexplka-by-fitch-217077/",
+        "timestamp": "April 22, 2025",
+        "byline": "The proposed debentures will mature in five years and will be listed on the Colombo Stock Exchange.",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5f5de9c77c0413462ce12a6039dfaf6738309f78e1f9f79d7317ee08b5e2aaf0"
+      },
+      {
+        "title": "Sri Lanka, UAE establish joint business council",
+        "url": "https://economynext.com/sri-lanka-uae-establish-joint-business-council-217072/",
+        "timestamp": "April 22, 2025",
+        "byline": "MoU on the establishment of UAE-Sri Lanka Joint Business Council was exchanged",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b42a4606355dee6ed708ed1dca4e5e168ea96a9e56cfbcb02c12aa80b5d74dc7"
+      },
+      {
+        "title": "Sri Lanka increases three wheeler weight for electricity conversion",
+        "url": "https://economynext.com/sri-lanka-increases-three-wheeler-weight-for-electricity-conversion-217060/",
+        "timestamp": "April 22, 2025",
+        "byline": "Motor Traffic Act to be amended to increase tare load from 500kg to 650kg",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e91eaf7903433a62cd6bda3365ef32dfc5516875611adb6c943966a2b9929930"
+      },
+      {
+        "title": "Sri Lanka to regulate offshore Port City and floating casinos, online gaming",
+        "url": "https://economynext.com/sri-lanka-to-regulate-offshore-port-city-and-floating-casinos-online-gaming-217034/",
+        "timestamp": "April 22, 2025",
+        "byline": "The entity will also regulate onshore casinos",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dd042eb8645ebc5e87dd486a021f261aa7430e061dd042828cc9180c184c01c3"
+      },
+      {
+        "title": "Kamal Amarasinghe appointed Sri Lanka Motor Transport Commissioner General",
+        "url": "https://economynext.com/kamal-amarasinghe-appointed-sri-lanka-motor-transport-commissioner-general-217036/",
+        "timestamp": "April 22, 2025",
+        "byline": "He replaces Nishantha Anuruddha Weerasinghe,",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9dcbcc2ea2e023e9c5742d7599262042da33d42f707aac90eee1d6d232d69c36"
+      },
+      {
+        "title": "Dnata Airport Services gets ground handling contract for SriLankan in Melbourne",
+        "url": "https://economynext.com/dnata-airport-services-gets-ground-handling-contract-for-srilankan-in-melbourne-217013/",
+        "timestamp": "April 22, 2025",
+        "byline": "At a cost of 13,124,402 Australian dollars, or 2.6 billion rupees",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2c89a3a46f4b9e45173a50d0d5f066fae6b6b5dfd903dbd77cafc1791e5ff305"
+      },
+      {
+        "title": "Sri Lanka eyes waterborne transport as PPPs",
+        "url": "https://economynext.com/sri-lanka-eyes-waterborne-transport-as-ppps-217004/",
+        "timestamp": "April 22, 2025",
+        "byline": "Both intercity and urban transport was being considered",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a4f911781b3fcd0381c2e8112dcaddb2df307ab52c595ccad06b8f012b987b94"
+      },
+      {
+        "title": "Spot US dollar 299.50/80 Sri Lanka rupees, bond yields flat",
+        "url": "https://economynext.com/spot-us-dollar-299-50-80-sri-lanka-rupees-bond-yields-flat-216987/",
+        "timestamp": "April 22, 2025",
+        "byline": "Stocks were down",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "34f4e462f334181d0d12cda148ae72c9bbe37e1dbfd164f2fe10b0945acde170"
+      },
+      {
+        "title": "Sri Lanka's Capital Alliance Holdings in Rs1.5bn IPO",
+        "url": "https://economynext.com/sri-lankas-capital-alliance-holdings-in-rs1-5bn-ipo-216980/",
+        "timestamp": "April 22, 2025",
+        "byline": "CAL has operations in Sri Lanka and the Bangladesh",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "25bcc46fe090a98f06897af7f239a040213eec994226ba6c80039fb0811c8cb0"
+      },
+      {
+        "title": "Trump-Powell feud ratchets up amid Sri Lanka style anti-globalization utopia plan",
+        "url": "https://economynext.com/trump-powell-feud-ratchets-up-amid-sri-lanka-style-anti-globalization-utopia-plan-216934/",
+        "timestamp": "April 22, 2025",
+        "byline": "Trump is already blamed for the coming slowdown by analysts and businesses, not the Fed",
+        "isoTimestamp": "2025-04-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ef7808187bce45d47b831ba851b8b956cc376872d64f13d784bf296a2437ee1c"
+      },
+      {
+        "title": "\"A beacon of moral clarity in turbulent times\": Sri Lanka President on Pope",
+        "url": "https://economynext.com/a-beacon-of-moral-clarity-in-turbulent-times-sri-lanka-president-on-pope-216880/",
+        "timestamp": "April 21, 2025",
+        "byline": "Pope Francis died on April 21 at the age of 88",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2326e899bb45f982e62b051cccea0e372298750166935de2e6669dd1b038135c"
+      },
+      {
+        "title": "Sri Lanka solar curtailment ends after New Year holiday",
+        "url": "https://economynext.com/sri-lanka-solar-curtailment-ends-after-new-year-holiday-216878/",
+        "timestamp": "April 21, 2025",
+        "byline": "As of now there is no renewable curtailment in effect",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0eab307d741bbe8cbf71aa37acfe4ac4a1dedf4a9f200a1ef11e486aa9371114"
+      },
+      {
+        "title": "Sri Lanka’s First Capital Treasuries raises Rs3bn in debenture issue",
+        "url": "https://economynext.com/sri-lankas-first-capital-treasuries-raises-rs3bn-in-debenture-issue-216873/",
+        "timestamp": "April 21, 2025",
+        "byline": "The issue has been oversubscribed",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "df2d539fe8289ee88809b71ff0f012da996ffc42ee07d6fbecd881b56b39e3a6"
+      },
+      {
+        "title": "Spot US dollar 299.25/40 Sri Lanka rupees, bond yields flat",
+        "url": "https://economynext.com/spot-us-dollar-299-25-40-sri-lanka-rupees-bond-yields-flat-216869/",
+        "timestamp": "April 21, 2025",
+        "byline": "Rupee depreciates",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0d46871a7096fd15b5bfe89760a90054b08e3884b703435a11763b6299e3887f"
+      },
+      {
+        "title": "Sri Lanka export stocks fall as China warns countermeasures against US appeasers",
+        "url": "https://economynext.com/sri-lanka-export-stocks-fall-as-china-warns-countermeasures-against-us-appeasers-216845/",
+        "timestamp": "April 21, 2025",
+        "byline": "China said it will take countermeasures against nations that make deals with the US which hurt China's interests",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9fda771b42ab7eea51e379851a0fb9b21d3a728cbd68095b935cb1edc72f4114"
+      },
+      {
+        "title": "Afghanistan at the crossroads: Is it ready to move away from its security blackhole?",
+        "url": "https://economynext.com/afghanistan-at-the-crossroads-is-it-ready-to-move-away-from-its-security-blackhole-216831/",
+        "timestamp": "April 21, 2025",
+        "byline": "Since taking power in August 2021, the Taliban government has not been a welcome guest at most forums.",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "475f45b24120ff710e79b04b06b1c0b611219f6a30ed386db6aa640dda7ea796"
+      },
+      {
+        "title": "Pope Francis dies at 88, a day after Easter",
+        "url": "https://economynext.com/pope-francis-dies-at-88-a-day-after-easter-216803/",
+        "timestamp": "April 21, 2025",
+        "byline": "Pope Francis died on Easter Monday, April 21, 2025, at the age of 88 at his residence in the Vatican's Casa Santa Marta,",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a9d6b0a803c065b1311a4def4e66ebadb10397630bae35f0559086c92448ae99"
+      },
+      {
+        "title": "Sri Lanka coconut sales plummet at weekly auction amid declining production",
+        "url": "https://economynext.com/sri-lanka-coconut-sales-plummet-at-weekly-auction-amid-declining-production-216778/",
+        "timestamp": "April 21, 2025",
+        "byline": "Average coconut prices rose 2.8 percent",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "63732a6e40a8484e956f45c1912063ea3b69365956428c72b391e570bc114757"
+      },
+      {
+        "title": "Sri Lanka’s Lankem Developments raises Rs752mn in rights issue",
+        "url": "https://economynext.com/sri-lankas-lankem-developments-raises-rs752mn-in-rights-issue-216765/",
+        "timestamp": "April 21, 2025",
+        "byline": "40,000,000 ordinary shares at 15 rupees each",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ce247830b15ca24e574c29e5ffa68215eb8b221eb205de37082aa9c7acc2f3c2"
+      },
+      {
+        "title": "Sri Lanka's local authorities' election postal voting on April 24, 25, 28, 29",
+        "url": "https://economynext.com/sri-lankas-local-authorities-election-postal-voting-on-april-24-25-28-29-216770/",
+        "timestamp": "April 21, 2025",
+        "byline": "Postal voting for Sri Lanka's delayed local authorities' election takes place this week",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3fab0619182217127f2e3d07c2df5ef4aec8592ad3b3065d073a8a034ac68bf8"
+      },
+      {
+        "title": "Spot US dollar 298.85/299.25 Sri Lanka rupees, bond yields flat",
+        "url": "https://economynext.com/spot-us-dollar-298-85-299-25-sri-lanka-rupees-bond-yields-flat-216759/",
+        "timestamp": "April 21, 2025",
+        "byline": "Stocks opened up 0.37",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8c6f8c34d5fe19f47a3d36bfd984f01c7af17a50f0d01d1579ddda0c1c2897b6"
+      },
+      {
+        "title": "How Taiwan avoided Sri Lanka's fate to become an export powerhouse",
+        "url": "https://economynext.com/how-taiwan-avoided-sri-lankas-fate-to-become-an-export-powerhouse-216689/",
+        "timestamp": "April 21, 2025",
+        "byline": "By the 1950s academics in US and UK had rejected economics of Hume, Ricardo and Smith, becoming branches without a tree",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3ed72bfe3a3a3177747f46a1cac1045554c9536105825dbb66c2f07d26bc0b67"
+      },
+      {
+        "title": "All volumes of Easter Sunday commission report to Sri Lanka's CID",
+        "url": "https://economynext.com/all-volumes-of-easter-sunday-commission-report-to-sri-lankas-cid-216721/",
+        "timestamp": "April 21, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-04-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "753cf35fbab9af1ac30a8881a5a8e73e7eb253a65dc79138cc8d0c1c8f0d83e5"
+      },
+      {
+        "title": "Sri Lanka central bank adds billions in dollar value to EPF in 2023-24  with sound money",
+        "url": "https://economynext.com/sri-lanka-central-bank-adds-billions-in-dollar-value-to-epf-in-2023-24-with-sound-money-216644/",
+        "timestamp": "April 20, 2025",
+        "byline": "The EPF has built back around US $5.29 billion dollars after losing 6.27",
+        "isoTimestamp": "2025-04-20T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "018d6301225f0c95ffb272fd87cdee086e461adafa49e59195529a3288be1031"
+      },
+      {
+        "title": "Sri Lanka SEC cautions Wealthy Minds Academy over social media posts",
+        "url": "https://economynext.com/sri-lanka-sec-cautions-wealthy-minds-academy-over-social-media-posts-216624/",
+        "timestamp": "April 20, 2025",
+        "byline": "Says conduct was an offence under  Section 131 (1) (c) of the SEC Act",
+        "isoTimestamp": "2025-04-20T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e59fb7318166ef352ee649a4817c4cf17c11e99d9195ae60c49a9342db2231ac"
+      },
+      {
+        "title": "Unfinished pursuit of justice in Sri Lanka’s Easter Sunday attack",
+        "url": "https://economynext.com/unfinished-pursuit-of-justice-in-sri-lankas-easter-sunday-attack-216598/",
+        "timestamp": "April 20, 2025",
+        "byline": "Sri Lanka yet to reveal the mystery behind the carnage that mostly killed Christians",
+        "isoTimestamp": "2025-04-20T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a6b36cdc1eae6d27873a64b8f88d8e69691561cea668d8bc5bab382a9e967d3d"
+      },
+      {
+        "title": "Sri Lanka faces debt woes, food price volatility as trade war escalates: UN report",
+        "url": "https://economynext.com/sri-lanka-faces-debt-woes-food-price-volatility-as-trade-war-escalates-un-report-216513/",
+        "timestamp": "April 19, 2025",
+        "byline": "Many low-income countries face a “perfect storm” of worsening external financial conditions, unsustainable debt and ...",
+        "isoTimestamp": "2025-04-19T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "384c496e4bc221e0797cea6a4ba9890ebae38743d313c47fa0846770251461fe"
+      },
+      {
+        "title": "Sri Lanka EPF pays record real returns as central bank misses inflation target",
+        "url": "https://economynext.com/sri-lanka-epf-pays-record-real-returns-as-central-bank-misses-inflation-target-216587/",
+        "timestamp": "April 19, 2025",
+        "byline": "Real returns after inflation hits double digits",
+        "isoTimestamp": "2025-04-19T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d077df70d41165aa702da73b21c50b18dd70f2e3632dc11d55e9dd61661aecb2"
+      },
+      {
+        "title": "Foreigners dump Sri Lanka rupee bonds for 2nd straight week amid Trump tariff uncertainty",
+        "url": "https://economynext.com/foreigners-dump-sri-lanka-rupee-bonds-for-2nd-straight-week-amid-trump-tariff-uncertainty-216544/",
+        "timestamp": "April 19, 2025",
+        "byline": "Sri Lanka's exports to US expected to slow if reciprocal tariff comes to effect",
+        "isoTimestamp": "2025-04-19T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4ae99f4ae0a456a2ffad1ad55bd8336779b26a0b04abcf537d7c97797311ebf3"
+      },
+      {
+        "title": "Sri Lanka Police arrest suspect over Church shooting",
+        "url": "https://economynext.com/sri-lanka-police-arrest-suspect-over-church-shooting-216559/",
+        "timestamp": "April 19, 2025",
+        "byline": "Preliminary investigation suggest the shooting was due to a personal dispute: Police",
+        "isoTimestamp": "2025-04-19T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ab932677f04c0d25a6ff44d8d8509aeea370d40a0c128bdead46bafdfb3f7593"
+      },
+      {
+        "title": "Sri Lanka team to hold tariff talks in Washington on April 22",
+        "url": "https://economynext.com/sri-lanka-team-to-hold-tariff-talks-in-washington-on-april-22-216509/",
+        "timestamp": "April 18, 2025",
+        "byline": "A 10 percent tax on imports, slapped by President Trump as a revenue measure is in effect at the moment",
+        "isoTimestamp": "2025-04-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ddf4605e5c43be0452c7e6b406a45e74e047bfbb5f584c16357921d062021b01"
+      },
+      {
+        "title": "Vietnam's famed walking ascetic Minh Tuệ in Sri Lanka amid obstacles",
+        "url": "https://economynext.com/vietnams-famed-walking-ascetic-minh-tue-in-sri-lanka-amid-obstacles-216441/",
+        "timestamp": "April 18, 2025",
+        "byline": "The ascetic walks barefoot, and is dressed in robes made of scraps of cloth given to him on his travels",
+        "isoTimestamp": "2025-04-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8424f844ad30b2e571679df1359af71c1a258ecbdb5f1579a1daedf2a92be70c"
+      },
+      {
+        "title": "'We made the right decisions', former minister on restructuring Sri Lanka EPF",
+        "url": "https://economynext.com/we-made-the-right-decisions-former-minister-on-restructuring-sri-lanka-epf-216420/",
+        "timestamp": "April 18, 2025",
+        "byline": "We did this quickly and carefully, without harming superannuation funds like the EPF",
+        "isoTimestamp": "2025-04-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fad8eb0272ea7f87e02ffdf4b2fdafbe8fb6f9c09f3bb0eee57a0b318440b24d"
+      },
+      {
+        "title": "Foreign envoys head to Sri Lanka's Kandy to view sacred tooth relic",
+        "url": "https://economynext.com/foreign-envoys-head-to-sri-lankas-kandy-to-view-sacred-tooth-relic-216413/",
+        "timestamp": "April 18, 2025",
+        "byline": "44 diplomats from Vietnam, Bangladesh, Indonesia, Nepal, the Netherlands, India, Myanmar, Palestine, France, New Zealand",
+        "isoTimestamp": "2025-04-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f376abdb71a167b9a0626045905f14abee2238bead15ddd0a29fde0cdb90a6c8"
+      },
+      {
+        "title": "Countries must put their houses in order to face a world of uncertainty: IMF chief",
+        "url": "https://economynext.com/countries-must-put-their-houses-in-order-to-face-a-world-of-uncertainty-imf-chief-216383/",
+        "timestamp": "April 18, 2025",
+        "byline": "Tighter budget constraints will entail difficult choices everywhere especially in low-income countries, Georgieva said.",
+        "isoTimestamp": "2025-04-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "79563ab352a00a23bfc3d4880fae9cac83d817baad69aa8a2dd16cd76c683253"
+      },
+      {
+        "title": "UK overtakes Russia in Sri Lanka tourist arrivals in April 2025",
+        "url": "https://economynext.com/uk-overtakes-russia-in-sri-lanka-tourist-arrivals-in-april-2025-216408/",
+        "timestamp": "April 18, 2025",
+        "byline": "Tourist arrivals increased 38 percent from a year ago to 93,915 in the first 15 days",
+        "isoTimestamp": "2025-04-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "acd335266e242057d89a1cee43b55c25c7f405220fd99c3535d9b736f51babac"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
