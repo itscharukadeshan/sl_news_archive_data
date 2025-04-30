@@ -1,24 +1,24 @@
 <!-- @format -->
 ## News Archive Summary
 
-Summary Report as of Tue Apr 29 15:30:52 +0530 2025
+Summary Report as of Wed Apr 30 16:11:47 +0530 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 14          | 3133        |
-| adaderana-sinhala               | 29          | 6659        |
+| ada               | 13          | 3156        |
+| adaderana-sinhala               | 24          | 6700        |
 | adaderana-tamil               | 0          | 4896        |
-| adaderana               | 29          | 4836        |
-| aruna               | 25          | 5232        |
-| dailymirror               | 19          | 3609        |
-| dinamina               | 91          | 12037        |
-| economynext               | 5          | 2060        |
-| island               | 41          | 5119        |
-| lankadeepa               | 40          | 12815        |
-| newswire               | 24          | 384        |
-| tamilmirror               | 22          | 5110        |
-| thamilan               | 26          | 5588        |
-| themorning               | 53          | 6377        |
-| thinakaran               | 39          | 7708        |
-| **Total**          | **457**      | **85563** |
+| adaderana               | 27          | 4874        |
+| aruna               | 41          | 5273        |
+| dailymirror               | 11          | 3629        |
+| dinamina               | 91          | 12141        |
+| economynext               | 4          | 2079        |
+| island               | 30          | 5149        |
+| lankadeepa               | 50          | 12899        |
+| newswire               | 24          | 419        |
+| tamilmirror               | 23          | 5141        |
+| thamilan               | 18          | 5620        |
+| themorning               | 41          | 6424        |
+| thinakaran               | 29          | 7749        |
+| **Total**          | **426**      | **86149** |
 
