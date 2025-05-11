@@ -1,24 +1,24 @@
 <!-- @format -->
 ## News Archive Summary
 
-Summary Report as of Sun May 11 09:01:54 +0530 2025
+Summary Report as of Sun May 11 11:45:58 +0530 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 0          | 3317        |
-| adaderana-sinhala               | 4          | 7174        |
+| ada               | 8          | 3325        |
+| adaderana-sinhala               | 10          | 7180        |
 | adaderana-tamil               | 0          | 4896        |
-| adaderana               | 0          | 5228        |
-| aruna               | 3          | 5597        |
-| dailymirror               | 1          | 4006        |
-| dinamina               | 0          | 12874        |
+| adaderana               | 10          | 5238        |
+| aruna               | 8          | 5602        |
+| dailymirror               | 3          | 4008        |
+| dinamina               | 3          | 12879        |
 | economynext               | 0          | 2200        |
-| island               | 0          | 5169        |
-| lankadeepa               | 17          | 13848        |
-| newswire               | 0          | 716        |
-| tamilmirror               | 3          | 5474        |
-| thamilan               | 3          | 6056        |
-| themorning               | 12          | 6840        |
-| thinakaran               | 0          | 8064        |
-| **Total**          | **43**      | **91459** |
+| island               | 30          | 5199        |
+| lankadeepa               | 33          | 13864        |
+| newswire               | 8          | 724        |
+| tamilmirror               | 9          | 5480        |
+| thamilan               | 15          | 6068        |
+| themorning               | 16          | 6844        |
+| thinakaran               | 3          | 8067        |
+| **Total**          | **156**      | **91574** |
 
