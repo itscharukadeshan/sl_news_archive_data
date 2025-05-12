@@ -1,24 +1,24 @@
 <!-- @format -->
 ## News Archive Summary
 
-Summary Report as of Sun May 11 19:23:03 +0530 2025
+Summary Report as of Mon May 12 14:09:05 +0530 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 13          | 3330        |
-| adaderana-sinhala               | 24          | 7194        |
+| ada               | 3          | 3333        |
+| adaderana               | 13          | 5270        |
+| adaderana-sinhala               | 16          | 7214        |
 | adaderana-tamil               | 0          | 4896        |
-| adaderana               | 26          | 5254        |
-| aruna               | 20          | 5614        |
-| dailymirror               | 14          | 4019        |
-| dinamina               | 17          | 12897        |
-| economynext               | 2          | 2202        |
-| island               | 40          | 5209        |
-| lankadeepa               | 55          | 13886        |
-| newswire               | 18          | 734        |
-| tamilmirror               | 27          | 5498        |
-| thamilan               | 29          | 6082        |
-| themorning               | 27          | 6855        |
-| thinakaran               | 9          | 8090        |
-| **Total**          | **321**      | **91760** |
+| aruna               | 11          | 5629        |
+| dailymirror               | 12          | 4038        |
+| dinamina               | 71          | 12968        |
+| economynext               | 4          | 2207        |
+| island               | 0          | 5209        |
+| lankadeepa               | 35          | 13931        |
+| newswire               | 4          | 741        |
+| tamilmirror               | 21          | 5519        |
+| thamilan               | 18          | 6106        |
+| themorning               | 17          | 6873        |
+| thinakaran               | 28          | 8125        |
+| **Total**          | **253**      | **92059** |
 
