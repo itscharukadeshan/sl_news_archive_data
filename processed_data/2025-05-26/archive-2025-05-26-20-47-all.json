@@ -1,0 +1,923 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": true,
+    "data": [
+      {
+        "title": "Ex-Minister Mahindananda Aluthgamage brought to court",
+        "href": "https://www.adaderana.lk/news.php?nid=108875",
+        "byline": "Former Minister of Agriculture Mahindananda Aluthgamage, who is currently in remand custody, has been produced before the Colombo Magistrate’s Court by prison officials this morning (May 26).",
+        "timestamp": "May 26, 2025  10:19 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108875",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "be0ad2c5999b345a41a11aeb0222afc671213a1bb0852a38e9a710a447938fe3"
+      },
+      {
+        "title": "Trump says he’ll delay threatened 50% tariff on EU until July",
+        "href": "https://www.adaderana.lk/news.php?nid=108867",
+        "byline": "President Donald Trump said Sunday that the U.S. will delay implementation of a 50% tariff on goods from the European Union from June 1 until July 9 to buy time for negotiations with the bloc.",
+        "timestamp": "May 26, 2025  6:42 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108867",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fe9e9d8f1ca96a03959dd8e40734ec9e70f03b50e6bad2a972500a0f57fef96d"
+      },
+      {
+        "title": "Artists have ability to build cultural bridge between North and South, says President",
+        "href": "https://www.adaderana.lk/news.php?nid=108868",
+        "byline": "A meeting between President Anura Kumara Disanayake and the Joint Association of Performing Artists of Sri Lanka was held at the Presidential Secretariat, on Sunday (25).",
+        "timestamp": "May 26, 2025  6:52 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108868",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "621fc4f5f8cfb125e78ae5a5d0cd46005ca4e7b9e7e4fdb8a09a63b367f1e047"
+      },
+      {
+        "title": "Special traffic plan around Independence Square due to funeral of Malini Fonseka",
+        "href": "https://www.adaderana.lk/news.php?nid=108871",
+        "byline": "Vehicular movement will be restricted in and around Independence Square in Colombo, due to the funeral of veteran actress Malini Fonseka scheduled for this evening (26).",
+        "timestamp": "May 26, 2025  9:19 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108871",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "850a7278e9efc9d9bfcc111234ae4fe832d61e274d6110aaca503b5caaca850c"
+      },
+      {
+        "title": "Legal action against 1,470 for maintaining mosquito breeding grounds",
+        "href": "https://www.adaderana.lk/news.php?nid=108892",
+        "byline": "Over 30,000 premises with potential mosquito breeding sites have been identified during the special island-wide mosquito control program conducted from May 9 to 24, the Ministry of Health said.",
+        "timestamp": "May 26, 2025  4:20 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108892",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "27bdf3ccfcc3ada18fe3da6708ed5687c0d059a2821fdc7503b55d9eefa700f7"
+      },
+      {
+        "title": "LG Polls: Deadline to submit campaign finance reports ends at midnight tomorrow",
+        "href": "https://www.adaderana.lk/news.php?nid=108894",
+        "byline": "The deadline for all candidates who contested the 2925 Local Government (LG) Elections to submit their campaign income and expenditure reports ends at midnight tomorrow (27).",
+        "timestamp": "May 26, 2025  8:08 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108894",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "04243b8f8c6dcb51fee24af386aa31f90e10f1bae32b18db69cc51a85c3763f9"
+      },
+      {
+        "title": "Last rites of Malini Fonseka with state honours today",
+        "href": "https://www.adaderana.lk/news.php?nid=108869",
+        "byline": "The final rites of Sri Lankan cinema icon and veteran actress Malini Fonseka, widely celebrated as the “Queen of Sri Lankan Cinema,” is scheduled to be performed with full state honours this evening (26) at Independence Square in Colombo.",
+        "timestamp": "May 26, 2025  8:24 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108869",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "17593305fb47c144c6536329be38a2336e1e6a23a75a662cc14c47cdc5ef8f92"
+      },
+      {
+        "title": "Edu Min. launches probe into suicide by student of Wayamba National College of Education",
+        "href": "https://www.adaderana.lk/news.php?nid=108870",
+        "byline": "The Ministry of Education has launched an urgent investigation into the suicide of a second-year student at the Wayamba National College of Education in Bingiriya.",
+        "timestamp": "May 26, 2025  8:38 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108870",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3942ddcbf60ab31c80f2c21cd3e538d2c7a67ce622d8b6f3b6ad77621a2ee680"
+      },
+      {
+        "title": "New Zealand welcomes Sri Lanka’s application to accede to RCEP agreement",
+        "href": "https://www.adaderana.lk/news.php?nid=108882",
+        "byline": "Visiting Deputy Prime Minister of New Zealand Winston Peters has welcomed Sri Lanka’s application to accede to the Regional Comprehensive Economic Partnership (RCEP) agreement.",
+        "timestamp": "May 26, 2025  1:33 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108882",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e6b1fd1e2502f7649a6e6c8adb0f6d3c71ab892a2feaa81056541ad908ffc3f1"
+      },
+      {
+        "title": "Sri Lanka bids farewell to “Queen of Sinhala Cinema,” Malini Fonseka",
+        "href": "https://www.adaderana.lk/news.php?nid=108893",
+        "byline": "The final rites of Sri Lankan cinema icon and veteran actress Malini Fonseka, widely known as the “Queen of Sri Lankan Cinema,” were performed with full state honours this evening (26 May) at Independence Square in Colombo.",
+        "timestamp": "May 26, 2025  6:18 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108893",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "44d072eaf13fec541f9a874905d8fba630ac3736196cd0c9e5eb707a01afc011"
+      },
+      {
+        "title": "President meets Lions Clubs Chief to strengthen youth mental health programs",
+        "href": "https://www.adaderana.lk/news.php?nid=108887",
+        "byline": "President Anura Kumara Dissanayake met with Fabrício Oliveira, International President of Lions Clubs International, at the Presidential Secretariat today (26) to discuss strengthening collaboration on youth mental health and social welfare initiatives in Sri Lanka.",
+        "timestamp": "May 26, 2025  3:11 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108887",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e35d649a9d54ecceec7503622881c711e457de10de13d9dbcd11728cf5f8c279"
+      },
+      {
+        "title": "Funeral ceremony of late Malini Fonseka underway at Independence Square",
+        "href": "https://www.adaderana.lk/news.php?nid=108891",
+        "byline": "The funeral ceremony of Sri Lankan cinema icon and veteran actress Malini Fonseka, widely known as the “Queen of Sri Lankan Cinema,” has commenced at Independence Square in Colombo.",
+        "timestamp": "May 26, 2025  4:14 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108891",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5d566e011bbfcc3654a1eaffbd7cfb9a30c966312e0fe473978f8eceb003fbcc"
+      },
+      {
+        "title": "Fairly heavy showers in parts of the island today",
+        "href": "https://www.adaderana.lk/news.php?nid=108866",
+        "byline": "The Department of Meteorology says that  showers or thundershowers will occur at times in Western, Sabaragamuwa and North-western provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts today (26).",
+        "timestamp": "May 26, 2025  6:31 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108866",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4ab0f1b591086f22e36bf7515174fbcf5455789d8c62646851c871bf26283bc3"
+      },
+      {
+        "title": "Colombo HC adjourns ‘Sathosa’ case against Johnston Fernando",
+        "href": "https://www.adaderana.lk/news.php?nid=108890",
+        "byline": "The case filed by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against former Minister Johnston Fernando and two others was taken up for hearing once again before the Colombo High Court today (26).",
+        "timestamp": "May 26, 2025  4:10 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108890",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "d1ecdf379ebea3075bc4b5c47e9986970ac2d8a7f26fb6fa90c053802d3b211a"
+      },
+      {
+        "title": "Police constable suspended following assault incident captured on video",
+        "href": "https://www.adaderana.lk/news.php?nid=108888",
+        "byline": "A police constable attached to the Gokarella Police Station has been suspended from duties.",
+        "timestamp": "May 26, 2025  3:27 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108888",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8b2f2f67e7bf2ceb005fc9079fbc2f9af592ccd8d0c6fa6bd466a210eb99c2fa"
+      },
+      {
+        "title": "Lilo and Stitch beat Tom Cruise in box office bonanza",
+        "href": "https://www.adaderana.lk/news.php?nid=108877",
+        "byline": "Disney’s live-action Lilo and Stitch remake and Tom Cruise’s supposedly final Mission: Impossible outing have opened as two of the biggest films of the year in a record-breaking weekend at the box office.",
+        "timestamp": "May 26, 2025  10:37 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108877",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "46e7f3d48cc0d011d4b0b596a488163e461848998d4cb78e72484335862aab97"
+      },
+      {
+        "title": "Remains of veteran actress Malini Fonseka brought to Independence Square",
+        "href": "https://www.adaderana.lk/news.php?nid=108874",
+        "byline": "The mortal remains of late veteran actress Malini Fonseka has been brought to the Independence Square in Colombo for the general public to pay their last respect.",
+        "timestamp": "May 26, 2025  10:07 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108874",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f98a995d2c7fe9c260daf0bd52e43529277b1ba4bd03927f54640537023b912b"
+      },
+      {
+        "title": "Trump says Putin ‘has gone absolutely crazy’ after major Russian attack on Ukraine",
+        "href": "https://www.adaderana.lk/news.php?nid=108876",
+        "byline": "US President Donald Trump has said that Russian President Vladimir Putin “has gone absolutely CRAZY” and that he is “not happy with what Putin is doing” after Moscow launched its largest aerial attack of its three-year war on Ukraine overnight.",
+        "timestamp": "May 26, 2025  10:20 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108876",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "22ac833a1bbe83114cc44c3338d005bb4a47eed7fbed322017abd944575963f8"
+      },
+      {
+        "title": "India overtakes Japan to become the fourth-largest economy: NITI Aayog CEO",
+        "href": "https://www.adaderana.lk/news.php?nid=108881",
+        "byline": "India overtakes Japan to become the fourth largest economy in the world, Aayog CEO BVR Subrahmanyam has said.",
+        "timestamp": "May 26, 2025  12:53 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108881",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f6ff19281733d63a3607de172575f08827a6df8ee6fc8970c24b1db9995119e1"
+      },
+      {
+        "title": "Special program honoring cinema icon Malini Fonseka live on TV Derana",
+        "href": "https://www.adaderana.lk/news.php?nid=108872",
+        "byline": "A special program dedicated to veteran actress and Sri Lankan cinema icon Malini Fonseka, fondly known as the “Queen of Sri Lankan Cinema,” is currently being broadcast on TV Derana.",
+        "timestamp": "May 26, 2025  9:45 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108872",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b96427b6e77116323aab588f91cc4ff20ac91c63e4f5b7454da30fbf40c9140b"
+      },
+      {
+        "title": "US first lady says AI is the future of publishing. It’s already happening",
+        "href": "https://www.adaderana.lk/news.php?nid=108879",
+        "byline": "US first lady Melania Trump released an audiobook version in her voice of her memoir on Thursday — but she won’t actually be the one narrating it.",
+        "timestamp": "May 26, 2025  12:33 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108879",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "509e7a90351c56e7b5a7065295b3538bdf9e9255e7ad4f537f1801fc470e7b29"
+      },
+      {
+        "title": "India’s Kerala state on alert after ship carrying hazardous cargo capsizes",
+        "href": "https://www.adaderana.lk/news.php?nid=108885",
+        "byline": "Authorities in India’s southern Kerala state have issued an alert after a ship carrying oil and hazardous cargo leaked and sank off the state’s coast in the Arabian Sea.",
+        "timestamp": "May 26, 2025  2:58 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108885",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "1d39ed75998bc77b2b2977346fd02250658374950c7f26d02f609f6066192c72"
+      },
+      {
+        "title": "Former Minister Mahindananda granted bail",
+        "href": "https://www.adaderana.lk/news.php?nid=108878",
+        "byline": "Former Minister of Agriculture Mahindananda Aluthgamage, who was arrested and remanded in connection with the case filed over the importation of a shipment of substandard organic fertiliser from a Chinese company during the previous administration, has been granted bail, Ada Derana reporter said.",
+        "timestamp": "May 26, 2025  11:58 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108878",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0b05f938320832123c6c25e45571701f76553b81cce276c5c9f3f41a01fbc0ff"
+      },
+      {
+        "title": "Viral video of assault on foreigner: Police issue clarification and warn against spreading old incidents",
+        "href": "https://www.adaderana.lk/news.php?nid=108880",
+        "byline": "Sri Lanka Police have issued a clarification regarding a viral video circulating on social media that appears to show a Sri Lankan man assaulting a Filipino national.",
+        "timestamp": "May 26, 2025  12:53 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108880",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5a2b7c67de1fd29cb0b655e7da6b969d0588816cf4e157dc25df35b9104e22e1"
+      },
+      {
+        "title": "Parliament to debate Personal Data Protection Bill during next session",
+        "href": "https://www.adaderana.lk/news.php?nid=108886",
+        "byline": "Parliament is scheduled to convene from June 3 (Tuesday) to June 6 (Friday) according to Secretary General of Parliament Kushani Rohanadeera.",
+        "timestamp": "May 26, 2025  3:02 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108886",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8d41a299ced0644643e8245158d6eb18493343c79497e520856ee8ebaf04464f"
+      },
+      {
+        "title": "Indian Consulate Officer dies in road accident in Omanthai",
+        "href": "https://www.adaderana.lk/news.php?nid=108884",
+        "byline": "An officer attached to the Consulate General of India in Jaffna has died following a tragic road accident in Omanthai, Vavuniya this morning (26), according to Omanthai Police.",
+        "timestamp": "May 26, 2025  2:24 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108884",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2005f74552d4ed59c5e888633f78d8510ac90593ec2161ce5a30150565e68b1f"
+      },
+      {
+        "title": "Dy Tourism Minister responds to reports of ‘bikini ban’ in Arugam Bay",
+        "href": "https://www.adaderana.lk/news.php?nid=108883",
+        "byline": "Certain groups are attempting to undermine the tourism industry by spreading false information via social media, Deputy Minister of Tourism Ruwan Chaminda Ranasingha said while clarifying reports of a purported ‘bikini ban in Arugam Bay.",
+        "timestamp": "May 26, 2025  2:16 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108883",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "488fbbc9149b1c8b7c2444a8ea2f7dcb3420241040ec812565f9dec6a3361322"
+      },
+      {
+        "title": "Mervyn Silva, Prasanna Ranaweera and 3 others further remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=108889",
+        "byline": "Former Minister Mervyn Silva, former State Minister Prasanna Ranaweera and three others arrested and remanded for allegedly selling a plot of state-owned land in Kiribathgoda to a private party by forging documents, have been further remanded.",
+        "timestamp": "May 26, 2025  3:48 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108889",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4e8a48a8682509ee6728b67cf3eb070a4628e10a8fc4a1941396a202f574715d"
+      },
+      {
+        "title": "Three arrested with heroin and ICE in Mount Lavinia",
+        "href": "https://www.adaderana.lk/news.php?nid=108873",
+        "byline": "Three individuals have been arrested for the possession of heroin and crystal methamphetamine (commonly known as ICE) during separate raids conducted in Mount Lavinia, Sri Lanka Police said.",
+        "timestamp": "May 26, 2025  9:52 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108873",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ed25353c61e14588dd1f773e9f404b7b9d3918d81826519d62a9c0814d5e4226"
+      },
+      {
+        "title": "Supplementary medical professionals warn of trade union action",
+        "href": "https://www.adaderana.lk/news.php?nid=108856",
+        "byline": "Joint Council for Professions Supplementary to Medicine (JCPSM) has decided to take trade union action due to the government’s failure to provide solutions to issues within its service.",
+        "timestamp": "May 25, 2025  5:30 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108856",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c2bb12c2264e31de78119a1a525f632078a849ba9fe3fae5f03b74fccec3789e"
+      },
+      {
+        "title": "Russian drones attack Kyiv, other Ukrainian cities, three dead outside the capital",
+        "href": "https://www.adaderana.lk/news.php?nid=108845",
+        "byline": "Russian forces attacked Kyiv and other cities early on Sunday, injuring at least 11 people in the capital, killing three people in towns around it and damaging dwellings and other buildings, officials said.",
+        "timestamp": "May 25, 2025  11:32 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108845",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ef12aa39b7314957f74fd5ab39cc9f6bed3ebb3a85a73a4ccd0421241636bddb"
+      },
+      {
+        "title": "SJB electoral organisers continue to resign",
+        "href": "https://www.adaderana.lk/news.php?nid=108847",
+        "byline": "A number of electoral organisers of the Samagi Jana Balawegaya (SJB) have resigned from their respective positions due to issues relating to the selection of members for local government bodies.",
+        "timestamp": "May 25, 2025  12:46 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108847",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fa899abea3b4e3105fe8fb18355277bbbf919dd077526d5091cbd4a46e105d1b"
+      },
+      {
+        "title": "New Zealand Deputy PM Winston Peters arrives in Sri Lanka",
+        "href": "https://www.adaderana.lk/news.php?nid=108839",
+        "byline": "Deputy Prime Minister and Minister of Foreign Affairs of New Zealand Winston Peters has arrived in the island on an official visit.",
+        "timestamp": "May 25, 2025  7:01 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108839",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9b0a269b5efe9a359d4da5d8c1e5a466154bde161ea992d9169a92c058b493d2"
+      },
+      {
+        "title": "Tourist arrivals in May top 90,000",
+        "href": "https://www.adaderana.lk/news.php?nid=108843",
+        "byline": "A total of 91,785 tourists have arrived in the country thus far in May, data from the Sri Lanka Tourism Development Authority (SLTDA) shows.",
+        "timestamp": "May 25, 2025  10:05 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108843",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "6b08674b092cbed040bec7935bfcf4140dc290fa3f45a448640a5121fe863fd1"
+      },
+      {
+        "title": "7-year-old killed in wild elephant attack in Gomarankadawala",
+        "href": "https://www.adaderana.lk/news.php?nid=108855",
+        "byline": "A 7-year-old child has died after being attacked by a wild elephant in the Indikatuwewa area of Gomarankadawala.",
+        "timestamp": "May 25, 2025  4:55 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108855",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a9e305270b179abf32caa7c48b26e8f47c8ca21819d4811b6775b6074c7b0152"
+      },
+      {
+        "title": "Second-year student at Wayamba National College of Education commits suicide in hostel",
+        "href": "https://www.adaderana.lk/news.php?nid=108851",
+        "byline": "A second-year student attached to the Wayamba National College of Education has reportedly committed suicide in her dormitory.",
+        "timestamp": "May 25, 2025  2:47 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108851",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "dd1eaab98878114c871ba76ccdd2f34b1fe93bb4e9382b2701df141a3859c45e"
+      },
+      {
+        "title": "Heavy showers above 100mm expected in parts of the island",
+        "href": "https://www.adaderana.lk/news.php?nid=108854",
+        "byline": "Heavy showers above 100 mm can be expected at some places in the next 24 hours in the Western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts, the Department of Meteorology said.",
+        "timestamp": "May 25, 2025  4:08 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108854",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bca2fcb244fe872a4962bb58838185b53d40818eb7842bb1aa16c1dda6ef8d7f"
+      },
+      {
+        "title": "Cases of dengue and chikungunya on the rise, Dy Health Minister",
+        "href": "https://www.adaderana.lk/news.php?nid=108842",
+        "byline": "The number of cases of dengue and chikungunya in the country are continuing to rise steadily according to current data, Deputy Minister of Health Dr. Hansaka Wijemuni has said.",
+        "timestamp": "May 25, 2025  9:07 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108842",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "02413a668be69fba838b5c4f713faea330d40afa17cef6cea1402e1e9b62ae78"
+      },
+      {
+        "title": "Man who robbed goods worth Rs. 100mn arrested by CCD",
+        "href": "https://www.adaderana.lk/news.php?nid=108849",
+        "byline": "An individual has been arrested for the theft of goods worth nearly Rs. 100 million from various parts of the country.",
+        "timestamp": "May 25, 2025  2:29 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108849",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "510c32ba45212ae2e7fb034be94e6cbd309180f2b720e74b74418ca5e9b00866"
+      },
+      {
+        "title": "Three arrested over shooting Thusitha Halloluwa’s vehicle",
+        "href": "https://www.adaderana.lk/news.php?nid=108858",
+        "byline": "Three suspects, including a female, have been arrested over the recent assault and shooting at former Lotteries Board Director Thusitha Halloluwa’s vehicle at Narahenpita.",
+        "timestamp": "May 25, 2025  6:55 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108858",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "06be7d4960bc3e650ba0873e55003cd5917f5070457c027cb6f58a67395758ea"
+      },
+      {
+        "title": "Heavy showers above 75mm expected in several areas today",
+        "href": "https://www.adaderana.lk/news.php?nid=108837",
+        "byline": "Showers will occur at times in the Western, Sabaragamuwa, North-western and Central provinces and in the Galle and Matara districts today (25), the Department of Meteorology said.",
+        "timestamp": "May 25, 2025  6:21 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108837",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9be38ba6d67349b89e69b34e40b08b5085a89a987b8750232c99fdb8e8198cf7"
+      },
+      {
+        "title": "Remanded ex-Minister Duminda Dissanayake admitted to prison hospital",
+        "href": "https://www.adaderana.lk/news.php?nid=108850",
+        "byline": "Former Minister Duminda Dissanayake, who was arrested and remanded following the discovery of a gold-plated firearm at a prominent apartment complex in Havelock Town on Tuesday (20), has been admitted to the prison hospital.",
+        "timestamp": "May 25, 2025  2:34 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108850",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e8cbccf5fd95fa35c93d0cb28b63ca8ab691ae33a166ab893f86b3cf256f8987"
+      },
+      {
+        "title": "Large crowd gathers to pay last respects to Malini Fonseka",
+        "href": "https://www.adaderana.lk/news.php?nid=108853",
+        "byline": "A large crowd continues to arrive at the National Film Corporation on Sunday (25) to pay their final respects to the late veteran actress Malini Fonseka, fondly known as the “Queen of Sri Lankan Cinema.”",
+        "timestamp": "May 25, 2025  3:55 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108853",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bf18e9deedf0fd8fb2a957fbc89820c9e9d9080b0d4355027593319fc07c4e9c"
+      },
+      {
+        "title": "Only 40 medicinal drugs in short supply at hospitals - Deputy Minister clarifies",
+        "href": "https://www.adaderana.lk/news.php?nid=108846",
+        "byline": "Deputy Minister of Health Dr. Hansaka Wijemuni has issued a clarification following media reports that claimed 180 types of medicines are in short supply at hospitals across the country.",
+        "timestamp": "May 25, 2025  12:21 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108846",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "278e5f107fb450dac74df73191735cf5d130a0ba0f1787c8348589dd4b087cb2"
+      },
+      {
+        "title": "Bird Flu: Several countries halt poultry imports from Brazil",
+        "href": "https://www.adaderana.lk/news.php?nid=108848",
+        "byline": "India, Albania and Namibia have joined the list of countries imposing a total ban on poultry imports from Brazil, while Angola has opted for a more limited restriction.",
+        "timestamp": "May 25, 2025  1:16 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108848",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "24c9cffa30778f1bff48df70ece37774c56b5c16cb30159b1386efa583abfea3"
+      },
+      {
+        "title": "Israeli strike kills nine of Gaza doctor’s children, hospital says",
+        "href": "https://www.adaderana.lk/news.php?nid=108841",
+        "byline": "An Israeli air strike on Gaza hit the home of a doctor and killed nine of her 10 children, the hospital where she works in the city of Khan Younis says.",
+        "timestamp": "May 25, 2025  8:33 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108841",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4f384c2946edc7565794135c28bd0416c5c06fa4cfd98c4da23b406181c634e4"
+      },
+      {
+        "title": "Malini Fonseka’s remains brought to National Film Corporation",
+        "href": "https://www.adaderana.lk/news.php?nid=108844",
+        "byline": "The remains of late veteran actress Malini Fonseka, fondly known as the “Queen of Sri Lankan Cinema”, has been brought to the National Film Corporation a short while ago for the public to pay their last respects.",
+        "timestamp": "May 25, 2025  10:17 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108844",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9b322663a470fc0297182424437d0557ebfef2aa6fb0bf55c2e7d7376a9955c8"
+      },
+      {
+        "title": "12-hour water cut in several areas of Colombo today",
+        "href": "https://www.adaderana.lk/news.php?nid=108838",
+        "byline": "A 12-hour water cut will be in effect in several areas of Colombo from 8:00 a.m. to 8:00 p.m. today (May 25), the National Water Supply and Drainage Board (NWSDB) has announced.",
+        "timestamp": "May 25, 2025  6:22 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108838",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2f021298498c31a4e26b3f1a1b8795369390a0f857d9ae4723639be5fe06404f"
+      },
+      {
+        "title": "Malini Fonseka’s remains to lie in state today for public to pay respect",
+        "href": "https://www.adaderana.lk/news.php?nid=108840",
+        "byline": "The remains of late veteran actress Malini Fonseka, known as the “Queen of Sri Lankan Cinema”, is scheduled to be brought to the National Film Corporation of Sri Lanka today (25) for the public to pay their last respects.",
+        "timestamp": "May 25, 2025  8:18 am",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108840",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b6ecbcb11d61c5032fae14c11654c41cba455143bafdec78745c00fb8fc0c63b"
+      },
+      {
+        "title": "‘Red’ warning issued over strong winds and rough seas",
+        "href": "https://www.adaderana.lk/news.php?nid=108857",
+        "byline": "The Department of Meteorology has issued as issued a ‘Red’ warning for the sea areas extending from Chilaw to Kankasanthurai via Puttalam and Mannar and from Matara to Pottuvil via Hambanthota.",
+        "timestamp": "May 25, 2025  6:35 pm",
+        "isoTimestamp": "2025-05-26T20:33:29+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=108857",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "826122ea9c268282db9bece4fd3f74a1243eb058fe04fc6d0ded83c7558ce611"
+      }
+    ]
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": false,
+    "error": {}
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka and New Zealand eye expanding trade in food, starting economic dialogue",
+        "url": "https://economynext.com/sri-lanka-and-new-zealand-eye-expanding-trade-in-food-starting-economic-dialogue-222686/",
+        "timestamp": "May 26, 2025",
+        "byline": "We discussed the growing number of New Zealand companies working with and investing in Sri Lanka",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "aa434ed4cf424e6d6ce0cb2e0e397963ac43224462b5a8a5e34cc4c9c2a007c8"
+      },
+      {
+        "title": "Sri Lanka rupee closes weaker, bond yields down sharply",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-weaker-bond-yields-down-sharply-222681/",
+        "timestamp": "May 26, 2025",
+        "byline": "Rupee depreciates, bonds yields dive",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "914fb23f07ec15e82840c248dcfd274b3ddbb6780215580a2dc41a0d3725fa75"
+      },
+      {
+        "title": "Sri Lanka stocks end flat, export shares rise marginally after US tariff talk invite",
+        "url": "https://economynext.com/sri-lanka-stocks-end-flat-export-shares-rise-marginally-after-us-tariff-talk-invite-222656/",
+        "timestamp": "May 26, 2025",
+        "byline": "Turnover climbed to 3.76 billion rupees in the session",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9fb027a382cce8968895ffb2db3e1fbef33e7f0d0a4d669f1e93867211d37ecf"
+      },
+      {
+        "title": "Sri Lanka services exports decrease 0.59-pct in April: EDB",
+        "url": "https://economynext.com/sri-lanka-services-exports-decrease-0-59-pct-in-april-edb-222674/",
+        "timestamp": "May 26, 2025",
+        "byline": "ICT/BPM earnings dropped 4.91 percent from 151.47 million in April 2024 to 144.04 in April 2025.",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5c16479b31e544b2530c81ce420063e053ea3faeb8c2e44531c789952b276a2a"
+      },
+      {
+        "title": "Sri Lanka merchandise exports rise 12-pct in April, India second largest buyer",
+        "url": "https://economynext.com/sri-lanka-merchandise-exports-rise-12-pct-in-april-india-second-largest-buyer-222668/",
+        "timestamp": "May 26, 2025",
+        "byline": "India emerges as the second largest buyer of Sri Lankan goods",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "16f12c0f32b076ca6e77fc1efe0b74b948bd867af29421d3ca5942fc34a575d7"
+      },
+      {
+        "title": "Alibaba to teach Sri Lanka SMEs to export on its platform",
+        "url": "https://economynext.com/alibaba-to-teach-sri-lanka-smes-to-export-on-its-platform-222654/",
+        "timestamp": "May 26, 2025",
+        "byline": "Sellers on Alibaba.com can reach more than 30 countries.",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "856cbf444eb18863f94137505ee48b7565d1c4f61209838bb5bd93dbbb41ef9e"
+      },
+      {
+        "title": "SMI Point signs $22.4mn apartment complex in Sri Lanka’s commercial capital",
+        "url": "https://economynext.com/smi-point-signs-22-4mn-apartment-complex-in-sri-lankas-commercial-capital-222639/",
+        "timestamp": "May 26, 2025",
+        "byline": "The country has seen an uptick in apartment demand",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e93e5b46d2daa1c515c34aedefba9f472e423329a414ddd47be20c7a256fe3bc"
+      },
+      {
+        "title": "Sri Lanka and Israel discuss expanding cooperation",
+        "url": "https://economynext.com/sri-lanka-and-israel-discuss-expanding-cooperation-222626/",
+        "timestamp": "May 26, 2025",
+        "byline": "Sri Lanka expanding cooperation with Israel during ongoing genocide of Palestinians",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e59973a3a20b1ccddc25e076f6733209889abe21ee98ae75a8c0d829c96f088c"
+      },
+      {
+        "title": "RCG Asia meet discussed cross-border payments: Sri Lanka central bank",
+        "url": "https://economynext.com/rcg-asia-meet-discussed-cross-border-payments-sri-lanka-central-bank-222620/",
+        "timestamp": "May 26, 2025",
+        "byline": "\"The discussions at the meeting covered a broad range of issues relevant to financial system stability,\"",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8b4c58415ef31d51ff5366eb393eadaf27605fedc654b8f6ed70e5507e54b470"
+      },
+      {
+        "title": "President pays tribute to Sri Lankan icon Malini Fonseka",
+        "url": "https://economynext.com/president-pays-tribute-to-sri-lankan-icon-malini-fonseka-222615/",
+        "timestamp": "May 26, 2025",
+        "byline": "“A revered icon whose contributions profoundly shaped and elevated Sri Lankan cinema,”",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9a4106362c1350e6e4460129b9d75ddc6078997f82f7729b156f739c2ea32223"
+      },
+      {
+        "title": "Sri Lanka rupee opens stronger, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-stronger-bond-yields-down-222611/",
+        "timestamp": "May 26, 2025",
+        "byline": "Rupee opened at 299.30/40 to the US dollar in the spot market",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9341159c6f7c3a583663dd960b240d55f3ba16216438407c2c46d61bb47f44d1"
+      },
+      {
+        "title": "Sri Lanka SOEs face 4.8-pct risk premiums for sovereign guarantees: Harsha",
+        "url": "https://economynext.com/sri-lanka-soes-face-4-8-pct-risk-premiums-for-sovereign-guarantees-harsha-222569/",
+        "timestamp": "May 26, 2025",
+        "byline": "CEB faced 4.8-pct premium for sovereign guarantee",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5c511ccaf580d8906fe8e7c2b56a7f686725863806e7a38db16d6fc49bbf96a0"
+      },
+      {
+        "title": "Hambantota Port says 9,151 vehicles imported to Sri Lanka so far",
+        "url": "https://economynext.com/hambantota-port-says-9151-vehicles-imported-to-sri-lanka-so-far-222549/",
+        "timestamp": "May 26, 2025",
+        "byline": "Port operations have been streamlined for faster clearing of vehicles",
+        "isoTimestamp": "2025-05-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ba7f3d9c81b8b1b1f8ee562cdf4a21b1cf48bd89797a67285295eb80ed2a083d"
+      },
+      {
+        "title": "Sri Lanka anti-corruption body chief gives strong message to govt officials, public",
+        "url": "https://economynext.com/sri-lanka-anti-corruption-body-chief-gives-strong-message-to-govt-officials-public-222423/",
+        "timestamp": "May 25, 2025",
+        "byline": "CIABOC raided Department of Motor Traffic and arrested three officers who had unexplainable money",
+        "isoTimestamp": "2025-05-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9ed561542b72be839823139a559d85de43f69448f3293aa80c63c07ba53364cc"
+      },
+      {
+        "title": "Sri Lanka sees high-profile arrests amid pressure on government to deliver",
+        "url": "https://economynext.com/sri-lanka-sees-high-profile-arrests-amid-pressure-on-government-to-deliver-222506/",
+        "timestamp": "May 25, 2025",
+        "byline": "People overwhelmingly voted for NPP government to eradicated deep-rooted systemic corruption",
+        "isoTimestamp": "2025-05-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "be7228d5cac83e880abb88da26f6e08673b7ff05f28e264c887a07aec4d6aef0"
+      },
+      {
+        "title": "SriLankan Airlines making losses on 31 out of 45 routes: Harsha",
+        "url": "https://economynext.com/srilankan-airlines-making-losses-on-31-out-of-45-routes-harsha-222483/",
+        "timestamp": "May 25, 2025",
+        "byline": "Passenger revenues down and so are fuel costs",
+        "isoTimestamp": "2025-05-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e1c6f94d70f6d63084f760c3c0e0da52ac38c383b79261ac31225d048a4b8a43"
+      },
+      {
+        "title": "WHO calls for volume control messages and sound tracking in video games",
+        "url": "https://economynext.com/who-calls-for-volume-control-messages-and-sound-tracking-in-video-games-222430/",
+        "timestamp": "May 24, 2025",
+        "byline": "“A WHO-led systematic scoping review suggests that video gameplay may be a common source of unsafe listening",
+        "isoTimestamp": "2025-05-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "695bc473401bba09b7b2e854e784718a5faa6fd5e5ba8d62b7f61e2f204efe2c"
+      },
+      {
+        "title": "Sri Lanka seeks global IT partnerships, investments at Disrupt Asia 2025",
+        "url": "https://economynext.com/sri-lanka-seeks-global-it-partnerships-investments-at-disrupt-asia-2025-222425/",
+        "timestamp": "May 24, 2025",
+        "byline": "The summit, scheduled for September, seeks to harness diplomatic network strength",
+        "isoTimestamp": "2025-05-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "892f3ec8c475c5505acd8bd40e51ddddfc2e8b57ba3ade497554636e4d78f516"
+      },
+      {
+        "title": "Sri Lanka Trade Ministry under fire over new license raj mafia in salt",
+        "url": "https://economynext.com/sri-lanka-trade-ministry-under-fire-over-new-license-raj-mafia-in-salt-222302/",
+        "timestamp": "May 24, 2025",
+        "byline": "Import licenses are a state support for anti-competitive practice",
+        "isoTimestamp": "2025-05-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e84a1b87ff379e2f7a8d16772b1a6e1bdc2457a2daa94f03a69d14f4d1adda7f"
+      },
+      {
+        "title": "Indian delegation visits Sri Lanka’s key mining sites, meets top officials",
+        "url": "https://economynext.com/indian-delegation-visits-sri-lankas-key-mining-sites-meets-top-officials-222280/",
+        "timestamp": "May 23, 2025",
+        "byline": "India has been eyeing Sri Lanka’s mineral resource rich port district for decades",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d4a83646f89490a0758905b2656a2c0a055ccea88fa72612303cd9c7bf4078ea"
+      },
+      {
+        "title": "Sri Lanka invited for second round of Trump tariff talks in Washington",
+        "url": "https://economynext.com/sri-lanka-invited-for-second-round-of-trump-tariff-talks-in-washington-222274/",
+        "timestamp": "May 23, 2025",
+        "byline": "This initiative builds on several prior virtual interactions held between the USTR and Sri Lanka officials",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "18db682dfdc5603a72f7ccea41bab8d1547edbdbdae958716c789d2367513a5a"
+      },
+      {
+        "title": "Sri Lanka approves over 150,000 MT of salt import from 117 applicants",
+        "url": "https://economynext.com/sri-lanka-approves-over-150000-mt-of-salt-import-from-117-applicants-222273/",
+        "timestamp": "May 23, 2025",
+        "byline": "Sri Lanka is facing an acute shortage of salt; government has blamed heavy rains in the past",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0fd2e1a7ff1cd2fc36331c3ad5e77c09b2776d470b6a98d44dd815944f4911be"
+      },
+      {
+        "title": "US president says he is hitting EU with 50-pct tariff from Jun 1",
+        "url": "https://economynext.com/us-president-says-he-is-hitting-eu-with-50-pct-tariff-from-jun-1-222269/",
+        "timestamp": "May 23, 2025",
+        "byline": "\"Therefore, I am recommending a straight 50% Tariff on the European Union, starting on June 1, 2025.",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "460697a82450e8f95cf486bcd47f9a807b69ed51dbf2bb15492bd8a0dfbea622"
+      },
+      {
+        "title": "Sri Lanka EDB, New Zealand high commission share insights on export market access",
+        "url": "https://economynext.com/sri-lanka-edb-new-zealand-high-commission-share-insights-on-export-market-access-222258/",
+        "timestamp": "May 23, 2025",
+        "byline": "Awareness Session on Market Access for Export Agricultural Products to the New Zealand Market.",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e34fd1c30f8dec79daee373e94144f00dbcf85837e25f9c1885ac83a9da24305"
+      },
+      {
+        "title": "Sri Lanka rupee closes stronger, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-stronger-bond-yields-down-222252/",
+        "timestamp": "May 23, 2025",
+        "byline": "Bond yields were down",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6ac7681054c049f1be6f709ae1b6efaa29468a949524308586deae9407f05124"
+      },
+      {
+        "title": "CB rate cut continues to boost Sri Lanka stocks",
+        "url": "https://economynext.com/cb-rate-cut-continues-to-boost-sri-lanka-stocks-222220/",
+        "timestamp": "May 23, 2025",
+        "byline": "Turnover fell to 3.7 billion rupees in the session",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6d6adc3bd0be37c9af4b10dee172f37404d6ec0b076e4407e2bc1120333238fe"
+      },
+      {
+        "title": "Sri Lanka, Bhutan to hold bilateral talks in Thimphu",
+        "url": "https://economynext.com/sri-lanka-bhutan-to-hold-bilateral-talks-in-thimphu-222225/",
+        "timestamp": "May 23, 2025",
+        "byline": "Discussions will focus on strengthening cooperation between the two countries",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d692a6d78d977f91151d247ba16ab473f30c2222d3fb42a0888c722f118d8931"
+      },
+      {
+        "title": "Sri Lanka Senthilverl Holdings increases stake in Maharaja Foods",
+        "url": "https://economynext.com/sri-lanka-senthilverl-holdings-increases-stake-in-maharaja-foods-222218/",
+        "timestamp": "May 23, 2025",
+        "byline": "Senthilverl held 10,136,258 shares before this transaction.",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "be9ad986318eba1d7b69bc1bdf129ba85de8f42700f9b5ea88bfc1fccad0f354"
+      },
+      {
+        "title": "Sri Lanka sees credit “crowding in” to private sector amid less government demand for loans",
+        "url": "https://economynext.com/sri-lanka-sees-credit-crowding-in-to-private-sector-amid-less-government-demand-for-loans-222209/",
+        "timestamp": "May 23, 2025",
+        "byline": "Sri Lanka was contraction in credit growth after 2022 economic crisis",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "053632e49ae64130cde6c5efcb80cbf7b925936e961c6dc591265d6299185c28"
+      },
+      {
+        "title": "Sri Lanka tourist arrivals up 14.43-pct to May 21",
+        "url": "https://economynext.com/sri-lanka-tourist-arrivals-up-14-43-pct-to-may-21-222200/",
+        "timestamp": "May 23, 2025",
+        "byline": "Total visitors so far this year are 988,669.",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a1d35545bccbb83c669d3bf12ba056116af700ed02a500acfff12d88dd16d11e"
+      },
+      {
+        "title": "Sri Lanka rupee opens up, bond yields down sharply",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-up-bond-yields-down-sharply-222184/",
+        "timestamp": "May 23, 2025",
+        "byline": "Stocks were up",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fbca65d1723f9aee71de1ad9ea55aa04888ad10d2a3a82287dec94a682f42ba3"
+      },
+      {
+        "title": "Sri Lanka vehicle imports around $200mn, LCs opened $450mn",
+        "url": "https://economynext.com/sri-lanka-vehicle-imports-around-200mn-lcs-opened-450mn-222192/",
+        "timestamp": "May 23, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "22d030dae7257ae4af6e89866176c816e0341839f0ad37201ee2dd8b13204a56"
+      },
+      {
+        "title": "Sri Lanka expects current account surplus in 2025 for third year: CB Governor",
+        "url": "https://economynext.com/sri-lanka-expects-current-account-surplus-in-2025-for-third-year-cb-governor-222146/",
+        "timestamp": "May 23, 2025",
+        "byline": "This is going to be a third year of current account surplus",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d0fa19cdc8defccc82821290e09d438439c4fd9bda7fe6bf023e277632b5abb5"
+      },
+      {
+        "title": "Sri Lanka cut rates due to lower inflation, reduced external demand: CB Governor",
+        "url": "https://economynext.com/sri-lanka-cut-rates-due-to-lower-inflation-reduced-external-demand-cb-governor-222108/",
+        "timestamp": "May 23, 2025",
+        "byline": "The rate cut came amid a pick up in bank interest rates",
+        "isoTimestamp": "2025-05-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bfd49732e501820095825fe08f84a3235ead0af2ad2a16e0113cd21451fc6dbc"
+      },
+      {
+        "title": "EDB educates Sri Lanka agri exporters on GACC registration",
+        "url": "https://economynext.com/edb-educates-sri-lanka-agri-exporters-on-gacc-registration-222095/",
+        "timestamp": "May 22, 2025",
+        "byline": "EDB awareness session on agricultural product exports to China through GACC Registration",
+        "isoTimestamp": "2025-05-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "35d2e54db0084753431999477ef1c1a3ebfd1c9f087052da13d5818883887aad"
+      },
+      {
+        "title": "Sri Lanka rupee closes up, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-up-bond-yields-down-222097/",
+        "timestamp": "May 22, 2025",
+        "byline": "Bond yields were down following the central bank's rate cut.",
+        "isoTimestamp": "2025-05-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb4f0de6911b586f2509e671123522865f2e3070bba75a31b45698bf311a52eb"
+      },
+      {
+        "title": "Sri Lanka stocks close up, following rate cut",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-following-rate-cut-222082/",
+        "timestamp": "May 22, 2025",
+        "byline": "Turnover was 4.5 billion rupees.",
+        "isoTimestamp": "2025-05-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "045750e63fdbeb63a24c94f7a29c0199f847675a91c7bb6adf6d70cb90b672e3"
+      },
+      {
+        "title": "Sri Lanka's NEXT Manufacturing problem seems to be collective agreement: Minister",
+        "url": "https://economynext.com/sri-lankas-next-manufacturing-problem-seems-to-be-collective-agreement-minister-222068/",
+        "timestamp": "May 22, 2025",
+        "byline": "The entire apparel industry in not about to close down",
+        "isoTimestamp": "2025-05-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d3ec1879eaec697da4c840fc0ebab6c55817ed015d99b7e25911ba3fc92a2b3b"
+      },
+      {
+        "title": "Sri Lanka state banks BoC, NSB record large profits: PMD",
+        "url": "https://economynext.com/sri-lanka-state-banks-boc-nsb-record-large-profits-pmd-222073/",
+        "timestamp": "May 22, 2025",
+        "byline": "Chairmen of the two state banks presented their annual reports to President Anura Disanayake",
+        "isoTimestamp": "2025-05-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b0a84d1fd7bdb79fcdaf284dbab03604cf52e838591f8e7e29a7d2e2640cc236"
+      },
+      {
+        "title": "Sri Lanka’s new MPs to undergo capacity building programme in Delhi",
+        "url": "https://economynext.com/sri-lankas-new-mps-to-undergo-capacity-building-programme-in-delhi-222053/",
+        "timestamp": "May 22, 2025",
+        "byline": "The training offer is part of MoU between the two South Asian nations.",
+        "isoTimestamp": "2025-05-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0e10171ea9c3664ccb31414a7133dfeb129850a9f0ab09a26222d562bcc9e8ae"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
