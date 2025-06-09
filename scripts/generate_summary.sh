@@ -4,7 +4,7 @@ ARCHIVE_DIR="../archive"
 README_FILE="../README.md"
 CURRENT_DATE=$(date +"%a %b %d %T %z %Y")
 
-PREVIEW_URL="https://itscharukadeshan.github.io/sl_news_archive_data/news_chart.html"
+PREVIEW_URL="https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html"
 
 # Summary table first
 SUMMARY_CONTENT="## News Archive Summary\n\n"
