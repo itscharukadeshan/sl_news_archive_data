@@ -1,0 +1,3227 @@
+{
+  "adaderana-sinhala": {
+    "success": true,
+    "data": [
+      {
+        "title": "අදත් ප්‍රදේශ කිහිපයකට වැසි",
+        "href": "news.php?nid=211255",
+        "byline": "බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වේ.\n\nකාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, වයඹ පළාතේ වැසි වාර කිහිපයක් ඇති විය හැකි බවය.",
+        "timestamp": "June 18, 2025  6:19 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211255",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "7658108eaceebce007e7e2dc74c05bbff59adf35067234bea7824d3257f8ed60"
+      },
+      {
+        "title": "2025.06.18",
+        "href": "news.php?nid=211256",
+        "byline": "No byline",
+        "timestamp": "June 18, 2025  6:33 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211256",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "49bef4967525a0fc570d23ef0220976213c6e61e015a9dae92e10826d3068c6e"
+      },
+      {
+        "title": "දරුවා ඝාතනය කරන බව පවසා රුපියල් කෝටියක කප්පමක් ඉල්ලයි",
+        "href": "news.php?nid=211257",
+        "byline": "රුපියල් කෝටියක මුදලක් කප්පම් වශයෙන් ඉල්ලා ඉන් රුපියල් ලක්ෂ 20ක මුදලක් කප්පම් වශයෙන් බලෙන් ලබාගත් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "June 18, 2025  7:03 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211257",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "2f3189f32f5c5952289a479c305be6ecb94d52056eb1b20000ec710ae389670c"
+      },
+      {
+        "title": "මාරක රිය අනතුරක් - 19 හැවිරිදි තරුණයා අත්අඩංගුවට",
+        "href": "news.php?nid=211258",
+        "byline": "ත්‍රිකුණාමලය - අඹේපුස්ස මාර්ගයේ ආන්ද්‍රම්කුලම ප්‍රදේශයේදී ත්‍රිකුණාමලය දෙස සිට ආන්ද්‍රම්කුලම දෙසට ධාවනය වූ යතුරුපැදියක් පදික මාරුවෙන් මාර්ගය හරහා ගමන් කළ පදිකයෙකුගේ ගැටී අනතුරක් සිදුව ඇත.",
+        "timestamp": "June 18, 2025  7:42 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211258",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d244ad0147937733be14795a87d9b02ac3eea4c080f3fcb668faa88dd472a3db"
+      },
+      {
+        "title": "මත්තල ගුවන්තොටුපොළේ ආරක්ෂිත වැටට අලින්ගෙන් හානි",
+        "href": "news.php?nid=211259",
+        "byline": "මත්තල රාජපක්‍ෂ ජාත්‍යන්තර ගුවන්තොටුපොළ වටා ඉදිකර ඇති ආරක්‍ෂිත වැට සම්බන්ධව පවත්නා ගැටලු සාකච්ඡා කිරීම සඳහා ආරක්‍ෂක ලේකම් එයාර් වයිස් මාර්ෂල් සම්පත් තුයියකොන්තා (විශ්‍රාමික)ගේ ප්‍රධානත්වයෙන් රැස්වීමක් පවත්වා තිබේ.",
+        "timestamp": "June 18, 2025  8:02 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211259",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c85e0dafe661ae8c96fc73364192765fb28d73e419c5c9e29fe60220a133f488"
+      },
+      {
+        "title": "දකුණු ගාසා තීරයට ඊශ්‍රායලයෙන් ප්‍රහාර - 51ක් මරුට",
+        "href": "news.php?nid=211260",
+        "byline": "දකුණු ගාසා තීරයේ ආධාර බෙදාහැරීමේ ස්ථානයකට ඊශ්‍රායල හමුදා විසින් එල්ල කළ ප්‍රහාරයකින් පලස්තීන ජාතිකයින් 51 දෙනෙකු අධික පිරිසක් මියගොස් තිබේ.",
+        "timestamp": "June 18, 2025  9:16 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211260",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "fed4716883b154fb46bab73614775b2cead6a5fe108253bae658e02fe9b398cc"
+      },
+      {
+        "title": "පාර්ලිමේන්තු සභාවාරය ඇරඹේ",
+        "href": "news.php?nid=211261",
+        "byline": "කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ වී තිබේ.",
+        "timestamp": "June 18, 2025  9:31 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211261",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "cea66f8442c72354baea993e9fab64cf7f5d7d3da7fab30d141b0743f3c1dfc4"
+      },
+      {
+        "title": "කෙහෙළිය අල්ලස් කොමිසමට",
+        "href": "news.php?nid=211263",
+        "byline": "ප්‍රකාශයක් ලබාදීම සඳහා හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අද (18) උදෑසන අල්ලස් හා දුෂණ විමර්ශන කොමිසම වෙත පැමිණ තිබේ.",
+        "timestamp": "June 18, 2025  9:38 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211263",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "546bb241d87427d033dbd8207093db6255f2095824d4388f815c9a4cb81d9db6"
+      },
+      {
+        "title": "රත්නපුර - කොළඹ ප්‍රධාන මාර්ගය අවහිර කළ බිහිසුණු අනතුර",
+        "href": "news.php?nid=211265",
+        "byline": "රත්නපුර - කොළඹ ප්‍රධාන මාර්ගයේ මීන්නාන ප්‍රදේශයේ බස් රථයක් සහ බහාලුම් රථයක් එකිනෙක ගැටී බිහිසුණු අනතුරක් සිදුව තිබේ.",
+        "timestamp": "June 18, 2025  9:49 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211265",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "432834292bd3372f62ab967f40bc88432c5b39337454044e7ee94a1275ca22e9"
+      },
+      {
+        "title": "කොළඹ පුරපතිනිය වැඩ අරඹයි",
+        "href": "news.php?nid=211266",
+        "byline": "කොළඹ පුරපතිනි ව්‍රායි කැලි බල්තසාර් මහත්මිය අද (18) එම ධුරයේ වැඩ ආරම්භ කර තිබේ.",
+        "timestamp": "June 18, 2025  10:19 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211266",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "295b203ac614b9004908923d4046aa8b75060648fdbe49f33e992c4f94fda1bd"
+      },
+      {
+        "title": "කොළොන්නාව නගර සභාවේ බලය මාලිමාවට",
+        "href": "news.php?nid=211267",
+        "byline": "කොළොන්නාව නගර සභාවේ බලය ජාතික ජන බලවේගයට හිමිව තිබේ.",
+        "timestamp": "June 18, 2025  10:42 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211267",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "3760aa148fd89173460f2314833312a0a9b715427bd4afdfce2fec2af45cced4"
+      },
+      {
+        "title": "සාර්ථකත්වය තියෙන්නේ එකට වැඩ කළොත් විතරයි -කොළඹ පුරපතිනිය",
+        "href": "news.php?nid=211268",
+        "byline": "කොළඹ මහ නගර සභාවේ නගරාධිපති ධුරයට තමා පත්වීම පිළිබඳ කිසිවිටෙකත් පෞද්ගලිකව නොගන්නා ලෙසත් ජයග්‍රහණය සාමුහික ප්‍රයත්නයක ප්‍රතිඵලයක් බවත් කොළඹ පුරපනිති ව්‍රායි කැලි බල්තසාර් මහත්මිය පවසන්නීය.",
+        "timestamp": "June 18, 2025  11:01 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211268",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "7f13d44469e2639aedde597134e0ce328827e7286bd49fe349313f001a0ee809"
+      },
+      {
+        "title": "බූස්සේ රැඳවියන් 5ක් විරෝධයක් අරඹයි",
+        "href": "news.php?nid=211269",
+        "byline": "බන්ධනාගාරය තුළ සිදුකරන දැඩි සෝදිසි කිරීම්වලට විරෝධය පළ කරමින් බූස්ස බන්ධනාගාරයේ රැඳවියන් 5දෙනෙකු බන්ධනාගාරයේ වහළය මත නැග විරෝධතාවයක් ආරම්භ කර තිබේ.",
+        "timestamp": "June 18, 2025  11:07 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211269",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ec601a8c2ded055fb36a79401104634b2d16d2024b0d59db5183e131d70b3a1c"
+      },
+      {
+        "title": "පක්ෂ තීරණයට එරෙහි වූ සුසිල්ගේ පක්ෂ සාමාජිකත්වය අත්හිටුවයි",
+        "href": "news.php?nid=211270",
+        "byline": "කොළොන්නාව නගර සභාවට සමගි ජන බලවේගයෙන් වැඩිම මනාපයෙන් තේරී පත්වූ නාරාහේන්පිගේ සුසිල් කුමාර කොස්තා යන අයගේ පක්ෂ සාමාජිකත්වය අත්හිටුවා තිබේ.",
+        "timestamp": "June 18, 2025  11:43 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211270",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "bd583813d117c34914ec1887e0622ced34c9becc961a59a2b4fdf1a55b1f7ea9"
+      },
+      {
+        "title": "සරසවි සිසුවා නවකවධයට ලක්කිරීමේ සිද්ධියට එරෙහි FR පෙත්සම සලකා බැලීමට දින දෙයි",
+        "href": "news.php?nid=211271",
+        "byline": "ශ්‍රී ලංකා නීතීඥ සංගමය විසින් ගොනුකළ මූලික අයිතිවාසිකම් පෙත්සම සලකා බැලීම සඳහා ජූලි මස 18 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (18) නියම කළේය.",
+        "timestamp": "June 18, 2025  11:59 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211271",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "4cd431fc946ce6c23cb72574c337b80ff97c25e7dfa0cc353a1f07ca7bff2bed"
+      },
+      {
+        "title": "විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශ ඩිජිටල් ක්‍රියාවලිය වේගවත් කෙරේ",
+        "href": "news.php?nid=211272",
+        "byline": "රාජ්‍ය අංශයේ සේවා සැපයීමේ ක්‍රියාවලිය ඩිජිටල්කරණය කිරීමේ රජයේ වැඩපිළිවෙළෙහි පියවරක් ලෙස විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍යාංශයෙන් ක්‍රියාත්මක කිරීමට නියමිත ඩිජිටල් ප්‍රතිසංස්කරණයට අදාළ සැලැස්ම පිළිබඳ සාකච්ඡාවක් පවත්වා තිබේ.",
+        "timestamp": "June 18, 2025  12:37 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211272",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "5b8288c5f70761a3b92317bbde8ddfa5c41ecf21e4de03428352bdf62da13455"
+      },
+      {
+        "title": "පක්ෂ තීරණයට එරෙහි වූ තවත් අයෙකුගේ පක්ෂ සාමාජිකත්වය අත්හිටුවයි",
+        "href": "news.php?nid=211273",
+        "byline": "කන්දකැටිය ප්‍රාදේශීය සභාවට සමගි ජන බලවේගයෙන් තේරී පත්වූ නවරත්න මුදියන්සේලාගේ විජේපාල මහතාගේ පක්ෂ සාමාජිකත්වය අත්හිටුවා තිබේ.",
+        "timestamp": "June 18, 2025  1:02 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211273",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c0943ab2dfe367f6c03801bc15d3dc438021550792d1909fa06c810b3fc1f717"
+      },
+      {
+        "title": "ශ්‍රී ලංකා - බංග්ලාදේශ තරගයට වැස්සෙන් බාධා",
+        "href": "news.php?nid=211274",
+        "byline": "ශ්‍රී ලංකාව හා බංග්ලාදේශය අතර ගාල්ලේ පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයට මේ වනවිට වර්ෂාවෙන් බාධා එල්ල වී තිබේ.",
+        "timestamp": "June 18, 2025  1:58 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211274",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c542cbdef668f9bdc2965ea92eb5300c8e57a2de044f2c27cf4323620a3523ce"
+      },
+      {
+        "title": "ඉරාන ප්‍රහාර හමුවේ ඊශ්‍රායලයේ අලුත්ම තත්ත්වය",
+        "href": "news.php?nid=211275",
+        "byline": "ඊශ්‍රායල් ආරක්ෂක තත්ත්වය සහ එරට වෙසෙන ශ්‍රී ලාංකිකයන්ට උපදෙස් යාවත්කාලින කරමින් ඊශ්‍රායලයේ ශ්‍රී ලංකා තානාපති නිමල් බණ්ඩාර මහතා නිවේදනයක් නිකුත් කර තිබේ.",
+        "timestamp": "June 18, 2025  2:02 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211275",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c16187abc8190222d71370103144527fc9f5e4c3bb27fe7a886e9898ef7308f2"
+      },
+      {
+        "title": "කෙහෙළිය, බිරිඳ සහ දියණිය අත්අඩංගුවට",
+        "href": "news.php?nid=211276",
+        "byline": "හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා, ඔහුගේ බිරිඳ සහ දියණියව අල්ලස් හා දුෂණ විමර්ශන කොමිසම් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "June 18, 2025  2:03 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211276",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "dd569f099f5d2cf67d5981d42f292416d08c5c0b112816aac4519efe10e49776"
+      },
+      {
+        "title": "චීනය ආත්මාරක්ෂාවට මුල්තැන දෙයි",
+        "href": "news.php?nid=211278",
+        "byline": "චීනය සිය න්‍යෂ්ටික අවි තොගය වෙනත් ඕනෑම රටකට වඩා වේගයෙන් වර්ධනය කරමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.",
+        "timestamp": "June 18, 2025  3:29 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211278",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d8acb392d04214ad6869adeae8a87edcf34d2232375171cfcdbc7a7dde8f4325"
+      },
+      {
+        "title": "කෙහෙළිය, බිරිඳ සහ දියණිය අධිකරණයට",
+        "href": "news.php?nid=211279",
+        "byline": "මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ සිදුකරන විමර්ශනයකට අදාළව අත්අඩංගුවට ගෙන තිබෙන හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ සහ දියණිය අල්ලස් කොමිසම විසින් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.",
+        "timestamp": "June 18, 2025  3:47 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211279",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "af0415d9da4a0fec27a10a6f6563e138324ab5257a133f2d9e57673fb59312be"
+      },
+      {
+        "title": "පාර්ලිමේන්තුව හෙට දක්වා කල් තැබේ",
+        "href": "news.php?nid=211280",
+        "byline": "ඊශ්‍රායලය සහ ඉරානය අතර මේ වනවිට හටගෙන ඇති යුදමය තත්ත්වය  පිළිබඳ විවාදය සඳහා වන යෝජනාව ඉදිරිපත් කළ සමගි ජන බලවේගය මන්ත්‍රී අජිත් පී. පෙරේරා මහතා අද (18) පස්වරුවේ සභා ගර්භයේ නොසිටීම නිසා පාර්ලිමේන්තුව හෙට (19) පෙ.ව. 9.30 දක්වා කල් තැබීමට නියෝජ්‍ය කථානායක වෛද්‍ය රිස්වි සාලි මහතා කටයුතු කළේය.",
+        "timestamp": "June 18, 2025  3:59 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211280",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "5405a438a5d2ee52eb86044e3277a60fd0dcbad0b073be92f56cb63458803ec5"
+      },
+      {
+        "title": "අමෙරිකානු ප්‍රහාරක යානා මැදපෙරදිග කලාපයට",
+        "href": "news.php?nid=211281",
+        "byline": "මැදපෙරදිග යුද තත්ත්වය තවත් තීව්‍ර වන තත්ත්වයක් පෙන්නුම් කරමින් අමෙරිකාව ද ඉරාන - ඊශ්‍රායල යුද ගැටුම්වලට සම්බන්ධවීමේ අවදානමක් මතුව තිබේ.",
+        "timestamp": "June 18, 2025  4:27 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211281",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d8a01ff994918c0dcb75d31721fc3161c829ac6b0e17dd4b51f244e0898f144c"
+      },
+      {
+        "title": "කෙහෙළිය, බිරිඳ සහ දියණිය බන්ධනාගාරයට රැගෙන යයි",
+        "href": "news.php?nid=211282",
+        "byline": "මුදල් විශුද්ධිකරණය වැළැක්වීමේ පනත යටතේ අත්අඩංගුවට ගැනීමෙන් අනතුරුව කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ඇප මත මුදා හරින ලද හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ සහ දියණිය ඇප කොන්දේසි සපුරාලීමට නොහැකිවීම හේතුවෙන් බන්ධනාගාර නිලධාරීන් විසින් ඔවුන් තිදෙනාව බන්ධනාගාරය වෙත රැගෙන ගොස් තිබේ.",
+        "timestamp": "June 18, 2025  4:38 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211282",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "1ece85d38bdb7aef50f9c3daddf11cd0a1705f3d5cdcc2e4d2fcd9c8d8448fc8"
+      },
+      {
+        "title": "ඉරාන උත්තරීතර නායක කමෙනිගෙන් ට්‍රම්ප්ට ප්‍රතිචාර",
+        "href": "news.php?nid=211283",
+        "byline": "ඉරානය හා ඊශ්‍රායලය අතර ඇතිවී තිබෙන යුදමය තත්ත්වය ගැන අමෙරිකානු ජනාධිපති කළ ප්‍රකාශයට ඉරාන අධ්‍යාත්මික නායක අයතුල්ලා අලි කමේනි ඍජු ප්‍රතිචාර දක්වා තිබේ.",
+        "timestamp": "June 18, 2025  5:31 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211283",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "8e420b5e2428d3b25f9bba556279a2477e615edcd1b4faf2a4444af21ae332d8"
+      },
+      {
+        "title": "ඉන්දුනීසියාවේ ලෙවෝටෝබි ගිනිකන්ද සක්‍රිය වෙයි",
+        "href": "news.php?nid=211284",
+        "byline": "මධ්‍යම ඉන්දුනීසියාවේ ෆ්ලෝරස් දූපතේ පිහිටි තිබෙන ලෙවෝටෝබි ගිනිකන්ද මේ වනවිට සක්‍රිය වී තිබේ.",
+        "timestamp": "June 18, 2025  6:03 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211284",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b61fe807cf9e609e543350da966276e288420c9c6d6dd5e69ffff4ca19c13bcd"
+      },
+      {
+        "title": "මුදල් අමාත්‍යංශ ලේකම් මහින්ද සිරිවර්ධනට ජනපතිගෙන් ඇගයුම්",
+        "href": "news.php?nid=211285",
+        "byline": "ආර්ථික අර්බුදයෙන් පසු ඇති වූ පරිවර්තනීය යුගයේදී ඉතා සුමට ලෙස මෙරට ආර්ථිකය හසුරවමින්, රටට ආර්ථික ජයග්‍රහණ අත්කර දීමට මුදල් අමාත්‍යංශයේ ලේකම් මහින්ද සිරිවර්ධන මහතා ලබා දුන් සුවිශේෂී දායකත්වය සහ කැපවීම අගය කළ යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.",
+        "timestamp": "June 18, 2025  6:19 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211285",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "355e86380a64f5f740172142f315e02673bda6e9941987c6b1f8c647f742faeb"
+      },
+      {
+        "title": "වැස්සෙන් පසු බංග්ලාදේශය අසරණ වෙයි",
+        "href": "news.php?nid=211286",
+        "byline": "ගාල්ලේ පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනට තරගය නතරකරන විට පළමු ඉනිම ක්‍රීඩාකරමින් සිටි බංග්ලාදේශය කඩුලු 9ක් දැවී ලකුණු 484ක් රැස්කරගෙන සිටියේය.",
+        "timestamp": "June 18, 2025  6:29 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211286",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "143f99606b58d6ed175475872db3864ef8bd94ebf2f41b5c14ea53a77c855977"
+      },
+      {
+        "title": "දින 4කදී රු. බිලියන 202ක් කොටස් වෙළෙඳපොළට අහිමිවෙයි",
+        "href": "news.php?nid=211287",
+        "byline": "කොටස් වෙළෙඳපොළේ අද දින කඩා වැටීමත් සමඟම පසුගිය දින 04 තුළදී සියලු කොටස් මිල දර්ශකයේ ඒකක 590ක පහළ යාමක් වාර්තා වන අතර වෙළෙඳපොළ ප්‍රාග්ධනීකරණය මෙම දින 04 තුළ රු. බිලියන 6,327.31 සිට රු. බිලියන 6,125.89ක් දක්වා රු. බිලියන 202කින් පහළ ගොස් තිබේ.",
+        "timestamp": "June 18, 2025  6:42 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211287",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b909c58f2f7333a5586676e6365ffe43e2527629a10980144af1069b55f2392c"
+      },
+      {
+        "title": "ජනපතිගේ ජර්මානු සංචාරය ගැන සිදුකළ වැරදි පුවතක්",
+        "href": "news.php?nid=211288",
+        "byline": "ජනාධිපතිගේ ජර්මානු සංචාරය ගැන අසත්‍ය තොරතුරු මුදාහැර ඇති බව කියන සිද්ධිය සම්බන්ධයෙන් විමර්ශනයක් පවත්වා කරුණු වාර්තා කරන ලෙස අධිකරණය අද (18)  නියෝග කළේය.",
+        "timestamp": "June 18, 2025  7:51 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211288",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "dbe814e67d20f43e6f9d22d8e099d9adbafb2209ab3022125e617afb8a61f761"
+      },
+      {
+        "title": "පහරකෑමට ලක්වූ මන්ත්‍රිනිය බලන්න විපක්ෂ නායක යයි",
+        "href": "news.php?nid=211289",
+        "byline": "පහරකෑමට ලක්ව රෝහල් ගතව ප්‍රතිකාර ලබන උළුවඩුගේ සඳමාලි මහත්මිය⁣ගේ සුවදුක් බැලීමට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා කොළඹ ජාතික රෝහලට පැමිණියේය.",
+        "timestamp": "June 18, 2025  8:16 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211289",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b834071056d61e902cc872451dcdd6cbc6a5ed44ddd010b7e42fd646d742cbf3"
+      },
+      {
+        "title": "රුපියල් කෝටි 47ක මෙරට ඉතිහාසයේ දැවැන්තම ලොතරැයි දිනුම ජයග්‍රහණය කරයි",
+        "href": "news.php?nid=211205",
+        "byline": "මෙරට ලොතරැයි ඉතිහාසයේ දැවැන්තම ලොතරැයි ත්‍යාග මුදල ජයග්‍රහණ කිරීමට ඊයේ (16) සමත්ව තිබේ.",
+        "timestamp": "June 17, 2025  12:00 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211205",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "92126a1def8b6c1fb52a851727fd8e1b2ad2480485bab874a4e593d9f3c2fd00"
+      },
+      {
+        "title": "අදත් ප්‍රදේශ කිහිපයකට වැසි",
+        "href": "news.php?nid=211206",
+        "byline": "අද (17) බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, මහනුවර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "June 17, 2025  6:01 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211206",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "09547c950e3b250d3dc6122251708f4662688289826e8bb0d91bfcb7afcdbaa6"
+      },
+      {
+        "title": "ලෙබනනයේ වෙසෙන ශ්‍රී ලාංකිකයින්ට තානාපති කාර්යාලයෙන් දැනුම්දීමක්",
+        "href": "news.php?nid=211207",
+        "byline": "ඉරානය සහ ඊශ්‍රායලය අතර පවතින යුදමය තත්ත්වය හේතුවෙන් ලෙබනනයේ වෙසෙන ශ්‍රී ලාංකිකයින් වෙත ලෙබනන් තානාපති කාර්යාලය නිවේදනයක් නිකුත් කර තිබේ.",
+        "timestamp": "June 17, 2025  6:35 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211207",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "49c11ea8059378fbd7cbe89730b321ab108e74a1814e3f8caed271a1a090ea1a"
+      },
+      {
+        "title": "බස් රථ මගී ප්‍රවේශ පත්‍ර අනිවාර්යය කිරීමට රජයෙන් සැලසුම්",
+        "href": "news.php?nid=211208",
+        "byline": "බස් රථවල ගමන් කරන මගීන් සඳහා ප්‍රවේශ පත්‍ර ලබාදීම අනිවාර්යය කරන බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.",
+        "timestamp": "June 17, 2025  7:03 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211208",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ed1f4c50d5449f269ab12d4218c9b9bf279115da8e232d34b95e75eb65c2a138"
+      },
+      {
+        "title": "17-06-2025",
+        "href": "news.php?nid=211209",
+        "byline": "No byline",
+        "timestamp": "June 17, 2025  7:23 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211209",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ff0da6407dc5e1dc594f3572e88d52ad84635e1eee601e18ef390e70f4dc3e03"
+      },
+      {
+        "title": "පුංචි ඡන්දයේ ආදායම් වියදම් වාර්තා භාරනොදුන් නම් ලැයිස්තුව පොලීසියට",
+        "href": "news.php?nid=211210",
+        "byline": "පළාත් පාලන ආයතන ඡන්ද විමසීමට ඉදිරිපත් වූ අපේක්ෂකයින්, දේශපාලන පක්ෂ සහ ස්වාධීන කණ්ඩායම් 2,433ක් ආදායම් වියදම් වාර්තා ලබා දී නොමැති බව මැතිවරණ කොමිෂන් සභාව පවසයි.",
+        "timestamp": "June 17, 2025  7:36 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211210",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "a4006fea0afb3d4481eb89c7764b2a89044ddbc4085e9be4c989bc1a68196a16"
+      },
+      {
+        "title": "ටෙහෙරාන් අගනුවරින් වහාම ඉවත්වෙන්නැයි ට්‍රම්ප් දැනුම්දෙයි",
+        "href": "news.php?nid=211211",
+        "byline": "ටෙහෙරානයෙන් ඉවත් වන්නැයි අමෙරිකානු ජනපති ට්‍රම්ප් සියල්ලන්ට දැනුම්දෙයි.",
+        "timestamp": "June 17, 2025  7:54 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211211",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "51dc2b4cc946f286297580a7490b00db40d95a4f837341edc005f82d365a935b"
+      },
+      {
+        "title": "මුහුදුබඩ දුම්රිය ගමනට බාධා",
+        "href": "news.php?nid=211212",
+        "byline": "මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී ඇතැයි ශ්‍රී ලංකා දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කරයි.",
+        "timestamp": "June 17, 2025  8:11 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211212",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "150325f1fb3be2a67a4c92eb2e063873a96df2b031ee5f1386636725c918b88f"
+      },
+      {
+        "title": "වනඅලි පහරදීමකින් පොලිස් නිලධාරියෙක් මරුට",
+        "href": "news.php?nid=211213",
+        "byline": "දෙහිඅත්තකණ්ඩිය ප්‍රදේශයේ දී වනඅලියෙකු පහරදීමෙන් පොලිස් නිලධාරියෙකු මියගොස් තිබේ.",
+        "timestamp": "June 17, 2025  8:56 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211213",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "1abf862da5ef31d0b08681e19fa2773ae79d078f87fe5d755fcce5e7b3732623"
+      },
+      {
+        "title": "ශ්‍රී ලංකා - බංග්ලාදේශ පළමු ටෙස්ට් තරගය අද ඇරඹෙයි",
+        "href": "news.php?nid=211214",
+        "byline": "සංචාරක බංග්ලාදේශ කණ්ඩායම සහ ශ්‍රී ලංකා පිල අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී අද ආරම්භ වෙයි.",
+        "timestamp": "June 17, 2025  8:59 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211214",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "10ce8df26b8a7f779f520b48775a9563fff2492bd0baf936801720781dfc8437"
+      },
+      {
+        "title": "ඊශ්‍රායලයේ සිට මෙරටට පැමිණ සිටින ශ්‍රී ලාංකිකයින්ට විශේෂ දැනුම්දීමක්",
+        "href": "news.php?nid=211215",
+        "byline": "ඊශ්‍රායලයේ සිට මෙරටට පැමිණ සිටින ශ්‍රී ලාංකිකයන්ට තම RE-ENTRY  වීසා  කාලය දිගු කර ගැනීම සඳහා අනුගමනය කළ යුතු පියවර කිහිපයක් නිවේදනය කර තිබේ.",
+        "timestamp": "June 17, 2025  9:16 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211215",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "477ffe257eb2bed796cd87002683a7cb97397c7ad09227f4ce0681e13c60d82a"
+      },
+      {
+        "title": "පාර්ලිමේන්තු සභාවාරය ඇරඹේ",
+        "href": "news.php?nid=211216",
+        "byline": "කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.",
+        "timestamp": "June 17, 2025  9:30 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211216",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "7f320d595b697c502b817d56f3943bccfc59a7e01f7efc936ec376c06f72ebff"
+      },
+      {
+        "title": "කාසියේ වාසිය බංග්ලාදේශයට",
+        "href": "news.php?nid=211217",
+        "byline": "සංචාරක බංග්ලාදේශ කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගය ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී අද ආරම්භ වෙයි.",
+        "timestamp": "June 17, 2025  9:41 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211217",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "8338b7df4052761d4f8d17a5788779496ee3690d6c5c7940c0d738ee7cebb16e"
+      },
+      {
+        "title": "ප්‍රංශය සහ ලංකාව අතර ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ගිවිසුමට අත්සන් තැබේ",
+        "href": "news.php?nid=211218",
+        "byline": "ප්‍රංශ ජනරජය සහ ශ්‍රී ලංකාව අතර විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියට අදාළව ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ ගිවිසුමට අත්සන් තබා තිබේ.\n\nඊට අදාළ නිල අත්සන් තැබීමේ උත්සවය ඊයේ (16) කොළඹ දී පැවැත්වුණි.",
+        "timestamp": "June 17, 2025  10:13 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211218",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "00ce311dcedf8752b431eb00cfd72ef3320e9a67168f6a1bb57adc119855fad2"
+      },
+      {
+        "title": "ලොව විශාලතම ටික්ටොක් තරුව අමෙරිකාවෙන් නෙරපයි",
+        "href": "news.php?nid=211219",
+        "byline": "ටික්ටොක් අනුගාමිකයන් මිලියන 162.2ක් සමග ලොව විශාලතම ටික්ටොක් තාරකාව බවට පත්ව සිටින කාබි ලාමේ, අමෙරිකා එක්සත් ජනපද ෆෙඩරල් බලධාරීන්ගේ භාරයට පත්ව පසුගියදා එරටින් නෙරපා හැර තිබේ.",
+        "timestamp": "June 17, 2025  10:25 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211219",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f8fb68cac59fdd380ff794baccb5bd59578e62596e7c5b50af327b4aefa45201"
+      },
+      {
+        "title": "කෙහෙළියගේ නිවසේ මෙහෙකාරියට ඇප",
+        "href": "news.php?nid=211220",
+        "byline": "මෙම පැමිණිල්ල අද (17) කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් තනුජා ලක්මාලි මහත්මිය ඉදිරියේ කැඳවනු ලැබීය.",
+        "timestamp": "June 17, 2025  10:47 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211220",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b2701ccb669230dc42f609de931ecd634aa2631e441507f09ca93f1aba9a95c3"
+      },
+      {
+        "title": "පැය 48ක දුම්රිය වර්ජනයක් ?",
+        "href": "news.php?nid=211221",
+        "byline": "දුම්රිය නියාමකවරු සිකුරාදා මධ්‍යම රාත්‍රීයේ සිට පැය 48ක වැඩවර්ජනයක් ක්‍රියාත්මක කිරීම තීරණය කර ඇති බව ලංකා දුම්රිය නියාමක සංගම පවසයි.",
+        "timestamp": "June 17, 2025  10:49 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211221",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "61dd460c67a9414043961f9fa4225a88b4c8534a52432bf812813d1f4326b348"
+      },
+      {
+        "title": "සීතාවක ප්‍රාදේශීය සභාව දින නියමයක් නොමැතිව කල් යයි",
+        "href": "news.php?nid=211222",
+        "byline": "සීතාවක ප්‍රාදේශීය සභාව සඳහා නව සභාපතිවරයෙකු පත් කර ගැනීම සඳහා වූ ඡන්ද විමසීම අද (17) බස්නාහිර පළාත් කොමසාරිස් සාරංගිකා ජයසුන්දර මහත්මියගේ ප්‍රධානත්වයෙන් අද ආරම්භ විය.",
+        "timestamp": "June 17, 2025  11:12 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211222",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d11bfcfb621064cdbb5c9f919b5be8764894b2f00d8cbad3082f6fb8eeb9ae77"
+      },
+      {
+        "title": "වැඩි මිලට ඖෂධ වික්ක විශේෂඥ වෛද්‍යවරියක් අත්අඩංගුවට",
+        "href": "news.php?nid=211223",
+        "byline": "තෙවන පාර්ශවයක් හරහා වැඩි මිලට ඖෂධ අලෙවි කිරීමේ චෝදනාව මත විශේෂඥ වෛද්‍යවරයෙකු සහ ලිපිකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "June 17, 2025  11:17 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211223",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "05ba17b804536d04e32b0e9059246043fbaf18c8e5e419f421f1fec5a8ca016a"
+      },
+      {
+        "title": "කථානායකගේ තීරණයට විරෝධය පා මන්ත්‍රීවරු කිහිපදෙනෙකු සභාවෙන් ඉවත් වෙති",
+        "href": "news.php?nid=211224",
+        "byline": "සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරු කිහිප දෙනෙකු පාර්ලිමේන්තු සභාගර්භයෙන් පිටව ගොස් තිබේ.",
+        "timestamp": "June 17, 2025  11:24 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211224",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "5e7a89d1f6f3e90813dff6241bf80be80b19a5efa4d87d69b1386d37e05fa435"
+      },
+      {
+        "title": "චාමර සම්පත් දසනායකගේ නඩුවක් කල්යයි",
+        "href": "news.php?nid=211225",
+        "byline": "පාර්ලිමේන්තු මන්ත්‍රී චාමර සම්පත් දසනායක මහතා සම්බන්ධයෙන් සිදුකරන විමර්ශන තවමත් අවසන් කර නොමැති බව අල්ලස් කොමිසම අද කොළඹ මහෙස්ත්‍රාත් අධිකරණයට දැනුම් දී තිබේ.",
+        "timestamp": "June 17, 2025  11:37 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211225",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "1250c6dfae644412b7569be96bc07e492fee2d7382a3df225ede7e54e80b1d3f"
+      },
+      {
+        "title": "ජනපති පාර්ලිමේන්තුවට",
+        "href": "news.php?nid=211226",
+        "byline": "ජනාධිපති අනුර කුමාර දිසානායක මහතා මීට සුළු වේලාවකට පෙර පාර්ලිමේන්තු සභාගර්භයට පැමිණ තිබේ.",
+        "timestamp": "June 17, 2025  11:58 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211226",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "7515d799661b9fedc7a32930dfee6f17ebdc340e1370403b3864644703af26ed"
+      },
+      {
+        "title": "විපක්ෂයේ මන්ත්‍රීවරු සභාගර්භයෙන් එළියට බහී",
+        "href": "news.php?nid=211227",
+        "byline": "විපක්ෂය නියෝජනය කරන පක්ෂ නායකයින් රැසක් මේ වනවිට පාර්ලිමේන්තු සභාගර්භයෙන් පිටතට ගොස් තිබේ.",
+        "timestamp": "June 17, 2025  12:21 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211227",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "aef4f6277784495b1fa6e513619e947ef4439673f5c7730e2696cdec44036f40"
+      },
+      {
+        "title": "බහුතරය නොතිබූ පළාත් පාලන ආයතන කිහිපයක බලය තීන්දුයි",
+        "href": "news.php?nid=211228",
+        "byline": "ඉකුත් පළාත් පාලන ඡන්ද විමසීමේ ප්‍රතිඵලවලට අනුව කිසිදු පක්ෂයකට හෝ පාර්ශ්වයකට බහුතර බලය ලබාගැනීමට නොහැකි වූ පළාත් පාලන ආයතන කිහිපයක බලය පිහිටුවීම ඊයේ මෙන්ම අදත් සිදුකෙරුණි.",
+        "timestamp": "June 17, 2025  12:34 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211228",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f9cd4fb3cdad6efde9c63eaf6bd3a990f6ff5a6fe70cb7c6a68f227ec7d3aace"
+      },
+      {
+        "title": "තෙල් හිඟයක් ගැන ව්‍යාජ ප්‍රවෘත්තිවලට නොරැවටෙන්න",
+        "href": "news.php?nid=211229",
+        "byline": "තෙල් හිඟයක් ගැන ව්‍යාජ ප්‍රවෘත්තිවලට නොරැවටෙන්න ලෙස බලශක්ති අමාත්‍යාංශය මහජනතාවගෙන් ඉල්ලා සිටී.",
+        "timestamp": "June 17, 2025  1:05 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211229",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "744d9d60f4ff765f032fd9b7c08b878443d2c744321d1ae49c7564c8664093b0"
+      },
+      {
+        "title": "2029 දී සාමාන්‍ය පෙළ විභාගය නව විෂය නිර්දේශ යටතේ",
+        "href": "news.php?nid=211230",
+        "byline": "2026 වසරේ ක්‍රියාත්මක කිරීමට නියමිත නව අධ්‍යාපන පරිවර්තන ක්‍රියාවලියට අදාළ මාර්ගෝපදේශ මෙම වසරේ අගෝස්තු මාසයේ එළි දැක්වීමට අවශ්‍ය පියවර ගන්නා බව අග්‍රාමාත්‍ය හරිනි අමරසූරිය පවසයි.",
+        "timestamp": "June 17, 2025  1:14 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211230",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ba4ebd2efd2d1f6a11b74fd13e40d4e6c4fef61fa2c65533cfb82223bc6e72ca"
+      },
+      {
+        "title": "ලන්ඩන් යන්න ගිය එයාර් ඉන්දියා ගුවන් යානයක අදත් දෝෂයක්",
+        "href": "news.php?nid=211231",
+        "byline": "එයාර් ඉන්දියා ගුවන් සමාගමට අයත් ගුවන් යානයක අදත් තාක්ෂණික දෝෂයක් හේතුවෙන් ගුවන්ගත වීමට පෙර අවලංගු කර තිබේ.",
+        "timestamp": "June 17, 2025  1:25 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211231",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "8f321f111b55fc511a63817ccebea23d75861cb96560fd57f26b8ac4fbadf213"
+      },
+      {
+        "title": "කැබිනට් තීරණ මෙතැනින්",
+        "href": "news.php?nid=211232",
+        "byline": "කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව අද (17) පස්වරුවේ ආරම්භ කෙරුණි.",
+        "timestamp": "June 17, 2025  3:33 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211232",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f930a7f326a0e1d899c62fbc67b72166b8d93ac77be5a19690247c5c361a41e0"
+      },
+      {
+        "title": "භික්ෂූනියට ජාතික හැඳුනුම්පතක් නිකුත් කරන ලෙසට නියෝගයක්",
+        "href": "news.php?nid=211233",
+        "byline": "රංගිරි දඹුල්ල සංඝ සභාවට සම්බන්ධ භික්ෂුණියක් වශයෙන් කටයුතු කරන වැලිමඩ ධම්මදින්න නමැති භික්‍ෂුණියට \"භික්‍ෂුණී පදනම\" යටතේ ජාතික හැඳුනුම්පතක් නිකුත් කිරීම ප්‍රතික්ෂේප කිරීම තුළින් පුද්ගලයින් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ කොමසාරිස් ජෙනරාල් වරයා මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය තීන්දු කර තිබේ.",
+        "timestamp": "June 17, 2025  3:43 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211233",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "604ab059f884faa76c97578c37240e9acd7d0dc75616a7cdff09fe0dc37a1652"
+      },
+      {
+        "title": "හිටපු ජනපතිවරුන්ගේ විශේෂ වරප්‍රසාද සහ පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප් අහෝසි කිරීමට පනත් කෙටුම්පතක්",
+        "href": "news.php?nid=211234",
+        "byline": "හිටපු ජනාධිපතිවරුන්ගේ වරප්‍රසාද සහ පාර්ලිමේන්තු මන්ත්‍රී විශ්‍රාම වැටුප අහෝසි කිරීමට පනත් කෙටුම්පතක් සකස් කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.",
+        "timestamp": "June 17, 2025  3:55 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211234",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "0644683d5295a6288661325881ed6765f8b6e310e79473f68ce6f9e6461169b8"
+      },
+      {
+        "title": "ඉඩම් ගොඩකිරීමේ සහ සංවර්ධනය කිරීමේ සංස්ථාවේ හිටපු නියෝජ්‍ය සාමාන්‍යාධිකාරී අත්අඩංගුවට",
+        "href": "news.php?nid=211235",
+        "byline": "ඉඩම් ගොඩකිරීමේ සහ සංවර්ධනය කිරීමේ සංස්ථාවේ හිටපු නියෝජ්‍ය සාමාන්‍යාධිකාරීවරයා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "June 17, 2025  4:10 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211235",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "bd95443953126585d1578b989ec3bf8d628c05d8d7d052c3cdd342e73e59db43"
+      },
+      {
+        "title": "ශ්‍රී ලංකාවට ලැබෙන මීළග IMF වාරිකය ගැන තීරණය ජූලි 01 දා",
+        "href": "news.php?nid=211236",
+        "byline": "ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකම මගින් සහාය දක්වන ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ සිව්වන සමාලෝචනය අවසන් කරමින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ කාර්ය මණ්ඩලය සහ ශ්‍රී ලංකා බලධාරීන්, ආර්ථික ප්‍රතිපත්ති පිළිබඳ කාර්ය මණ්ඩල මට්ටමේ එකඟතාවයකට පැමිණීම පසුගිය අප්‍රේල් 25 ද සිදුවිය.",
+        "timestamp": "June 17, 2025  4:22 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211236",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "9663144e2102d1d483ab0677294e2eb018d3794087e31398f49bfc19e34d4b77"
+      },
+      {
+        "title": "පොසොන් සමයේ වැරදි කළ වෙළෙඳුන් 105ට නඩු",
+        "href": "news.php?nid=211237",
+        "byline": "ගෙවුනු පොසොන් සමයේ විවිධ වැරදි කළ වෙළෙඳුන් 105 දෙනෙකුට නීතිමය පියවර ගැනීමට පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය කටයුතු කර තිබේ.",
+        "timestamp": "June 17, 2025  4:27 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211237",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "a71bfcc7d97a970eff7032ff256c17ce1324498e7f1d720d300263d8c44c050f"
+      },
+      {
+        "title": "ප්‍රදේශ කිහිපයකට තවදුරටත් නායයෑම් අනතුරු ඇඟවීම් නිකුත් කෙරේ",
+        "href": "news.php?nid=211238",
+        "byline": "ප්‍රදේශ කිහිපයකට නාය යෑම් අනතුරු ඇඟවීම් නිවේදනයක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.",
+        "timestamp": "June 17, 2025  4:49 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211238",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "285a3dd03f778e6ecacf3859f27302bd99afbcaf74239821cb79bc54a6566059"
+      },
+      {
+        "title": "ඉන්ධන හිඟයක් ඇති නොවන බවට ආණ්ඩුවෙන් සහතිකයක්",
+        "href": "news.php?nid=211239",
+        "byline": "ඉරාන-ඊශ්‍රායල් ගැටුම හේතුවෙන් ඉදිරියේදී ඇති විය හැකි ඉන්ධන හිඟයක් පිළිබඳ සමාජ මාධ්‍යවල පළ කිරීම් විශ්වාස නොකරන ලෙස කැබිනට් ප්‍රකාශක, අමාත්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.",
+        "timestamp": "June 17, 2025  4:52 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211239",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c88ef504e8b605bedc90a26c5b893ea9171a62480f7adfcd62a8cff1a854924a"
+      },
+      {
+        "title": "යුද ගැටුම් හේතුවෙන් ටෙහෙරානයේ පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය ඉවත් කර ගනියි",
+        "href": "news.php?nid=211240",
+        "byline": "මැදපෙරදිග පවතින යුදමය තත්ත්වය හමුවේ ඉරානයේ ටෙහෙරාන් නුවර පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය ඉන් ඉවත් කිරීමට පියවර ගත් බව විදේශ අමාත්‍ය විජිත හේරත් මහතා පැවසීය.",
+        "timestamp": "June 17, 2025  5:15 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211240",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "180a8da468059802d5b702095adc6427da67dc91bec0ea5c88fd998b125c6711"
+      },
+      {
+        "title": "පාර්ලිමේන්තුවේ අභ්‍යන්තර කටයුතු ඒකකයක්",
+        "href": "news.php?nid=211241",
+        "byline": "සුපිළිපන්න රාජ්‍ය සේවයක් කරා පිය නැඟීමේ අපේක්ෂාව ඇතිව ජනාධිපති ලේකම් කාර්යාලය විසින් 2025 පෙබරවාරි 18 දින නිකුත් කරන ලද PS/SB/Circular/2/2025 චක්‍රලේඛයට අනුගත වෙමින් “පාර්ලිමේන්තුවේ අභ්‍යන්තර කටයුතු ඒකකයක්” ස්ථාපිත කිරීමට පාර්ලිමේන්තුවේ මහ ලේකම් විසින් කටයුතු කර ඇත.",
+        "timestamp": "June 17, 2025  5:25 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211241",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c85e5101fe043ebafd10b6364423f74fe8319c6790daa7dda29cc9074799c30d"
+      },
+      {
+        "title": "කොළඹ මහනගර සභාවේ මන්ත්‍රිනී සඳමාලිට පහරදීම ගැන විමර්ශන",
+        "href": "news.php?nid=211242",
+        "byline": "කොළඹ නගර සභාවේ එක්සත් ජාතික පක්ෂ මන්ත්‍රිනී උළුවටුගේ සඳමාලි මහත්මියට පහරදීමේ සිද්ධිය සම්බන්ධයෙන් ග්‍රෑන්ඩ්පාස් පොලීසිය විසින් විමර්ශනයක් ආරම්භ කර තිබේ.",
+        "timestamp": "June 17, 2025  5:42 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211242",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "153fe7ed7cce2bca2a3919f6636ebf9453a0f6d0e73c66a928493cce0b1b577a"
+      },
+      {
+        "title": "ගාල්ලේ පළමු දිනයේ වැඩි වාසිය බංග්ලාදේශයට",
+        "href": "news.php?nid=211243",
+        "byline": "ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර අද (17) ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේ දී ඇරඹි පළමු ටෙස්ට් තරගයේ පළමු දිනය අවසන් වන විට කඩුළු 3කට ලකුණු 292 ක් ලබා ගනිමින් පළමු දිනයේ වැඩි ගෞරව අත්පත් කරගන්නට බංග්ලාදේශ පිලට හැකිවී තිබේ.",
+        "timestamp": "June 17, 2025  5:43 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211243",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "2f994507bdbb5c97f5b2915c0603ba49f70bdb030a094e3449d7ff572305513e"
+      },
+      {
+        "title": "ඉරානය සමග සාම සාකච්ඡා පැවැත්වීමට තමන් සම්බන්ධ වී නොමැති බව ට්‍රම්ප් කියයි",
+        "href": "news.php?nid=211244",
+        "byline": "ඊශ්‍රායල - ඉරාන යුද ගැටුම් සම්බන්ධව ඉරානය සමග සාම සාකච්ඡා පැවැත්වීම සඳහා තමන් කිසි සේත් සම්බන්ධ වී නොමැති බව අමෙරිකානු ජනාධිපති ඩොලඩ් ට්‍රම්ප් පවසා ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.",
+        "timestamp": "June 17, 2025  5:55 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211244",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c863688b7756acc45683061f30099ddc050070cc34650d4d3663c2d385e7125b"
+      },
+      {
+        "title": "ඔස්ට්‍රේලියානු විදේශ ඇමති ඉන්දියාවට",
+        "href": "news.php?nid=211245",
+        "byline": "ඔස්ට්‍රේලියානු විදේශ ඇමතිවරිය ලබන සතියේ ඉන්දියාවට පැමිණීමට නියමිත බව ඉන්දීය මාධ්‍ය වාර්තා කරයි.",
+        "timestamp": "June 17, 2025  6:09 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211245",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "27181d6f015f808e3c8aec8163515a4c44b3965849d2b7d87b0c17173a655985"
+      },
+      {
+        "title": "ආරක්ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව රැස්වෙයි",
+        "href": "news.php?nid=211246",
+        "byline": "ආරක්ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව ආරක්ෂක අමාත්‍ය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ සභාපතීත්වයෙන් අද (17) පාර්ලිමේන්තුවේදී රැස්ව තිබේ.",
+        "timestamp": "June 17, 2025  6:28 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211246",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c884daf92070734da67eeb8465f190a483707feaeb1efad9f9870ade6c8f9630"
+      },
+      {
+        "title": "සුප්‍රකට දකුණු ඉන්දීය සිනමා නිළි වරලක්ෂ්මි දිවයිනට",
+        "href": "news.php?nid=211247",
+        "byline": "ශ්‍රී ලංකාවේ නිෂ්පාදනය කෙරෙන ජාත්‍යන්තර ප්‍රදර්ශනය සඳහා ඉදිරිපත් කිරීමට නියමිත   \" ද කේජ්ඩ් බර්ඩ් \" ( The Caged Bird) නැමති චිත්‍රපටය සඳහා එහි ප්‍රධාන චරිතය රගපෑමට , සුප්‍රකට දකුණු ඉන්දීය සිනමා නිළි වරලක්ෂ්මි සරත් කුමාර් අද (17) උදෑසන මෙරටට පැමිණ තිබුණි.",
+        "timestamp": "June 17, 2025  6:53 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211247",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "29ce8619e4e1443571cb0527dd2aaa059a76493042ae495bd93bad95ec1c08aa"
+      },
+      {
+        "title": "මෝදිට සම්මානයක්",
+        "href": "news.php?nid=211248",
+        "byline": "ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදිට සයිප්‍රසයේ ඉහළම සිවිල් සම්මානය වන \"Grand Cross of the Order of Makarios III\" සම්මානය පිරිනමා තිබේ.",
+        "timestamp": "June 17, 2025  7:49 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211248",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "e9f04540d1111c52512a8d53e7d66ce8afc8d6bea4bd8d5dad3c5dbe0f5edac1"
+      },
+      {
+        "title": "ඊශ්‍රායලයේ රැකියාලාභීන්ට විශේෂ නිවේදනයක්",
+        "href": "news.php?nid=211249",
+        "byline": "ඊශ්‍රායලය හා ඉරානය අතර වර්තමානයේ ඇතිවී තිබෙන තත්ත්වය මත ඊශ්‍රායලයේ ජාත්‍යන්තර ගුවන් තොටුපළවල් මේ වන විට ක්‍රියාත්මක මට්ටමේ නොමැති බැව් ඊශ්‍රායලයේ පිහිටි ජනගහන හා සංක්‍රමණ අධිකාරිය (PIBA) දන්වා ඇත.",
+        "timestamp": "June 17, 2025  7:54 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211249",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c018f4b976966ccdb12576d7da34eaf6442c3b3fb5ff5ac8fb1483e8bbb1414f"
+      },
+      {
+        "title": "ඉරානයෙන් ඉන්දීය ජාතිකයින් ඉවත් කරගනී",
+        "href": "news.php?nid=211250",
+        "byline": "ඉරානය සහ ඊශ්‍රායලය අතර පවතින යුද ගැටුම් හේතුවෙන් ඉන්දීය ජාතිකයින් ඉරානයෙන් ඉවත් කිරීමට පියවර ගෙන තිබේ.",
+        "timestamp": "June 17, 2025  7:57 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211250",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "354c2a2ffd1af6d8aef1ae95c682bd5dfec5217971b90feedec7ab0eee6013e0"
+      },
+      {
+        "title": "පිල්ලෙයාන්ගේ මූලික අයිතිවාසිකම් පෙත්සමක් සලකාබැලීමට දින දෙයි",
+        "href": "news.php?nid=211251",
+        "byline": "හිටපු රාජ්‍ය අමාත්‍යවරයකු වන සිවනේසතුරේ චන්ද්‍රකාන්තන් හෙවත් පිල්ලෙයාන් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් සලකා බැලීම සඳහා ජූලි මස 23 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය නියම කර තිබේ.",
+        "timestamp": "June 17, 2025  9:07 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211251",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "805a636de775833615e4d41c4b70e98aba4e1e1e973a78356f86d5a9e233c910"
+      },
+      {
+        "title": "කථානායකට එරෙහිව ජාත්‍යන්තරයට පැමිණිලි කිරීමට විපක්ෂය සැරසෙයි",
+        "href": "news.php?nid=211252",
+        "byline": "කථානායකවරයාගේ ක්‍රියාකලාපය සම්බන්ධයෙන් පොදුරාජ්‍ය මණ්ඩලීය පාර්ලිමේන්තු සම්මේලනයට සහ අන්තර් ජාතික පාර්ලිමේන්තු සංගමයට පැමිණිලි කරන බව විපක්ෂය පවසයි.",
+        "timestamp": "June 17, 2025  9:23 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211252",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "7ceb5655e16fbfafbf2d95a07ee19ce3a972076cbe9d8f15dd67494cc49b04ee"
+      },
+      {
+        "title": "විශේෂඥ වෛද්‍යවරිය ඇතුළු තිදෙනා රිමාන්ඩ්",
+        "href": "news.php?nid=211253",
+        "byline": "තුන්වන පාර්ශ්වයක් හරහා වැඩි මිලට ඖෂධ අලෙවි කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් ශ්‍රී ජයවර්ධනපුර රෝහලේ විශේෂඥ වෛද්‍යවරිය ඇතුළු සැකකරුවන් තුන්දෙනා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.",
+        "timestamp": "June 17, 2025  10:23 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211253",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d39ee3e1cd5fe4a690730498f6bc487c1f684ea5dd7e56cb4fb36087a364b240"
+      },
+      {
+        "title": "ඉරාන අධ්‍යාත්මික නායකයා පහසු ඉලක්කයක් බව ට්‍රම්ප් කියයි",
+        "href": "news.php?nid=211254",
+        "byline": "ඉරානයේ උත්තරීතර නායක අයතුල්ලා අලි කමේනි සැඟව සිටින ස්ථානය නිවැරදිවම දන්නා බවත් ඔහු පහසු ඉලක්කයක් බවත් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසයි.",
+        "timestamp": "June 17, 2025  10:50 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211254",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "a0d4390a2b4e5ebec26ae542985c5eead73ac25743d197e0769eb80b1005a9c9"
+      },
+      {
+        "title": "බහුතරය නොතිබූ පළාත් ආයතන කිහිපයක බලය පිහිට වූ හැටි",
+        "href": "news.php?nid=211200",
+        "byline": "තවත් පළාත් පාලන ආයතන කිහිපයක බලය පිහිටුවීමට ද ජාතික ජනබලවේගය අද (16) සමත් වුණි.",
+        "timestamp": "June 16, 2025  7:36 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211200",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d9700621c3a5b88f402f58cd928865fb4676d2fd12da283959ca905ce609bb8a"
+      },
+      {
+        "title": "දේශබන්දු සම්බන්ධව පවත්වන විමර්ශන කමිටුවට තවත් සාක්ෂිකරුවන් තිදෙනෙකු සාක්ෂි දෙයි",
+        "href": "news.php?nid=211201",
+        "byline": "දේශබන්දු තෙන්නකෝන් මහතා විසින් කර ඇතැයි කියන විෂමාචාර සම්බන්ධයෙන් විමර්ශනය කරන පරීක්ෂණ කමිටුව ඉදිරියේ තවත් සාක්ෂිකරුවෝ තිදෙනෙක් සාක්ෂි ලබා දී තිබේ.",
+        "timestamp": "June 16, 2025  7:48 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211201",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "eb86cce7ac2f1786447b2d827417c3a12b6b33b0c5c7415913c608f85f142cca"
+      },
+      {
+        "title": "මැතිව්ස් සහභාගි වන අවසන් ටෙස්ට් තරගය හෙට ආරම්භ වෙයි",
+        "href": "news.php?nid=211202",
+        "byline": "සංචාරක බංග්ලාදේශ කණ්ඩායම සහ ශ්‍රී ලංකා පිල අතර පළමු ටෙස්ට් ක්‍රිකට් ගාල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී හෙට ආරම්භ වෙයි.",
+        "timestamp": "June 16, 2025  8:27 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211202",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "51676d5f204ba22b810b09d87c8e50b22363bd0ba4e42c3737ffbb21235aeb93"
+      },
+      {
+        "title": "ඉරානයේ රාජ්‍ය ප්‍රවෘත්ති නාලිකාවට ඊශ්‍රායලයෙන් ප්‍රහාරයක්",
+        "href": "news.php?nid=211203",
+        "byline": "ඊශ්‍රායලය විසින් ඉරානයේ රාජ්‍ය ප්‍රවෘත්ති නාලිකාවක මැදිරි සංකීර්ණයට ප්‍රහරයක් එල්ල කර තිබේ.",
+        "timestamp": "June 16, 2025  9:59 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211203",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "53ec90551e33578727924f171dc7e7a0abec8a6ae1c29eab4d2d808559628af6"
+      },
+      {
+        "title": "අනතුරට ලක්වූ ඉන්දීය යානයේ නියමු කුටියේ හඬ පටිගත වන යන්ත්‍රය සොයාගැනේ",
+        "href": "news.php?nid=211204",
+        "byline": "ඉන්දියාවේ අහමදාබාද් නුවරදී අනතුරට පත් එයාර් ඉන්ඩියා ගුවන්යානයේ නියමු කුටියේ හඬ පටිගත වන යන්ත්‍රය සොයාගෙන තිබේ.",
+        "timestamp": "June 16, 2025  10:41 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211204",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c46b92715ae732162dfce1ff24607de7037c268847f12d30d229a2157bea872a"
+      },
+      {
+        "title": "අදත් ප්‍රදේශ කිහිපයකට තරමක වැසි",
+        "href": "news.php?nid=211167",
+        "byline": "බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු සහ වයඹ පළාත්වල විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.",
+        "timestamp": "June 16, 2025  6:19 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211167",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "11aa2b1db8f17236456c9a505c8826fbe6cb943b9447d8fc4286c602d33db012"
+      },
+      {
+        "title": "2025.06.16",
+        "href": "news.php?nid=211168",
+        "byline": "No byline",
+        "timestamp": "June 16, 2025  1:13 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211168",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "021345b36166dcc42232b9d5c80789a98371b70c1bb4093b6c76a2e0b62df00f"
+      },
+      {
+        "title": "යුද ගැටුම් සමඟ බොරතෙල් මිල ඉහළට",
+        "href": "news.php?nid=211169",
+        "byline": "ඊශ්‍රායලය සහ ඉරානය අතර හටගෙන ඇති යුදමය වාතාවරණය හේතුවෙන් ලෝක වෙළෙඳපොළේ බොරතෙල් මිල ඉහළ ගොස් තිබේ.",
+        "timestamp": "June 16, 2025  6:43 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211169",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "e8e12ccceaef27d30c1caf07982e6dcd70e19d41cbdfb1401babe31f6fd41443"
+      },
+      {
+        "title": "කොළඹ බලය කාට ද? පුරපති තේරීමේ ඡන්ද විමසීම අද",
+        "href": "news.php?nid=211170",
+        "byline": "මෙවර පළාත් පාලන ආයතන ඡන්ද විමසීමේදී කිසිදු පක්ෂයක් විසින් බහුතර බලයක් හිමි නොවූ කොළඹ මහ නගර සභාවේ මංගල රැස්වීම අද (16) පැවැත්වීමට නියමිතව තිබේ.",
+        "timestamp": "June 16, 2025  6:54 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211170",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ce0de948da9953d0efb0adc5f18c6ff176d754f7b9d0b36aaa6447847f3d35df"
+      },
+      {
+        "title": "දිස්ත්‍රික්ක 07කට නායයෑමේ අනතුරු ඇඟවීම්",
+        "href": "news.php?nid=211171",
+        "byline": "පවතින අයහපත් කාලගුණයත් සමග දිස්ත්‍රික්ක 07ක් සඳහා නායයෑමේ අනතුරු ඇඟවීමේ නිවේදන නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය කටයුතු කර තිබේ.",
+        "timestamp": "June 16, 2025  7:05 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211171",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c8bd0c570379d44a2d44444dccf57525b02b8fcb45279af9be7229676cc88b8b"
+      },
+      {
+        "title": "මනුෂ්‍ය ඝාතනයකට ආධාර අනුබල දුන් සැකකරුවෙක් අත්අඩංගුවට",
+        "href": "news.php?nid=211172",
+        "byline": "වෙඩි තබා මනුෂ්‍ය ඝාතනයකට තැත්කිරීමේ අපරාධයකට ආධාර අනුබල ලබාදුන් සැකකරුවෙකු අයිස් මත්ද්‍රව්‍ය සමඟ මීගමුව කොට්ඨාස අපරාධ විමර්ශන කාර්යංශය විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "June 16, 2025  7:23 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211172",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "cb0e60fe1e66896c0afbbce1eca8abfeb820add8189f139b4d440dcf0e0ea662"
+      },
+      {
+        "title": "රැඳවියෙකු නිදහස් කිරීමේ සිද්ධියට අධිකරණ අමාත්‍යාංශ ඉහළ නිලධාරිනියකගෙන් CIDයට ප්‍රකාශයක්",
+        "href": "news.php?nid=211173",
+        "byline": "ජනාධිපති පොදු සමාව අනීතික ලෙස භාවිත කරමින් අනුරාධපුර බන්ධනාගාරයේ රැඳවියකු නිදහස් කිරීමේ සිද්ධියට අදාළව අධිකරණ අමාත්‍යංශයේ විධායක ශ්‍රේණියේ නිලධාරිනියකගෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ප්‍රකාශයක් සටහන් කරගෙන තිබේ.",
+        "timestamp": "June 16, 2025  7:42 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211173",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "5c4e8e4fb0e66f14b0abc788fb519724079b8de7e1cb0e40a43919e80baff6c5"
+      },
+      {
+        "title": "මාරක අනතුරක් - කාන්තාවකට දිවි අහිමිවෙයි",
+        "href": "news.php?nid=211174",
+        "byline": "මිනුවන්ගොඩ -  වේයන්ගොඩ මාර්ගයේ පමුණුව හන්දියේදී යතුරුපැදියක් සහ වෑන් රථයක් ගැටී සිදුවු අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.",
+        "timestamp": "June 16, 2025  8:29 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211174",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f068cc56754b8336b4ea88189498733cd3d49ca6234e189e8034803f3b086c96"
+      },
+      {
+        "title": "කොළඹ පුරපති සටන - සර්වජන බලයේ සහාය විපක්ෂයට",
+        "href": "news.php?nid=211175",
+        "byline": "කොළඹ මහ නගර සභාවේ, නගරාධිපති ධුරය සඳහා විපක්ෂය විසින් නම් කරන ලද අපේක්ෂකයාට සහාය දැක්වීමට සර්වජන බලය තීරණය කර ඇත.",
+        "timestamp": "June 16, 2025  8:57 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211175",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ca76585d40ebcd2b3b424dc6d05feb78f8751b7fc3dc80e44c9551b7258ea59d"
+      },
+      {
+        "title": "ඉරාන මිසයිල ප්‍රහාරයකින් ශ්‍රී ලාංකික තරුණයෙකුට තුවාල",
+        "href": "news.php?nid=211176",
+        "byline": "අද (16) උදෑසන බෙනිබරක් (Bnei Brak)ප්‍රදේශයට එල්ලවූ ඉරාන මිසයිල ප්‍රහාරයකින් ඉදිකිරීම් සඳහා පැමිණි ශ්‍රී ලංකික තරුණයෙකුගේ පාදයට තුවාල සිදුව තිබේ.",
+        "timestamp": "June 16, 2025  9:20 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211176",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c73af85c0478dd9f6a666c8af51af84054d1e26074a14a824cece1e9f39c9981"
+      },
+      {
+        "title": "කොළඹ මහ නගර සභාවේ මංගල රැස්වීම ඇරඹෙයි - නගරාධිපති තෝරන්න රහස් ඡන්දයක්",
+        "href": "news.php?nid=211177",
+        "byline": "මෙවර පළාත් පාලන ආයතන ඡන්ද විමසීමේදී කිසිදු පක්ෂයක් විසින් බහුතර බලයක් හිමි නොවූ කොළඹ මහ නගර සභාවේ මංගල රැස්වීම මේ වනවිට (16) ආරම්භ වී තිබේ.",
+        "timestamp": "June 16, 2025  9:39 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211177",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "487989fab3e36e079073962e278d61ec642a3bc7b0243f32fc8f9872b8852a20"
+      },
+      {
+        "title": "ගුවන් අනතුරෙන් පසුව චිත්‍රපට අධ්‍යක්ෂවරයෙක් අතුරුදන්",
+        "href": "news.php?nid=211178",
+        "byline": "එයාර් ඉන්දියා ගුවන් අනතුර සිදු වූ දිනයේ සිට එම ප්‍රදේශය අසලින් ගමන් කරමින් සිටි ඉන්දීය චිත්‍රපට අධ්‍යක්ෂකවරයෙක් අතුරුදහන් වී ඇති බව ඉන්දීය මාධ්‍ය පවසයි.",
+        "timestamp": "June 16, 2025  10:20 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211178",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "6ba69a705d0dcf8e4754405356ecd692db85c58f9f206038cc72f3d18e5dd126"
+      },
+      {
+        "title": "මෙය අවසාන IMF වැඩසටහන බවට පත්කර ගැනීම අපේක්ෂාවයි - ජනපති",
+        "href": "news.php?nid=211179",
+        "byline": "ශ්‍රී ලංකාව මේ වන විට අනුගතව ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකම් වැඩසටහන, ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ එවන් වැඩසටහනකට යන අවසාන අවස්ථාව බවට පත් කරගැනීමේ අපේක්ෂාවක් තමන්ට ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.",
+        "timestamp": "June 16, 2025  11:10 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=211179",
+        "isoTimestamp": "2025-06-18T20:30:10+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b37a0fb4ef5f8ba322ab6390c0183235cdd43dc4d7e02b58c53a42ef400afccc"
+      }
+    ]
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": true,
+    "data": [
+      {
+        "title": "Rajeev Amarasuriya to step down from CBSL Governing Board",
+        "href": "https://www.adaderana.lk/news.php?nid=109600",
+        "byline": "Attorney-at-Law Rajeev Amarasuriya is scheduled to conclude his tenure as a member of the Governing Board and the Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) on June 27, 2025.",
+        "timestamp": "June 18, 2025  12:40 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109600",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "cc8e9acd6ab436baf0ef5eb5a5832b82db971304ab3f61f7971d52cd9b5911ae"
+      },
+      {
+        "title": "Iran urges public to delete WhatsApp; claims app sends data to Israel",
+        "href": "https://www.adaderana.lk/news.php?nid=109606",
+        "byline": "Iranian state television on Tuesday urged its citizens to remove WhatsApp, alleging that the messaging app collects user data and shares it with Israel, amid the ongoing conflict, without providing any specific evidence.",
+        "timestamp": "June 18, 2025  2:41 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109606",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ada97915ce5c7d14ceb673b21c9b76e39d93836927641676b2a7976e9c48f565"
+      },
+      {
+        "title": "NPP secures power in Kolonnawa UC; SJB gains control of Kuliyapitiya UC",
+        "href": "https://www.adaderana.lk/news.php?nid=109597",
+        "byline": "The National People’s Power (NPP) has established power in the Kolonnawa Urban Council.",
+        "timestamp": "June 18, 2025  12:00 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109597",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4f64f876544f381476653efd547208600da219d6ea6433262181d0ea578a28f9"
+      },
+      {
+        "title": "Over 100 Indian students evacuated from Iran through Armenia border",
+        "href": "https://www.adaderana.lk/news.php?nid=109599",
+        "byline": "India has begun the evacuation of its nationals from Iran amid the escalating tensions between Tehran and Israel.",
+        "timestamp": "June 18, 2025  12:09 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109599",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "436cf2100f912c076f4d0d042c57f883f8bea826457594424c5bd566651fdc54"
+      },
+      {
+        "title": "G7 justifying Israel’s attack on Iran as self-defence not acceptable – Ranil",
+        "href": "https://www.adaderana.lk/news.php?nid=109615",
+        "byline": "Former Sri Lankan President Ranil Wickremesinghe says that the statement by the Group of Seven (G7) justifying Israel’s attack on Iran as self-defence is not acceptable because the attack took place while talks between the US and Iran were still ongoing.",
+        "timestamp": "June 18, 2025  6:03 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109615",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "acb8b420a40da5accc2e27000bd31421988ee7310672a5b83d1f700982b19a7f"
+      },
+      {
+        "title": "Trump to extend US TikTok ban deadline, White House says",
+        "href": "https://www.adaderana.lk/news.php?nid=109585",
+        "byline": "TikTok will live on for at least another three months in the United States, as President Donald Trump is poised to extend a sale or ban deadline for the third time since taking office this year.",
+        "timestamp": "June 18, 2025  8:27 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109585",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "169d01fa4fe671073f97eda1613048bc06fec1f9d751590ee3129d227b82a475"
+      },
+      {
+        "title": "Boossa Prison inmates protest on rooftop",
+        "href": "https://www.adaderana.lk/news.php?nid=109594",
+        "byline": "A total of five inmates of the Boossa Prison have launched a protest on top of the prison roof, Ada Derana reporter stated.",
+        "timestamp": "June 18, 2025  11:06 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109594",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "25627c268f2a18e38ecf80c7277d826ef1974f44b8ad4acae3016a334b3c96ce"
+      },
+      {
+        "title": "Chinese Embassy in Sri Lanka to launch new online visa application system",
+        "href": "https://www.adaderana.lk/news.php?nid=109598",
+        "byline": "The Chinese Embassy in Sri Lanka has announced that it will officially launch the “China Visa Online Application System” from June 30, 2025.",
+        "timestamp": "June 18, 2025  12:06 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109598",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "01b71cdf8b22f2fceacd03869577b9f05a021424db470bc9bbf1324f13de2d1a"
+      },
+      {
+        "title": "Tom Cruise to receive honorary Oscar",
+        "href": "https://www.adaderana.lk/news.php?nid=109604",
+        "byline": "Hollywood action legend and producer Tom Cruise is set to be felicitated with an honorary Oscar award, the Academy of Motion Picture Arts and Sciences (AMPAS) said on Tuesday.",
+        "timestamp": "June 18, 2025  1:49 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109604",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f3a433a239c38e3e1e514900d236afee67a48a5895bc0e626b016516c8e8a760"
+      },
+      {
+        "title": "Several spells of showers expected today",
+        "href": "https://www.adaderana.lk/news.php?nid=109579",
+        "byline": "Showers will occur at times in the Western and Sabaragamuwa provinces and in the Nuwara-Eliya, Kandy, Galle and Matara districts today, the Department of Meteorology said.",
+        "timestamp": "June 18, 2025  5:55 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109579",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ec5f78f21f3c3f93351d8fd0ad9389d19a5daceb4c26221cfc032b68739147c9"
+      },
+      {
+        "title": "Israel-Iran air war enters sixth day",
+        "href": "https://www.adaderana.lk/news.php?nid=109580",
+        "byline": "Iran and Israel launched new missile strikes at each other on Wednesday as the air war between the two longtime enemies entered a sixth day despite a call from U.S. President Donald Trump for Iran’s unconditional surrender.",
+        "timestamp": "June 18, 2025  6:17 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109580",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "654dd29899b2bfad3776e26df2863807279966ef08fa6edc91495b8e7612b58c"
+      },
+      {
+        "title": "Sajith calls for Parliament debate on Israel-Iran conflict",
+        "href": "https://www.adaderana.lk/news.php?nid=109593",
+        "byline": "Leader of the Opposition Sajith Premadasa has requested the Speaker of House to allocate time to hold a Parliamentary debate to discuss the impact of the on-going Israel-Iran conflict.",
+        "timestamp": "June 18, 2025  10:43 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109593",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "dc4043e4bdb77545c1aeb5e027ffe86e65448e264a5cbc4bb8df5a60f3a73bd2"
+      },
+      {
+        "title": "Several Sri Lankans stranded in Israel due to lack of outbound flights",
+        "href": "https://www.adaderana.lk/news.php?nid=109587",
+        "byline": "Several Sri Lankan nationals in Israel for business purposes have been stranded due to the lack of outbound flights, the Sri Lankan Embassy in Israel has said.",
+        "timestamp": "June 18, 2025  9:15 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109587",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "59bce5cbdad49f7883d079fa4acdd0b06d8e95fff39e6956e896365432bc8205"
+      },
+      {
+        "title": "J’pura Hospital neurosurgeon and two others remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=109581",
+        "byline": "Three individuals, including a specialist neurosurgeon attached to the Sri Jayewardenepura General Hospital, who were arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), have been remanded, Ada Derana reporter said.",
+        "timestamp": "June 18, 2025  6:30 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109581",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "28a7372b375072d6ad3af285a6644080b6b7d638cb7416a88914d8ba7a1586e1"
+      },
+      {
+        "title": "Former minister Keheliya, wife and daughter granted bail",
+        "href": "https://www.adaderana.lk/news.php?nid=109613",
+        "byline": "Former Minister of Health Keheliya Rambukwella, his wife Kusum Priyadarshini Epa, and their daughter Chandula Ramali Rambukwella have been granted bail after being produced before the Colombo Magistrate’s Court.",
+        "timestamp": "June 18, 2025  4:41 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109613",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8268b6d85dba23de3b841ff779412e31c6cbdf73233ab7f3c7d433e6f9cb4b25"
+      },
+      {
+        "title": "Israeli tanks kill 59 people in Gaza crowd trying to get food aid, medics say",
+        "href": "https://www.adaderana.lk/news.php?nid=109596",
+        "byline": "Israeli tanks fired into a crowd trying to get aid from trucks in Gaza on Tuesday, killing at least 59 people, according to medics, in one of the bloodiest incidents yet in mounting violence as desperate residents struggle for food.",
+        "timestamp": "June 18, 2025  11:52 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109596",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c7d90a29890843d25e56e6416a75bd0935b8dc7192f9177d248eb1ba011a4c71"
+      },
+      {
+        "title": "Keheliya, wife and daughter fail to meet bail conditions, remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=109614",
+        "byline": "Former Minister of Health Keheliya Rambukwella, his wife Kusum Priyadarshini Epa, and their daughter Chandula Ramali Rambukwella who were granted bail by the Colombo Magistrate’s Court, have been remanded due to their failure to fulfil the bail conditions.",
+        "timestamp": "June 18, 2025  5:37 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109614",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "789a10b4f438c1dfad4748bae6bdf84e1f9ea247c412e2f347ab3cc4a5078a1b"
+      },
+      {
+        "title": "President commends service of outgoing Treasury Secretary Mahinda Siriwardana",
+        "href": "https://www.adaderana.lk/news.php?nid=109609",
+        "byline": "President Anura Kumara Dissanayake today (18), lauded Mahinda Siriwardana, the outgoing Secretary to the Treasury, for his exemplary service, stating that it is the responsibility of public officials to strive to prevent adverse outcomes and contribute to positive change.",
+        "timestamp": "June 18, 2025  3:06 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109609",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0f8fd62809c5e152e1e6ece6fb3311a885aa0a8a6d7bc4fc2d9ce9e11e2ca91f"
+      },
+      {
+        "title": "Keheliya arrives at Bribery Commission",
+        "href": "https://www.adaderana.lk/news.php?nid=109589",
+        "byline": "Former Minister of Health Keheliya Rambukwella has appeared before the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) a short while ago, Ada Derana reporter said.",
+        "timestamp": "June 18, 2025  9:42 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109589",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a53d3019da46bc838249a199d5762d5a3a686c558f43bb0a352f3979bb246202"
+      },
+      {
+        "title": "Vraie Cally Balthazaar takes oath as 26th Mayor of Colombo",
+        "href": "https://www.adaderana.lk/news.php?nid=109592",
+        "byline": "Vraie Cally Balthazaar of the National People’s Power (NPP) has taken oaths as the 26th Mayor of the Colombo Municipal Council (CMC), a short while ago.",
+        "timestamp": "June 18, 2025  10:22 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109592",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "1bb5dece76af0de0a351d6ad6581aab1f748c7b208f6a66ff01c3605b8c5e484"
+      },
+      {
+        "title": "Numerous new projects planned under ‘Clean Sri Lanka’ initiative reviewed",
+        "href": "https://www.adaderana.lk/news.php?nid=109616",
+        "byline": "A range of new projects for the 2025 financial year have been launched under the “Clean Sri Lanka” programme, a flagship government initiative aimed at fostering “A Thriving Nation , A Beautiful Life,” according to the President’s Media Division (PMD).",
+        "timestamp": "June 18, 2025  7:04 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109616",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fdcbcf6647ab087fb2fd8bb377748a3cf853d09da00644170bc0d9754216e792"
+      },
+      {
+        "title": "Iran ‘will not ‘surrender ‘, says supreme leader Khamenei in response to Trump",
+        "href": "https://www.adaderana.lk/news.php?nid=109612",
+        "byline": "Iran’s supreme leader Ali Khamenei declared on Wednesday that his country “will not surrender” in response to remarks by US President Donald Trump.",
+        "timestamp": "June 18, 2025  4:25 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109612",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "31face8a3657e32df71d029e1561ba80e4615fefebefb4adfa62f64ce74428f9"
+      },
+      {
+        "title": "Will strive to transform Colombo into one of the most developed cities in the world – New Mayor",
+        "href": "https://www.adaderana.lk/news.php?nid=109595",
+        "byline": "Efforts will be taken to transform Colombo into one of the most developed cities in the world, newly appointed Mayor Vraie Cally Balthazaar said after assuming duties in the new post this morning (18).",
+        "timestamp": "June 18, 2025  11:31 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109595",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "66f445529249de9341a2cca0cd705b39486e6d138d1828536b3ec1974c31a0e4"
+      },
+      {
+        "title": "Two arrested for demanding ransom of Rs. 10 mn and threatening to kill a child",
+        "href": "https://www.adaderana.lk/news.php?nid=109584",
+        "byline": "Two individuals have been arrested for demanding a ransom of Rs. 10 million and forcibly obtaining Rs. 2 million from an individual in Badalgama.",
+        "timestamp": "June 18, 2025  7:53 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109584",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "62fcb27dbf328872ee50ad7727dfdac89af04ab197cc91125f6df2edffc2cd62"
+      },
+      {
+        "title": "Bali flights cancelled after Indonesia volcano eruption",
+        "href": "https://www.adaderana.lk/news.php?nid=109583",
+        "byline": "At least two dozen flights to and from the Indonesian resort island of Bali have been cancelled, its international airport website showed on Wednesday (Jun 18), after a volcano in the archipelago’s east erupted, shooting an ash tower 10km into the sky.",
+        "timestamp": "June 18, 2025  7:28 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109583",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3d5b7f10f656e5ccda1488f444f1d98fee0c7b5ae008735f84ed1747435e0d8d"
+      },
+      {
+        "title": "Ex-Minister Keheliya, wife and daughter arrested by Bribery Commission",
+        "href": "https://www.adaderana.lk/news.php?nid=109605",
+        "byline": "Former Minister Keheliya Rambukwella, his wife and daughter have been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), a short while ago.",
+        "timestamp": "June 18, 2025  2:03 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109605",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e306b3c7f9399a8c67e7f26288ed8392dc0574cb51085507bab91368b31f1750"
+      },
+      {
+        "title": "Qatar Airways named world’s best airline for 9th time",
+        "href": "https://www.adaderana.lk/news.php?nid=109607",
+        "byline": "Qatar Airways has secured the coveted title of World’s Best Airline for 2025, marking a record ninth win at the Skytrax World Airline Awards.",
+        "timestamp": "June 18, 2025  2:43 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109607",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "be2ec6bab60d0d96861610ba137ca228a6fb7eeebf7e35e36254441d8e1a61ec"
+      },
+      {
+        "title": "Award winning Hollywood actor Jeremy Irons arrives in Sri Lanka",
+        "href": "https://www.adaderana.lk/news.php?nid=109588",
+        "byline": "Renowned British actor Jeremy Irons, a recipient of both Oscar and Emmy Awards, arrived at Bandaranaike International Airport (BIA) in Katunayake last night to take part in a film being shot in Sri Lanka.",
+        "timestamp": "June 18, 2025  9:22 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109588",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "1d232d97ac093577716b82eab52b815b82ad6a1deb131d54f356b2e3ec8e7ba1"
+      },
+      {
+        "title": "18 injured as bus collides with container truck in Eheliyagoda",
+        "href": "https://www.adaderana.lk/news.php?nid=109590",
+        "byline": "A total of 18 individuals have sustained injuries in a road accident in Eheliyagoda this morning (18), police stated.",
+        "timestamp": "June 18, 2025  10:00 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109590",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0b5fffc0aba13253a28d1d3e16832fced956d1c8c5b2856189a6f781d69a32a2"
+      },
+      {
+        "title": "Teen arrested over fatal accident on pedestrian crossing",
+        "href": "https://www.adaderana.lk/news.php?nid=109586",
+        "byline": "A teenager has been arrested following an accident along the Trincomalee – Ambepussa road in Anandakulam, Trincomalee, police stated.",
+        "timestamp": "June 18, 2025  8:27 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109586",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "cd52aa13efe39a6ca5a3b5abc7ab9f926f8a9184faef73b8afa0057e769a5e1a"
+      },
+      {
+        "title": "Woman and daughter from Sri Lanka arrested in Chennai with fake Indian passports",
+        "href": "https://www.adaderana.lk/news.php?nid=109603",
+        "byline": "A mother and daughter from Sri Lanka, who allegedly entered India using fake Indian passports have been arrested in Chennai.",
+        "timestamp": "June 18, 2025  1:40 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109603",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "181c1df6848c4378249d6ab66679869ed63d2d1dc66ce8bba60ba582eb7af444"
+      },
+      {
+        "title": "California report warns of unregulated AI’s ‘irreversible harms’",
+        "href": "https://www.adaderana.lk/news.php?nid=109602",
+        "byline": "Without proper safeguards, powerful artificial intelligence (AI) could induce severe and ‘potentially irreversible harms,’ a report released Tuesday by California Governor Gavin Newsom warned.",
+        "timestamp": "June 18, 2025  1:11 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109602",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "47e7e00a71bf6b56227c85b6efbbdc9351e6c375a9b30f4b0bb3bdd12e4ada46"
+      },
+      {
+        "title": "Keheliya, wife and daughter produced before court",
+        "href": "https://www.adaderana.lk/news.php?nid=109611",
+        "byline": "Former Minister Keheliya Rambukwella, his wife, and daughter who were arrested in connection with an investigation under the Prevention of Money Laundering Act have been brought before the Colombo Magistrate’s Court by officers of the Bribery Commission.",
+        "timestamp": "June 18, 2025  4:16 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109611",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2ae5d30aa10b65faacb4034192577a967654fbaa0ccd784e4bd7c6999519decc"
+      },
+      {
+        "title": "Govt unveils digital reform plan to streamline Foreign Ministry services",
+        "href": "https://www.adaderana.lk/news.php?nid=109608",
+        "byline": "The government has taken steps to expedite the digitisation of the internal operations and diplomatic services at the Ministry of Foreign Affairs.",
+        "timestamp": "June 18, 2025  2:57 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109608",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "341353fc5b6d969197d2f69e4ad0939742930520981a4b253b2fc170aa81a12c"
+      },
+      {
+        "title": "FR petition over Sabaragamuwa Uni. ragging incident fixed for consideration",
+        "href": "https://www.adaderana.lk/news.php?nid=109601",
+        "byline": "The Supreme Court today (18) ordered that the hearing of the Fundamental Rights Petition filed by the Bar Association of Sri Lanka (BASL) which seeks a ruling that the ragging incident involving Charith Dilshan...",
+        "timestamp": "June 18, 2025  12:41 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109601",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c45560505169507ae71b31ddcd60f61ecb131e1a22eb1067b1ec4332165b68c0"
+      },
+      {
+        "title": "Discussions held to prevent elephant intrusions at Mattala Airport",
+        "href": "https://www.adaderana.lk/news.php?nid=109582",
+        "byline": "Discussions have been held to address the ongoing issues concerning the perimeter fence of the Mattala Rajapaksa International Airport (MRIA) which had been damaged owing to elephant intrusions, the Ministry of Defence said in a statement.",
+        "timestamp": "June 18, 2025  7:12 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109582",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "568a6fe9620673545e62ff895ec62520174018cf9123e528da586d4ad5a9834f"
+      },
+      {
+        "title": "Parliament adjourned amidst objections from opposition",
+        "href": "https://www.adaderana.lk/news.php?nid=109610",
+        "byline": "The Parliament was adjourned until 9.30 am on Thursday morning (19) despite the objections raised by opposition’s parliamentarians who had called for a debate on the Israel-Iran conflict.",
+        "timestamp": "June 18, 2025  3:43 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109610",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "94690eb48d5c121ee9529ec391caba41c16835d877b1e954582027bad89fcacc"
+      },
+      {
+        "title": "President chairs meeting of Ministerial Consultative Committee on Defence",
+        "href": "https://www.adaderana.lk/news.php?nid=109575",
+        "byline": "The Ministerial Consultative Committee on Defence met today (17) in Parliament under the Chairmanship of President Anura Kumara Dissanayake, who is also the Minister of Defence.",
+        "timestamp": "June 17, 2025  7:27 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109575",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5b0c8b482a2405eac172016fe49c6c9336c815ee3fc6daae503de06c0f4451b4"
+      },
+      {
+        "title": "Sri Lankan Embassy in Iran shifted to safer location - FM",
+        "href": "https://www.adaderana.lk/news.php?nid=109573",
+        "byline": "The Sri Lankan Embassy in Iran has been moved from its current location today in the wake of the continuous attacks on Tehran, Sri Lanka’s Foreign Minister Vijitha Herath told the Parliament.",
+        "timestamp": "June 17, 2025  5:28 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109573",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "74572ee9cfead9f5aff7d7e6ff65255df39c41955cc6c8b3c007fc371b118c27"
+      },
+      {
+        "title": "Mega Power lottery creates history with Rs.474 mn winner",
+        "href": "https://www.adaderana.lk/news.php?nid=109541",
+        "byline": "The largest lottery prize in Sri Lanka’s history was won yesterday (16).",
+        "timestamp": "June 17, 2025  6:02 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109541",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2ad64255b2b8e5370cd88d1e33c6b856ebafb001992268f1e6bd172ef9501c92"
+      },
+      {
+        "title": "Sri Lanka to establish Aircraft Accident Investigation Bureau",
+        "href": "https://www.adaderana.lk/news.php?nid=109571",
+        "byline": "The Cabinet of Ministers has granted approval to proceed with the preparation of a draft bill aimed at establishing an independent Aircraft Accident Investigation Bureau (AAIBSL) in Sri Lanka.",
+        "timestamp": "June 17, 2025  4:44 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109571",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fff8a4300f8f4958f22a1ea277b0ae1eb994dce09e26228d6768d96f60afb0a0"
+      },
+      {
+        "title": "Former Deputy GM of Land Reclamation Corp arrested",
+        "href": "https://www.adaderana.lk/news.php?nid=109574",
+        "byline": "A former Deputy General Manager of the Sri Lanka Land Reclamation and Development Corporation (SLLRDC) has been arrested by officers of the Bribery Commission.",
+        "timestamp": "June 17, 2025  6:53 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109574",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0b85b5099ecdf0d5029df870e8747af6a87504afd4af7f1cb0897020340b3a33"
+      },
+      {
+        "title": "Govt. to introduce special fixed deposit scheme for elderly citizens",
+        "href": "https://www.adaderana.lk/news.php?nid=109572",
+        "byline": "The Cabinet of Ministers has green-lighted the implementation of the proposed special fixed deposit scheme for senior citizens.",
+        "timestamp": "June 17, 2025  4:58 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109572",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5c26e725f1299e2255d5d290b0fb8d783698464412ff20dbffef3915eb48df1f"
+      },
+      {
+        "title": "Public urged not to be misled by claims of fuel shortages",
+        "href": "https://www.adaderana.lk/news.php?nid=109569",
+        "byline": "Cabinet Spokesman and Minister Dr. Nalinda Jayatissa has urged the public not to be misled by social media posts claiming an impending fuel shortage in the country due to the ongoing Iran-Israel conflict.",
+        "timestamp": "June 17, 2025  4:00 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109569",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2bb1785ebe7d9cf1fd6e0b1723dbcc5ed8bcd6a196e21394ac90322d1739a1a5"
+      },
+      {
+        "title": "“Childcare is not solely a women’s issue” – PM Harini",
+        "href": "https://www.adaderana.lk/news.php?nid=109577",
+        "byline": "Prime Minister Dr. Harini Amarasuriya emphasised that childcare is not solely a women’s issue as it is an economic and policy issue. She said that enabling women to balance work and caregiving is not only the right thing to do, but also essential for economic progress.",
+        "timestamp": "June 17, 2025  10:07 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109577",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3b2753761110ccab1eb14842fb60db4697bb9d6ec507d7bea694d97740c10edd"
+      },
+      {
+        "title": "Special notice to Sri Lankans seeking employment in Israel",
+        "href": "https://www.adaderana.lk/news.php?nid=109576",
+        "byline": "Sri Lanka’s Foreign Ministry says that the Population and Immigration Authority (PIBA) of Israel has informed that Israel’s international airports are currently not operating at full capacity due to the current situation between Israel and Iran.",
+        "timestamp": "June 17, 2025  8:43 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109576",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4ede58957d6282173a784d0dce07dab5c809342e57f0b80017550ba0ab441933"
+      },
+      {
+        "title": "Trump says US knows where Iran’s Supreme Leader is hiding, urges Iran’s unconditional surrender",
+        "href": "https://www.adaderana.lk/news.php?nid=109578",
+        "byline": "President Donald Trump said Tuesday the U.S. knows where Iran’s Supreme Leader Ayatollah Ali Khamenei is hiding during the Israel-Iran conflict but doesn’t want him killed “for now.”",
+        "timestamp": "June 17, 2025  10:37 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109578",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e450f99befa48c98c99fe7dd4455c3064d77e9eb367e9734782196853ae802aa"
+      },
+      {
+        "title": "Donald Trump urges Tehran evacuation as Iran-Israel conflict enters fifth day",
+        "href": "https://www.adaderana.lk/news.php?nid=109543",
+        "byline": "Israel and Iran attacked each other for a fifth straight day on Tuesday, and U.S. President Donald Trump urged Iranians to evacuate Tehran, citing what he said was the country’s rejection of a deal to curb nuclear weapons development.",
+        "timestamp": "June 17, 2025  6:32 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109543",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "7432d8ad5bc4db3ede9359261bef0366030d05caf85f0debf3b84f942758912f"
+      },
+      {
+        "title": "Sri Lanka moves to end pensions and entitlements for ex-Presidents and MPs",
+        "href": "https://www.adaderana.lk/news.php?nid=109570",
+        "byline": "The Cabinet of Ministers has granted approval to draft legislation aimed at repealing the Presidents’ Entitlements Act No. 4 of 1986 and the Parliamentary Pensions Law No. 1 of 1977, effectively ending special privileges extended to former Presidents, their families, and retired Members of Parliament.",
+        "timestamp": "June 17, 2025  4:19 pm",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109570",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ff524394e9c6ed0d556472cc443534fcd2b8589913d427d860611768220e6174"
+      },
+      {
+        "title": "Showers above 50mm expected in several areas",
+        "href": "https://www.adaderana.lk/news.php?nid=109542",
+        "byline": "Showers will occur at times in the Western and Sabaragamuwa provinces and in Nuwara-Eliya, Kandy, Galle and Matara districts today (17), the Department of Meteorology said.",
+        "timestamp": "June 17, 2025  6:09 am",
+        "isoTimestamp": "2025-06-18T20:31:56+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=109542",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f3b93a51201db2bba69d2918ae0157e8fb9925c02f51a56e83049bee199188ac"
+      }
+    ]
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": true,
+    "data": [
+      {
+        "title": "SC sets date for hearing on ragging case",
+        "href": "/articles/7AtjJorHaRo9wujZAy5f",
+        "url": "https://www.themorning.lk/articles/7AtjJorHaRo9wujZAy5f",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "e378ca493c06dfcf9bb08319c8f702ca188dfe3a4a310d80e982fcaf48376c7d",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Parliament adjourned amid opposition protests",
+        "href": "/articles/PIrGAGZK9mcHTv8nPe4z",
+        "url": "https://www.themorning.lk/articles/PIrGAGZK9mcHTv8nPe4z",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f17a327ac18ab54873c7da77e6bc0b3ef7348d63e7881b9b4da4044af0aeb5cf",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Ranil slams G7 over Israel strike justification, warns of rising multi ...",
+        "href": "/articles/PAFToMjny3Tg22v8pBUM",
+        "url": "https://www.themorning.lk/articles/PAFToMjny3Tg22v8pBUM",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "524be64564ee24c62e43e3abe213a2c9761237beb01ab8a5baf9e42f075f476a",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "President hails outgoing Treasury Secretary for steadying economy",
+        "href": "/articles/T7qGLh6enfV8zvz84UXQ",
+        "url": "https://www.themorning.lk/articles/T7qGLh6enfV8zvz84UXQ",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b65938b8a1940e2d827be62752e80183c850424ca8878ae29035d8b7e1c9ca17",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Keheliya Rambukwella, wife and daughter arrested",
+        "href": "/articles/3aGv3gmdX2IOYHyYPqHw",
+        "url": "https://www.themorning.lk/articles/3aGv3gmdX2IOYHyYPqHw",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "77c3b6e7c8ecf37770bfb819ed507adde19a7a6f43cd805849bfaa00edf3574f",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Govt. plans to digitise foreign Affairs and consular services",
+        "href": "/articles/VquXVUN94TbfsHLvBxfw",
+        "url": "https://www.themorning.lk/articles/VquXVUN94TbfsHLvBxfw",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "453da21d2b492033920ccfbda1e19570e1c09473542ac957226fad6993527b88",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lanka to digitize agriculture, land and irrigation sectors",
+        "href": "/articles/6x9U6q86Qq6MHpUJZtzL",
+        "url": "https://www.themorning.lk/articles/6x9U6q86Qq6MHpUJZtzL",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "78883176c7b2a58e2fa80402a0a52e5a7acc6d76d8ae30ec1057a6e09da21c35",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Rajeev Amarasuriya to conclude CBSL board tenure following BASL Presid ...",
+        "href": "/articles/8Xm3pm3W5ciYaobdk7sI",
+        "url": "https://www.themorning.lk/articles/8Xm3pm3W5ciYaobdk7sI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "49a0c95fdf6cc8823f10976ffd8010baba6a793e1df048804af601a994e519dd",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "PAFFREL condemns attack on UNP Colombo Municipal Council member",
+        "href": "/articles/oPFigBbbV7kjNQhZWfYm",
+        "url": "https://www.themorning.lk/articles/oPFigBbbV7kjNQhZWfYm",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "119f7d07253e84f5a3bc165bfe8a872f417dfeb7a9f5249a62847435fdc39c88",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "SJB takes control of Mawanella Pradeshiya Sabha",
+        "href": "/articles/MNz5kJKOBalmDJYRr2Hu",
+        "url": "https://www.themorning.lk/articles/MNz5kJKOBalmDJYRr2Hu",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "39ed7fd3261f88f0e0ac5d50996db33cd6cdba81ce7d1b757d60b373bc0cda29",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Childcare framed as economic imperative, not just women’s issue – PM A ...",
+        "href": "/articles/4CRpRLUCMkeV4pP65LNA",
+        "url": "https://www.themorning.lk/articles/4CRpRLUCMkeV4pP65LNA",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a3f14fc412760eb63e4965f89aa2de22eb1d8887c1ce9e42bf25bb106592926",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Defence Ministry urges immediate action on elephant intrusions at MRIA",
+        "href": "/articles/t6yWrrFdVUf5IyXvTutC",
+        "url": "https://www.themorning.lk/articles/t6yWrrFdVUf5IyXvTutC",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7bcc676c19ae30c20b36be5f712c8a1b72d04591599d29c82a62ef68f773f038",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Chinese Embassy launches new online visa system",
+        "href": "/articles/RJStCIL9pFr8It4smj6n",
+        "url": "https://www.themorning.lk/articles/RJStCIL9pFr8It4smj6n",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a297408354ca96b64c4f3c07ab3aadcb9d1a22d7d2cc4b0647429f2462ef316",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "NPP secures Kolonnawa council",
+        "href": "/articles/bXcyCmHKeu5TMZ3TPGVF",
+        "url": "https://www.themorning.lk/articles/bXcyCmHKeu5TMZ3TPGVF",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "8f1e6f863b63583270356e37844a9da992b7da1dd8de0c042652f7e1729ee4d5",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "New Mayor Vraie Balthazaar vows to transform Colombo into a world-clas ...",
+        "href": "/articles/cDSwVtgFlGXCRrMV9jLF",
+        "url": "https://www.themorning.lk/articles/cDSwVtgFlGXCRrMV9jLF",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "517769e68880efb44dcbab3d9237336d4b402ef6abd52ea0dcb3bf9952530bb3",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Boossa prison inmates protest on roof over search operations",
+        "href": "/articles/IiAPJ1AeYB7OAJJXf9Ee",
+        "url": "https://www.themorning.lk/articles/IiAPJ1AeYB7OAJJXf9Ee",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b88cbcfe3185e596e3de4bdee5aeb2ed7c1845a74b34b83c2a716edb705220b1",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lankan employment in Israel temporarily suspended",
+        "href": "/articles/7QOJsusxXqoZGIU1ncLj",
+        "url": "https://www.themorning.lk/articles/7QOJsusxXqoZGIU1ncLj",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3db0f9f19746a3491ac009ce2bd730d6db3bccdd168554f318c3980c7daed766",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "SC sets date for hearing on ragging case",
+        "href": "/articles/7AtjJorHaRo9wujZAy5f",
+        "url": "https://www.themorning.lk/articles/7AtjJorHaRo9wujZAy5f",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "e378ca493c06dfcf9bb08319c8f702ca188dfe3a4a310d80e982fcaf48376c7d",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Parliament adjourned amid opposition protests",
+        "href": "/articles/PIrGAGZK9mcHTv8nPe4z",
+        "url": "https://www.themorning.lk/articles/PIrGAGZK9mcHTv8nPe4z",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f17a327ac18ab54873c7da77e6bc0b3ef7348d63e7881b9b4da4044af0aeb5cf",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Ranil slams G7 over Israel strike justification, warns of rising multi ...",
+        "href": "/articles/PAFToMjny3Tg22v8pBUM",
+        "url": "https://www.themorning.lk/articles/PAFToMjny3Tg22v8pBUM",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "524be64564ee24c62e43e3abe213a2c9761237beb01ab8a5baf9e42f075f476a",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "President hails outgoing Treasury Secretary for steadying economy",
+        "href": "/articles/T7qGLh6enfV8zvz84UXQ",
+        "url": "https://www.themorning.lk/articles/T7qGLh6enfV8zvz84UXQ",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b65938b8a1940e2d827be62752e80183c850424ca8878ae29035d8b7e1c9ca17",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Keheliya Rambukwella, wife and daughter arrested",
+        "href": "/articles/3aGv3gmdX2IOYHyYPqHw",
+        "url": "https://www.themorning.lk/articles/3aGv3gmdX2IOYHyYPqHw",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "77c3b6e7c8ecf37770bfb819ed507adde19a7a6f43cd805849bfaa00edf3574f",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Govt. plans to digitise foreign Affairs and consular services",
+        "href": "/articles/VquXVUN94TbfsHLvBxfw",
+        "url": "https://www.themorning.lk/articles/VquXVUN94TbfsHLvBxfw",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "453da21d2b492033920ccfbda1e19570e1c09473542ac957226fad6993527b88",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lanka to digitize agriculture, land and irrigation sectors",
+        "href": "/articles/6x9U6q86Qq6MHpUJZtzL",
+        "url": "https://www.themorning.lk/articles/6x9U6q86Qq6MHpUJZtzL",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "78883176c7b2a58e2fa80402a0a52e5a7acc6d76d8ae30ec1057a6e09da21c35",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Rajeev Amarasuriya to conclude CBSL board tenure following BASL Presid ...",
+        "href": "/articles/8Xm3pm3W5ciYaobdk7sI",
+        "url": "https://www.themorning.lk/articles/8Xm3pm3W5ciYaobdk7sI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "49a0c95fdf6cc8823f10976ffd8010baba6a793e1df048804af601a994e519dd",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "PAFFREL condemns attack on UNP Colombo Municipal Council member",
+        "href": "/articles/oPFigBbbV7kjNQhZWfYm",
+        "url": "https://www.themorning.lk/articles/oPFigBbbV7kjNQhZWfYm",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "119f7d07253e84f5a3bc165bfe8a872f417dfeb7a9f5249a62847435fdc39c88",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "SJB takes control of Mawanella Pradeshiya Sabha",
+        "href": "/articles/MNz5kJKOBalmDJYRr2Hu",
+        "url": "https://www.themorning.lk/articles/MNz5kJKOBalmDJYRr2Hu",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "39ed7fd3261f88f0e0ac5d50996db33cd6cdba81ce7d1b757d60b373bc0cda29",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Childcare framed as economic imperative, not just women’s issue – PM A ...",
+        "href": "/articles/4CRpRLUCMkeV4pP65LNA",
+        "url": "https://www.themorning.lk/articles/4CRpRLUCMkeV4pP65LNA",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a3f14fc412760eb63e4965f89aa2de22eb1d8887c1ce9e42bf25bb106592926",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Defence Ministry urges immediate action on elephant intrusions at MRIA",
+        "href": "/articles/t6yWrrFdVUf5IyXvTutC",
+        "url": "https://www.themorning.lk/articles/t6yWrrFdVUf5IyXvTutC",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7bcc676c19ae30c20b36be5f712c8a1b72d04591599d29c82a62ef68f773f038",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Chinese Embassy launches new online visa system",
+        "href": "/articles/RJStCIL9pFr8It4smj6n",
+        "url": "https://www.themorning.lk/articles/RJStCIL9pFr8It4smj6n",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a297408354ca96b64c4f3c07ab3aadcb9d1a22d7d2cc4b0647429f2462ef316",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "NPP secures Kolonnawa council",
+        "href": "/articles/bXcyCmHKeu5TMZ3TPGVF",
+        "url": "https://www.themorning.lk/articles/bXcyCmHKeu5TMZ3TPGVF",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "8f1e6f863b63583270356e37844a9da992b7da1dd8de0c042652f7e1729ee4d5",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "New Mayor Vraie Balthazaar vows to transform Colombo into a world-clas ...",
+        "href": "/articles/cDSwVtgFlGXCRrMV9jLF",
+        "url": "https://www.themorning.lk/articles/cDSwVtgFlGXCRrMV9jLF",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "517769e68880efb44dcbab3d9237336d4b402ef6abd52ea0dcb3bf9952530bb3",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Boossa prison inmates protest on roof over search operations",
+        "href": "/articles/IiAPJ1AeYB7OAJJXf9Ee",
+        "url": "https://www.themorning.lk/articles/IiAPJ1AeYB7OAJJXf9Ee",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b88cbcfe3185e596e3de4bdee5aeb2ed7c1845a74b34b83c2a716edb705220b1",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lankan employment in Israel temporarily suspended",
+        "href": "/articles/7QOJsusxXqoZGIU1ncLj",
+        "url": "https://www.themorning.lk/articles/7QOJsusxXqoZGIU1ncLj",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3db0f9f19746a3491ac009ce2bd730d6db3bccdd168554f318c3980c7daed766",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Parliament to debate Israel-Iran conflict impact on Sri Lanka today",
+        "href": "/articles/UHxHMVYsOmrkbINAMB8k",
+        "url": "https://www.themorning.lk/articles/UHxHMVYsOmrkbINAMB8k",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b35fe1ae16b4638ff15836e9e942ece366084e7df596fb2891347acb0799e9f7",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "SC sets date for hearing on ragging case",
+        "href": "/articles/7AtjJorHaRo9wujZAy5f",
+        "url": "https://www.themorning.lk/articles/7AtjJorHaRo9wujZAy5f",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "e378ca493c06dfcf9bb08319c8f702ca188dfe3a4a310d80e982fcaf48376c7d",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Parliament adjourned amid opposition protests",
+        "href": "/articles/PIrGAGZK9mcHTv8nPe4z",
+        "url": "https://www.themorning.lk/articles/PIrGAGZK9mcHTv8nPe4z",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f17a327ac18ab54873c7da77e6bc0b3ef7348d63e7881b9b4da4044af0aeb5cf",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Ranil slams G7 over Israel strike justification, warns of rising multi ...",
+        "href": "/articles/PAFToMjny3Tg22v8pBUM",
+        "url": "https://www.themorning.lk/articles/PAFToMjny3Tg22v8pBUM",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "524be64564ee24c62e43e3abe213a2c9761237beb01ab8a5baf9e42f075f476a",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "President hails outgoing Treasury Secretary for steadying economy",
+        "href": "/articles/T7qGLh6enfV8zvz84UXQ",
+        "url": "https://www.themorning.lk/articles/T7qGLh6enfV8zvz84UXQ",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b65938b8a1940e2d827be62752e80183c850424ca8878ae29035d8b7e1c9ca17",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Keheliya Rambukwella, wife and daughter arrested",
+        "href": "/articles/3aGv3gmdX2IOYHyYPqHw",
+        "url": "https://www.themorning.lk/articles/3aGv3gmdX2IOYHyYPqHw",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "77c3b6e7c8ecf37770bfb819ed507adde19a7a6f43cd805849bfaa00edf3574f",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Govt. plans to digitise foreign Affairs and consular services",
+        "href": "/articles/VquXVUN94TbfsHLvBxfw",
+        "url": "https://www.themorning.lk/articles/VquXVUN94TbfsHLvBxfw",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "453da21d2b492033920ccfbda1e19570e1c09473542ac957226fad6993527b88",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lanka to digitize agriculture, land and irrigation sectors",
+        "href": "/articles/6x9U6q86Qq6MHpUJZtzL",
+        "url": "https://www.themorning.lk/articles/6x9U6q86Qq6MHpUJZtzL",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "78883176c7b2a58e2fa80402a0a52e5a7acc6d76d8ae30ec1057a6e09da21c35",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Rajeev Amarasuriya to conclude CBSL board tenure following BASL Presid ...",
+        "href": "/articles/8Xm3pm3W5ciYaobdk7sI",
+        "url": "https://www.themorning.lk/articles/8Xm3pm3W5ciYaobdk7sI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "49a0c95fdf6cc8823f10976ffd8010baba6a793e1df048804af601a994e519dd",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "PAFFREL condemns attack on UNP Colombo Municipal Council member",
+        "href": "/articles/oPFigBbbV7kjNQhZWfYm",
+        "url": "https://www.themorning.lk/articles/oPFigBbbV7kjNQhZWfYm",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "119f7d07253e84f5a3bc165bfe8a872f417dfeb7a9f5249a62847435fdc39c88",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "SJB takes control of Mawanella Pradeshiya Sabha",
+        "href": "/articles/MNz5kJKOBalmDJYRr2Hu",
+        "url": "https://www.themorning.lk/articles/MNz5kJKOBalmDJYRr2Hu",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "39ed7fd3261f88f0e0ac5d50996db33cd6cdba81ce7d1b757d60b373bc0cda29",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Childcare framed as economic imperative, not just women’s issue – PM A ...",
+        "href": "/articles/4CRpRLUCMkeV4pP65LNA",
+        "url": "https://www.themorning.lk/articles/4CRpRLUCMkeV4pP65LNA",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a3f14fc412760eb63e4965f89aa2de22eb1d8887c1ce9e42bf25bb106592926",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Defence Ministry urges immediate action on elephant intrusions at MRIA",
+        "href": "/articles/t6yWrrFdVUf5IyXvTutC",
+        "url": "https://www.themorning.lk/articles/t6yWrrFdVUf5IyXvTutC",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7bcc676c19ae30c20b36be5f712c8a1b72d04591599d29c82a62ef68f773f038",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Chinese Embassy launches new online visa system",
+        "href": "/articles/RJStCIL9pFr8It4smj6n",
+        "url": "https://www.themorning.lk/articles/RJStCIL9pFr8It4smj6n",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a297408354ca96b64c4f3c07ab3aadcb9d1a22d7d2cc4b0647429f2462ef316",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "NPP secures Kolonnawa council",
+        "href": "/articles/bXcyCmHKeu5TMZ3TPGVF",
+        "url": "https://www.themorning.lk/articles/bXcyCmHKeu5TMZ3TPGVF",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "8f1e6f863b63583270356e37844a9da992b7da1dd8de0c042652f7e1729ee4d5",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "New Mayor Vraie Balthazaar vows to transform Colombo into a world-clas ...",
+        "href": "/articles/cDSwVtgFlGXCRrMV9jLF",
+        "url": "https://www.themorning.lk/articles/cDSwVtgFlGXCRrMV9jLF",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "517769e68880efb44dcbab3d9237336d4b402ef6abd52ea0dcb3bf9952530bb3",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Boossa prison inmates protest on roof over search operations",
+        "href": "/articles/IiAPJ1AeYB7OAJJXf9Ee",
+        "url": "https://www.themorning.lk/articles/IiAPJ1AeYB7OAJJXf9Ee",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b88cbcfe3185e596e3de4bdee5aeb2ed7c1845a74b34b83c2a716edb705220b1",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Parliament to debate Israel-Iran conflict impact on Sri Lanka today",
+        "href": "/articles/UHxHMVYsOmrkbINAMB8k",
+        "url": "https://www.themorning.lk/articles/UHxHMVYsOmrkbINAMB8k",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b35fe1ae16b4638ff15836e9e942ece366084e7df596fb2891347acb0799e9f7",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "CPC halts fuel sales in cans and barrels to ease station congestion",
+        "href": "/articles/y9Ws0cb83FrA2nAi6lma",
+        "url": "https://www.themorning.lk/articles/y9Ws0cb83FrA2nAi6lma",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7293203ec567cdb51eda8a712384037c9faf468eb60ac0432bdae89a4b9f39c0",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Oscar winner Jeremy Irons arrives in Sri Lanka",
+        "href": "/articles/3YFjAgIlefz7oz78n7zb",
+        "url": "https://www.themorning.lk/articles/3YFjAgIlefz7oz78n7zb",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "0e9a385ed14a3358479341167529707c851b351e568568735c5478de0e5ab682",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Vraie Cally Balthazaar sworn in as Colombo’s 26th Mayor",
+        "href": "/articles/WB4h7QRlhcHdRF9Eq9FW",
+        "url": "https://www.themorning.lk/articles/WB4h7QRlhcHdRF9Eq9FW",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "6b1cd1ed0dac71207fa70fc5d12518874d219c3c2c8625d8296012916ce52b94",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "18 Injured in bus-container collision in Eheliyagoda",
+        "href": "/articles/XV2Pw76QwTXv9dxqP7Z3",
+        "url": "https://www.themorning.lk/articles/XV2Pw76QwTXv9dxqP7Z3",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f21985a48e3c90781017204c7847cd5a978804175c202c47e90f79f6cbdfc602",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Keheliya Rambukwella appears before CIABOC",
+        "href": "/articles/qDAR2lbG65QMgHVlavlN",
+        "url": "https://www.themorning.lk/articles/qDAR2lbG65QMgHVlavlN",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "c87f7ae1179415cfd4fa0a95f21435ea92100b9591caaf1f8b2d69ed9b63bd84",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lankans stranded in Israel amid flight suspensions",
+        "href": "/articles/xAavM0i2jxcd4H0LfDag",
+        "url": "https://www.themorning.lk/articles/xAavM0i2jxcd4H0LfDag",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a7555caaa64997129aed01c9efb053354a3b422f161c61ae830b342c9f8186a",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Rain, thunderstorms and strong winds expected in several provinces",
+        "href": "/articles/ajC5RRnlQgB4DeMzbQmO",
+        "url": "https://www.themorning.lk/articles/ajC5RRnlQgB4DeMzbQmO",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "a642669138de93c57b42b45abcefc163a4a683f0cb1692278fd0b982879d916b",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Medical graduates: SLMC reviews islandwide internship training capacit ...",
+        "href": "/articles/iOvjVYT81ucD5XZ0aRoh",
+        "url": "https://www.themorning.lk/articles/iOvjVYT81ucD5XZ0aRoh",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "e4d31e8dfecf34d36064147d75f5f031356676e3b9137308347d03c331a42894",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "All 52 high-crime areas in West/South",
+        "href": "/articles/mgA9qLVUpq0IOX1xVB2C",
+        "url": "https://www.themorning.lk/articles/mgA9qLVUpq0IOX1xVB2C",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f0ed1b6be94d5f545475dabddee62a94601e3d495e4ec3a47ce7357c60e6c1ae",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Israel-Iran conflict: Fuel distributors claim price hike in next order",
+        "href": "/articles/cvcWKsywc60ahiwqdpWa",
+        "url": "https://www.themorning.lk/articles/cvcWKsywc60ahiwqdpWa",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "022a4c4157675f344cfc448f3ff4863c6b94aa7163adc7e360e598fff9caf117",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Prez Entitlements/MPs’ pension: Repeal/abolishing laws to be formulate ...",
+        "href": "/articles/kikijKCiBY133ONgKrQH",
+        "url": "https://www.themorning.lk/articles/kikijKCiBY133ONgKrQH",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "6bef143871e37d8343b2d3d3382166cb85b1018819568539554b8b328e2dd8b4",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Sri Lankan employment in Israel temporarily suspended",
+        "href": "/articles/7QOJsusxXqoZGIU1ncLj",
+        "url": "https://www.themorning.lk/articles/7QOJsusxXqoZGIU1ncLj",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3db0f9f19746a3491ac009ce2bd730d6db3bccdd168554f318c3980c7daed766",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Parliament to debate Israel-Iran conflict impact on Sri Lanka today",
+        "href": "/articles/UHxHMVYsOmrkbINAMB8k",
+        "url": "https://www.themorning.lk/articles/UHxHMVYsOmrkbINAMB8k",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "b35fe1ae16b4638ff15836e9e942ece366084e7df596fb2891347acb0799e9f7",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "CPC halts fuel sales in cans and barrels to ease station congestion",
+        "href": "/articles/y9Ws0cb83FrA2nAi6lma",
+        "url": "https://www.themorning.lk/articles/y9Ws0cb83FrA2nAi6lma",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7293203ec567cdb51eda8a712384037c9faf468eb60ac0432bdae89a4b9f39c0",
+        "isoTimestamp": "2025-06-18T20:34:55+05:30"
+      },
+      {
+        "title": "Oscar winner Jeremy Irons arrives in Sri Lanka",
+        "href": "/articles/3YFjAgIlefz7oz78n7zb",
+        "url": "https://www.themorning.lk/articles/3YFjAgIlefz7oz78n7zb",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "0e9a385ed14a3358479341167529707c851b351e568568735c5478de0e5ab682",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Vraie Cally Balthazaar sworn in as Colombo’s 26th Mayor",
+        "href": "/articles/WB4h7QRlhcHdRF9Eq9FW",
+        "url": "https://www.themorning.lk/articles/WB4h7QRlhcHdRF9Eq9FW",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "6b1cd1ed0dac71207fa70fc5d12518874d219c3c2c8625d8296012916ce52b94",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "18 Injured in bus-container collision in Eheliyagoda",
+        "href": "/articles/XV2Pw76QwTXv9dxqP7Z3",
+        "url": "https://www.themorning.lk/articles/XV2Pw76QwTXv9dxqP7Z3",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f21985a48e3c90781017204c7847cd5a978804175c202c47e90f79f6cbdfc602",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Keheliya Rambukwella appears before CIABOC",
+        "href": "/articles/qDAR2lbG65QMgHVlavlN",
+        "url": "https://www.themorning.lk/articles/qDAR2lbG65QMgHVlavlN",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "c87f7ae1179415cfd4fa0a95f21435ea92100b9591caaf1f8b2d69ed9b63bd84",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Sri Lankans stranded in Israel amid flight suspensions",
+        "href": "/articles/xAavM0i2jxcd4H0LfDag",
+        "url": "https://www.themorning.lk/articles/xAavM0i2jxcd4H0LfDag",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a7555caaa64997129aed01c9efb053354a3b422f161c61ae830b342c9f8186a",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Rain, thunderstorms and strong winds expected in several provinces",
+        "href": "/articles/ajC5RRnlQgB4DeMzbQmO",
+        "url": "https://www.themorning.lk/articles/ajC5RRnlQgB4DeMzbQmO",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "a642669138de93c57b42b45abcefc163a4a683f0cb1692278fd0b982879d916b",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Medical graduates: SLMC reviews islandwide internship training capacit ...",
+        "href": "/articles/iOvjVYT81ucD5XZ0aRoh",
+        "url": "https://www.themorning.lk/articles/iOvjVYT81ucD5XZ0aRoh",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "e4d31e8dfecf34d36064147d75f5f031356676e3b9137308347d03c331a42894",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "All 52 high-crime areas in West/South",
+        "href": "/articles/mgA9qLVUpq0IOX1xVB2C",
+        "url": "https://www.themorning.lk/articles/mgA9qLVUpq0IOX1xVB2C",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f0ed1b6be94d5f545475dabddee62a94601e3d495e4ec3a47ce7357c60e6c1ae",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Israel-Iran conflict: Fuel distributors claim price hike in next order",
+        "href": "/articles/cvcWKsywc60ahiwqdpWa",
+        "url": "https://www.themorning.lk/articles/cvcWKsywc60ahiwqdpWa",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "022a4c4157675f344cfc448f3ff4863c6b94aa7163adc7e360e598fff9caf117",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "CPC halts fuel sales in cans and barrels to ease station congestion",
+        "href": "/articles/y9Ws0cb83FrA2nAi6lma",
+        "url": "https://www.themorning.lk/articles/y9Ws0cb83FrA2nAi6lma",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7293203ec567cdb51eda8a712384037c9faf468eb60ac0432bdae89a4b9f39c0",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Oscar winner Jeremy Irons arrives in Sri Lanka",
+        "href": "/articles/3YFjAgIlefz7oz78n7zb",
+        "url": "https://www.themorning.lk/articles/3YFjAgIlefz7oz78n7zb",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "0e9a385ed14a3358479341167529707c851b351e568568735c5478de0e5ab682",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Vraie Cally Balthazaar sworn in as Colombo’s 26th Mayor",
+        "href": "/articles/WB4h7QRlhcHdRF9Eq9FW",
+        "url": "https://www.themorning.lk/articles/WB4h7QRlhcHdRF9Eq9FW",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "6b1cd1ed0dac71207fa70fc5d12518874d219c3c2c8625d8296012916ce52b94",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "18 Injured in bus-container collision in Eheliyagoda",
+        "href": "/articles/XV2Pw76QwTXv9dxqP7Z3",
+        "url": "https://www.themorning.lk/articles/XV2Pw76QwTXv9dxqP7Z3",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f21985a48e3c90781017204c7847cd5a978804175c202c47e90f79f6cbdfc602",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Keheliya Rambukwella appears before CIABOC",
+        "href": "/articles/qDAR2lbG65QMgHVlavlN",
+        "url": "https://www.themorning.lk/articles/qDAR2lbG65QMgHVlavlN",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "c87f7ae1179415cfd4fa0a95f21435ea92100b9591caaf1f8b2d69ed9b63bd84",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Sri Lankans stranded in Israel amid flight suspensions",
+        "href": "/articles/xAavM0i2jxcd4H0LfDag",
+        "url": "https://www.themorning.lk/articles/xAavM0i2jxcd4H0LfDag",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "3a7555caaa64997129aed01c9efb053354a3b422f161c61ae830b342c9f8186a",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Rain, thunderstorms and strong winds expected in several provinces",
+        "href": "/articles/ajC5RRnlQgB4DeMzbQmO",
+        "url": "https://www.themorning.lk/articles/ajC5RRnlQgB4DeMzbQmO",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "a642669138de93c57b42b45abcefc163a4a683f0cb1692278fd0b982879d916b",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Medical graduates: SLMC reviews islandwide internship training capacit ...",
+        "href": "/articles/iOvjVYT81ucD5XZ0aRoh",
+        "url": "https://www.themorning.lk/articles/iOvjVYT81ucD5XZ0aRoh",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "e4d31e8dfecf34d36064147d75f5f031356676e3b9137308347d03c331a42894",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "All 52 high-crime areas in West/South",
+        "href": "/articles/mgA9qLVUpq0IOX1xVB2C",
+        "url": "https://www.themorning.lk/articles/mgA9qLVUpq0IOX1xVB2C",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "f0ed1b6be94d5f545475dabddee62a94601e3d495e4ec3a47ce7357c60e6c1ae",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Israel-Iran conflict: Fuel distributors claim price hike in next order",
+        "href": "/articles/cvcWKsywc60ahiwqdpWa",
+        "url": "https://www.themorning.lk/articles/cvcWKsywc60ahiwqdpWa",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "022a4c4157675f344cfc448f3ff4863c6b94aa7163adc7e360e598fff9caf117",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Prez Entitlements/MPs’ pension: Repeal/abolishing laws to be formulate ...",
+        "href": "/articles/kikijKCiBY133ONgKrQH",
+        "url": "https://www.themorning.lk/articles/kikijKCiBY133ONgKrQH",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "6bef143871e37d8343b2d3d3382166cb85b1018819568539554b8b328e2dd8b4",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Thailand requested to probe Customs release",
+        "href": "/articles/e6LQ8GN2qxsC4yVJT3EE",
+        "url": "https://www.themorning.lk/articles/e6LQ8GN2qxsC4yVJT3EE",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "16f0014483f7217b51c443d385e0123e893c039b2a64687d0cf8f851bf62df39",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "O/L under new curriculum in 2029",
+        "href": "/articles/hewAoVeV0TPyVWXLb5Yi",
+        "url": "https://www.themorning.lk/articles/hewAoVeV0TPyVWXLb5Yi",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "5d9e2cb5ee68c01c9de1f7984a96ac6f8d3a1190add513e26122a0ca6a891b62",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "CTU presents reforms: Undergraduates should complete edu. by 21",
+        "href": "/articles/r7oz7UGz9Wl0EZHqxudI",
+        "url": "https://www.themorning.lk/articles/r7oz7UGz9Wl0EZHqxudI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7cb8e1dfa32f6a5f9065ca78d319ad499bf5b50ca068100cf6553b293a421900",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Defence: Prez directs to consider N-E lands release concerns",
+        "href": "/articles/GA0SIJpyzewQnw7cEP0m",
+        "url": "https://www.themorning.lk/articles/GA0SIJpyzewQnw7cEP0m",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "17dbddd54d9b13d317d2694d48dd9f1d8473d43b54a7159b328e4563c84ccb58",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Israel-Iran conflict: Lankan Embassy to help with Israel re-entry visa ...",
+        "href": "/articles/31aBpQf3m24WTw6jOPKC",
+        "url": "https://www.themorning.lk/articles/31aBpQf3m24WTw6jOPKC",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "23f5d60117145e57295360a93ce4580fb11fbd7fea0c6687453950dd3c6534a6",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Thailand requested to probe Customs release",
+        "href": "/articles/e6LQ8GN2qxsC4yVJT3EE",
+        "url": "https://www.themorning.lk/articles/e6LQ8GN2qxsC4yVJT3EE",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "16f0014483f7217b51c443d385e0123e893c039b2a64687d0cf8f851bf62df39",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "O/L under new curriculum in 2029",
+        "href": "/articles/hewAoVeV0TPyVWXLb5Yi",
+        "url": "https://www.themorning.lk/articles/hewAoVeV0TPyVWXLb5Yi",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "5d9e2cb5ee68c01c9de1f7984a96ac6f8d3a1190add513e26122a0ca6a891b62",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "CTU presents reforms: Undergraduates should complete edu. by 21",
+        "href": "/articles/r7oz7UGz9Wl0EZHqxudI",
+        "url": "https://www.themorning.lk/articles/r7oz7UGz9Wl0EZHqxudI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7cb8e1dfa32f6a5f9065ca78d319ad499bf5b50ca068100cf6553b293a421900",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Defence: Prez directs to consider N-E lands release concerns",
+        "href": "/articles/GA0SIJpyzewQnw7cEP0m",
+        "url": "https://www.themorning.lk/articles/GA0SIJpyzewQnw7cEP0m",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "17dbddd54d9b13d317d2694d48dd9f1d8473d43b54a7159b328e4563c84ccb58",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Israel-Iran conflict: Lankan Embassy to help with Israel re-entry visa ...",
+        "href": "/articles/31aBpQf3m24WTw6jOPKC",
+        "url": "https://www.themorning.lk/articles/31aBpQf3m24WTw6jOPKC",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "23f5d60117145e57295360a93ce4580fb11fbd7fea0c6687453950dd3c6534a6",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Elders Rights Protection law to be updated",
+        "href": "/articles/WO6JiOch4MlbN8fNXmod",
+        "url": "https://www.themorning.lk/articles/WO6JiOch4MlbN8fNXmod",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "0bdb91f4550cf5027f176008b2558860df052e5f1ad77081536a8c17bd526dc6",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Nat’l policy for child offenders’ rehab",
+        "href": "/articles/UiNGHZ8h26da7HKbPPBN",
+        "url": "https://www.themorning.lk/articles/UiNGHZ8h26da7HKbPPBN",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "41345e74f84b355df0dc2eb88cd8114b801075d3fb4631ffd7e37048611f2c9c",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Govt. processing nat’l food security index",
+        "href": "/articles/aW79ArsHDCOxye2Mke3Y",
+        "url": "https://www.themorning.lk/articles/aW79ArsHDCOxye2Mke3Y",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "838359029dd2ffd91f15c4f5f18f34ae31ae63899a2042057e66ecef631d758b",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Aircraft accidents: Probe Bureau Bill to be expanded",
+        "href": "/articles/7Z3WRiS3w11DsUaEW9Ed",
+        "url": "https://www.themorning.lk/articles/7Z3WRiS3w11DsUaEW9Ed",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "51c3d8c1136be6d575350f797fb1affb85c82a5212523cd0abf507e8b9b0e491",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "PC Polls only post-legal reform",
+        "href": "/articles/zfR4ktOXiBoYHKfVhqla",
+        "url": "https://www.themorning.lk/articles/zfR4ktOXiBoYHKfVhqla",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "67f652d46af189fa49fcf911e08a496844879d568bf2ed36d0f834cad2fd198c",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Excessive pricing of medicines: Specialist surgeon, clerk at J’pura Ho ...",
+        "href": "/articles/txX9Hn5PEdDAFxxClshI",
+        "url": "https://www.themorning.lk/articles/txX9Hn5PEdDAFxxClshI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "223f0873847bf786468fdd215cb48003be92d7ebe2def8c072db39b443e5a50c",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Case against Immi.-Emi. CG heard",
+        "href": "/articles/lv3nqIc1i0oFjf6FKlJl",
+        "url": "https://www.themorning.lk/articles/lv3nqIc1i0oFjf6FKlJl",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "961ff7566864cab1f2f2d496ee4b984538b4cc3f2918d815b076e2974be59347",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Thailand requested to probe Customs release",
+        "href": "/articles/e6LQ8GN2qxsC4yVJT3EE",
+        "url": "https://www.themorning.lk/articles/e6LQ8GN2qxsC4yVJT3EE",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "16f0014483f7217b51c443d385e0123e893c039b2a64687d0cf8f851bf62df39",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "O/L under new curriculum in 2029",
+        "href": "/articles/hewAoVeV0TPyVWXLb5Yi",
+        "url": "https://www.themorning.lk/articles/hewAoVeV0TPyVWXLb5Yi",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "5d9e2cb5ee68c01c9de1f7984a96ac6f8d3a1190add513e26122a0ca6a891b62",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "CTU presents reforms: Undergraduates should complete edu. by 21",
+        "href": "/articles/r7oz7UGz9Wl0EZHqxudI",
+        "url": "https://www.themorning.lk/articles/r7oz7UGz9Wl0EZHqxudI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "7cb8e1dfa32f6a5f9065ca78d319ad499bf5b50ca068100cf6553b293a421900",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Defence: Prez directs to consider N-E lands release concerns",
+        "href": "/articles/GA0SIJpyzewQnw7cEP0m",
+        "url": "https://www.themorning.lk/articles/GA0SIJpyzewQnw7cEP0m",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "17dbddd54d9b13d317d2694d48dd9f1d8473d43b54a7159b328e4563c84ccb58",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Israel-Iran conflict: Lankan Embassy to help with Israel re-entry visa ...",
+        "href": "/articles/31aBpQf3m24WTw6jOPKC",
+        "url": "https://www.themorning.lk/articles/31aBpQf3m24WTw6jOPKC",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "23f5d60117145e57295360a93ce4580fb11fbd7fea0c6687453950dd3c6534a6",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Elders Rights Protection law to be updated",
+        "href": "/articles/WO6JiOch4MlbN8fNXmod",
+        "url": "https://www.themorning.lk/articles/WO6JiOch4MlbN8fNXmod",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "0bdb91f4550cf5027f176008b2558860df052e5f1ad77081536a8c17bd526dc6",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Nat’l policy for child offenders’ rehab",
+        "href": "/articles/UiNGHZ8h26da7HKbPPBN",
+        "url": "https://www.themorning.lk/articles/UiNGHZ8h26da7HKbPPBN",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "41345e74f84b355df0dc2eb88cd8114b801075d3fb4631ffd7e37048611f2c9c",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Govt. processing nat’l food security index",
+        "href": "/articles/aW79ArsHDCOxye2Mke3Y",
+        "url": "https://www.themorning.lk/articles/aW79ArsHDCOxye2Mke3Y",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "838359029dd2ffd91f15c4f5f18f34ae31ae63899a2042057e66ecef631d758b",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Aircraft accidents: Probe Bureau Bill to be expanded",
+        "href": "/articles/7Z3WRiS3w11DsUaEW9Ed",
+        "url": "https://www.themorning.lk/articles/7Z3WRiS3w11DsUaEW9Ed",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "51c3d8c1136be6d575350f797fb1affb85c82a5212523cd0abf507e8b9b0e491",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "PC Polls only post-legal reform",
+        "href": "/articles/zfR4ktOXiBoYHKfVhqla",
+        "url": "https://www.themorning.lk/articles/zfR4ktOXiBoYHKfVhqla",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "67f652d46af189fa49fcf911e08a496844879d568bf2ed36d0f834cad2fd198c",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Excessive pricing of medicines: Specialist surgeon, clerk at J’pura Ho ...",
+        "href": "/articles/txX9Hn5PEdDAFxxClshI",
+        "url": "https://www.themorning.lk/articles/txX9Hn5PEdDAFxxClshI",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "223f0873847bf786468fdd215cb48003be92d7ebe2def8c072db39b443e5a50c",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      },
+      {
+        "title": "Case against Immi.-Emi. CG heard",
+        "href": "/articles/lv3nqIc1i0oFjf6FKlJl",
+        "url": "https://www.themorning.lk/articles/lv3nqIc1i0oFjf6FKlJl",
+        "timestamp": "18 Jun 2025",
+        "baseUrl": "https://www.themorning.lk",
+        "checkSum": "961ff7566864cab1f2f2d496ee4b984538b4cc3f2918d815b076e2974be59347",
+        "isoTimestamp": "2025-06-18T20:34:56+05:30"
+      }
+    ]
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "තරුණයෙකුට පහරදුන් පොලීස් නිලධාරීන් දෙදෙනෙකුට මිලියනය බැගින් වන්දි ගෙවන්න වෙයි",
+        "url": "https://www.ada.lk/breaking_news/තරුණයෙකුට-පහරදුන්-පොලීස්-නිලධාරීන්-දෙදෙනෙකුට-මිලියනය-බැගින්-වන්දි-ගෙවන්න-වෙයි/11-416813",
+        "timestamp": "18 06 2025 19:32:00",
+        "byline": "රන්භාණ්ඩ සොරකමක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් තරුණයකුට අමානුෂික ලෙස පහරදී ලිංගික අතවර කිරීමෙන් ඔහුගේ මූලික අයිතිවාසිකම් කඩවී ඇතැයි තීන්දු කළ ශ්‍රේෂ්ඨාධිකරණය ඊට වගකිව යුතු ඌරුගස්මන්හංදිය පොලිසියේ හිටපු ස්ථානාධිපතිවරයාට සහ අපරාධ අංශයේ හිටපු ස්ථානාධිපතිවරයාට සිය පෞද්ගලික මුදලින් රුපියල් ලක්‍ෂ 10 බැගින් අදාළ තරුණයාට වන්දි ගෙවීමට අද (18) නියෝග කළේය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "de565db4df0e44e6d8282f5a5805bd7150c6601aff845da08b709740d7332142"
+      },
+      {
+        "title": "කාන්තා විස්සයි20 ලෝක කුසලාන තරගාවලියේ කාලසටහන එළිදක්වයි",
+        "url": "https://www.ada.lk/sports/කාන්තා-විස්සයි20-ලෝක-කුසලාන-තරගාවලියේ-කාලසටහන-එළිදක්වයි/9-416812",
+        "timestamp": "18 06 2025 18:49:00",
+        "byline": "එංගලන්තයේ සත්කාරකත්වයෙන් පැවැත්වෙන ඒළඹෙන වසරේ (2026) විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ තරග කාලසටහන එළි දක්වා ඇත. ඒ අනුව තරගාවලියේ පළමු තරගය ශ්‍රී ලංකාව හා සත්කාරක එංගලන්තය අතර එජ්බැස්ටන් ක්‍රීඩාංගණයේදී එළඹෙන 2026 වසරේ ජූනි 12 වැනිදා  පැවැත්වෙනු ඇත. තරගාවලිය ජූලි 05 වැනිදා දක්වා පැවැත්වේ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "15ebdbe914381256c9e3ee7601f37c774997f648ef444b11f592b55b57af3df7"
+      },
+      {
+        "title": "කෙහෙළියට ඇප කොන්දේසි සපුරාලීමට නොහැකි වෙයි",
+        "url": "https://www.ada.lk/breaking_news/කෙහෙළියට-ඇප-කොන්දේසි-සපුරාලීමට-නොහැකි-වෙයි/11-416822",
+        "timestamp": "18 06 2025 18:16:00",
+        "byline": "අත්අඩංගුවට ගැනීමෙන් අනතුරුව කොළඹ මහෙස්ත්‍රාත් අධිකරණය විසින් ඇප මත මුදා හරින ලද හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ සහ දියණිය ඇප කොන්දේසි සපුරාලීමට නොහැකිවීම හේතුවෙන් බන්ධනාගාර නිලධාරීන් විසින් ඔවුන් තිදෙනාව බන්ධනාගාරය වෙත රැගෙන ගොස් තිබේ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "12afff0c09ad78b617657286142e1ce92d03ac67e03be65783f483cf36ec2383"
+      },
+      {
+        "title": "දින දෙකක් අවසානයේත් බංග්ලාදේශය පිතිකරණයේ",
+        "url": "https://www.ada.lk/sports/දින-දෙකක්-අවසානයේත්-බංග්ලාදේශය-පිතිකරණයේ/9-416821",
+        "timestamp": "18 06 2025 17:57:00",
+        "byline": "සංචාරක බංග්ලාදේශ කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ දෙවන දිනය සඳහා වන තරගය මීට සුළු මොහොතකට පෙර අවසන් විය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "33af2c3732e2e503ef5f5999cc4aa0ffef8c34d34e1aacac6525824065ed3d9a"
+      },
+      {
+        "title": "රජවක පාසලේ මියගිය දරැවාට රජයෙන් රැපියල් මිලියනයක වන්දියක්",
+        "url": "https://www.ada.lk/breaking_news/රජවක-පාසලේ-මියගිය-දරැවාට-රජයෙන්-රැපියල්-මිලියනයක-වන්දියක්/11-416811",
+        "timestamp": "18 06 2025 17:52:00",
+        "byline": "බලන්ගොඩ රජවක පාසලේ ගොඩනැගිල්ලක් මතට අනපේක්ෂිත අවස්ථාවක ගසක කොටසක් කඩා වැටිමෙන්  මියගිය දරැවා වෙනුවෙන් ඔහුගේ භාරකරැවන් වෙත රජය මගින් ආපදා ජිිවිත හානි වන්දි ලෙස රැපියල් ලක්ෂ 10 ක  මුදලක් ගෙවිමට කටයුතු කරන බව බලන්ගොඩ ප්‍රදේශිය ලේකම් කාර්යාලය පවසයි .",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "92dbccba416ae225049fe2940efd593be1ee7e335d745fa9bdd0051ba23add91"
+      },
+      {
+        "title": "කතරගම වන්දනාවේ එන සංචාරකයන්ට කුමන ගේට්ටු 20 දා විවෘතයි",
+        "url": "https://www.ada.lk/breaking_news/කතරගම-වන්දනාවේ-එන-සංචාරකයන්ට-කුමන-ගේට්ටු-20-දා-විවෘතයි/11-416810",
+        "timestamp": "18 06 2025 17:01:00",
+        "byline": "උතුරු නැගෙනහිර පළාත්වල සිට වාර්ෂිකව පාගමනින් කතරගම බලා වන්දනාවේ එන බැතිමතුට බැතිමතුන්ට කුමන සහ යාල ජාතික උද්‍යානය වලට ඇතුලුවීමට  කුමන ජාතික උද්‍යානයේ ගේට්ටු 20දා පාන්දර විවෘත කරන බව වනජීවී දෙපාර්තමේන්තුව පවසයි.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6b3eff8e796fe5ceac15376caf0eed0b3f242bf70fd446f51187c40dc770a928"
+      },
+      {
+        "title": "මන්ත්‍රී අජිත් පී. පෙරේරා රිය අනතුරකට",
+        "url": "https://www.ada.lk/breaking_news/මන්ත්‍රී-අජිත්-පී--පෙරේරා-රිය-අනතුරකට/11-416818",
+        "timestamp": "18 06 2025 16:55:00",
+        "byline": "සමගි ජන බලවේගයේ පාර්ලමේන්තු මන්ත්‍රී අජිත් පී පෙරේරා මහතා රිය අනතුරකට ලක්ව තිබේ. තම ෆේස් බුක් ගිණුම හරහා ඔහු ප්‍රකාශ කරන්නේ රිය අනතුරින් තමන්ට ගැටලුවක් ඇති වී නොමැති බවයි.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "36049c6aac1c35db4263a5d79026f08542061ca01ea015288f52f765a06fd531"
+      },
+      {
+        "title": "මාලිමාව ජයගත් දිවිතුර ප්‍රා සභාවේ සභාපතිධුරය පොහොට්ටුවට",
+        "url": "https://www.ada.lk/breaking_news/මාලිමාව-ජයගත්-දිවිතුර-ප්‍රා-සභාවේ-සභාපතිධුරය-පොහොට්ටුවට/11-416816",
+        "timestamp": "18 06 2025 16:40:00",
+        "byline": "ගාල්ල දිස්ත්‍රික්කයේ වැලිවිටිය,දිවිතුර ප්‍රා දේශීය සභාවේ පාලන බලය පොදු ජන පෙරමුණ ප්‍රධාන ඒකාබද්ධ විපක්ෂයට හිමි විය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0a388dbe7e4ffcfe9be834adafabc3e48845070a36cb3d2603e2b9a546b9c299"
+      },
+      {
+        "title": "මුදල් අමාත්‍යාංශ ලේකම් විශ්‍රාම යයි, සේවය ජනපති අගයයි",
+        "url": "https://www.ada.lk/breaking_news/මුදල්-අමාත්‍යාංශ-ලේකම්-විශ්‍රාම-යයි--සේවය-ජනපති-අගයයි/11-416809",
+        "timestamp": "18 06 2025 16:19:00",
+        "byline": "අයහපත් දේ වළක්වා ගැනීමට පොරබැඳීම මෙන්ම යහපත් දේ නිර්මාණය කිරීමට දායක වීම රාජ්‍ය නිලධාරින්ගේ වගකීම බවත්, එහිදී මුදල් අමාත්‍යාංශයේ ලේකම් මහින්ද සිරිවර්ධන මහතා රටට මහඟු ආදර්ශයක් සැපයූ බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා ප්‍රකාශ කළේය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "678b7f51a6bbc925e7ed9853f989c4c61b2e2fd74d888f692960ca26e52490ae"
+      },
+      {
+        "title": "දකුණෙන් ඇවිත් මහනුවර දිනූ ප්‍රකට ව්‍යාපාරිකයෙක් සමුගනියි",
+        "url": "https://www.ada.lk/breaking_news/දකුණෙන්-ඇවිත්-මහනුවර-දිනූ-ප්‍රකට-ව්‍යාපාරිකයෙක්-සමුගනියි/11-416808",
+        "timestamp": "18 06 2025 15:25:00",
+        "byline": "මෙරට ප්‍රධාන පෙළේ ආහාර සන්නාමයක් වූ රුහුණු ෆුඩ්ස් ආයතනයේ නිර්මාතෘ මෙන්ම සභාපති වූ පද්මසිරි මුතුමාල මහතා අභාවප්‍රාප්ත වී තිබේ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5d79c4dd943ea0daff495d2f52e9ddd5454b3f0f0e9d0797d175c60f5bf744e6"
+      },
+      {
+        "title": "කෙහෙළිය, බිරිඳ හා දියණිය අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/කෙහෙළිය--බිරිඳ-හා-දියණිය-අත්අඩංගුවට/11-416807",
+        "timestamp": "18 06 2025 14:34:00",
+        "byline": "හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල, ඔහුගේ බිරිඳ කුසුම් රඹුක්වැල්ල සහ දියණිය අමාලි රඹුක්වැල්ල අල්ලස් හා දුෂණ විමර්ශන කොමිසම් සභාවේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6530090534e8dd959b69146f52aafe094734108c860ba18cf505e068e1294f82"
+      },
+      {
+        "title": "පොල් මිල පහළට",
+        "url": "https://www.ada.lk/breaking_news/පොල්-මිල-පහළට/11-416806",
+        "timestamp": "18 06 2025 13:49:00",
+        "byline": "පසුගිය මාස කිපය පුරා රුපියල් 200 ටත් එහා ගිය පොල් තොග මිල මේ වන විට රුපියල් 120 කටත් අඩු මුදලකට පහත වැටි ඇති බව පොල් වගා කරුවන් පවසයි.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "055a7f6031ac482052c517a7bf77d7810e7239503780fd398478a51bd5c9da88"
+      },
+      {
+        "title": "නුවරඑළිය පුරපති ධුරය මාලිමාවට",
+        "url": "https://www.ada.lk/breaking_news/නුවරඑළිය-පුරපති-ධුරය-මාලිමාවට/11-416805",
+        "timestamp": "18 06 2025 12:59:00",
+        "byline": "නුවරඑලිය මහ නගර සභාවේ මංගල සභා රැස්විම මධ්‍යම පළාත් පාලන කොමසාරිස් ඒ.එම්.කේ.පී.කේ. චමිලා අතපත්තු මහත්මියගේ ප්‍රධානත්වයෙන් (18) දින පෙරවරු 8:30ටනුවරඑලිය මහ නගර සභා රැස්වීම් ශාලාවේදි පැවැත්විණ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8b1a995aac06fc4aa0134f6173e0997f2fab40ba37d0b124db3a5129acacb397"
+      },
+      {
+        "title": "ඔස්කාර් සම්මාන ලාභී බ්‍රිතාන්‍ය ජාතික ජෙරමි අයන්ස් එයි",
+        "url": "https://www.ada.lk/breaking_news/ඔස්කාර්-සම්මාන-ලාභී-බ්‍රිතාන්‍ය-ජාතික-ජෙරමි-අයන්ස්-එයි/11-416804",
+        "timestamp": "18 06 2025 12:06:00",
+        "byline": "ඔස්කාර් සහ එමි සම්මාන වලින් පිදුම් ලත් සුප්‍රකට හොලිවුඩ් නළුවෙකු වූ බ්‍රිතාන්‍ය ජාතික ’’ ජෙරමි අයන්ස් ’’ (Jeremy Irons ) මෙරට රූ ගත කෙරෙන චිත්‍රපටයකට රගපෑමෙන් දායක වීම සදහා 06/17 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "43d2e3389aed5c658df79a0c51de0f8c2be994609b6c3771406566d23bcc397f"
+      },
+      {
+        "title": "ඉරානයේ ඉන්නේ ලාංකිකයන් 35යි, ටෙහෙරාන් ලක් තානාපති කාර්යාලය ඉවත් කරයි",
+        "url": "https://www.ada.lk/breaking_news/ඉරානයේ-ඉන්නේ-ලාංකිකයන්-35යි--ටෙහෙරාන්-ලක්-තානාපති-කාර්යාලය-ඉවත්-කරයි/11-416803",
+        "timestamp": "18 06 2025 11:12:00",
+        "byline": "මැදපෙරදිග පවතින යුදමය තත්ත්වය හමුවේ ඉරානයේ ටෙහෙරාන් නුවර පිහිටි ශ්‍රී ලංකා තානාපති කාර්යාලය ඉන් ඉවත් කිරීමට පියවර ගත් බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පාර්ලිමේන්තුවේදී පැවසීය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ca82b50bed015176f53768c54dace40145d52e579565c872d24aaa4f7088a396"
+      },
+      {
+        "title": "බොරතෙල් ටොන් 250000ක් ඉදිරියේදී දිවයිනට",
+        "url": "https://www.ada.lk/breaking_news/බොරතෙල්-ටොන්-250000ක්-ඉදිරියේදී-දිවයිනට/11-416802",
+        "timestamp": "18 06 2025 10:21:00",
+        "byline": "ඉදිරි මාස දෙක සඳහා අවශ්‍ය තෙල් තොග රටතුළ තිබෙන බව කැබිනට් ප්‍රකාශක, සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා  පැවසීය.රජයේ ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ පැවති කැබිනට් මාධ්‍ය හමුවේදී අමාත්‍යවරයා මේ බව අවධාරණය කළේය",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "615becaab967759121536d5894c596a88fc12d81feaa6e4ddd06545105fffd8c"
+      },
+      {
+        "title": "රාජකාරී වෙලාවේදී මත්පැන් පානය කරමින් සිට සංවර්ධන නිලධාරියෙක් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/රාජකාරී-වෙලාවේදී-මත්පැන්-පානය-කරමින්-සිට-සංවර්ධන-නිලධාරියෙක්-අල්ලයි/11-416800",
+        "timestamp": "18 06 2025 09:22:00",
+        "byline": "රාජකාරී කටයුතු අතරතුර මත්පැන් පානය කර සිටි බව කියන හල්දුම්මුල්ල ප්‍රාදේශීය  සභා සේවකයකු ඊයේ (17දා) අත්අඩංගුවට ගත් බව හල්දුම්මුල්ල පොලිසිය පැවසීය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4e8338576c44e348e75cdb0a6b8ac3b03e3f7d9f9a2bec0235abc9f7c22df3dd"
+      },
+      {
+        "title": "ඊශ්‍රායලයේ රැකියා සඳහා යොමු කිරීම තාවකාලිකව අත්හිහිටුවයි",
+        "url": "https://www.ada.lk/breaking_news/ඊශ්‍රායලයේ-රැකියා-සඳහා-යොමු-කිරීම-තාවකාලිකව-අත්හිහිටුවයි/11-416799",
+        "timestamp": "18 06 2025 08:14:00",
+        "byline": "ඊශ්‍රායලය හා ඉරානය අතර වර්තමානයේ ඇතිවී තිබෙන තත්ත්වය මත ඊශ්‍රායලයේ ජාත්‍යන්තර ගුවන් තොටුපළවල් මේ වන විට ක්‍රියාත්මක මට්ටමේ නොමැති බැව් ඊශ්‍රායලයේ පිහිටි ජනගහන හා සංක්‍රමණ අධිකාරිය (PIBA) දන්වා ඇත.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f69e5edcc8bfd6925e70e7715c950a14490d4990d7917eeaebf9266bdcf13845"
+      },
+      {
+        "title": "ලංකාවට අනන්‍ය වූ ආහාර  සුරක්ෂිතතා දර්ශකයක්",
+        "url": "https://www.ada.lk/breaking_news/ලංකාවට-අනන්‍ය-වූ-ආහාර--සුරක්ෂිතතා-දර්ශකයක්/11-416798",
+        "timestamp": "18 06 2025 07:16:00",
+        "byline": "ශ්‍රී ලංකාවට අනන්‍ය වූ ආහාර සුරක්ෂිතතා දර්ශකයක් ඉදිරි මාස තුන තුළ නිර්මාණය කිරීමට රජයේ අවධානය යොමුව තිබේ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "364bbd1575c430265ff99e7582010f8fbd28e22052cff383282cbb4f93ea0a8c"
+      },
+      {
+        "title": "ලන්ඩනයේ පැවැත්වූ පොසොන් වැඩසටහන",
+        "url": "https://www.ada.lk/religion/ලන්ඩනයේ-පැවැත්වූ-පොසොන්-වැඩසටහන/4-416796",
+        "timestamp": "18 06 2025 03:48:00",
+        "byline": "ලන්ඩනයේ කිංස්බරි ශ්‍රී සද්ධාතිස්ස ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානයේ පැවැත්වූ පොසොන් උත්සව මාලාව විශාල පිරිසකගේ සහභාගිත්වයෙන් පසුගියදා පැවැත්විණ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1aed7e91c0d4490975c3373e4b25f172a0c3b065022c1678d7a29b1754f97f35"
+      },
+      {
+        "title": "බංග්ලාදේශය පළමු දිනයේදීම  තරගයේ වාසිය අතට ගනී",
+        "url": "https://www.ada.lk/sports/බංග්ලාදේශය-පළමු-දිනයේදීම--තරගයේ-වාසිය-අතට-ගනී/9-416797",
+        "timestamp": "17 06 2025 20:03:00",
+        "byline": "බංග්ලාදේශ ක්‍රිකට් කන්ඩායම නායක නජ්මුල් හොසේන් සැන්ටෝ සහ ජ්‍යේෂ්ඨ පිතිකරු මුෂ්ෆිකර් රහිම් එක්ව සිව්වැනි කඩුල්ලට ගොඩනැංවූ නොබිදුනු ලකුණු 247ක සබඳතාව නිසා දෙරට අතර පැවැත්වෙන පළමු ටෙස්ට් ක්‍රිකට් තරගයේ පළමු දිනය සාර්ථකව අවසන් කිරීමට බංග්ලාදේශයට හැකිවිණි.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3a37d564e5a197cdb978dc06bf7988283ae12a94c4c3f797524ac10bf7271b0e"
+      },
+      {
+        "title": "ඉන්ධන හරහා විදුලිය නිපදවන්නේ අත්‍යාවශ්‍ය නම් පමණයි",
+        "url": "https://www.ada.lk/breaking_news/ඉන්ධන-හරහා-විදුලිය-නිපදවන්නේ-අත්‍යාවශ්‍ය-නම්-පමණයි/11-416795",
+        "timestamp": "17 06 2025 19:29:00",
+        "byline": "ඉන්ධන යොදාගෙන විදුලිබලය නිපදවන්නේ අත්‍යවශ්‍යම නම් පමණක් බවත් පුනර්ජනනීය බලශක්ති භාවිතය අඩු කිරීමට කටයුතු නොකරන බවත් බලශක්ති අමාත්‍ය කුමාර ජයකොඩි මහතා අද පාර්ලිමේන්තුවේදී පැවැසීය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f9180a9401d293d6a152343f7567550a098e588e8cb9b2eae36f79a908bfb7db"
+      },
+      {
+        "title": "චාමරට එරෙහි නඩුව නොවැම්බර් 18 කැඳවයි",
+        "url": "https://www.ada.lk/breaking_news/චාමරට-එරෙහි-නඩුව-නොවැම්බර්-18-කැඳවයි/11-416794",
+        "timestamp": "17 06 2025 18:55:00",
+        "byline": "ඌව පළාත්සභාව ජාතික ඉතිරි කිරීමේ බැංකුවේ පවත්වාගෙන ගිය ස්ථාවර ගිණුම් හයක් කල් පිරීමට පෙර ඉවත් කර ගනිමින් රජයට රුපියල් ලක්ෂ 173ක  පාඩුවක් කිරීම සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී චාමර සම්පත් දසනායක මහතා ඇතුළු සැකකරුවන් තිදෙනෙකුට එරෙහි විමර්ශනය නොවැම්බර් 18 වැනිදා යළි කැඳවීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනූජා ලක්මාලි මහත්මිය අද (17) නියම කළාය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fc1b98f43a60579ab9b7baa3ff7142811be73db2cf6ede50718f175a9c226b54"
+      },
+      {
+        "title": "ජපුර රෝහලේ විශේෂඥ වෛද්‍යවරියක් අල්ලස් කොමිෂමේ අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/ජපුර-රෝහලේ-විශේෂඥ-වෛද්‍යවරියක්-අල්ලස්-කොමිෂමේ-අත්අඩංගුවට/11-416793",
+        "timestamp": "17 06 2025 18:44:00",
+        "byline": "ශ්‍රී ජයවර්ධනපුර රෝහලේ වි‍ශේෂඥ ස්නායු ශල්‍ය වෛද්‍ය මහේෂි සූරසිංහ විජේරත්න මහත්මිය හා එම රෝහලේ කළමණාකාර\nසහකාරවරයෙක් වන කැකුලන්දල ලියනගේ ඉන්දික හා විශේෂඥ වෛද්‍යවරිය අනීතිකව පවත්වාගෙන ගිය පුද්ගලික ආයතනයක\nසේවය කළ කඩවත ප්‍ර දේශයේ පදිංචි මුතුකුඩ ආරච්චිගේ නිමල් රංජිත් මුතුකුඩ යන අය අද අල්ලස් කොමිෂම විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2660886eda99ad7e7a2bfc3c7329b2942790847ee4c9d2b758ef2ada1a6edfcd"
+      },
+      {
+        "title": "ධීවර සංස්ථාවේ හිටපු සභාපති අත්අඩංගුවට ගන්න නියෝග",
+        "url": "https://www.ada.lk/breaking_news/ධීවර-සංස්ථාවේ-හිටපු-සභාපති-අත්අඩංගුවට-ගන්න-නියෝග/11-416792",
+        "timestamp": "17 06 2025 18:22:00",
+        "byline": "ලංකා ධීවර වරාය සංස්ථාවේ හිටපු සභාපති ආචාර්ය සුදර්ශන ප්‍රනාන්දු මහතාට විදෙස් ගමන් තහනමක් පැනවු කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තනූජා ලක්මාලී මහත්මිය ඔහු යළි ලංකාවවට පැමිණෙන විට අත්අඩංගුවට ගෙන අල්ලස් කොමිසමට බාරදෙන ලෙස ආගමන විගමන පාලකවරයාට අද (17) නියෝග කළාය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "652c1ca257281ed9cad82bb27343ee4381b5a246b1119ec82beadc3370c8ce33"
+      },
+      {
+        "title": "ආරක්ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාවට ජනාධිපති එක්වෙයි",
+        "url": "https://www.ada.lk/breaking_news/ආරක්ෂක-කටයුතු-පිළිබඳ-අමාත්‍යාංශයීය-උපදේශක-කාරක-සභාවට-ජනාධිපති-එක්වෙයි/11-416791",
+        "timestamp": "17 06 2025 17:22:00",
+        "byline": "ආරක්ෂක කටයුතු පිළිබඳ අමාත්‍යාංශයීය උපදේශක කාරක සභාව ආරක්ෂක අමාත්‍ය ගරු ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ සභාපතීත්වයෙන් අද (17) පාර්ලිමේන්තුවේදී රැස්විය",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c5ed7803722d10d72e553dc0119a096e69945ad6d1feab3525c4339083abf160"
+      },
+      {
+        "title": "ලන්ඩනයේ නව ශ්‍රී ලංකා මහ කොමසාරිස් වැඩ අරඹයි",
+        "url": "https://www.ada.lk/breaking_news/ලන්ඩනයේ-නව-ශ්‍රී-ලංකා-මහ-කොමසාරිස්-වැඩ-අරඹයි/11-416790",
+        "timestamp": "17 06 2025 17:19:00",
+        "byline": "මහා බ්‍රිතාන්‍ය වෙනුවෙන් ශ්‍රී ලංකාව පත්කරන ලද නව මහ කොමසාරිස් නිමල් සේනාධීර මහතා ඊයේ (16දා) සිය රාජකාරී ආරම්භ කළේය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1e73b6d117fbfc65bb0f0c5e4ac0f8d441b37f95c0a7f780823d4bbc9f2b35c4"
+      },
+      {
+        "title": "ලංකාවේ සිනමා පටයක රඟපෑමට දකුණු ඉන්දීය නිළියක් එයි",
+        "url": "https://www.ada.lk/breaking_news/ලංකාවේ-සිනමා-පටයක-රඟපෑමට-දකුණු-ඉන්දීය-නිළියක්-එයි/11-416789",
+        "timestamp": "17 06 2025 16:39:00",
+        "byline": "ශ්‍රී ලංකාවේ නිෂ්පාදනය කෙරෙන ජාත්‍යන්තර ප්‍රදර්ශනය සදහා ඉදිරිපත් කිරීමට නියමිත  ’’ කේජ් බර්ඩ් ’’ ( Cadge Bird ) නැමති චිත්‍රපටය සදහා එහි ප්‍රධාන චරිතය රගපෑමට දකුණු ඉන්දීය සිනමා නිළි වරලක්ෂ්මි සරත් කුමාර් 06/17 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "de77452f1cf71c854248d11764e9b7ec35bd1fcf44892e2490237fa2ac509624"
+      },
+      {
+        "title": "මාලිමාව ජයග්‍රහණය කළ නෙළුව ප්‍රාසභවේ බලය සජබ පිහිටුවයි",
+        "url": "https://www.ada.lk/breaking_news/මාලිමාව-ජයග්‍රහණය-කළ-නෙළුව-ප්‍රාසභවේ-බලය-සජබ-පිහිටුවයි/11-416788",
+        "timestamp": "17 06 2025 15:40:00",
+        "byline": "නෙළුව ප්‍රාදේශීය සභාවේ නව සභාපතිවරයා ලෙස සමගි ජනබලවේගයේ ආර්.ජී.අජිත් චන්දන මහතා ජන්ද දහයක් ලබාගනිමින් තේරීපත්විය.",
+        "isoTimestamp": "2025-06-18T20:43:34+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "661d9049106c2ffed07e8aa057b13bdf2183e49ab894aff7fc7a13a779a5f699"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka to buy electric gantries, prime movers for Colombo Port",
+        "url": "https://economynext.com/sri-lanka-to-buy-electric-gantries-prime-movers-for-colombo-port-226145/",
+        "timestamp": "June 18, 2025",
+        "byline": "Electric prime movers in place of terminal tractors",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dabdaf269d81ce4f5a29375f6190eb188bbef0b5f4899414a2dda31e02983235"
+      },
+      {
+        "title": "Sri Lanka EDB, ADB discuss National Export Development Plan for 2025-2029",
+        "url": "https://economynext.com/sri-lanka-edb-adb-discuss-national-export-development-plan-for-2025-2029-226131/",
+        "timestamp": "June 18, 2025",
+        "byline": "NEDP expected to serve as a comprehensive framework to guide Sri Lanka’s export-led economic transformation",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3301bdbbfc122916c41a219e1ceec02ac36a8506d85ef07ef906164013a22eb8"
+      },
+      {
+        "title": "Sri Lanka rice, coconut, fish, and rubber production decline, tea increases in April: CB",
+        "url": "https://economynext.com/sri-lanka-rice-coconut-fish-and-rubber-production-decline-tea-increases-in-april-cb-226121/",
+        "timestamp": "June 18, 2025",
+        "byline": "According to the central bank’s Agriculture Sector Data Bulletin for May 2025",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8d0106f0b223b30259055b27d24fb26525880d4b5b80f43181a5f52cd249a640"
+      },
+      {
+        "title": "Sri Lanka opposition seeks parliamentary debate on Iran-Israel war's economic impact",
+        "url": "https://economynext.com/sri-lanka-opposition-seeks-parliamentary-debate-on-iran-israel-wars-economic-impact-226093/",
+        "timestamp": "June 18, 2025",
+        "byline": "\"This is a matter of national importance,\" Sajith Premadasa said.",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5b7dd28fe33b27ef51d288362f1ca6be0a2de5feddda04614aca6d9b4d48aff5"
+      },
+      {
+        "title": "Sri Lanka rupee opens stronger, bond yields flat",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-stronger-bond-yields-flat-226076/",
+        "timestamp": "June 18, 2025",
+        "byline": "An auction of Rs. 132,000 million Treasury bills was ongoing.",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b01a6ae09531893046b575363e235976d600ff388df2618581090ae9559bcf31"
+      },
+      {
+        "title": "Sri Lanka's Bank of Ceylon increases paid-up capital by Rs730mn",
+        "url": "https://economynext.com/sri-lankas-bank-of-ceylon-increases-paid-up-capital-by-rs730mn-226081/",
+        "timestamp": "June 18, 2025",
+        "byline": "Increased from Rs. 25,000 million to Rs. 25,730 million through extraordinary gazette",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b42bce128367a19f54a28cde351bc6c74d08953b654de14384b862197223559a"
+      },
+      {
+        "title": "Adequate domestic liquidity reduces refinancing risk for Asia-Pac NBFIs: Fitch",
+        "url": "https://economynext.com/adequate-domestic-liquidity-reduces-refinancing-risk-for-asia-pac-nbfis-fitch-226018/",
+        "timestamp": "June 18, 2025",
+        "byline": "Expects rated NBFIs in China, India, Indonesia, Thailand and Sri Lanka to benefit from easing monetary measures",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "60c5a00a4e646167c8ae997301866e8a4564f973fd2fe4230ec2f532a18e3f9e"
+      },
+      {
+        "title": "Sri Lanka revives LNG terminal tender, to run from 2028 : Minister",
+        "url": "https://economynext.com/sri-lanka-revives-lng-terminal-tender-to-run-from-2028-minister-226027/",
+        "timestamp": "June 18, 2025",
+        "byline": "This process is now underway and the LNG supply is planned to start in 2028",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b4196379ae7e74ee0b1709638792a652346e8ecd14d5cf661af643b1ad9709d3"
+      },
+      {
+        "title": "Sri Lanka's first listed Sukuk oversubscribed",
+        "url": "https://economynext.com/sri-lankas-first-listed-sukuk-oversubscribed-226025/",
+        "timestamp": "June 18, 2025",
+        "byline": "The Sukuk was issued by Vidullanka Plc, a renewable energy firm",
+        "isoTimestamp": "2025-06-18T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b7ada729f960503a076456bf2287cb4c8faf63e6d6a7273a5a2e5d7b6f458e1e"
+      },
+      {
+        "title": "Sri Lanka faces lower remittances, high oil prices over Israel-Iran attack: FM",
+        "url": "https://economynext.com/sri-lanka-faces-lower-remittances-high-oil-prices-over-israel-iran-attack-fm-225996/",
+        "timestamp": "June 17, 2025",
+        "byline": "Military strikes between Iran and Israel have prompted concern about potential damage to oil infrastructure",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b92c2166ef005bb93d8a1aab68a0f43642c1db522db50861b5f9ba331c289495"
+      },
+      {
+        "title": "Sri Lanka relocates embassy in Tehran, FM says attacks were near Tel Aviv mission",
+        "url": "https://economynext.com/sri-lanka-relocates-embassy-in-tehran-fm-says-attacks-were-near-tel-aviv-mission-225994/",
+        "timestamp": "June 17, 2025",
+        "byline": "There are 20,000 Sri Lankan expatriates in Israel and 35 in Iran: FM",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c725ded6c1ee884a8c5415e77fde67aa5ff8e1b7620abf8c6d7a3fd3f39c5ba5"
+      },
+      {
+        "title": "Sri Lanka to develop food security index",
+        "url": "https://economynext.com/sri-lanka-to-develop-food-security-index-225967/",
+        "timestamp": "June 17, 2025",
+        "byline": "International food security indices have failed to capture local context",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d1d6d7c13ede7b90a7f5b0a27576f67d8264bdf49282d51ada6c7d9c51300428"
+      },
+      {
+        "title": "Sri Lanka to offer higher interest rate for senior citizen FDs",
+        "url": "https://economynext.com/sri-lanka-to-offer-higher-interest-rate-for-senior-citizen-fds-225965/",
+        "timestamp": "June 17, 2025",
+        "byline": "Higher interest rate of Average Weighted Fixed Deposit Interest Rate (AWFDR) plus 3 percent",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "93e5b5cc95c5b5dafe3f31e04a5f0cc235e80c73a2e626b1f42fc9f51674a54a"
+      },
+      {
+        "title": "Sri Lanka rupee closes stronger, bond yields flat",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-stronger-bond-yields-flat-225957/",
+        "timestamp": "June 17, 2025",
+        "byline": "Rupee improved from previous close",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fd54411c39ad31e42ef79a8f605779567bcc85445a98f647035704a64923d12b"
+      },
+      {
+        "title": "Sri Lanka stocks fall after volatile session, as Middle East war intensifies",
+        "url": "https://economynext.com/sri-lanka-stocks-fall-after-volatile-session-as-middle-east-war-intensifies-225946/",
+        "timestamp": "June 17, 2025",
+        "byline": "Stocks fell on Tuesday as uncertainty about the escalating global war situation spooked investors, brokers said.",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "918c6cfc9652449f953de56f812087c088587dd564b57b92a3dd2af17d4bc9f9"
+      },
+      {
+        "title": "Sri Lanka seeks investors for D R Wijewardene Mw mixed development",
+        "url": "https://economynext.com/sri-lanka-seeks-investors-for-d-r-wijewardene-mw-mixed-development-225943/",
+        "timestamp": "June 17, 2025",
+        "byline": "Looking for investment proposals for the disposal of a 3-rood 13.85 perch plot of land",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "af52597bb1bea45dba81d378c879db82dd12bf2bb3b17ea1ce219512a8acaaa8"
+      },
+      {
+        "title": "Sri Lanka Cabinet Spokesman alleys fears of fuel shortage amid ME crisis",
+        "url": "https://economynext.com/sri-lanka-cabinet-spokesman-alleys-fears-of-fuel-shortage-amid-me-crisis-225940/",
+        "timestamp": "June 17, 2025",
+        "byline": "Sri Lanka faced a severe fuel shortage and long queues in 2022",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d3e5c46ed0abb028db9ce1a1f3673c42290b2de5902f2d43b8533b1bdbfae89d"
+      },
+      {
+        "title": "Sri Lanka calls international renewable tenders to cut costs, avoid cartels",
+        "url": "https://economynext.com/sri-lanka-calls-international-renewable-tenders-to-cut-costs-avoid-cartels-225926/",
+        "timestamp": "June 17, 2025",
+        "byline": "Otherwise the emergence of cartels cannot be prevented",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8270cec9ef279a463bd52c79fb16fc292eac37cfa897a817d1b4938dbe34aadc"
+      },
+      {
+        "title": "Sri Lanka’s bourse launches new measure to ensure safety, transparency",
+        "url": "https://economynext.com/sri-lankas-bourse-launches-new-measure-to-ensure-safety-transparency-225922/",
+        "timestamp": "June 17, 2025",
+        "byline": "Current DvP faces technical issues with growing transections",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8cca9a9b7245ccbbf60ad55a30f392a885b185bdc57a700ce5f445ff420ff900"
+      },
+      {
+        "title": "Sri Lanka services expand at slower rate in May pushed by increased lending: PMI",
+        "url": "https://economynext.com/sri-lanka-services-expand-at-slower-rate-in-may-pushed-by-increased-lending-pmi-225899/",
+        "timestamp": "June 17, 2025",
+        "byline": "Business activities in accommodation, food and beverage services declined in line with decline  in tourist arrivals",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d5c455030087fc30f66847262f5e94e6e39f30d4e2e3440dcfd0e8d4785d1f78"
+      },
+      {
+        "title": "Sri Lanka’s bourse launches new measure to ensure safety, transparency",
+        "url": "https://economynext.com/sri-lankas-bourse-launches-new-measure-to-ensure-safety-transparency-225922/",
+        "timestamp": "June 17, 2025",
+        "byline": "Current DvP faces technical issues with growing transections",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8cca9a9b7245ccbbf60ad55a30f392a885b185bdc57a700ce5f445ff420ff900"
+      },
+      {
+        "title": "Sri Lanka services expand at slower rate in May pushed by increased lending: PMI",
+        "url": "https://economynext.com/sri-lanka-services-expand-at-slower-rate-in-may-pushed-by-increased-lending-pmi-225899/",
+        "timestamp": "June 17, 2025",
+        "byline": "Business activities in accommodation, food and beverage services declined in line with decline  in tourist arrivals",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d5c455030087fc30f66847262f5e94e6e39f30d4e2e3440dcfd0e8d4785d1f78"
+      },
+      {
+        "title": "Sri Lanka manufacturing recovers in May after seasonal slowdown: PMI",
+        "url": "https://economynext.com/sri-lanka-manufacturing-recovers-in-may-after-seasonal-slowdown-pmi-225886/",
+        "timestamp": "June 17, 2025",
+        "byline": "However, respondents are cautious about the upward revision in the electricity tariffs and tense situation in Mid East",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "22aa57c60d8ba9edd07477997c076f06348ce48f15a67b6bb9dc3edc267c3c2a"
+      },
+      {
+        "title": "Sri Lanka rupee trades stronger, bond yields flat",
+        "url": "https://economynext.com/sri-lanka-rupee-trades-stronger-bond-yields-flat-225867/",
+        "timestamp": "June 17, 2025",
+        "byline": "Stocks were trading up",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "52adcbf2852263e2c22827ece2aefe5079badb09a473c91563bace0c14f9bbd1"
+      },
+      {
+        "title": "Sri Lanka inks restructured bilateral debt deal with France",
+        "url": "https://economynext.com/sri-lanka-inks-restructured-bilateral-debt-deal-with-france-225873/",
+        "timestamp": "June 17, 2025",
+        "byline": "France is the fourth largest public creditor to Sri Lanka",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "afbed6d31b32e955cdfeb542171f942558c85a5b0a1a68cb34c7f49e0a42b872"
+      },
+      {
+        "title": "Trump decamps G-7, asking Tehran residents to flee",
+        "url": "https://economynext.com/trump-decamps-g-7-asking-tehran-residents-to-flee-225860/",
+        "timestamp": "June 17, 2025",
+        "byline": "G-7 calls for de-escalation of the Middle East conflict, including a ceasefire in Gaza",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "12a01638b97613c38809505f97b8d03d24720b1d103604cf0facca7c7856460b"
+      },
+      {
+        "title": "Sri Lanka discussing investment concessions for FDI with IMF: President",
+        "url": "https://economynext.com/sri-lanka-discussing-investment-concessions-for-fdi-with-imf-president-225779/",
+        "timestamp": "June 17, 2025",
+        "byline": "We have to get sufficient foreign direct investment",
+        "isoTimestamp": "2025-06-17T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9093add1aaacb8d2236186699e5441363a8bcfcccc7a3bb27db0f76e9a543520"
+      },
+      {
+        "title": "Sri Lanka yet to decide on UN research vessel: Foreign Minister",
+        "url": "https://economynext.com/sri-lanka-yet-to-decide-on-un-research-vessel-foreign-minister-225776/",
+        "timestamp": "June 16, 2025",
+        "byline": "A UN-flagged FAO research vessel is scheduled to conduct marine ecosystem, fish stock research in July/August",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5dfc8620c275f3610d97276efe4746473ab0163d391223ce4783c9e61365de87"
+      },
+      {
+        "title": "Sri Lanka GDP grows 4.8-pct in the first quarter 2025",
+        "url": "https://economynext.com/sri-lanka-gdp-grows-4-8-pct-in-the-first-quarter-2025-225737/",
+        "timestamp": "June 16, 2025",
+        "byline": "Services and industry expands, agriculture down",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bde346e87a4d39a9e50473a86f61aeba0976c2873308da61ad7ad8b5ae5b3179"
+      },
+      {
+        "title": "Sri Lanka rupee closes weaker, bond yields slightly up",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-weaker-bond-yields-slightly-up-225756/",
+        "timestamp": "June 16, 2025",
+        "byline": "Rupee depreciated sharply",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "80165f8177cd3045dcfc09554a9e23ce6efc3d36660fad11388f4c421f8b86dc"
+      },
+      {
+        "title": "Sri Lanka stocks continue to slide as Israel-Iran conflict continues",
+        "url": "https://economynext.com/sri-lanka-stocks-continue-to-slide-as-israel-iran-conflict-continues-225708/",
+        "timestamp": "June 16, 2025",
+        "byline": "Turnover was 3.4 billion rupees",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "27f2749bb886fdaf5d4e7752981664f1d710b38ff1fcd79feb3a31e1ec9291d7"
+      },
+      {
+        "title": "Sri Lanka leader focuses on global trade threats to island’s economy at IMF discussion",
+        "url": "https://economynext.com/sri-lanka-leader-focuses-on-global-trade-threats-to-islands-economy-at-imf-discussion-225709/",
+        "timestamp": "June 16, 2025",
+        "byline": "Sri Lanka faces risks of lower export revenue amid impending Trump's tariff, rising instability in Middle East",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc9b1fa64b68c41312c9f6beb3b154d3af1a72081a61b6872581c6e372ecb903"
+      },
+      {
+        "title": "Sri Lanka coconut prices slide 12.8-pct, nuts sold rise",
+        "url": "https://economynext.com/sri-lanka-coconut-prices-slide-12-8-pct-nuts-sold-rise-225689/",
+        "timestamp": "June 16, 2025",
+        "byline": "The nuts sold rose to 756,652 from 262,481.",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bd4d36557d2f504af62abf874968a822c64765e3f897d938fc0ed2e554e69ed9"
+      },
+      {
+        "title": "Sri Lanka CenBank chief emphasizes on continuing reforms agreed with IMF",
+        "url": "https://economynext.com/sri-lanka-cenbank-chief-emphasizes-on-continuing-reforms-agreed-with-imf-225691/",
+        "timestamp": "June 16, 2025",
+        "byline": "Sri Lanka has been under IMF bailout package for the last years after an unprecedented economic crisis",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "06ee54f186c031c0c7253cf38db1e80e67d4ba8c584681dd32567f8e0fc0a7a6"
+      },
+      {
+        "title": "Sri Lanka complex debt restructure lessons will help others: IMF's Gopinath",
+        "url": "https://economynext.com/sri-lanka-complex-debt-restructure-lessons-will-help-others-imfs-gopinath-225665/",
+        "timestamp": "June 16, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3bc0d547ea48dcc960d9ebde4add976f1522f9536dd59bbf643e68c583af4ca9"
+      },
+      {
+        "title": "Vraîe Cally Balthazaar appointed Colombo mayor",
+        "url": "https://economynext.com/vraie-cally-balthazaar-appointed-colombo-mayor-225639/",
+        "timestamp": "June 16, 2025",
+        "byline": "After initial protests, the unanimous decision was made for a secret vote",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "72c3d87e98446fed6af1b615e03a252406bd5d912c78ed1f77654f24d0939123"
+      },
+      {
+        "title": "IMF's Gita Gopinath speaks in Sri Lanka: Full text",
+        "url": "https://economynext.com/imfs-gita-gopinath-speaks-in-sri-lanka-full-text-225678/",
+        "timestamp": "June 16, 2025",
+        "byline": "This Time Must be Different: Lessons from Sri Lanka’s Recovery and Debt Restructuring",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1c602aca03f5e56c6740ed10df9f7ac8063b5504c4ef457fa5d2633a34833e56"
+      },
+      {
+        "title": "Sri Lanka rupee opens weaker as global tensions rise, bond yields up",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-weaker-as-global-tensions-rise-bond-yields-up-225630/",
+        "timestamp": "June 16, 2025",
+        "byline": "Stocks were trading down",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e6ed233314c59d5a10c1fe0e37757468318aa0b700b3799abde014d602356c82"
+      },
+      {
+        "title": "What is wrong with Sri Lanka's flexible exchange rate",
+        "url": "https://economynext.com/what-is-wrong-with-sri-lankas-flexible-exchange-rate-225575/",
+        "timestamp": "June 16, 2025",
+        "byline": "Sri Lanka flexible exchange rate gives profits to banks, losses to a nation",
+        "isoTimestamp": "2025-06-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4ad97682528c269cb293e60e3c33390cb9171182d77fc6ba6a89dbb9e39f958b"
+      },
+      {
+        "title": "UN says Sri Lanka won’t have FAO research vessels until 2030 if misses July one over SOP delay",
+        "url": "https://economynext.com/un-says-sri-lanka-wont-have-fao-research-vessels-until-2030-if-misses-july-one-over-sop-delay-225544/",
+        "timestamp": "June 15, 2025",
+        "byline": "Sri Lanka yet to formulate SOP to facilitate foreign research vessels amid Indian pressure",
+        "isoTimestamp": "2025-06-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb4ad5f061132a667f66e135e8ccceb9e3607d196a3cb753d48bebf2960218b7"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
