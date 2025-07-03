@@ -58,5 +58,335 @@
     "isoTimestamp": "2025-07-01T07:30:10+05:30",
     "baseUrl": "https://sinhala.adaderana.lk",
     "checkSum": "90171873c24db03c83a085ebf798a0aedffa1b31a05e25f5035c7014fcebc556"
+  },
+  {
+    "title": "ගාසා තීරයට ඊශ්‍රායලයෙන් ප්‍රහාර මාලාවක් - 60කට වැඩි පිරිසක් මරුට",
+    "href": "news.php?nid=211723",
+    "byline": "ඊශ්‍රායලය ගාසා තීරයේ ස්ථාන කිහිපයක් වෙත එල්ල කළ ප්‍රහාරවලින් 60කට වැඩි පිරිසක් මියගොස් තිබේ.",
+    "timestamp": "July 1, 2025  10:26 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211723",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1bbbc3299222ff81cbc0037678eafb2dae78c620c1377f21a30bccf3c0f23d76"
+  },
+  {
+    "title": "ලාෆ්ස් ගෑස් මිල ගැන දැනුම්දීමක්",
+    "href": "news.php?nid=211722",
+    "byline": "මාසික මිල සංශෝධනය අනුව ලාෆ්ස් ගෑස් මිල සම්බන්ධව එම ආයතනය දැනුම් දීමක් සිදුකර තිබේ.",
+    "timestamp": "July 1, 2025  10:10 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211722",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5c5443227a9111baf632b12723ce2ac0c475972a80b024820c74ee0ff9e14ca5"
+  },
+  {
+    "title": "අධිවේගයේ යන සියලු වාහනවලට සීට් බෙල්ට් අනිවාර්යයයි",
+    "href": "news.php?nid=211721",
+    "byline": "2025 අගෝස්තු 01 වන දින සිට අධිවේගී මාර්ගවල සැහැල්ලු වාහනවල ගමන් කරන සියලුම මගීන්ට සහ සැප්තැම්බර් 01 වන දින සිට අධිවේගී බස්රථවල ගමන් කරන කරන සියලුම මගීන්ට ආසන බඳපටි පැලඳීම අනිවාර්යය කර තිබේ.",
+    "timestamp": "July 1, 2025  9:45 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211721",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "16797714e416085648b0611a0ef629e7fee10c5608aeb032e27be70a83504f9a"
+  },
+  {
+    "title": "ජ්‍යෙෂ්ඨ පුරවැසි විශේෂ පොලී යෝජනා ක්‍රමය අද සිට",
+    "href": "news.php?nid=211720",
+    "byline": "ජ්‍යෙෂ්ඨ පුරවැසියන් සඳහා යෝජිත විශේෂ පොලී යෝජනා ක්‍රමය අද (01) සිට බලපැත්වෙන බව මුදල් ක්‍රමසම්පාදන සහ ආර්ථික සංවර්ධන අමාත්‍යාංශය නිවේදනය කරයි.",
+    "timestamp": "July 1, 2025  9:15 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211720",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b2eef78bee2303debcdde4ee5beb6f58a921990095fd377ad36948eeb1948c1b"
+  },
+  {
+    "title": "විදේශ සේවා නියුක්තිකයින්ගේ ප්‍රේෂණවල වර්ධනයක්",
+    "href": "news.php?nid=211719",
+    "byline": "මේ වසරේ මැයි මාසයේ දී විදේශ සේවා නියුක්තිකයින්ගේ ප්‍රේෂණ සියයට 17.9ක වර්ධනයක් පෙන්නුම් කරන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.",
+    "timestamp": "July 1, 2025  8:23 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211719",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "89e284c96d78613f30e63bc5434bbbab4218cf23a8bc80a227af1d8ef4dd2f35"
+  },
+  {
+    "title": "පරාටේ නීතිය අද සිට ක්‍රියාත්මකයි",
+    "href": "news.php?nid=211718",
+    "byline": "පරාටේ නීතිය නැවත බලාත්මක කිරීමේ දී පවතින ගැටලු පිළිබඳව අදාළ පාර්ශව සමඟ සාකච්ඡා කර විසඳුම් ලබාදීමට බලාපොරොත්තු වන බව කම්කරු අමාත්‍ය සහ ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය ආචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා පවසයි.",
+    "timestamp": "July 1, 2025  7:42 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211718",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1bb1673a594773153c1b07959171a814e9f954170d285c6ffc90a968155b0030"
+  },
+  {
+    "title": "3 හැවිරිදි දරුවෙකුට සහ තරුණයින් දෙදෙනෙකුට මරු කැඳවූ අනතුරු",
+    "href": "news.php?nid=211717",
+    "byline": "ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු කිහිපයකින් 03 හැවිරිදි දරුවෙකු සහ තරුණයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.",
+    "timestamp": "July 1, 2025  7:18 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211717",
+    "isoTimestamp": "2025-07-01T10:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a5dc75cd260ca34af1f0690979aa32c295bd0b53093c7123453b10e0544ce71b"
+  },
+  {
+    "title": "ලිට්‍රෝ ගෑස් මිල ගැනත් දැනුම්දීමක්",
+    "href": "news.php?nid=211730",
+    "byline": "මාසික ගෑස් මිල සංශෝධනය අනුව මෙම මාසයට අදාළව ලිට්‍රෝ ගෑස් මිල සංශෝධනය සම්බන්ධව එම ආයතනය දැනුම්දී තිබේ.",
+    "timestamp": "July 1, 2025  1:00 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211730",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bf5914c1c3af7d00d2ba528e8b03e5fe7e5a689f1f0ab0976d998e5c76ff195f"
+  },
+  {
+    "title": "හර්ෂ ඉලුක්පිටිය වරද පිළිගනී",
+    "href": "news.php?nid=211729",
+    "byline": "විද්‍යුත් වීසා නිකුත් කිරීමේ ක්‍රියාවලියට අදාළව අධිකරණය විසින් නිකුත් කළ නියෝගයක් ක්‍රියාත්මක කිරීම පැහැර හැරීම තුළින් අධිකරණයට අපහාස කළේ යැයි  චෝදනා ලබා සිටින ආගමන සහ විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතා කොන්දේසි විරහිතව වරද පිළිගන්නා බව ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර තිබේ.",
+    "timestamp": "July 1, 2025  12:53 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211729",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "abd4ae1de68cc26822fcf0ef07da4940db6a5053f304088c954c58d8ffc86bec"
+  },
+  {
+    "title": "නිශාන්ත වික්‍රමසිංහ තවදුරටත් රිමාන්ඩ්",
+    "href": "news.php?nid=211728",
+    "byline": "රක්ෂිත බන්ධනාගාර ගත කර සිටින ශ්‍රීලංකන් ගුවන් සමාගමේ හිටපු සභාපති නිශාන්ත වික්‍රමසිංහ මහතා තවදුරටත් ලබන 15 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කර තිබේ.",
+    "timestamp": "July 1, 2025  12:31 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211728",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f2a1f197975a2e050f2b7dc4de8ff8510e91957eedeef14d77338fda057f161e"
+  },
+  {
+    "title": "ඊලෝන් මස්ක්ගෙන් නව පක්ෂයක්",
+    "href": "news.php?nid=211727",
+    "byline": "අමෙරිකන් පාටි (the American Party) ලෙස නව පක්ෂයක් පිහිටුවන බවට ඊලෝන් මස්ක් තර්ජනාත්මකව පවසා තිබේ.",
+    "timestamp": "July 1, 2025  12:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211727",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "eebc09b30d1c52768c4e0378ccf3afa014fc2b976e61747ab1c8c47e83162d46"
+  },
+  {
+    "title": "වැඩි මිලට සහල් අලෙවි කරන්නන් සොයා වැටලීම්",
+    "href": "news.php?nid=211726",
+    "byline": "සහල් සඳහා උපරිම සිල්ලර මිලක් පනවා ඇති බැවින් වැඩි මිලට සහල් අලෙවි කරන වෙළෙඳුන් සොයා නීතිය ක්‍රියාත්මක කරන බව පාරිභෝගික කටයුතු අධිකාරිය පවසයි.",
+    "timestamp": "July 1, 2025  11:23 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211726",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "713f48b4e7d239b5414567365057559ce7f3dc8677a39083ea906e59e5e9bea1"
+  },
+  {
+    "title": "ශ්‍රීලංකන් හිටපු සභාපති අධිකරණයට",
+    "href": "news.php?nid=211725",
+    "byline": "අල්ලස් කොමිසම මඟින් අත්අඩංගුවට ගෙන මේ වන විට රක්ෂිත බන්ධනාගාර ගත කර සිටින ශ්‍රීලංකන් ගුවන් සමාගමේ හිටපු සභාපති නිශාන්ත වික්‍රමසිංහ මහතා බන්ධනාගාර නිලධාරීන් විසින් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට රැගෙන විත් තිබේ.",
+    "timestamp": "July 1, 2025  10:59 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211725",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "56d2e1f6d5245e4fcd1e31c0363df34bb618e4bc854591ef812a2b2aef7bc915"
+  },
+  {
+    "title": "USAID කප්පාදුවෙන් ඉදිරි වසර 5 තුළ තවත් මරණ මිලියන 14කට වඩා සිදුවිය හැකි බවට අනාවරණයක්",
+    "href": "news.php?nid=211724",
+    "byline": "විදේශ මානුෂීය ආධාර සඳහා වන එක්සත් ජනපද අරමුදල්වලින් වැඩි ප්‍රමාණයක් කපා හැරීමට අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ගත් පියවර හේතුවෙන් 2030 වසර වන විට ලොව පුරා තවත් මිලියන 14කට වඩා වැඩි පිරිසක් මිය යා හැකි බව වෛද්‍ය සඟරාවක් විසින් සිදුකරන ලද පර්යේෂණයකින් අනාවරණය වී තිබේ.",
+    "timestamp": "July 1, 2025  10:56 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211724",
+    "isoTimestamp": "2025-07-01T13:30:18+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "af998bdc7cef91abed764de6502978139f7499d4888d90b20e21da3bb5a823bb"
+  },
+  {
+    "title": "ලීක් වූ හඬපටයෙන් තායි අගමැතිනියගේ වැඩ තහනම්",
+    "href": "news.php?nid=211731",
+    "byline": "දුරකථන ඇමතුමක් කාන්දු වීම හේතුවෙන් තායි අගමැතිවරිය වූ පේටොංටාර්න් ෂිනවත්‍රාගේ වැඩ තහනම් කර ඇතැයි විදෙස් මාධ්‍ය වාර්තා කර තිබේ.",
+    "timestamp": "July 1, 2025  1:34 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211731",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0681bb42e6c5d39be17c130d7465ab12db674db1473a383d301173e90326672c"
+  },
+  {
+    "title": "රැකියා සඳහා විදේශ ගතවීමේදී බලපාන නීතිය අද සිට ක්‍රියාත්මකයි",
+    "href": "news.php?nid=211732",
+    "byline": "ස්වයං මාර්ගයෙන් කර්මාන්ත හා ආයතනික අංශයේ රැකියා සඳහා විදේශ ගතවීමේදී අදාළ ශ්‍රමිකයාගේ රැකියා ගිවිසුම අදාළ රටේ ශ්‍රී ලංකා දූත මණ්ඩල කාර්යාලය මඟින් සහතික කිරීම අද සිට (01) ක්‍රියාත්මක කර තිබේ.",
+    "timestamp": "July 1, 2025  2:25 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211732",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d83d23504290c3e53bcb01e8a341d8eb52820e0415036be43e7034f39b40fcbe"
+  },
+  {
+    "title": "දිස්ත්‍රික් 306 D8 සිංහාධිපති ධුරය ජගත් වීරසිංහට",
+    "href": "news.php?nid=211734",
+    "byline": "ජාත්‍යන්තර සිංහ සංවිධාන විසින් දිස්ත්‍රික් 306 D8 සිංහාධිපති ධුරයට බන්ධනාගාර කොමසාරිස් (මාධ්‍ය ප්‍රකාශක) ජගත් වීරසිංහ මහතා පත්ව තිබේ.",
+    "timestamp": "July 1, 2025  2:50 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211734",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b737b078e9e22e114225c1cf103d805da2b6d60b2eec631b527c4964a6e3f6ea"
+  },
+  {
+    "title": "හිටපු මෝටර් රථ කොමසාරිස් නිශාන්ත ඇතුළු තිදෙනෙකු අත්අඩංගුවට",
+    "href": "news.php?nid=211735",
+    "byline": "මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ හිටපු කොමසාරිස් ජනරාල්වරයෙකු ඇතුළු තිදෙනෙකු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "July 1, 2025  3:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211735",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b75bc45a634409d3e35642de8fe5309edf7f8c8d7cf530905ec2bc0e226fa9a3"
+  },
+  {
+    "title": "ඉතාලියේ ශ්‍රමික හිඟයක්",
+    "href": "news.php?nid=211736",
+    "byline": "ශ්‍රමික හිඟයකට මුහුණ දී සිටින ඉතාලිය නව සංක්‍රමණික වීසා බලපත්‍ර ලක්ෂයක් පමණ නිකුත් කිරීමට බලාපොරොත්තු වන බව ඉතාලි කැබිනට් මණ්ඩලය නිවේදනයක් නිකුත් කරමින් ප්‍රකාශ කර තිබේ.",
+    "timestamp": "July 1, 2025  3:21 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211736",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "48569d89d77925b798be15e69f1825a65a45a052bb32c640a61637c2017e0c83"
+  },
+  {
+    "title": "දුෂණ විරෝධී යාන්ත්‍රණය ශක්තිමත් කරන්න ජපානයෙන් අමෙරිකානු ඩොලර් මිලියන 2.5ක්",
+    "href": "news.php?nid=211737",
+    "byline": "මෙරට තුළ දුෂණ විරෝධී යාන්ත්‍රණයන් ශක්තිමත් කිරීම අරමුණු කරමින් රාජ්‍ය පාලනයේදී විනිවිදභාවය වගවීම ප්‍රවර්ධනය වෙනුවෙන් වසර තුනක ව්‍යාපෘතියක් එක්සත් ජාතීන්ගේ සංවර්ධන වැඩසටහනේ මැදිහත්වීමෙන් ක්‍රියාත්මක කිරීමට ජපන් රජයෙන් ඩොලර් මිලියන 2.5 ක් ලබා දී තිබේ.",
+    "timestamp": "July 1, 2025  3:49 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211737",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "196ade5b597221786f65aae1ce9f918e37cc9e639bfa135bf2217bfbb25bdfae"
+  },
+  {
+    "title": "විදෙස්ගත ශ්‍රී ලාංකිකයින්ගේ දූ දරුවන්ට විශේෂ නිවේදනයක්",
+    "href": "news.php?nid=211738",
+    "byline": "විදේශ රැකියාවෙහි නිරත ශ්‍රී ලාංකික ශ්‍රමිකයින්ගේ පාසල් අධ්‍යාපනය ලබන දූ දරුවන් සඳහා ශිෂ්‍යත්ව ප්‍රදානය කිරීම සඳහා ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් අයදුම්පත් කැඳවා තිබේ.",
+    "timestamp": "July 1, 2025  4:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211738",
+    "isoTimestamp": "2025-07-01T16:30:30+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "dac675ebe4ba7f7e1adf082fdacae5aca43d121ac32fbf8e7fac46f203de47a0"
+  },
+  {
+    "title": "ඔන්ලයින් ක්‍රමවේදයෙන් දඩ ගෙවන්න කැබිනට් අනුමැතිය",
+    "href": "news.php?nid=211739",
+    "byline": "රජය විසින් හඳුන්වා දුන් නියමු ව්‍යාපෘතිය යටතේ රථවාහන දඩ මුදල් Online ක්‍රමවේදය ඔස්සේ ගෙවීමේ වැඩසටහන ඉදිරියේදී රට පුරා ක්‍රියාත්මක කිරීමට කැබිනට් අනුමැතිය හිමිවූ බව රථවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යංශ බිමල් රත්නායක මහතා පවසයි.",
+    "timestamp": "July 1, 2025  4:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211739",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c712828789b4978e1a39c1c5ade87210eae65bfe4435237b79c8304bcffe6050"
+  },
+  {
+    "title": "හිටපු මෝටර් රථ කොමසාරිස් ජනරාල් ඇතුළු තිදෙනා රිමාන්ඩ්",
+    "href": "news.php?nid=211740",
+    "byline": "අල්ලස් කොමිසම මගින් අත්අඩංගුවට ගත්  හිටපු මෝටර් රථ කොමසාරිස් ජනරාල් නිශාන්ත අනුරුද්ධ වීරසිංහ, එම දෙපාර්තමේන්තුවේ විශ්‍රාමික සහකාර තොරතුරු තාක්ෂණ අධ්‍යක්ෂ ප්‍රියන්ත බණ්ඩාර ඊරියගම සහ ලිපිකරුවකු වන අත්තරගම ගෙදර ධම්මික නිරෝෂන් යන අය අද (01) අධිකරණයට ඉදිරිපත් කළේය.",
+    "timestamp": "July 1, 2025  4:50 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211740",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cb568d5f073faf4c7bf0f80e6091440fa389088fc66da92497e7aca4d63ca44c"
+  },
+  {
+    "title": "විශ්ව රූ රැජින තරගයේ අනුශූරියක් වූ මොරීන් හින්ගර්ට් අභාවප්‍රාප්ත වේ",
+    "href": "news.php?nid=211741",
+    "byline": "1955 මිස් සිලෝන් කිරුළ හිමිකර ගැනීම සහ 1955 විශ්ව රූ රැජින තරඟයේදී තුන්වැනියා බවට පත් වූ මොරීන් හින්ගර්ට් මහත්මිය අද (01) අභාවප්‍රාප්ත වී තිබේ.",
+    "timestamp": "July 1, 2025  5:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211741",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3374e20a8d3a3cfbbb2064aefe404f12f890ebc08d180d4dcdc21bf6f4e09cbb"
+  },
+  {
+    "title": "බස් ගාස්තුව සියයට 0.55කින් අඩු වෙයි",
+    "href": "news.php?nid=211742",
+    "byline": "එළැඹෙන ජූලි මස 04 වැනි දින සිට බස් ගාස්තුව 0.55%කින් අඩු කිරීමට ජාතික ගමනාගමන කොමිෂන් සභාව තීරණය කර තිබේ.\n\nනිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පැවසුවේ 2025 වසරේ වාර්ෂික බස් ගාස්තු සංශෝධනය 2.5%කින් අඩු වන බව නිරීක්ෂණය වූ නමුත් ඉන්ධන මිල සූත්‍රය අනුව මාසික ඉන්ධන මිල සංශෝධනය සිදුවූ බැවින් ඉන්ධන මිල ගැලපීමෙන් පසුව නව බස්ගාස්තු සංශෝධනය 0.55%කින් අඩු කිරීමට තීරණය කළ බවය.",
+    "timestamp": "July 1, 2025  5:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211742",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e247992f294daef3108c1bdfbdc2dc2ccd9a2a46a924871f29cd2c93cf0a4862"
+  },
+  {
+    "title": "මදුරු මර්දන සතියේ දෙවැනි දිනයේදී පරිශ්‍ර 22,294ක් පරීක්ෂාවට",
+    "href": "news.php?nid=211743",
+    "byline": "මේ වන විට ආරම්භ වී ඇති ජාතික මදුරු මර්දන සතිය නිමිත්තෙන් සිදුකළ විශේෂ පරීක්ෂාව අනුව අද (01) දිනයේදී පරිශ්‍ර 22,294ක් පරීක්ෂාවට ලක් කළ බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.",
+    "timestamp": "July 1, 2025  6:05 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211743",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1e638472bd2a6726915228ecae8ebf9eaec7b9070ac363d592bd6cfb8560ada4"
+  },
+  {
+    "title": "2024 වසරේ සමස්ත බදු ආදායමේ කැපී පෙනෙන වර්ධනයක්",
+    "href": "news.php?nid=211744",
+    "byline": "2024 වසරේ සමස්ත බදු ආදායමේ කැපී පෙනෙන වර්ධනයක් පෙන්නුම් කරන බව දේශීය ආදායම් දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "July 1, 2025  6:41 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211744",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "dad7ac183f9a1f2e977ce2cb74affdbba00d60e21d25af53ec31c96c84b1d2b8"
+  },
+  {
+    "title": "ඉන්දියාවේ ප්‍රකට සමාගම් රැසක ප්‍රධානීන් ආයෝජන අවස්ථා සොයන්න මෙරට",
+    "href": "news.php?nid=211745",
+    "byline": "ශ්‍රී ලංකාවේ බලශක්ති, යටිතල පහසුකම්, ඩිජිටල් ආර්ථිකය, සංචාරක, කෘෂිකර්මාන්ත යන ක්ෂේත්‍රවල මෙන්ම ව්‍යවසායකයන්ගේ ධාරිතා වර්ධනයට අදාළ නව ආයෝජන අවස්ථා පිළිබඳව තම අවධානය යොමු ව ඇතැයි ඉන්දියානු ව්‍යවසායකයෝ පැවසු බව ජනාධිපති මාධ්‍ය අංශය පවසයි.",
+    "timestamp": "July 1, 2025  7:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211745",
+    "isoTimestamp": "2025-07-01T20:30:13+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8d8a1d2b7f0fbd83337320d4a82ef836c12500447a090aae987e81579b063a6c"
+  },
+  {
+    "title": "ශ්‍රී ලංකාවේ බලශක්ති ක්ෂේත්‍රය ගැන ඉන්දියාව උනන්දුවෙන්",
+    "href": "news.php?nid=211749",
+    "byline": "ඉන්දියානු බලශක්ති ක්ෂේත්‍රයේ ප්‍රමුඛයින් සහ ආයෝජකයින් ඇතුළු දූත කණ්ඩායමක් ඊයේ (30) බලශක්ති අමාත්‍යාංශයේදී අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා හමුව තිබේ.",
+    "timestamp": "July 1, 2025  10:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211749",
+    "isoTimestamp": "2025-07-01T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "26fd63b06692889a55c8d43c22e64d98e2e8f53893b5f2ea60487d73896eff27"
+  },
+  {
+    "title": "කහවත්තේ තරුණයෙකු ඝාතනය ගැන තවත් තොරතුරු",
+    "href": "news.php?nid=211748",
+    "byline": "පොලීසිය ලෙස පෙනී සිටි කණ්ඩායමක් විසින් තරුණයින් දෙදෙනෙකු පැහැරගෙන ගොස් එක් තරුණයෙකු වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමක් කහවත්ත ඇන්දාන ප්‍රදේශයෙන් වාර්තා විය.",
+    "timestamp": "July 1, 2025  9:57 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211748",
+    "isoTimestamp": "2025-07-01T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fc6defc6f3a848da5d7fcd10c579129ec70f7428edad633aff8a3d174c7890f4"
+  },
+  {
+    "title": "වරද පිළිගත් හර්ෂ ඉලුක්පිටිය අධිකරණයේදී කළ ප්‍රකාශය",
+    "href": "news.php?nid=211747",
+    "byline": "විද්‍යුත් වීසා නිකුත් කිරීමේ ක්‍රියාවලියට අදාළව ශ්‍රෙෂ්ඨාධිකරණය නිකුත් කළ අතුරු තහනම් නියෝගයක් ක්‍රියාත්මක කිරීම පැහැර හැරීම තුළින් අධිකරණයට අපහාස කළ බවට චෝදනා ලබා සිටි ආගමන හා විගමන පාලක හර්ෂ ඉලුක්පිටිය මහතා අද (01) කොන්දේසි විරහිතව ශ්‍රේෂ්ඨාධිකරණය හමුවේ වරද පිළිගෙන තිබුණි.",
+    "timestamp": "July 1, 2025  8:00 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211747",
+    "isoTimestamp": "2025-07-01T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e257cfe884b190b2dd581d136e0fe98f62c82837fbb0093fee8bb024ba84cec1"
+  },
+  {
+    "title": "මැක්සිම් පුතා 1 යාත්‍රාවේ සිටි අනෙක් ධීවරයාගේ සිරුරත් සොයාගනී",
+    "href": "news.php?nid=211746",
+    "byline": "තංගල්ල පරවිවැල්ල ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදු තීරයේදී බහුදින ධීවර යාත්‍රාවක් පෙරළීමෙන් අතුරුදන්ව සිටි අනෙක් ධීවරයාගේ සිරුරත් මේ වනවිට සොයාගෙන තිබේ.",
+    "timestamp": "July 1, 2025  7:59 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211746",
+    "isoTimestamp": "2025-07-01T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c44eb8e7b47db0dab9ad04e87db2f47896de39f0e294d34f90052ac56f5ab983"
+  },
+  {
+    "title": "ඉන්දියාවේ ප්‍රකට සමාගම් රැසක ප්‍රධානීන් ආයෝජන අවස්ථා සොයන්න මෙරටට",
+    "href": "news.php?nid=211745",
+    "byline": "ශ්‍රී ලංකාවේ බලශක්ති, යටිතල පහසුකම්, ඩිජිටල් ආර්ථිකය, සංචාරක, කෘෂිකර්මාන්ත යන ක්ෂේත්‍රවල මෙන්ම ව්‍යවසායකයන්ගේ ධාරිතා වර්ධනයට අදාළ නව ආයෝජන අවස්ථා පිළිබඳව තම අවධානය යොමු ව ඇතැයි ඉන්දියානු ව්‍යවසායකයෝ පැවසු බව ජනාධිපති මාධ්‍ය අංශය පවසයි.",
+    "timestamp": "July 1, 2025  7:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=211745",
+    "isoTimestamp": "2025-07-01T23:30:10+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b22a260cd66ba3a8549f3e98ae8be01d17aa23fa4512ab9676fd56401d2e4fec"
   }
 ]
