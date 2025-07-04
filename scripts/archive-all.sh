@@ -59,9 +59,30 @@ npx ts-node src/server.ts &
 APP_PID=$!
 sleep 10
 
-# === STEP 6: Trigger Archive ===
-echo "Making GET request to /archive-all"
-curl "http://localhost:$NODE_PORT/archive-all"
+# === STEP 6: Trigger Archive with Retry ===
+echo "Making GET request to /archive-all with retry..."
+
+MAX_RETRIES=5
+RETRY_DELAY=3
+SUCCESS=0
+
+for ((i=1; i<=MAX_RETRIES; i++)); do
+  echo "Attempt $i..."
+  RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" "http://localhost:$NODE_PORT/archive-all")
+  
+  if [ "$RESPONSE" -eq 200 ]; then
+    echo "Request succeeded."
+    SUCCESS=1
+    break
+  else
+    echo "Request failed with status $RESPONSE. Retrying in $RETRY_DELAY seconds..."
+    sleep $RETRY_DELAY
+  fi
+done
+
+if [ "$SUCCESS" -ne 1 ]; then
+  echo "Request to /archive-all failed after $MAX_RETRIES attempts."
+fi
 
 # === CLEANUP AFTER RUN ===
 echo "Cleaning up..."

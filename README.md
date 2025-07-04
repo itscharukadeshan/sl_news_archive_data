@@ -2,26 +2,26 @@
 
 ## News Archive Summary
 
-Summary Report as of Thu Jul 03 00:44:21 +0530 2025
+Summary Report as of Fri Jul 04 05:09:57 +0000 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 0          | 4246        |
-| adaderana               | 0          | 6925        |
-| adaderana-sinhala               | 0          | 9026        |
+| ada               | 4          | 4279        |
+| adaderana-sinhala               | 11          | 9074        |
 | adaderana-tamil               | 0          | 4896        |
-| aruna               | 0          | 7456        |
-| dailymirror               | 0          | 5715        |
-| dinamina               | 0          | 15064        |
-| economynext               | 0          | 2751        |
-| island               | 0          | 5465        |
-| lankadeepa               | 0          | 17573        |
-| newswire               | 0          | 2325        |
-| tamilmirror               | 0          | 7164        |
-| thamilan               | 0          | 8192        |
-| themorning               | 0          | 8888        |
-| thinakaran               | 0          | 10093        |
-| **Total**          | **0**      | **115779** |
+| adaderana               | 2          | 6967        |
+| aruna               | 9          | 7505        |
+| dailymirror               | 9          | 5760        |
+| dinamina               | 29          | 15132        |
+| economynext               | 0          | 2766        |
+| island               | 50          | 5515        |
+| lankadeepa               | 17          | 17650        |
+| newswire               | 5          | 2371        |
+| tamilmirror               | 6          | 7210        |
+| thamilan               | 15          | 8243        |
+| themorning               | 21          | 8960        |
+| thinakaran               | 0          | 10138        |
+| **Total**          | **178**      | **116466** |
 
 ### Interactive Chart Preview
 🔗 [View Interactive Chart](https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html)
