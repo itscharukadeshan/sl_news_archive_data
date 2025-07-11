@@ -2,26 +2,26 @@
 
 ## News Archive Summary
 
-Summary Report as of Fri Jul 11 02:04:32 +0000 2025
+Summary Report as of Fri Jul 11 05:55:28 +0000 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 4          | 4401        |
-| adaderana-sinhala               | 0          | 9326        |
+| ada               | 7          | 4404        |
+| adaderana-sinhala               | 15          | 9341        |
 | adaderana-tamil               | 0          | 4896        |
 | adaderana               | 0          | 7152        |
-| aruna               | 5          | 7713        |
-| dailymirror               | 4          | 5954        |
+| aruna               | 9          | 7717        |
+| dailymirror               | 13          | 5963        |
 | dinamina               | 0          | 15417        |
-| economynext               | 0          | 2843        |
-| island               | 25          | 5590        |
-| lankadeepa               | 37          | 18044        |
-| newswire               | 2          | 2582        |
-| tamilmirror               | 8          | 7434        |
-| thamilan               | 6          | 8473        |
-| themorning               | 18          | 9202        |
+| economynext               | 2          | 2847        |
+| island               | 31          | 5596        |
+| lankadeepa               | 50          | 18057        |
+| newswire               | 11          | 2591        |
+| tamilmirror               | 18          | 7444        |
+| thamilan               | 13          | 8480        |
+| themorning               | 26          | 9210        |
 | thinakaran               | 0          | 10348        |
-| **Total**          | **109**      | **119375** |
+| **Total**          | **195**      | **119463** |
 
 ### Interactive Chart Preview
 🔗 [View Interactive Chart](https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html)
