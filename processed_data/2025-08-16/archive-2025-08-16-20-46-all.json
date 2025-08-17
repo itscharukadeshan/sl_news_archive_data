@@ -1,0 +1,969 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": true,
+    "data": []
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": true,
+    "data": [
+      {
+        "title": "மினுவாங்கொடையில் ஆயுத களஞ்சியசாலை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/மினுவாங்கொடையில்-ஆயுத-களஞ்சியசாலை/175-363007",
+        "timestamp": "6 minute ago",
+        "byline": "இது தொடர்பில் யாரும் கைது செய்யப்படாத",
+        "isoTimestamp": "2025-08-16T20:36:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c9c93cb1345d9fec3aa4dad8955794e05733528ec8cc5fc0d7b4c49da2b6b90c"
+      },
+      {
+        "title": "மினுவாங்கொடையில் ஆயுத களஞ்சியசாலை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/மினுவாங்கொடையில்-ஆயுத-களஞ்சியசாலை/175-363007",
+        "timestamp": "6 minute ago",
+        "byline": "இது தொடர்பில் யாரும் கைது செய்யப்படாத",
+        "isoTimestamp": "2025-08-16T20:36:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c9c93cb1345d9fec3aa4dad8955794e05733528ec8cc5fc0d7b4c49da2b6b90c"
+      },
+      {
+        "title": "நல்லூருக்கு வந்த பஸ்ஸில் திடீர் தீ",
+        "url": "https://www.tamilmirror.lk/யாழ்ப்பாணம்/நல்லூருக்கு-வந்த-பஸ்ஸில்-திடீர்-தீ/71-363006",
+        "timestamp": "4 hours ago",
+        "byline": "இந்த நிலையிலேயே பஸ் தீப்பற்றி எரிந்துள்ளது.",
+        "isoTimestamp": "2025-08-16T20:38:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "1e4901b09c5c2ffad1c68bf2abba6ebd5a58d3337a1663c30f6f1a152499499a"
+      },
+      {
+        "title": "மாத்தளை விபத்தில் சிக்கி கிராம உத்தியோகத்தர் மரணம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-விபத்தில்-சிக்கி-கிராம-உத்தியோகத்தர்-மரணம்/175-363005",
+        "timestamp": "6 hours ago",
+        "byline": "கைக்காவல பிரதேசத்தில் இன்று இடம்பெற்ற",
+        "isoTimestamp": "2025-08-16T20:36:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "944e9eab827d51cea9ee2039f2e5b429d2d97801abc0e60361dd96f17f89b5e3"
+      },
+      {
+        "title": "பணிப்புறக்கணிப்பில் குதிக்கும் தபால் ஊழியர்கள்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பணிப்புறக்கணிப்பில்-குதிக்கும்-தபால்-ஊழியர்கள்/175-363004",
+        "timestamp": "6 hours ago",
+        "byline": "தபால் ஊழியர்களின் மேலதிக கொடுப்பனவு,",
+        "isoTimestamp": "2025-08-16T20:36:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "1ff9c56e58d705cb013338554509bfbc2c8219a95996c362e7483a844353ef7f"
+      },
+      {
+        "title": "விசேட சுற்றிவளைப்பில் 689 பேர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/விசேட-சுற்றிவளைப்பில்-689-பேர்-கைது/175-363003",
+        "timestamp": "9 hours ago",
+        "byline": "மது அருந்தி வாகனம் செலுத்திய",
+        "isoTimestamp": "2025-08-16T20:33:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "9123872e362358e91dbffa8c72246d010389ccadca31035ead68a8a77080d6a0"
+      },
+      {
+        "title": "லொஹானின் இறுதிச் சடங்கு தொடர்பான செய்தி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-இறுதிச்-சடங்கு-தொடர்பான-செய்தி/175-363002",
+        "timestamp": "16 Aug 2025",
+        "byline": "கொழும்பில் உள்ள ஒரு தனியார் வைத்தியசாலையில்",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "b06f8782a03a024b245e5971e136173e6f4e370494aa0ac87885eb5c5eb4ede0"
+      },
+      {
+        "title": "இரண்டு பேருந்துகள் மோதி விபத்து : சாரதி பலி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/இரண்டு-பேருந்துகள்-மோதி-விபத்து-சாரதி-பலி/175-363001",
+        "timestamp": "16 Aug 2025",
+        "byline": "விபத்தில் தம்பகல்ல பகுதியைச்",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "0714db79eb38eec5e886659f93c162c582d33dac89baf58032cd30d22e26b12a"
+      },
+      {
+        "title": "நீரில் மூழ்கி மாணவன் பலி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-மாணவன்-பலி/175-363000",
+        "timestamp": "16 Aug 2025",
+        "byline": "நீரில் மூழ்கி மாணவன் பலி",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "5ae51c797eba1005a61a9af41db1495857e58e3bc9beb42117686454cc75b4c3"
+      },
+      {
+        "title": "இன்று இடைக்கிடை மழை பெய்யும்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/இன்று-இடைக்கிடை-மழை-பெய்யும்/175-362999",
+        "timestamp": "16 Aug 2025",
+        "byline": "சப்ரகமுவ, மேல் மாகாணங்களிலும்...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "889658206d43bcebe1fd9be7545d210a76281ad84e5b5b8218e8eb79d788a3e6"
+      },
+      {
+        "title": "ட்ரம்ப் - புடின் சந்திப்பில் எந்த ஒப்பந்தமும் இல்லை",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-புடின்-சந்திப்பில்-எந்த-ஒப்பந்தமும்-இல்லை/50-362998",
+        "timestamp": "16 Aug 2025",
+        "byline": "அமெரிக்காவில் உள்ள அலாஸ்கா மாகாணத்தில்...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "d75a20367838f99508a033018111113a0907ffe15c5808527e3e98462b38c576"
+      },
+      {
+        "title": "பா.ஜ.கவில் இணைந்தார் நடிகை கஸ்தூரி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பா-ஜ-கவில்-இணைந்தார்-நடிகை-கஸ்தூரி/175-362997",
+        "timestamp": "16 Aug 2025",
+        "byline": "நடிகை கஸ்தூரி நேற்று சென்னை தியாகராய...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "a7cb95d7e8459d4930b19bc8b30361be01dd0c2bceb00fc07893c6fc01cca80f"
+      },
+      {
+        "title": "ரஜினிக்கு பிரதமர் மோடி வாழ்த்து",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ரஜினிக்கு-பிரதமர்-மோடி-வாழ்த்து/175-362996",
+        "timestamp": "16 Aug 2025",
+        "byline": "ரஜினிகாந்த் திரையுலகில் அறிமுகமாகி...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "a89300cc707be0c07a14256083112d656d90e59ead4da9d3d1c50da0b09a8e91"
+      },
+      {
+        "title": "பம்பலப்பிட்டியில் மாயமான பணம் கண்டுபிடிக்கப்பட்டது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பம்பலப்பிட்டியில்-மாயமான-பணம்-கண்டுபிடிக்கப்பட்டது/175-362983",
+        "timestamp": "15 Aug 2025",
+        "byline": "இன்று (15) மதியம் நிறுவனத்தில் ஓட்டுநர்",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "15c415ee6d2addda8daf69c6eef31b47822b79f81efdc780eb900194f2e0e4e9"
+      },
+      {
+        "title": "புதிய பொலிஸ்மா அதிபர் - ஜனாதிபதி சந்திப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/புதிய-பொலிஸ்மா-அதிபர்-ஜனாதிபதி-சந்திப்பு/175-362982",
+        "timestamp": "15 Aug 2025",
+        "byline": "புதிய  பொலிஸ்மா அதிபருக்கு ஜனாதிபதி",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c20c406da36efc5251b25aa87d7469738d790ac03611eb557139b17fc6a4425f"
+      },
+      {
+        "title": "“இரத்தினக்கல், ஆபரணச் சந்தையை வெற்றிகொள்வோம்”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-ஆபரணச்-சந்தையை-வெற்றிகொள்வோம்/175-362981",
+        "timestamp": "15 Aug 2025",
+        "byline": "சர்வதேசப் புகழ் பெற்றிருந்த போதிலும், எதிர்பார்த்த அளவிற்கு ...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "fb4b7c5ca286c46cc8aab2fb590506948afdcf8f05801e074042bde794d4124e"
+      },
+      {
+        "title": "கோபுரத்தில் ஏறி போராட்டம் நடத்தியவர் கீழே விழுந்து பலி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கோபுரத்தில்-ஏறி-போராட்டம்-நடத்தியவர்-கீழே-விழுந்து-பலி/175-362980",
+        "timestamp": "15 Aug 2025",
+        "byline": "நில ஆக்கிரமிப்புகளை உடனடியாக அகற்ற வேண்டும் என கோரி...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "0b696e8f692d11224ef612a95e03f713e2c83cdff1b000a63d53710c55dd65a3"
+      },
+      {
+        "title": "முதல் நாள் வசூலில்: ’லியோ’வை முந்தியது ‘கூலி’",
+        "url": "https://www.tamilmirror.lk/cinema/முதல்-நாள்-வசூலில்-லியோ-வை-முந்தியது-கூலி/54-362979",
+        "timestamp": "15 Aug 2025",
+        "byline": "‘லியோ’ மற்றும் ‘கூலி’ ஆகிய இரண்டு படங்களுமே லோகேஷ் கனகராஜ் இயக்கத்தில்...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "569474c8e34143876951515c91d4dd724ed90a1d953d68fa7f9342bf71a8f27d"
+      },
+      {
+        "title": "லொஹானின் மறைவுக்கு மஹிந்த இரங்கல்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மறைவுக்கு-மஹிந்த-இரங்கல்/175-362978",
+        "timestamp": "15 Aug 2025",
+        "byline": "கண்டி மாவட்டத்திற்கு ஒரு குறிப்பிடத்தக்க இழப்பாகும் என மஹிந்த",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "170776bc0e3735a6ad0aab3769663b1ca3664baac68e3c9d177d8e567a6b6693"
+      },
+      {
+        "title": "ஒரே குடும்பத்தைச் சேர்ந்த 7 பேர் ஓட்டோ விபத்தில் காயம்",
+        "url": "https://www.tamilmirror.lk/மலையகம்/ஒரே-குடும்பத்தைச்-சேர்ந்த-7-பேர்-ஓட்டோ-விபத்தில்-காயம்/76-362977",
+        "timestamp": "15 Aug 2025",
+        "byline": "ஒரே குடும்பத்தைச் சேர்ந்த 7 பேர் ஓட்டோ விபத்தில் காயமடைந்துள்ளனர்...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "184646b0b61168256ed5574ea9a0675fd99d185034275ba70dac824dd006e61b"
+      },
+      {
+        "title": "“ஓரினச்சேர்க்கையை ஊக்குவிக்க முயற்சி”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஓரினச்சேர்க்கையை-ஊக்குவிக்க-முயற்சி/175-362976",
+        "timestamp": "15 Aug 2025",
+        "byline": "இலங்கையில் சமீப காலமாக உருவாகி வரும் ஆபத்தான சூழ்நிலை...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7e69e193d22aa28e3b3cdaee68cf383c39cae0da4ab45abfe41edd195b735765"
+      },
+      {
+        "title": "“வெள்ளைக்கார பெண்களுக்கு பிரேமதாச உள்ளாடை தைக்கிறார்”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/வெள்ளைக்கார-பெண்களுக்கு-பிரேமதாச-உள்ளாடை-தைக்கிறார்/175-362975",
+        "timestamp": "15 Aug 2025",
+        "byline": "“வெள்ளைக்கார பெண்களுக்கு பிரேமதாச உள்ளாடைகளைத் தைக்கிறார்”",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "58e80d0ec7914fee132053221c5e3171f34770598a591f25145f63d18c7820c3"
+      },
+      {
+        "title": "குகைக்குள் வாழும்  இரண்டு சிறுத்தைகளால் அச்சம்",
+        "url": "https://www.tamilmirror.lk/மலையகம்/குகைக்குள்-வாழும்-இரண்டு-சிறுத்தைகளால்-அச்சம்/76-362971",
+        "timestamp": "15 Aug 2025",
+        "byline": "குகைக்குள் வாழும் சிறுத்தைகளும் காலை வேளையில் வெளியே வந்து...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "9feece30270b33d998843d21407d6cd58eb68f0785eb81c55a064c11c5aebb01"
+      },
+      {
+        "title": "சத்திர சிகிச்சை நிபுணர் மாரடைப்பால் மரணம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/சத்திர-சிகிச்சை-நிபுணர்-மாரடைப்பால்-மரணம்/175-362970",
+        "timestamp": "15 Aug 2025",
+        "byline": "ரபல  சத்திர சிகிச்சை வைத்திய நிபுணர் வைத்தியர் மாரடைப்பால் மரணம்....",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e0f3831e597ba9addcde5a42a19233c229e36ea648c018dab98d90117b748c17"
+      },
+      {
+        "title": "அனுர- மோடியால்  பெரும் பதற்றம்",
+        "url": "https://www.tamilmirror.lk/பிரசித்த-செய்தி/அனுர-மோடியால்-பெரும்-பதற்றம்/150-362969",
+        "timestamp": "15 Aug 2025",
+        "byline": "நகரில் அமைக்கப்பட்டிருந்த கூடாரத்தை பொலிஸார், அகற்றிய...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "505a52e2d471debcf6a26b78588d8ba8dcd5011d499d10a1345e6af59508bdfe"
+      },
+      {
+        "title": "ஹர்த்தாலுக்கு ஆதரவு இல்லை: கிருஷ்ணமூர்த்தி அதிரடி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஹர்த்தாலுக்கு-ஆதரவு-இல்லை-கிருஷ்ணமூர்த்தி-அதிரடி/175-362968",
+        "timestamp": "15 Aug 2025",
+        "byline": "இலங்கை தமிழரசுக் கட்சியால் எதிர்வரும் திங்கள் கிழமை (17)",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "afe4e9428bbf13a464f6d5d52be6a00e02081e49cde9afe3328484e63d1822d2"
+      },
+      {
+        "title": "லொஹான் ரத்வத்த திடீர் மரணம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-திடீர்-மரணம்/175-362967",
+        "timestamp": "15 Aug 2025",
+        "byline": "முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த,",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "67d267b883f9012d15e3a1daab7b9760ae0c1992f5621f3559ced5f247cc1418"
+      },
+      {
+        "title": "குழந்தைகளில் 63 சதவீதத்தினருக்கு பல் சொத்தை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/குழந்தைகளில்-63-சதவீதத்தினருக்கு-பல்-சொத்தை/175-362966",
+        "timestamp": "15 Aug 2025",
+        "byline": "பாலர் பாடசாலை குழந்தைகளில் 63 சதவீதத்தினருக்கு பல் சொத்தை ...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e5bf0fe377685d12568b123b40afd5de7c8c1e099a9979ae976a5a75adc25e7d"
+      },
+      {
+        "title": "நாயும் பலி: இளைஞனும் மரணம்",
+        "url": "https://www.tamilmirror.lk/மலையகம்/நாயும்-பலி-இளைஞனும்-மரணம்/76-362965",
+        "timestamp": "15 Aug 2025",
+        "byline": "நாயொன்று பலியான நிலையில், 26 வயதான இளைஞன் மரணமடைந்த...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "d33443f7200bd2881742a348156b774892273da8e5c4d1fc197c0f3f50fa51be"
+      },
+      {
+        "title": "பஸ் இயந்திரத்தில் யூரியா போட்டவருக்கு வலை",
+        "url": "https://www.tamilmirror.lk/மலையகம்/பஸ்-இயந்திரத்தில்-யூரியா-போட்டவருக்கு-வலை/76-362964",
+        "timestamp": "15 Aug 2025",
+        "byline": "இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸின் இயந்திரத்தில்...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "0598df108a172ccffb245d69379560cf840620942878828ceaea71dc89d0d31a"
+      },
+      {
+        "title": "அமெரிக்காவின்  சான்டா பாப்ரா கொழும்புக்கு வருகிறது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவின்-சான்டா-பாப்ரா-கொழும்புக்கு-வருகிறது/175-362961",
+        "timestamp": "15 Aug 2025",
+        "byline": "கொழும்புத் துறைமுகத்திற்கு யுஎஸ்எஸ் சான்டா பாப்ரா வருகைதரும்...",
+        "isoTimestamp": "2025-08-16T20:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "eb18a33c1c0facef779a70fa3200dab2d1de70158ebf002fb9ae534443113326"
+      }
+    ]
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "සෙලෙන්ස්කි හා ට්‍රම්ප් අතර හමුවක් සඳුදා වොෂින්ටනයේදී",
+        "url": "https://www.ada.lk/international/සෙලෙන්ස්කි-හා-ට්‍රම්ප්-අතර-හමුවක්-සඳුදා-වොෂින්ටනයේදී/3-417942",
+        "timestamp": "16 08 2025 18:56:00",
+        "byline": "යුක්රේන යුද්ධය නිමා කිරීමේ තවත් එක් පියවරක් වශයෙන් යුක්රේන ජනපති වි. ‍සෙලෙන්ස්කි හා ඇමෙරිකා ජනපති ඩොනල්ඩ් ට්‍රම්ප් අතර හමුවක් සඳුදා වොෂින්ටනයේදී පැවැත්වීමට නියමිතව තිබේ.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4cd588ced91cdf35ee230434d569d9a55e48a406d94bfed1afa92d0020da0c58"
+      },
+      {
+        "title": "බණ්ඩාරවෙල රෝහල මූලික රෝහලක් ලෙස උසස් කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/බණ්ඩාරවෙල-රෝහල-මූලික-රෝහලක්-ලෙස-උසස්-කෙරේ/11-417941",
+        "timestamp": "16 08 2025 15:41:00",
+        "byline": "වත්මන් රජය රෝහල් වර්ගීකරණයේ ඉහළට ඔසවා තැබූ පළමු රෝහල බණ්ඩාරවෙල මුලික රෝහල බවත්, බදුල්ල ශික්ෂණ රෝහල ද සංවර්ධනය කරමින් ඉදිරියේ දී දිස්ත්‍රික්කයේ එක් රෝහලක් දිස්ත්‍රික් මහ රෝහලක් බවට පත්වීමේ වැඩි විභවතාවයක් පවතින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යවරයා පවසයි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d94f85ff927b9d5d9b67d9c35a12d62f3c0957f80c95c366c57a74e219f923db"
+      },
+      {
+        "title": "පුටින් හා ට්‍රම්ප් හමුවේ අවසන් එකඟතාවක් නෑ",
+        "url": "https://www.ada.lk/international/පුටින්-හා-ට්‍රම්ප්-හමුවේ-අවසන්-එකඟතාවක්-නෑ/3-417940",
+        "timestamp": "16 08 2025 12:37:00",
+        "byline": "රුසියාව හා යුක්රේනය අතර පවතින යුද්ධය අවසන් කිරීම සම්බන්ධයෙන් එකඟතාවයකට නොපැමිණියත් සාකච්ඡා ධනාත්මක බව රුසියානු ජනපති හා පැවැති සාකච්ඡාවෙන් අනතුරුව ඩොනල්ඩ් ට්‍රම්ප් පැවැසීය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8c826f5122eb6220ed3886ba0e46628da343ed0944b97a71d60aedc3db9c2f5c"
+      },
+      {
+        "title": "දඹුල්ලේ ජල මුලාශ්‍ර වලට කැලි කසල එක්ව රජරට අපවිත්‍ර වෙලා",
+        "url": "https://www.ada.lk/breaking_news/දඹුල්ලේ-ජල-මුලාශ්‍ර-වලට-කැලි-කසල-එක්ව-රජරට-අපවිත්‍ර-වෙලා/11-417939",
+        "timestamp": "16 08 2025 12:07:00",
+        "byline": "කලා වැව දක්වා ජලය ගලා බසිනා  තම්මන් ඇලේ ජලය  දඹුල්ල නගරයේදී  දැඩි දූෂණයකට ලක්ව ඇති බව දඹුල්ල මහ නගර සභාවේ මහජන සෞඛ්‍ය පරීක්ෂක යොහාන් අබේවික්‍රම මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0e549d4429af9e190569d2d0ae52880acbd166c2c2af3428e2df52f85b3a4e0f"
+      },
+      {
+        "title": "මොනරාගල වැලියායේදී බස් රථ දෙකක් ගැටී පුද්ගලයෙක් මරුට, 21ට තුවාල",
+        "url": "https://www.ada.lk/breaking_news/මොනරාගල-වැලියායේදී-බස්-රථ-දෙකක්-ගැටී-පුද්ගලයෙක්-මරුට--21ට-තුවාල/11-417938",
+        "timestamp": "16 08 2025 10:24:00",
+        "byline": "මොනරාගල සියඹලාණ්ඩුව මාර්ගයේ (පොතුවිල් මාර්ගයේ) වැලියාය ඉන්ධන පිරවුම් හල ආසන්නයේදී (16) වෙනිදා උදෑසන 06.10 ලංගම බස් රථයක් සහ පුද්ගලික මගී ප්‍රවාහන බස් රථයක් එකිනෙක ගැටී සිදුවූ රිය අනතුරකින් ලංගම බස් රථයේ රියැදුරු මිය ගොස් බස් රථ දෙකේම සිටි මගීන් 21 දෙනෙකු තුවාල ලබා ඇත.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "bc4863d5086069d2694fddd8c258e00605241d126b010aa4ca32ce924aaee2d2"
+      },
+      {
+        "title": "ඉන්දීය යුද නෞකා දෙකක් කොළඹට",
+        "url": "https://www.ada.lk/breaking_news/ඉන්දීය-යුද-නෞකා-දෙකක්-කොළඹට/11-417937",
+        "timestamp": "15 08 2025 20:11:00",
+        "byline": "ඉන්දියාව සහ ශ්‍රී ලංකාව අතර දොලොස් (12) වැනි වරට පැවැත්වෙන ද්විපාර්ශ්වික නාවික අභ්‍යාසය (SLINEX – 25) සඳහා සහභාගී වීම සඳහා, ඉන්දීය නාවික හමුදාවට අයත් ‘INS Jyoti’ සහ ‘INS Rana’ නෞකා කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකා, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4e76069b2df1973c8bc069e3f467ad52aa8b0e633b6527210bf44d5394b2bdf5"
+      },
+      {
+        "title": "කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයන් 1000ක් සවිබල ගැන්වීමට යයි",
+        "url": "https://www.ada.lk/breaking_news/කුඩා-හා-මධ්‍ය-පරිමාණ-ව්‍යවසායකයන්-1000ක්-සවිබල-ගැන්වීමට-යයි/11-417935",
+        "timestamp": "15 08 2025 18:59:00",
+        "byline": "ශ්‍රී ලංකාවේ කුඩා හා මධ්‍ය පරිමාණ ව්‍යවසායකයින් (SMEs) 1000 ක් සවිබල ගන්වමින් ව්‍යවසායකයින්ගේ දැනුම, කුසලතා, ඵලදායිතාව සහ අපනයන හැකියාව වර්ධනය කිරීමේ අරමුණ ඇතිව නවෝත්පාදනමය ව්‍යාපෘතියක් ක්‍රියාත්මක කිරීමට නියමිතයි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "89a089f83dd1814fe43315c176ac6926452a26e4a98ecc3a0a75b826b3de9fa1"
+      },
+      {
+        "title": "විනිමය පත්‍ර පනතට කථානායක සහතිකය",
+        "url": "https://www.ada.lk/breaking_news/විනිමය-පත්‍ර-පනතට-කථානායක-සහතිකය/11-417936",
+        "timestamp": "15 08 2025 16:11:00",
+        "byline": "විනිමය පත්‍ර (සංශෝධන) පනත් කෙටුම්පත  සඳහා ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 79 ව්‍යවස්ථාව ප්‍රකාරව   ගරු කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න  මහතා  අද ( 15) සිය සහතිකය සටහන් කළේය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "47bffa9dddded73cbb833b523a7fed73577300e39632951403faa51b8a628526"
+      },
+      {
+        "title": "එකම පවුලේ හත් දෙනෙක් ගමන් ගත් ත්‍රී රෝද රථයක් අනතුරක",
+        "url": "https://www.ada.lk/breaking_news/එකම-පවුලේ-හත්-දෙනෙක්-ගමන්-ගත්-ත්‍රී-රෝද-රථයක්-අනතුරක/11-417934",
+        "timestamp": "15 08 2025 14:39:00",
+        "byline": "කතරගම වන්දනාවේ ගොස් ආපසු බදුල්ල බලා එමින්  සිටි එකම පවුලේ පිරිසක් ගමන් ගත් ත්‍රිරෝද රථයක් ඇල්ල වැල්ලවාය ප්‍රධාන මාර්ගයේ රාවණා ඇල්ල 12 කනුව ප්‍රදේශයේ දී ඊයේ (14) පස්වරුවේ ඉදිරියෙන් පැමිණි මෝටර් රථයක ගැටීමෙන් එකම පවුලේ මව, පියා,  දරුවන් පස්දෙනෙකු සහ මෝටර් රථයේ රියදුරු තුවාල ලබා බණ්ඩාරවෙල , දියතලාව , බදුල්ල ශික්ශන රෝහලට ඇතුලත් කල බව ඇල්ල පොලිසිය පවසයි .",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6e5de206ba86d769446b762615de7c4035137fb56f1909a8170f473e12d58540"
+      },
+      {
+        "title": "ජනපති හා ඉන්දීය අගමැති විවෘත කළ දඹුල්ල ගබඩාවේ විදුලිය කපලා",
+        "url": "https://www.ada.lk/breaking_news/ජනපති-හා-ඉන්දීය-අගමැති-විවෘත-කළ-දඹුල්ල-ගබඩාවේ-විදුලිය-කපලා/11-417933",
+        "timestamp": "15 08 2025 13:45:00",
+        "byline": "ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහ ජනපති අනුර කුමාර දිසානායක මහතා පසුගිය අප්‍රේල් මස පස් වැනිදා විවෘත කළ උෂ්ණත්ව පාලිත  කෘෂිකර්ම ගබඩාවේ සේවා ආරම්භ කිරීමටත් මත්තෙන් එහි රුපියල් අසූ හතර ලක්ෂ නව දහසකට අධික මුදලක් ගෙවීම් පැහැර හැරීම නිසා විදුලිය විසන්ධි කොට ඇති බව ‍ පාර්ලිමේන්තුවේ හිටපු මන්ත්‍රීවරුන් පිරිසක් 15 දින අවරණය කර ගන්නා ලදී.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "653f963f1456fd1e8aa36b7cb94a210001f7524f24a75bff712678bb2cc562ec"
+      },
+      {
+        "title": "ලොහාන් රත්වත්තේ ජීවිතක්ෂයට",
+        "url": "https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-ජීවිතක්ෂයට/11-417932",
+        "timestamp": "15 08 2025 12:47:00",
+        "byline": "මහනුවර හිටපු පාර්ලිමේන්තු මන්ත්‍රී සහ හිටපු නියෝජ්‍ය අමාත්‍ය ලොහන් රත්වත්තේ මහතා කොළඹ පෞද්ගලික රෝහලක ප්‍රතිකාර ලබමින් සිටියදී අද (15) පෙරවරු අභාවප්‍රාප්ත වී තිබේ.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "bf5eb292fae63750e88681b66762eb8565e9595387f8efa464cf2b8b2b3cbc08"
+      },
+      {
+        "title": "කටුනායක ගුවන්තොටේ ආරක්ෂකයෙකුගේ නිවසින් ගිනි අවි හා තියුණු ආයුධ සොයා ගනියි",
+        "url": "https://www.ada.lk/breaking_news/කටුනායක-ගුවන්තොටේ-ආරක්ෂකයෙකුගේ-නිවසින්-ගිනි-අවි-හා-තියුණු-ආයුධ-සොයා-ගනියි/11-417931",
+        "timestamp": "15 08 2025 12:06:00",
+        "byline": "කටුනායක ගුවන් තොටුපොළේ ආරක්ෂකයෙක් ලෙස සේවය කරන පුද්ගලයෙකුගේ නිවසක් පරීක්ෂා කිරීමේදී ගිනි අවි, ජීව උණ්ඩ හා තියුණු ආයුධ කිහිපයක් අත්අඩංගුවට ගැනිමට හැකිවූ බව පොලිස් මූලස්ථානය කියයි. පොලීසියට ලද තොරතුරක් අනුව මෙම වැටලීම සිදුකර තිබේ.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0660aa5592c9bd6146a9403eebe87214ce496c61f923393e97d6c21d3413d75b"
+      },
+      {
+        "title": "නානුඔය දුම්රිය ස්ථානය කඩිනමින් නවීකරණය කරනවා",
+        "url": "https://www.ada.lk/breaking_news/නානුඔය-දුම්රිය-ස්ථානය-කඩිනමින්-නවීකරණය-කරනවා/11-417930",
+        "timestamp": "15 08 2025 10:18:00",
+        "byline": "නානුඔය දුම්රිය ස්ථානය පෞද්ගලික අංශයේද සහයෝගය ඇතිව නවීකරණය කඩිනම් ආරම්භ කරන බව ප්‍රවාහන, මහාමාර්ග සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1164acbf91dc181b6ee59018cba3a890e212cc1198321a286a78e841482894e5"
+      },
+      {
+        "title": "වන්දනා බස් රථයක් ලොරියක ගැටී 10කට තුවාල",
+        "url": "https://www.ada.lk/uncategorized/වන්දනා-බස්-රථයක්-ලොරියක-ගැටී-10කට-තුවාල/1-417929",
+        "timestamp": "15 08 2025 09:25:00",
+        "byline": "බදුල්ල මහියංගන ප්‍රධාන මාර්ගයේ දුන්හිඳ වංගුව අසල දී අද (15) උදෑසන වන්දනා බස් රථයක් මාර්ගය අසල නවතා තිබු ලොරියක ගැටීමෙන් දසදෙනකු තුවාල ලබා බදුල්ල ශික්ශන රෝහලට ඇතුලත් කල බව බදුල්ල පොලිසිය පවසයි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3735f2d473f027d82da81b9d7f3f0b630627e397b5a533f8ff31b086da3b80ff"
+      },
+      {
+        "title": "උතුරේ ආර්ථික මධ්‍යස්ථාන සහ සමූපකාර අලුත්වැඩියා කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/උතුරේ-ආර්ථික-මධ්‍යස්ථාන-සහ-සමූපකාර-අලුත්වැඩියා-කෙරේ/11-417928",
+        "timestamp": "15 08 2025 08:34:00",
+        "byline": "අතහැර දමා ඇති හා නවීකරණයට ලක් කළ යුතුව තිබෙන උතුරු පළාත තුළ ඇති ආර්ථික මධ්‍යස්ථාන සහ සමූපකාර ව්‍යාපාරය අලුත් වැඩියා කර කඩිනමින් ප්‍රයෝජනයට ගැනීමට වෙළෙඳ,වාණජ,ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍යාංශය සැලසුම් කර තිබේ.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c7b0e68ae35cdc850f5a7280ed7d34d9362e13e030451371c96ac666871d805f"
+      },
+      {
+        "title": "2025දී වෙඩි තැබීම් 82 ක්",
+        "url": "https://www.ada.lk/breaking_news/2025දී-වෙඩි-තැබීම්-82-ක්/11-417926",
+        "timestamp": "15 08 2025 07:29:00",
+        "byline": "මෙම වසරේ මේ දක්වා දිවයින පුරා වෙඩිතැබීම් 82 ක් වාර්තා වී ඇතැයි පොලිස් මූලස්ථානය කියයි. පෙරේදා (13) රාත්‍රී විනාඩි 20 ක් තුළ හංවැල්ලේ සහ මීගොඩදී වෙඩි තැබීම් දෙකක් සිදුව ඇත. මේ වන විට පුද්ගලයන් 44 දෙනෙක් මියගොස් තවත් පුද්ගලයන් 48 දෙනෙකු තුවාල ලබා ඇත.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0f0317dfaad262de564c301c867a832ca2080c69a6809034187e0a96ca3fcc1e"
+      },
+      {
+        "title": "නන්දිමිත්‍ර වසර තුනකට පසු ආයෙත් සේවයට",
+        "url": "https://www.ada.lk/breaking_news/නන්දිමිත්‍ර-වසර-තුනකට-පසු-ආයෙත්-සේවයට/11-417927",
+        "timestamp": "14 08 2025 22:25:00",
+        "byline": "වසර තුනකට වඩා කාලයක් සේවයෙන් ඉවත් කර තිබු නන්දිමිත්‍ර ටග් යාත්‍රාව අලුත් වැඩියා කටයුතු සිදුකර  යළි සේවයට එක් කිරිම |අද(14) සිදුවු බව ප්‍රවාහන,මහාමාර්ග,වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යාංශය. සදහන් කරයි",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ae402a98af62e8a93ea9b66b8aacb95fe80fb986b857f359b76017b82a4ba1db"
+      },
+      {
+        "title": "බැංකුවකින් රු.කෝටි 9ක්  වංචා කළ සහකාර කළමනාකරු දැලේ",
+        "url": "https://www.ada.lk/breaking_news/බැංකුවකින්-රු-කෝටි-9ක්--වංචා-කළ-සහකාර-කළමනාකරු-දැලේ/11-417925",
+        "timestamp": "14 08 2025 21:24:00",
+        "byline": "අනුරාධපුරයේ පිහිටි පෞද්ගලික බැංකුවකින් රුපියල් කෝටි 9ක මුදලක් වංචා කළ පුද්ගලයෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ වාණිජ අපරාධ විමර්ශන අංශය මගින් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පවසයි..",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d420c3d2f6803cf2545eb0421b0c48cb7aa9b26a4c6bfbc8a6a5c0c2866b359e"
+      },
+      {
+        "title": "කොළඹ රජයේ මහල් නිවාස සංකීර්ණ ප්‍රතිසංවර්ධන කරයි",
+        "url": "https://www.ada.lk/breaking_news/කොළඹ-රජයේ-මහල්-නිවාස-සංකීර්ණ-ප්‍රතිසංවර්ධන-කරයි/11-417923",
+        "timestamp": "14 08 2025 20:31:00",
+        "byline": "කොළඹ දිස්ත්‍රික්කයේ වසර 40කට වඩා පැරණි රජයේ මහල් නිවාස සංකීර්ණ ලබන වසරේදී ප්‍රතිසංවර්ධනය කිරීමට සැළසුම් කර ඇති බව ජාතික නිවාස සංවර්ධන අධිකාරියේ නිලධාරීහු පැවැසුහ. ඒ යටිතල පහසුකම් සහ උපායමාර්ගික සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී එස්.එම් මරික්කාර් මහතාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1c08cbafbb9a195e33ddf096437827c41a1a57bf882f2ebac35a10b0e2210bff"
+      },
+      {
+        "title": "ලංගම බස් රථයේ එංජිමට යූරියා පොහොර දාලා",
+        "url": "https://www.ada.lk/breaking_news/ලංගම-බස්-රථයේ-එංජිමට-යූරියා-පොහොර-දාලා/11-417922",
+        "timestamp": "14 08 2025 19:41:00",
+        "byline": "නුවරඑලිය ඩිපෝවට අයත් ගාල් කර තිබූ ලංගම බස් රථයේ එන්ජිමට යූරියා පොහොර දැමූ පුද්ගලයා අත්අඩංගුවට ගැනීමට නුවරඑලිය හයිෆොරස්ට් පොලිසිය මගින් විමර්ෂණයක් ආරම්භ කර ඇත.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "17819052ef68f9ed7f912956ab86d9c1ef79bea2d97db446b0cb1d65c808dfec"
+      },
+      {
+        "title": "අගෝස්තු ජාතික මව්කිරි දීමේ මාසය වෙයි",
+        "url": "https://www.ada.lk/breaking_news/අගෝස්තු-ජාතික-මව්කිරි-දීමේ-මාසය-වෙයි/11-417921",
+        "timestamp": "14 08 2025 18:57:00",
+        "byline": "උපතින් පසු පළමු පැය තුළ මව්කිරි දීම කඩිනමින් ආරම්භ කිරීම, පළමු මාස හය තුළ දී මව්කිරි පමණක්ම ලබා දීම, වයසට නිසි අමතර ආහාර සමග ළදරුවාට අවුරුදු 2 ක් හෝ වැඩි කාලයක් මව්කිරි දීම, මව්කිරි දීමේ ජාතික නිර්දේශ වේ.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1f79f8fe72c17fbaffca66b98e8413c711b2169041d13af3dc08a1f5f62a8baa"
+      },
+      {
+        "title": "සූදු නියාමන අධිකාරි පනතට මුදල් කාරක සභාවේ අනුමතිය",
+        "url": "https://www.ada.lk/breaking_news/සූදු-නියාමන-අධිකාරි-පනතට-මුදල්-කාරක-සභාවේ-අනුමතිය/11-417920",
+        "timestamp": "14 08 2025 18:01:00",
+        "byline": "සූදු නියාමන අධිකාරිය පිහිටුවීම සඳහා වූ පනත් කෙටුම්පතට රජයේ මුදල් පිළිබඳ කාරක සභාවේ අනුමතිය හිමි විය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "42e1c28beac99046ba792f3c689c4fa40e3fe685e04924e91be9f3d424538a23"
+      },
+      {
+        "title": "හෙරොයින් ළඟ තබාගත් හිමිනමක් සහ සැකකරුවකු අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/හෙරොයින්-ළඟ-තබාගත්-හිමිනමක්-සහ-සැකකරුවකු-අත්අඩංගුවට/11-417919",
+        "timestamp": "14 08 2025 17:19:00",
+        "byline": "හෙරොයින් මත්ද්‍රව්‍ය සන්තකයේ ළඟ තබාගත් හිමිනමක් ඇතුළු සැකකරුවෙකු පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන  අංශය මගින් අද (14) අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "064d7638d2a7e6ee609f6aae231a2b626a30df897d32a41d607ed423649f8a0b"
+      },
+      {
+        "title": "අස්වැසුම මුදල හෙට බැංකු ගිණුම් වෙත",
+        "url": "https://www.ada.lk/breaking_news/අස්වැසුම-මුදල-හෙට-බැංකු-ගිණුම්-වෙත/11-417918",
+        "timestamp": "14 08 2025 16:39:00",
+        "byline": "සුබසාධක ප්‍රතිලාභ මණ්ඩලය විසින් 2025 අගෝස්තු මසට අදාළ අස්වැසුම ප්‍රතිලාභීන්ගේ දීමනාව 2025 අගෝස්තු \nමස 15 දින අස්වැසුම ප්‍රතිලාභීන්ගේ බැංකු ගිණුම් වෙත බැර කිරීමට කටයුතු කරන බව එම මණ්ඩලය පවසයි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "297fa3509daa74ce190e5ed8eb036222544514fe4255153a3c6e994bf53ae4f7"
+      },
+      {
+        "title": "ලක්ෂ 140ක අල්ලස් ගත් එස්.එස්.පී. සතීෂ් ගමගේ රිමාන්ඩ්",
+        "url": "https://www.ada.lk/breaking_news/ලක්ෂ-140ක-අල්ලස්-ගත්-එස්-එස්-පී--සතීෂ්-ගමගේ-රිමාන්ඩ්/11-417917",
+        "timestamp": "14 08 2025 15:56:00",
+        "byline": "මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ගෙන් හා සංවිධානාත්මක අපරාධකරුවන්ගෙන් රුපියල් ලක්ෂ 140ට අධික අල්ලස් ලබා ගැනීමේ චෝදනා යටතේ අත්අඩංගුවට පත්  පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේ සංස්කෘතික අංශයේ, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි සතිෂ් ගමගේ මහතා ලබන 19 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "27ec635b8d41396c83b1a3ab104ba3e2b54259271ecaa03dca7db09a19ba1bbe"
+      },
+      {
+        "title": "ලංකා බැංකුවේ හා අයි.ටී.එන්. නව සභාපතිවරුන්ට අනුමැතිය",
+        "url": "https://www.ada.lk/breaking_news/ලංකා-බැංකුවේ-හා-අයි-ටී-එන්--නව-සභාපතිවරුන්ට-අනුමැතිය/11-417915",
+        "timestamp": "14 08 2025 15:41:00",
+        "byline": "එමෙන්ම, ලංකා බැංකුවේ නව සභාපතිවරයා ලෙස කාවින්ද ද සොයිසා මහතා, සී/ස ස්වාධීන රූපවාහිනී මාධ්‍ය ජාලයේ නව සභාපතිවරයා ලෙස ප්‍රියන්ත වෙදමුල්ල මහතා, සීමාසහිත හොටෙල් ඩිවලොපර්ස් (ලංකා) සමාගමේ නව සභාපතිවරයා ලෙස ප්‍රවීර් ඩී. සමරසිංහ මහතා සහ මධ්‍යම ඉංජිනේරු උපදේශන කාර්යාංශයේ නව සභාපතිවරයා ලෙස ජයතිස්ස අනත්ත පතිරණගේ මහතා යන මහත්වරුන්ගේ පත්වීම්ද උසස් නිලතල පිළිබඳ කාරක සභාව විසින් අනුමත කර ඇත.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "70a6f02e867c900866eea99275debf29e01d0095b4a0d87f9ce9e80613e3feb8"
+      },
+      {
+        "title": "මාතලේ නගරාධිපතිගේ නිල වාහනයේ මාසික ධාවනය කිමි. 5000 සිට 500ට අඩු කරයි",
+        "url": "https://www.ada.lk/breaking_news/මාතලේ-නගරාධිපතිගේ-නිල-වාහනයේ-මාසික-ධාවනය-කිමි--5000-සිට-500ට-අඩු-කරයි/11-417914",
+        "timestamp": "14 08 2025 14:59:00",
+        "byline": "මීට පෙර මාතලේ මහ නගර සභාවේ නගරාධිපතිවරයා ⁣ගේ නිල වාහනයේ ධාවනය මසකට කි.මි.5000ක් වුවත් වත්මන් නගරාධිපති ධුරයට පත්වීමෙන් පසුවෙන් ජුලි මාසයේදී ධාවනය කර ඇති කිලෝමිටර් ප්‍රමාණය කි.මි.274 ක් බව මාතලේ  මහ නගර සභාව පවසයි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0133ec93d9dd6a4dc3b18d1726faf89343653a11eaaefd6917dd81326b6441ab"
+      },
+      {
+        "title": "ගැටලාව වැවෙන් T5  ජීව උණ්ඩ  5038 ක් හමුවෙයි",
+        "url": "https://www.ada.lk/breaking_news/ගැටලාව-වැවෙන්-T5--ජීව-උණ්ඩ--5038-ක්-හමුවෙයි/11-417912",
+        "timestamp": "14 08 2025 14:02:00",
+        "byline": "ගලෙන්බිදුණුවැව පොලිස් ස්ථානයට ලඳ තොරතුරකට අනුව ගැටලාව ගම්මානයේ පිහිටි ගැටලාව වැවෙන් T56 වර්ගයේ  ජීව උණ්ඩ  5038 ක් සොයාගැනීමට හැකිවූ බව ගලෙන්බිදුණුවැව පොලීසිය කියයි.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2e6003c811b1fdbc708231e0c6e8856629bfaf5457ef43a5012f1df23bd5aae6"
+      },
+      {
+        "title": "ඉතාලි මුහුදේදී සංක්‍රමණිකයන් රැගත් බෝට්ටුවක් පෙරළෙයි",
+        "url": "https://www.ada.lk/international/ඉතාලි-මුහුදේදී-සංක්‍රමණිකයන්-රැගත්-බෝට්ටුවක්-පෙරළෙයි/3-417911",
+        "timestamp": "14 08 2025 13:18:00",
+        "byline": "ඉතාලියේ ලැම්පෙදුසා දූපතට ඔබ්බෙන් වූ ජාත්‍යන්තර මුහුදේදී සංක්‍රමණිකයන් 100 කට ආසන්න සංඛ්‍යාවක් රැගත් බෝට්ටුවක් පෙරළීමෙන් අවම වශයෙන් පුද්ගලයින් 26 දෙනෙකු මිය ගොස් 10කට වාඩ අතුරුදහන්ව ඇති බව ඉතාලි වෙරළාරක්ෂක සහ එක්සත් ජාතීන්ගේ සරණාගතයන් පිළිබඳ ආයතනය පැවසීය.",
+        "isoTimestamp": "2025-08-16T20:44:49+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "25ba99e78c4f83f25704502f95fe8f50db7a20fb5eb108b28224f2af2e2bbfdd"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka trains state officers on use of AI",
+        "url": "https://economynext.com/sri-lanka-trains-state-officers-on-use-of-ai-236652/",
+        "timestamp": "August 16, 2025",
+        "byline": "To transform the public service into 'a productive and efficient service'",
+        "isoTimestamp": "2025-08-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ee64c860ffdf3e166d1054cbe46a13c331ce968174a35355adc8df2c750212ed"
+      },
+      {
+        "title": "Sri Lanka services activity rose in July, driven by trade, finance, and transportation",
+        "url": "https://economynext.com/sri-lanka-services-activity-rose-in-july-driven-by-trade-finance-and-transportation-236669/",
+        "timestamp": "August 16, 2025",
+        "byline": "Driven by an increase in lending activities, and activities related to goods transportation",
+        "isoTimestamp": "2025-08-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "697b7eb7c61cfa049aac8f4712c5555bd8981bc2e586b2c33bfaaf1f5b08afe6"
+      },
+      {
+        "title": "Sri Lanka's CEB makes Rs5.3bn profit in June quarter, Rs13bn loss in 1H",
+        "url": "https://economynext.com/sri-lankas-ceb-makes-rs5-3bn-profit-in-june-quarter-rs13bn-loss-in-1h-236798/",
+        "timestamp": "August 16, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-08-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ccdfa27f515a16fdfe06a5823523640bd75f515a0a83a6844c9f5fe4969ea614"
+      },
+      {
+        "title": "Sri Lanka manufacturing boosted by food, beverages, textiles and apparel production: PMI",
+        "url": "https://economynext.com/sri-lanka-manufacturing-boosted-by-food-beverages-textiles-and-apparel-production-pmi-236658/",
+        "timestamp": "August 16, 2025",
+        "byline": "Manufacturing sector expanded at a higher rate to 62.2 in July 2025",
+        "isoTimestamp": "2025-08-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d4671a2e7a66c5bd32ec5f8761811cf3642cad784c0e686ee51c60971a674298"
+      },
+      {
+        "title": "Putin praises Trump, raising hopes of avoiding secondary tariffs on India",
+        "url": "https://economynext.com/putin-praises-trump-raising-hopes-of-avoiding-secondary-tariffs-on-india-236692/",
+        "timestamp": "August 16, 2025",
+        "byline": "Putin claims he would not have invaded Ukraine under a Trump presidency",
+        "isoTimestamp": "2025-08-16T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a3ed9b94904ef803d84be12ded13b446afd5bf79379d922be432af14a35e70d4"
+      },
+      {
+        "title": "Sri Lanka GDP to grow 4.5-pct in 2025, central bank says as 'reflation' looms",
+        "url": "https://economynext.com/sri-lanka-gdp-to-grow-4-5-pct-in-2025-central-bank-says-as-reflation-looms-236584/",
+        "timestamp": "August 15, 2025",
+        "byline": "Reflation promised",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "170adcc5442a3c8b4365b766bb3929495a528e0c9dd627bec431a9f5c829a07c"
+      },
+      {
+        "title": "Sri Lanka may call for tenders for Indian Adani-withdrawn wind power plants",
+        "url": "https://economynext.com/sri-lanka-may-call-for-tenders-for-indian-adani-withdrawn-wind-power-plants-236578/",
+        "timestamp": "August 15, 2025",
+        "byline": "Adani group withdrew from wind power projects in February this year",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4ca504a024a6d13107f4483acb5c07c24ece1c1937c7248cc0006d540348f043"
+      },
+      {
+        "title": "Sri Lanka rupee stronger against dollar, bond yields edge up on short tenors",
+        "url": "https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-edge-up-on-short-tenors-236568/",
+        "timestamp": "August 15, 2025",
+        "byline": "Rupee appreciated",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ed4966eb7fc79750846dd6b79b103c50facbdd8ba7338c797c7aa44651448cd6"
+      },
+      {
+        "title": "Sri Lanka’s central bank extends Pan Asia primary dealer ban for further 6 months",
+        "url": "https://economynext.com/sri-lankas-central-bank-extends-pan-asia-primary-dealer-ban-for-further-6-months-236572/",
+        "timestamp": "August 15, 2025",
+        "byline": "The six-month ban is extended with effect from August 15.",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6201167df5c3a2494e558c4925e5ce3a2c1c699de9c588a16238a958eeeaacf2"
+      },
+      {
+        "title": "Sri Lanka stocks close up 1.45-pct driven by banks",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-1-45-pct-driven-by-banks-236541/",
+        "timestamp": "August 15, 2025",
+        "byline": "Market turnover was 9.5 billion rupees. Most of this came from bank, capital good, and diversified finance stocks",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ca7a50b79993a9496a9e21c6edf16ecc5f86404f09adf8964f5ce3adca59e45a"
+      },
+      {
+        "title": "Voyage Sri Lanka 2025 to focus on boosting blue economy",
+        "url": "https://economynext.com/voyage-sri-lanka-2025-to-focus-on-boosting-blue-economy-236502/",
+        "timestamp": "August 15, 2025",
+        "byline": "Panel discussions to focus on offshore oil & gas exploration, Trincomalee, and boat building and nautical tourism",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bcc7d3a190ebb99b6b79dc9a2f436443d5f80bac89f6e890050cc0078a45cf18"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs10.3bn Treasury bills after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs10-3bn-treasury-bills-after-auction-236475/",
+        "timestamp": "August 15, 2025",
+        "byline": "Bringing the total of bills sold this week to 113.8 billion rupees.",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9175f8cc50d55c44838d91b2a92ca59318644bc2fd8083a98e08d662c342a5b0"
+      },
+      {
+        "title": "US combat ship to arrive in Colombo after visits of Indian navy tanker, destroyer",
+        "url": "https://economynext.com/us-combat-ship-to-arrive-in-colombo-after-visits-of-indian-navy-tanker-destroyer-236460/",
+        "timestamp": "August 15, 2025",
+        "byline": "India, US have increased frequency of naval ship visits to Sri Lanka amid growing Chinese influence",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "31d274b307c4ca7e197644786e64056741ea5720f7f109484f65492a353d8c7f"
+      },
+      {
+        "title": "US envoy calls for reducing Sri Lanka non-tariff barriers",
+        "url": "https://economynext.com/us-envoy-calls-for-reducing-sri-lanka-non-tariff-barriers-236451/",
+        "timestamp": "August 15, 2025",
+        "byline": "US ambassador met Ceylon Chamber of Commerce officials",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5cbb5abe4461732bb217552649e60dc49f16fe8b22e51225be93d0bc97992a02"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-236442/",
+        "timestamp": "August 15, 2025",
+        "byline": "Bond yields were broadly steady except for the 2033 tenor",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "16a03294f0d0da489134c604843c9319c88ffb57329c0ed21581bf5177fd9bc9"
+      },
+      {
+        "title": "Sri Lanka's chicken egg farmers shrink flocks, day-old chick prices cut",
+        "url": "https://economynext.com/sri-lankas-chicken-egg-farmers-shrink-flocks-day-old-chick-prices-cut-236419/",
+        "timestamp": "August 15, 2025",
+        "byline": "The decline was mainly caused by reduced inputs by farmers at the beginning of the quarter",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "497ae8aea7c6da21c0258fd43d613f2e9c0c2cc287b89f1b603629f51f6094a3"
+      },
+      {
+        "title": "Sri Lanka's Bank of Ceylon net up 163-pct in June",
+        "url": "https://economynext.com/sri-lankas-bank-of-ceylon-net-up-163-pct-in-june-236407/",
+        "timestamp": "August 15, 2025",
+        "byline": "Profits helped by strong net interest income growth",
+        "isoTimestamp": "2025-08-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5d1e7aa67ef3e2bd05cd85c59654646e1f045ff5507859441f3c3c066a03490f"
+      },
+      {
+        "title": "Sri Lanka's Commercial Bank net up 101-pct in June quarter",
+        "url": "https://economynext.com/sri-lankas-commercial-bank-net-up-101-pct-in-june-quarter-236386/",
+        "timestamp": "August 14, 2025",
+        "byline": "Last year's provisions were high due to ISBs",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3cfad16762bc398255ccfa6aa4ebd470bb708ddae73a98d5a589ed75ffd6e36e"
+      },
+      {
+        "title": "Sri Lanka's NDB net down 6-pct in June quarter",
+        "url": "https://economynext.com/sri-lankas-ndb-net-down-6-pct-in-june-quarter-236393/",
+        "timestamp": "August 14, 2025",
+        "byline": "Loans and advances grow 21-pct",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "10598fd94d99ecca51fcfa9530f21b7649e02dc7d250b996607ce4ca5e6cd177"
+      },
+      {
+        "title": "Sri Lanka sees US$29mn foreign buying in rupee bonds",
+        "url": "https://economynext.com/sri-lanka-sees-us29mn-foreign-buying-in-rupee-bonds-236368/",
+        "timestamp": "August 14, 2025",
+        "byline": "Sri Lanka has seen around USD 130 mn worth inflows into rupee bonds through August 7",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "89b4cd0c409a90fd30805ade83b4921f1f9a4febe438b3643b1972675774fb82"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bonds adjust slightly",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-adjust-slightly-236370/",
+        "timestamp": "August 14, 2025",
+        "byline": "Rupee depreciated.",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3302a106d44f88f466c8000beb0e557fde8d4de39883c40c6b3f74f9d28bf5d0"
+      },
+      {
+        "title": "Sri Lanka Customs launches new documentation system to boost transparency",
+        "url": "https://economynext.com/sri-lanka-customs-launches-new-documentation-system-to-boost-transparency-236377/",
+        "timestamp": "August 14, 2025",
+        "byline": "Importers, exporters have long complained about delays caused by excessive paperwork, inconsistent procedures",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d29921dd05c43f1d3f2a1b516acd4f790ca745655be19433f84a1334aa7f34f4"
+      },
+      {
+        "title": "Sri Lanka rice, coconut production up; fish, tea and rubber down in June: CB",
+        "url": "https://economynext.com/sri-lanka-rice-coconut-production-up-fish-tea-and-rubber-down-in-june-cb-236360/",
+        "timestamp": "August 14, 2025",
+        "byline": "Paddy production forecasts for 2025 is estimated as 4.8 million metric tons,",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb3f9d10783d5007584e2a3a6f9cefa9b1677e9fdc02c52729c8565fbf7e1e20"
+      },
+      {
+        "title": "Estimating the economic cost of US tariffs on Sri Lanka",
+        "url": "https://economynext.com/estimating-the-economic-cost-of-us-tariffs-on-sri-lanka-236348/",
+        "timestamp": "August 14, 2025",
+        "byline": "Institute of Policy Studies of Sri Lanka (IPS) article",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "57f6c4ae2d709a9489b716a1e22a5ee24f26bbc0d38cc538ef65d6e237730497"
+      },
+      {
+        "title": "Sri Lanka stocks close down; PickMe, banks and financials boost turnover",
+        "url": "https://economynext.com/sri-lanka-stocks-close-down-pickme-banks-and-financials-boost-turnover-236331/",
+        "timestamp": "August 14, 2025",
+        "byline": "Market turnover was 7 billion rupees",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d59ef2e73eea6eedffc470dcce822c6d631b40962371267c95d382e90e3523b7"
+      },
+      {
+        "title": "Sri Lanka’s Sampath Bank net down 17-pct in June quarter",
+        "url": "https://economynext.com/sri-lankas-sampath-bank-net-down-17-pct-in-june-quarter-236323/",
+        "timestamp": "August 14, 2025",
+        "byline": "Taxes were in excess of 8.4 billion rupees in the quarter",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "64350901221a9871f7f49b35796958c50c3b49e09f921bd315ce078bd352918a"
+      },
+      {
+        "title": "Sri Lanka President suspends Mannar 50MW and 20MW wind plants for month",
+        "url": "https://economynext.com/sri-lanka-president-suspends-mannar-50mw-and-20mw-wind-plants-for-month-236300/",
+        "timestamp": "August 14, 2025",
+        "byline": "Following community objections",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "99e34c27ae98abab68b0ecc3579b1f41811c3fbbf28be2c857593bc69554a61e"
+      },
+      {
+        "title": "Sri Lanka's Parliament gets renovated by army",
+        "url": "https://economynext.com/sri-lankas-parliament-gets-renovated-by-army-236288/",
+        "timestamp": "August 14, 2025",
+        "byline": "Sri Lanka Army renovating Parliamentary Complex",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "84dd1c40749adc92e80f37df938070f38e31f4efa6ffd96ea67580b6f746455e"
+      },
+      {
+        "title": "Sri Lanka's Haycarb to merge subsidiary Ultracarb",
+        "url": "https://economynext.com/sri-lankas-haycarb-to-merge-subsidiary-ultracarb-236283/",
+        "timestamp": "August 14, 2025",
+        "byline": "Proposed amalgamation will financially and operationally benefit the Company",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5104de4afe0a6dccaf417d362fbc3c4b0c2045c10e08ae8d4d47175d223d3d5e"
+      },
+      {
+        "title": "Sri Lanka's Dipped Products leases factory from BoI for billion rupees",
+        "url": "https://economynext.com/sri-lankas-dipped-products-leases-factory-from-boi-for-billion-rupees-236272/",
+        "timestamp": "August 14, 2025",
+        "byline": "Aimed at enhancing DPL's production capacity",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "148266a17afddccf71e079d1b0c8fd75ae5ae018cb68c3ce6acda7732880b663"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bonds-steady-236259/",
+        "timestamp": "August 14, 2025",
+        "byline": "Stocks up",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9f6352c0b72ac67fa266ca8d08b446c76d77bd996aa4e9ffaa9b08000bc34ef8"
+      },
+      {
+        "title": "Sri Lanka central bank swaps rise as net foreign exchange reserves fall amid rate cuts",
+        "url": "https://economynext.com/sri-lanka-central-bank-swaps-rise-as-net-foreign-exchange-reserves-fall-amid-rate-cuts-236170/",
+        "timestamp": "August 14, 2025",
+        "byline": "Net foreign assets also fell for the first time in June",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b288a78ceef76a48de0873592938e431f324419dd541e8a8c0ad6b6ad44f24a9"
+      },
+      {
+        "title": "Sri Lanka Nations Trust Bank net up 11-pct in June quarter",
+        "url": "https://economynext.com/sri-lanka-nations-trust-bank-net-up-11-pct-in-june-quarter-236159/",
+        "timestamp": "August 14, 2025",
+        "byline": "Net fee and commission income edged up 1 percent to 2,049 billion rupees",
+        "isoTimestamp": "2025-08-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6d44fcb07723db4ce8bf9acd3b3af52a5b43c622236c0c2f5b2234440dbbf0a2"
+      },
+      {
+        "title": "Sri Lanka's Hatton National Bank net up 37-pct in June quarter",
+        "url": "https://economynext.com/sri-lankas-hatton-national-bank-net-up-37-pct-in-june-quarter-236153/",
+        "timestamp": "August 13, 2025",
+        "byline": "Provision reversals, rupee depreciation helps boost profits",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc9c782ab2830acb60aca8111962293aa031bb5e7861f9bca9bb5db942fe3bb7"
+      },
+      {
+        "title": "Sri Lanka sells more 12-month bills, yields flat",
+        "url": "https://economynext.com/sri-lanka-sells-more-12-month-bills-yields-flat-236017/",
+        "timestamp": "August 13, 2025",
+        "byline": "All offered 103.5 billion rupees of bills sold",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9a7beeab6c0ab6e456f3596ac9bde046e5194783ea2e968d385b87f30c221bbf"
+      },
+      {
+        "title": "Sri Lanka president to visit Japan, New York next month: Sources",
+        "url": "https://economynext.com/sri-lanka-president-to-visit-japan-new-york-next-month-sources-236141/",
+        "timestamp": "August 13, 2025",
+        "byline": "Japan visit will be President Anura Kumara Dissanayake's 7th official foreign visit since assumed office",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb113dc106b3262f3ada1c8907e8fc93ffe698e6392e9db99322b104e9e9a025"
+      },
+      {
+        "title": "Sri Lanka rupee stronger against dollar, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bonds-steady-236098/",
+        "timestamp": "August 13, 2025",
+        "byline": "Rupee appreciated",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2c51043b12d0b92c5da997f4772e72dc23b693889c9836c2e388b8057e968465"
+      },
+      {
+        "title": "Sri Lanka’s EDCM focuses on entering into new tariff deal in exports",
+        "url": "https://economynext.com/sri-lankas-edcm-focuses-on-entering-into-new-tariff-deal-in-exports-236100/",
+        "timestamp": "August 13, 2025",
+        "byline": "Sri Lanka has aimed at boosting its export earnings to more than double by 2030",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "74c6829ec72b1ae4ebd6ed31021f230363cf73f61806b5faebb19a9b027d2662"
+      },
+      {
+        "title": "Sri Lanka stocks close flat, S&P SL20 dips",
+        "url": "https://economynext.com/sri-lanka-stocks-close-flat-sp-sl20-dips-236069/",
+        "timestamp": "August 13, 2025",
+        "byline": "Turnover was 4.46 billion rupees",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "29ee163b9ef0044428eaa2869ba729c93a5c84cd324d163197c148154cf0a4e0"
+      },
+      {
+        "title": "Sri Lanka allows cannabis cultivation under strict regulations: Minister",
+        "url": "https://economynext.com/sri-lanka-allows-cannabis-cultivation-under-strict-regulations-minister-236026/",
+        "timestamp": "August 13, 2025",
+        "byline": "Investors will also have to renew the cultivation licences every six months",
+        "isoTimestamp": "2025-08-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4ce21837b642e5ff2723b310a6c64fe4853a25ee42ce167be9cee462b048bdab"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
