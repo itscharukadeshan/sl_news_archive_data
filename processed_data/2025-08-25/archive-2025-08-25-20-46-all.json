@@ -1,0 +1,1299 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "රෝහල් 20 කට අති නවීන ගිලන් රථ 20 ක්",
+        "url": "https://www.ada.lk/breaking_news/රෝහල්-20-කට-අති-නවීන-ගිලන්-රථ-20-ක්/11-418059",
+        "timestamp": "25 08 2025 18:51:00",
+        "byline": "ඇඹිලිපිටිය, නාවලපිටිය, මාතලේ, මීගමුව, ත්‍රිකුණාමලය, නුවරඑළිය, හලාවත, මොණරාගල, දඹුල්ල, හොරණ, යන දිස්ත්‍රික් මහ රෝහල් දහය සඳහා  ද පොළොන්නරුව, මඩකළපුව, බදුල්ල, අනුරාධපුර යන ශික්ෂණ රෝහල් සඳහා ද පොතුවිල්, කන්තලේ, අක්කරෙයිපත්තුව, දෙහිඅත්තකන්ඩිය, යන  මූලික රෝහල් සඳහා ද අම්පාර මහ රෝහලට සහ සීගිරිය රෝහලට ද මෙම අති නවීන  ගිලන් රථ 20 බෙදා දෙන ලදී.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c83bdb77731fd2122b481a057d79a0cd419d624e048ad9cfbee7012a96180052"
+      },
+      {
+        "title": "ධාවනයෙන් ඉවත් කල වාහන 60ක් වෙන්දේසියේ විකුණා රු. කෝටි 12ක් ‍උපයා ගනියි",
+        "url": "https://www.ada.lk/breaking_news/ධාවනයෙන්-ඉවත්-කල-වාහන-60ක්-වෙන්දේසියේ-විකුණා-රු--කෝටි-12ක්-‍උපයා-ගනියි/11-418058",
+        "timestamp": "25 08 2025 18:18:00",
+        "byline": "සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යාංශයට අයත් ධාවනයෙන් ඉවතකල අබලි වාහන 60ක් ප්‍රසිද්ධ වෙන්දේසියේ විකුණා රු දොලොස් කෝටි අටලක්ෂ හැත්තෑහත්දහසක මුදලක් (රු. 120,877,000.00) ක මුදලක් රජයේ අදායමට බැර කර ඇත.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "755fcb1e6975da0765c46bf7f9862453ca245cdb3f2494bf7504ef3b8d6b644b"
+      },
+      {
+        "title": "අස්වැසුම ඉල්ලා 62 හැවිරිදි කාන්තාවක් ගසකට නැඟලා",
+        "url": "https://www.ada.lk/breaking_news/අස්වැසුම-ඉල්ලා-62-හැවිරිදි-කාන්තාවක්-ගසකට-නැඟලා/11-418057",
+        "timestamp": "25 08 2025 17:31:00",
+        "byline": "මොනරාගල ප්‍රාදේශීය ලේකම් බල ප්‍රදේශයට අයත් වැඳිකුඹුර කවුඩාව ප්‍රදේශයේ පදිංචි 62  හැවිරිදි කාන්තාවක් (25) වෙනිදා මොනරාගල ප්‍රාදේශීය ලේකම් කාර්යාල පරිශ්‍රයේ පිහිටි ජම්බු ගසකට නැගී අස්වැසුම ලබාදෙන ලෙස ඉල්ලා විරෝධතාවයක නිරත වූවාය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a428717af0f56dcdae7b3dd47c2d1f43d4b135fa11dcc349661a99f3636d6dee"
+      },
+      {
+        "title": "නීති කොමිෂන් සභාවේ සභාපති ඇතුළු සාමාජිකයින්ට පත්වීම් දෙයි",
+        "url": "https://www.ada.lk/breaking_news/නීති-කොමිෂන්-සභාවේ-සභාපති-ඇතුළු-සාමාජිකයින්ට-පත්වීම්-දෙයි/11-418056",
+        "timestamp": "25 08 2025 17:11:00",
+        "byline": "අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශය යටතේ ඇති ශ්‍රී ලංකා නීති කොමිෂන් සභාවේ සභාපති ඇතුළු කොමිසමේ සාමාජිකයින් වෙත පත්වීම් ප්‍රදානය කිරීම අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ, හර්ෂණ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් අද පෙරවරුවේ (25) අධිකරණ අමාත්‍යාංශයේදී සිදුවිණි.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "323c98cacd6527be168b0b10d92266dc0b30f74c44a8046c1b1a316a6e73bd13"
+      },
+      {
+        "title": "හිටපු ජනාධිපතිවරුන්ගේ හිමකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අවසන්",
+        "url": "https://www.ada.lk/breaking_news/හිටපු-ජනාධිපතිවරුන්ගේ-හිමකම්-ඉවත්-කිරීමේ-පනත්-කෙටුම්පතට-එරෙහි-පෙත්සම්-විභාගය-අවසන්/11-418054",
+        "timestamp": "25 08 2025 16:10:00",
+        "byline": "විශ්‍රාමික ජනාධිපතිවරුන්ගේ හිමිකම් ඉවත් කිරීමේ පනත් කෙටුම්පතට එරෙහිව ඉදිරිපත් කළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි ව්‍යවස්ථානුකූලභාවය පිළිබඳ  ​ශ්‍රේෂ්ඨාධිකරණයේ නිගමනය  කථානායකවරයා වෙත යොමු කරන බව  අද (25දා) සඳහන් කර තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7ce5cad456b7f4dd20b8226235a67557a4f73dcbe0e43ab8ae61eea911655faf"
+      },
+      {
+        "title": "අධිකරණයට ඉදිරිපත් වූ හිටපු රාජ්‍ය ඇමති ඩයනාට ලැබුණු තීන්දුව මෙන්න",
+        "url": "https://www.ada.lk/breaking_news/අධිකරණයට-ඉදිරිපත්-වූ-හිටපු-රාජ්‍ය-ඇමති-ඩයනාට-ලැබුණු-තීන්දුව-මෙන්න/11-418053",
+        "timestamp": "25 08 2025 15:23:00",
+        "byline": "අත්අඩංගුවට ගැනීම සඳහා වරෙන්තු නිකුත් කර තිබූ හිටපු රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය සිය නීතිඥවරු මාර්ගයෙන් අධිකරණයට අද(25දා) ඉදිරිපත් වී තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "291eaabd2b29fe8fee9bb406b8810e66de96b5391ff0dfbee12bec0a30aa1e5c"
+      },
+      {
+        "title": "හිටපු ජනපති රනිල් අධිකරණයට ඉදිරිපත් කිරීමේ හැකියාව ගැන පැහැදිලි කිරීමක්",
+        "url": "https://www.ada.lk/breaking_news/හිටපු-ජනපති-රනිල්-අධිකරණයට-ඉදිරිපත්-කිරීමේ-හැකියාව-ගැන-පැහැදිලි-කිරීමක්/11-418052",
+        "timestamp": "25 08 2025 14:20:00",
+        "byline": "හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හෙට (26දා) අධිකරණයට ඉදිරිපත් කිරීම සම්බන්ධයෙන් වන අවසන් තීරණය ඔහුට ප්‍රතිකාර කරනු ලබන වෛද්‍ය මණ්ඩලයේ තීරණය අනුව සිදු කරන බව කොළඹ ජාතික රෝහලේ වැඩබලන අධ්‍යක්ෂ වෛද්‍ය ප්‍රදීප් විජේසිංහ මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9cc50d468c3e5a650f6051de1e1735910c010fe474b55a7f3dcd008e9d0b4e6c"
+      },
+      {
+        "title": "නාමල් රාජපක්ෂ නිතරගයෙන් රටේ ජනාධිපති කරනවා",
+        "url": "https://www.ada.lk/breaking_news/නාමල්-රාජපක්ෂ-නිතරගයෙන්-රටේ-ජනාධිපති-කරනවා/11-418051",
+        "timestamp": "25 08 2025 14:19:00",
+        "byline": "වත්මන් ජනාධිපතිවරයා ප්‍රමුඛ රජය  සමග සිටි සියලු රණවිරුවන් මේවන විට නාමල් රාජපක්ෂ මහතා වටා අත් වැල් බැද ගනිමින් සිටින බවත් වත්මන් ජනාධිපතිවරයා ප්‍රමුඛ ආණ්ඩුවට 2029 වර්ෂයේ නිතරගයෙන් නාමල් රාජපක්ෂ මහතා ජනාධිපති කරවන බවට තමා අභියෝග කරන බවත් විශ්‍රාමික රණවිරුවෙකු වූ ශ්‍රි ලංකා පොදුජන පෙරමුණේ කොට්ඨාස සංවිධායක එච්.එම් කීර්තිරත්න බණ්ඩාර මහතා පැවැසීය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c858a6f01511621d9e23a124de53fb5e3646e5dd0ea58f8921d42c5866cf6749"
+      },
+      {
+        "title": "මහින්දානන්දගේ හා නලීන්ගේ ඇප ඉල්ලීම කල් යයි",
+        "url": "https://www.ada.lk/breaking_news/මහින්දානන්දගේ-හා-නලීන්ගේ-ඇප-ඉල්ලීම-කල්-යයි/11-418050",
+        "timestamp": "25 08 2025 13:35:00",
+        "byline": "බරපතළ වැඩ සහිත සිර දඬුවම් නියම වී සිටින හිටපු අමාත්‍යවරුන් වන මහින්දානන්ද අලුත්ගමගේ සහ නලින් ප්‍රනාන්දු  ඉදිරිපත් කර තිබෙන අභියාචනයට යටත්ව තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ගොනු කර ඇති පෙත්සම් සැප්තැම්බර් මස 23 වනදා කරුණු තහවුරු කිරීම සඳහා කැඳවන ලෙස කොළඹ ත්‍රිපුද්ගල ස්ථිර මහාධිකරණ විනිසුරු මඩුල්ල අද (25) නියම කළේය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "415c15445918f97e8a3aecaefbd38bb9a5e82e12de74fdc38882114dbf8b89b0"
+      },
+      {
+        "title": "යතුරුපැදි රේස් පදින්න ගිහින් ජීවිතයෙන් වන්දි ගෙවයි",
+        "url": "https://www.ada.lk/breaking_news/යතුරුපැදි-රේස්-පදින්න-ගිහින්-ජීවිතයෙන්-වන්දි-ගෙවයි/11-418049",
+        "timestamp": "25 08 2025 12:45:00",
+        "byline": "මහනුවර කටුගස්තොට මාර්ගයේ යතුරුපැදි රේස් පැද්ද තරුණයන්  දෙදෙනෙකු අනතුරට ලක්ව එක් තරුණයෙකු මියගොස් තවත් තරුණයෙකු බරපතල තුවාල ලබා පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුළත් කොට ඇති බව කටුගස්තොට පොලිසිය කියයි.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3ba303cd4fb1fb304edc238b29b0770f32b34eee9568ee581cdb33837b32a823"
+      },
+      {
+        "title": "වියට්නාමයේ  පුද්ගලයන් ලක්ෂ 5ක් ඉවත් කරයි",
+        "url": "https://www.ada.lk/breaking_news/වියට්නාමයේ--පුද්ගලයන්-ලක්ෂ-5ක්-ඉවත්-කරයි/11-418048",
+        "timestamp": "25 08 2025 11:57:00",
+        "byline": "ටයිෆූන් කජිකි සුළි කුණාටුව වියට්නාමයට පැමිණීමට පෙර එරට 586,000 කට අධික පිරිසක් ඉවත් කිරීමට නියෝග කර තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "81d0370a64d480f9ba517c9aebf2fe813a4a674d3c74a3df9bb6a0fe60210238"
+      },
+      {
+        "title": "කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති සී.අයි.ඩී. අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/කොළඹ-දිසාව-භාර-නියෝජ්‍ය-පොලිස්පති-සී-අයි-ඩී--අත්අඩංගුවට/11-418047",
+        "timestamp": "25 08 2025 10:16:00",
+        "byline": "කොළඹ දිසාව භාර නියෝජ්‍ය පොලිස්පති උදිත ලියනගේ මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අද(25දා) අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0b3aa7badbc681b0c9e02b96c105aa39e065fd6be7a62e86578e055d44d94446"
+      },
+      {
+        "title": "රනිල් වහාම නිදහස් කරන ලෙස එරික් සෝල්හයිම්ගෙන් ඉල්ලීමක්",
+        "url": "https://www.ada.lk/breaking_news/රනිල්-වහාම-නිදහස්-කරන-ලෙස-එරික්-සෝල්හයිම්ගෙන්-ඉල්ලීමක්/11-418046",
+        "timestamp": "25 08 2025 10:03:00",
+        "byline": "අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා  වහාම නිදහස් කරන ලෙස සඳහන් කරමින් නෝර්වේහි ශ්‍රී ලංකා හිටපු සාම නියෝජිත එරික් සෝල්හයිම් සිය X ගිණු​මේ සටහනක් තබා තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8e34724c4d0bd351def5fb704d134669668630c8ac08b009aec7073ef506728f"
+      },
+      {
+        "title": "වෙඩි තැබීම් දෙකකට සම්බන්ධ සැකකරුවන් 5ක් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/වෙඩි-තැබීම්-දෙකකට-සම්බන්ධ-සැකකරුවන්-5ක්-අල්ලයි/11-418044",
+        "timestamp": "25 08 2025 09:21:00",
+        "byline": "බොරලැස්ගමුව, මාලනි බුලත්සිංහල මාවතේදී වා ගමනින් ගමන් කළ පුද්ගලයෙකුට ත්‍රී රෝද රථයකින් පැමිණි දෙදෙනෙක්\nසිදුකළ වෙඩි තැබීමට සම්බන්ධ සැකකරුවන් තිදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fb9c7e06843708639b1638d6567440e40bbf9dedd308eebaf35789e2a0f3b66d"
+      },
+      {
+        "title": "වැල්ලම්පිටියේ වෙඩි තැබීමක්",
+        "url": "https://www.ada.lk/breaking_news/වැල්ලම්පිටියේ-වෙඩි-තැබීමක්/11-418043",
+        "timestamp": "25 08 2025 08:31:00",
+        "byline": "වැල්ලම්පිටිය, කිත්තම්පහුව ප්‍ර දේශයේදී අද අලුයම ලැගුම්හලකදී වෙඩි තැබීමක් සිදුව ඇති බවට වැල්ලම්පිටිය පොලීසිය පවසයි.\nමෙම වෙඩි තැබීමෙන් ජීවිත හානියක් හෝ තුවාල වීමක් සිදුව නොමැත.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7ade1b65698af5a5ff1bb63d675dae3d180cc025e5a763b71fdb6c8546ffae11"
+      },
+      {
+        "title": "කොරියා රැකියා සිහින පෙන්වා රු. කෝටි 15ක් වංචාකළ සැකකරුවෙක් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/කොරියා-රැකියා-සිහින-පෙන්වා-රු--කෝටි-15ක්-වංචාකළ-සැකකරුවෙක්-අල්ලයි/11-418042",
+        "timestamp": "25 08 2025 07:58:00",
+        "byline": "කොරියාවේ රැකියා ලබාදෙන බව පවසා පුද්ගලයන් 150කගෙන් පමණ රුපියල් කෝටි 15කට අධික මුදලක් වංචා කළ සැකකරුවෙක් අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය  ප්‍රකාශක කාර්යාලය කියයි. සැකකරු කොළඹ 15 ප්‍ර දේශයේ පදිංචි 41 හැවැරිදි පුද්ගලයෙකි.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a116bf5300ef0580ac023562efb182ab454bcfecdea6aff03de5691f3a4de739"
+      },
+      {
+        "title": "විපක්ෂයේ දේශපාලන පක්ෂ හෙට විශේෂ සාකච්ඡාවක",
+        "url": "https://www.ada.lk/breaking_news/විපක්ෂයේ-දේශපාලන-පක්ෂ-හෙට-විශේෂ-සාකච්ඡාවක/11-418041",
+        "timestamp": "24 08 2025 22:00:00",
+        "byline": "විපක්ෂය නියෝජනය කරන පක්ෂ නායකයන්ගේ විශේෂ හමුවක් හෙට(25දා) පැවත්වීමට නියමිතව තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e947e8690d10fce29df3d239f933495c89234ca6ceae1b7f1422d79987e085f0"
+      },
+      {
+        "title": "ඔස්ට්‍රේලියාවට ලකුණු 276ක ජයක් - තරගාවලියේ ජය ද.අප්‍රිකාවට",
+        "url": "https://www.ada.lk/sports/ඔස්ට්‍රේලියාවට-ලකුණු-276ක-ජයක්---තරගාවලියේ-ජය-ද-අප්‍රිකාවට/9-418040",
+        "timestamp": "24 08 2025 20:45:00",
+        "byline": "සංචාරක දකුණු අප්‍රිකා කණ්ඩායමට එරෙහි තුන්වන හා අවසන් එක්දින ක්‍රිකට් තරගයෙන් ලකුණු 276ක ජයක් වාර්තා කිරීමට ඔස්ට්‍රේලියානු කණ්ඩායම අද (24දා) සමත් විය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2f392d6c396597909877c34980ce6bde8c92916f1547bca822dca2ffe378008f"
+      },
+      {
+        "title": "හිටපු ජනාධිපති රනිල් අත්අඩංගුවට ගැනීම ගැන ආණ්ඩුවේ නීතිඥයන්ගේ පැහැදිලි කිරීමක්",
+        "url": "https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-රනිල්-අත්අඩංගුවට-ගැනීම-ගැන-ආණ්ඩුවේ-නීතිඥයන්ගේ-පැහැදිලි-කිරීමක්/11-418039",
+        "timestamp": "24 08 2025 19:43:00",
+        "byline": "හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අත්අඩංගුවට ගැනීමේ කාරණයේදී  විපක්ෂය එම ප්‍රශ්නයට නිසි ආකාරයෙන් මුහුණු නොදී විපක්ෂයේ දේශපාලන වුවමනාවක් මත ක්‍රියාකිරීමට යාම බරපතල ලෙස අධිකරණයේ ස්වාධීනත්වයට බලපාන බව ජාතික ජන බලවේගයේ නීතිඥ සංගමයේ සාමාජික ජනාධිපති නීතිඥ උපුල් කුමාරප්පෙරුම මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f10945ab9f4b9924117372c7b87a9da55dc854c2a4373d5eb677af121f7439d9"
+      },
+      {
+        "title": "හිටපු ජනාධිපති රනිල් අත්අඩංගුවට ගැනීම සජබ පිළිකුලෙන් යුතුව හෙළා දකියි",
+        "url": "https://www.ada.lk/breaking_news/හිටපු-ජනාධිපති-රනිල්-අත්අඩංගුවට-ගැනීම-සජබ-පිළිකුලෙන්-යුතුව-හෙළා-දකියි/11-418038",
+        "timestamp": "24 08 2025 18:23:00",
+        "byline": "හිටපු ජනාධිපති රනිල් වික්‍රසිංහ මහතා අත්අඩංගුවට ගැනීම බලවත් පිළිකුලෙන් යුතුව හෙළා දකින බව සමගි ජන බලවේගයේ මහලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8cec3ff291139ccab923af41bc4cc7a1acd72350ee40af1d8378ecbfdaa8e04a"
+      },
+      {
+        "title": "ඉල්ලීම් 19න් 17 කට විසඳුම් ලබා දීමට වන පොරොන්දුව මත වර්ජනය අවසන් කළා",
+        "url": "https://www.ada.lk/breaking_news/ඉල්ලීම්-19න්-17-කට-විසඳුම්-ලබා-දීමට-වන-පොරොන්දුව-මත-වර්ජනය-අවසන්-කළා/11-418037",
+        "timestamp": "24 08 2025 17:39:00",
+        "byline": "වැඩවර්ජනයට යාමට මූලික වුණු කරුණු 19න් 17කට මාසයක කාලයක් තුළ විසඳුම් ලබා දෙන බවට විෂය භාර අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා එකඟත්වය පළ කිරීම සහ එය ලිඛිතව ලබා දීම හේතුවෙන් තැපැල් වැඩ වර්ජනය අවසක් කළ බව ඒකාබද්ධ තැපැල් වෘත්තීය සමිති පෙරමුණේ සම කැඳවුම්කරු චින්තක බණ්ඩාර මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b2a1e81e198abb2acea6f0e858427f97da78b189a0accb852c2faa50c85b14f0"
+      },
+      {
+        "title": "තැපැල් වර්ජනය අවසන් කරන්න වෘත්තීය සමිති එකඟ වුණා",
+        "url": "https://www.ada.lk/breaking_news/තැපැල්-වර්ජනය-අවසන්-කරන්න-වෘත්තීය-සමිති-එකඟ-වුණා/11-418036",
+        "timestamp": "24 08 2025 16:22:00",
+        "byline": "අද (24) පස්වරු 04 සිට වෘත්තීය සමිති ක්‍රියාමාර්ග අතහැර නියමිත පරිදි සිය රාජකාරී සිදුකිරීමට වර්ජනයේ නිරතව සිටි තැපැල් වෘත්තීය සමිති එකඟතාව පළ කළ බව සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසීය",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9be48f8ec5a370eb5c07979033f72da2e4407aea21d86409080ce3f4852fe1e2"
+      },
+      {
+        "title": "ප්‍රජාතන්ත්‍රවාදය වැලළීමේ මිනී පෙට්ටියේ ලෑලී යතු ගාමින් සිටිනවා",
+        "url": "https://www.ada.lk/breaking_news/ප්‍රජාතන්ත්‍රවාදය-වැලළීමේ-මිනී-පෙට්ටියේ-ලෑලී-යතු-ගාමින්-සිටිනවා/11-418035",
+        "timestamp": "24 08 2025 15:21:00",
+        "byline": "ප්‍රජාතන්ත්‍රවාදී සමාජයක තිබිය යුතු ගති ලක්ෂණ ක්‍රමක් ක්‍රමයෙන් මැකී යන ආකාරයක් වර්තමානයේ දකින්ට තිබෙන බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8c658992b823c6176080aaf6696273a61839b61e642123c7460e3d171a73e962"
+      },
+      {
+        "title": "ඔස්ට්‍රේලියානු ප්‍රවේගකාරී පිතිහරඹය හමුවේ ද.අප්‍රිකාවට ලකුණු 432ක දැවන්ත ඉලක්කයක්",
+        "url": "https://www.ada.lk/sports/ඔස්ට්‍රේලියානු-ප්‍රවේගකාරී-පිතිහරඹය-හමුවේ-ද-අප්‍රිකාවට-ලකුණු-432ක-දැවන්ත-ඉලක්කයක්/9-418034",
+        "timestamp": "24 08 2025 13:27:00",
+        "byline": "සංචාරක දකුණු අප්‍රිකා කණ්ඩායමට එරෙහි තුන්වන එක්දින තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ඕස්ට්‍රේලියා කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 2ක් පමණක් දැවී ලකුණු 431ක් රැස් කිරීමට සමත් විය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4bb8f37db0d7ad258f62050fd3b6ed3633d88f7546aa61c7c33e0639918cdcc6"
+      },
+      {
+        "title": "දැඩිසත්කාර ඒකකයේ සිටින හිටපු ජනපති රනිල්ගේ සෞඛ්‍ය තත්ත්වය ගැන අනාවරණයක්",
+        "url": "https://www.ada.lk/breaking_news/දැඩිසත්කාර-ඒකකයේ-සිටින-හිටපු-ජනපති-රනිල්ගේ-සෞඛ්‍ය-තත්ත්වය-ගැන-අනාවරණයක්/11-418033",
+        "timestamp": "24 08 2025 12:54:00",
+        "byline": "රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දැඩි විජලනකාරී තත්ත්වයකින් සහ සංකූලතා කිහිපයකින් පෙලෙන බව කොළඹ ජාතික රෝහලේ නියෝජ්‍ය අධ්‍යක්ෂ වෛද්‍ය රුක්ෂාන් බෙල්ලන මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e6b14e342b65761715aa193d9dbfab593e1615a9ad7bf4f67834088008c78206"
+      },
+      {
+        "title": "පුජාරා ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදීමට තීරණය කරයි",
+        "url": "https://www.ada.lk/sports/පුජාරා-ජාත්‍යන්තර-ක්‍රිකට්-පිටියට-සමුදීමට-තීරණය-කරයි/9-418032",
+        "timestamp": "24 08 2025 11:35:00",
+        "byline": "චෙටේෂ්වර් පුජාරා ජාත්‍යන්තර ක්‍රිකට් පිටියට සමුදීමට තීරණය කර තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "13a0ef69622a1a933f9afa62e5a53171ac934c75653be4342b52d8c59ca3eb39"
+      },
+      {
+        "title": "දුම්රිය ගේට්ටු මුරකරු දුම්රියට බිලි",
+        "url": "https://www.ada.lk/breaking_news/දුම්රිය-ගේට්ටු-මුරකරු-දුම්රියට-බිලි/11-418031",
+        "timestamp": "24 08 2025 10:17:00",
+        "byline": "මැදවච්චිය පොලිස් වසමේ යකාවැව දුම්රිය ගේට්ටුව ආසන්නයේදී කොළඹ කොටුව සිට මන්නාරම දක්වා ධාවනය වූ දුම්රියක ඊයේ (23දා) රාත්‍රී කාලයේ  පුද්ගලයෙකු ගැටී මියගොස් ඇති බවට මැදවච්චිය පොලිස් ස්ථානයට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7334652d1b225703ad6e17cc849d120c56b7281e9b8c0db0a16bc02938c7205d"
+      },
+      {
+        "title": "ඕනෑම වගාවක් සඳහා කෘෂි රක්ෂණ මණ්ඩලයෙන් රක්ෂණාවරණයක්",
+        "url": "https://www.ada.lk/breaking_news/ඕනෑම-වගාවක්-සඳහා-කෘෂි-රක්ෂණ-මණ්ඩලයෙන්-රක්ෂණාවරණයක්/11-418029",
+        "timestamp": "24 08 2025 08:21:00",
+        "byline": "වෙළෙඳපොළ ඉල්ලුම අනුව වගා කරන ඕනෑම වගාවක් සඳහා කෘෂි රක්ෂණ මණ්ඩලයෙන් රක්ෂණාවරණයක් ලබා දීමට පසුගියදා පැවැති ගාල්ල දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවේ දී යොජනා වී තිබේ.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "feea376ca691aff049594c764e6872b87a2d8acfa30725dee37deede7f4f2f40"
+      },
+      {
+        "title": "වෛද්‍ය නිලධාරීන් 1408 ක් බඳවා ගැනීමට අයදුම්පත් කැඳවයි",
+        "url": "https://www.ada.lk/breaking_news/වෛද්‍ය-නිලධාරීන්-1408-ක්-බඳවා-ගැනීමට-අයදුම්පත්-කැඳවයි/11-418028",
+        "timestamp": "24 08 2025 07:19:00",
+        "byline": "2024.10.29 දිනට සීමාවාසික පුහුණුව අවසන් කළ වෛද්‍යවරුන් 1408 දෙනෙකු සඳහා සෞඛ්‍ය අමාත්‍යාංශය යටතේ ප්‍රාථමික ශ්‍රේණියේ වෛද්‍ය නිලධාරීන් ලෙසින් පත්වීම් ලබාදීම සඳහා අයදුම්පත් කැඳවා ඇතැයි සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍යංශයේ නියෝජ්‍ය අධ්‍යක්ෂ ජනරාල් (වෛද්‍ය සේවා) II වෛද්‍ය එච්.එම්.අර්ජුන තිලකරත්න මහතා නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.",
+        "isoTimestamp": "2025-08-25T20:45:53+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "13579f8efbc9edd763bf318345c7c26c37291e81ef84b842300a3ab44c763469"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka coconut production recovers strongly in 2Q",
+        "url": "https://economynext.com/sri-lanka-coconut-production-recovers-strongly-in-2q-238251/",
+        "timestamp": "August 25, 2025",
+        "byline": "Sri Lanka coconut prices shot up 1in January 2025, due to a lack of nuts",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5879d966fefb91f5d1808c5c8a96ddc40ed8e8f1564b33c80b36f4496d61bdfe"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238267/",
+        "timestamp": "August 25, 2025",
+        "byline": "Rupee depreciated",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "13d23e6bf998b2cb954d62c6f3be564654a1ca3599847af437bc4413929ae7ac"
+      },
+      {
+        "title": "Sri Lanka stocks slide 0.36-pct, weighed down by banks",
+        "url": "https://economynext.com/sri-lanka-stocks-slide-0-36-pct-weighed-down-by-banks-238240/",
+        "timestamp": "August 25, 2025",
+        "byline": "Turnover fell to 4.4 billion",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c330cb238a26b53736859e99e34f22e13126813727ffda1afb77230030246c8e"
+      },
+      {
+        "title": "Sri Lanka export board promotes smart agriculture, aquaculture tech",
+        "url": "https://economynext.com/sri-lanka-export-board-promotes-smart-agriculture-aquaculture-tech-238202/",
+        "timestamp": "August 25, 2025",
+        "byline": "Seminar focused on adopting advanced solutions enhance productivity in agricultural and aquaculture sectors",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b95f7fa63a7b4ab1dee09c5678896c22d524d5136f83245af428b29deca9cc86"
+      },
+      {
+        "title": "Sri Lanka services exports rise 3.36-pct in July",
+        "url": "https://economynext.com/sri-lanka-services-exports-rise-3-36-pct-in-july-238241/",
+        "timestamp": "August 25, 2025",
+        "byline": "ICT/BPM exports, financial services fell",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "edf6bac391fe610e5d04776560a3607b3c9f15d0a8c556c381a41d1b67aa6d0f"
+      },
+      {
+        "title": "Sri Lanka exports rise 15.37-pct in July, helped by tea, coconut, rubber and apparel",
+        "url": "https://economynext.com/sri-lanka-exports-rise-15-37-pct-in-july-helped-by-tea-coconut-rubber-and-apparel-238231/",
+        "timestamp": "August 25, 2025",
+        "byline": "Merchandise exports for January to June 2025 rose 7.22 percent",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "13e91e5af241163d22ef0e4e6fb1d2781594f6f161b98475908f349e4fd7d5ba"
+      },
+      {
+        "title": "EXPLAINER – Sri Lanka’s ex-president Wickremesinghe’s unprecedented arrest",
+        "url": "https://economynext.com/explainer-sri-lankas-ex-president-wickremesinghes-unprecedented-arrest-238212/",
+        "timestamp": "August 25, 2025",
+        "byline": "Wickremesinghe is one of the few long serving politician in Sri Lanka",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bfb956f95da773b0b2521322c9ac64df675b687329750b6cbfd4b29b48394f62"
+      },
+      {
+        "title": "Sri Lanka average coconut prices rise 0.3-pct",
+        "url": "https://economynext.com/sri-lanka-average-coconut-prices-rise-0-3-pct-238200/",
+        "timestamp": "August 25, 2025",
+        "byline": "The average price for 1,000 nuts was 134,068.09 rupees on August 21.",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a1c473510b81e87a8ec8667724efa7e7675ceb17836104a3f470fa6cccd0ec20"
+      },
+      {
+        "title": "CEAT to invest US$171mn in Sri Lanka OHT tyre and track plants",
+        "url": "https://economynext.com/ceat-to-invest-us171mn-in-sri-lanka-oht-tyre-and-track-plants-238195/",
+        "timestamp": "August 25, 2025",
+        "byline": "To sell under Camso brand",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "7b4e62c7095aba126006cbac032690532d397b8ed1243de3c51e5274ce8ca4c4"
+      },
+      {
+        "title": "Sri Lanka stocks recover from opening slide",
+        "url": "https://economynext.com/sri-lanka-stocks-recover-from-opening-slide-238165/",
+        "timestamp": "August 25, 2025",
+        "byline": "Colombo stock exchange opened in red",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb87cd45eb1edfdd6c7f557efb884ea09493ab212dbee54853611556a51bea7e"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238148/",
+        "timestamp": "August 25, 2025",
+        "byline": "Stocks down",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "21f64d820882af047a2ef25982bd0e8b55a35538131e9a71e8921a34ec9de11e"
+      },
+      {
+        "title": "Sri Lanka electricity generation surge in May amid economic recovery",
+        "url": "https://economynext.com/sri-lanka-electricity-generation-surge-in-may-amid-economic-recovery-238121/",
+        "timestamp": "August 25, 2025",
+        "byline": "Electricity generation is a clear proxy of underlying economic activity",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9a81166f13d3d92cd6a113723e2fe74cac72585842b00f1f5315a8d8bab97e1b"
+      },
+      {
+        "title": "Sri Lanka ex-President's arrest draws criticism from former rivals",
+        "url": "https://economynext.com/sri-lanka-ex-presidents-arrest-draws-criticism-from-former-rivals-238107/",
+        "timestamp": "August 24, 2025",
+        "byline": "Wickremesinghe is in remand till Aug 26 and has been transferred to hospital",
+        "isoTimestamp": "2025-08-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1dcc15217c4ab530126573857fc34f8a10960937c33debdc4835f98a16d257a6"
+      },
+      {
+        "title": "Sri Lanka inks UK final debt restructure agreements",
+        "url": "https://economynext.com/sri-lanka-inks-uk-final-debt-restructure-agreements-238102/",
+        "timestamp": "August 24, 2025",
+        "byline": "US$86mn and Yen583mn in debt restructured",
+        "isoTimestamp": "2025-08-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "92135f89f07e4e761d04af0f143acde37570333614ac5f9b84a3839b634743e7"
+      },
+      {
+        "title": "Sri Lanka ex-President transferred from prison to state hospital",
+        "url": "https://economynext.com/sri-lanka-ex-president-transferred-from-prison-to-state-hospital-238094/",
+        "timestamp": "August 24, 2025",
+        "byline": "Wickremesighe was remanded till August 26",
+        "isoTimestamp": "2025-08-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e503b22e615a439804f3a5df42f2e0fd163454e575d88052ab454a5ac020d41e"
+      },
+      {
+        "title": "World Bank team discuss Sri Lanka Customs modernisation programme",
+        "url": "https://economynext.com/world-bank-team-discuss-sri-lanka-customs-modernisation-programme-237907/",
+        "timestamp": "August 23, 2025",
+        "byline": "World Bank representatives \"expressed their willingness to provide the necessary international institutional support",
+        "isoTimestamp": "2025-08-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "68883cc5c356a611be16eba6f59ca1d71bb518e56ebee890580dec9c95d2ee5d"
+      },
+      {
+        "title": "Colombo international kite festival to add to Sri Lanka city branding",
+        "url": "https://economynext.com/colombo-international-kite-festival-to-add-to-sri-lanka-city-branding-238059/",
+        "timestamp": "August 23, 2025",
+        "byline": "International kite enthusiasts from 25 countries to participate in the Colombo festival in 2025",
+        "isoTimestamp": "2025-08-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3d5193148e96c4cabcc80e3744969831069ee48e0468d5277e3139ce9ab39df8"
+      },
+      {
+        "title": "Sri Lanka ex-President Ranil Wickremesinghe remanded after arrest",
+        "url": "https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-remanded-after-arrest-237900/",
+        "timestamp": "August 22, 2025",
+        "byline": "Arrested over expenses in a stopover in London while returning from Cuba",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b501b270bf4c92309fd806c2f6030a814f2904f535bd809ec5f1a10082af165a"
+      },
+      {
+        "title": "Wickremesinghe revived Sri Lanka’s economy: former minister",
+        "url": "https://economynext.com/wickremesinghe-revived-sri-lankas-economy-former-minister-237932/",
+        "timestamp": "August 22, 2025",
+        "byline": "Wickremsinghe became President when Sri Lanka was hit by the worst currency crisis in since independence",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d5e8db2742654007dbcff77a30798afb94f62fca3fca90b4e247e65ad9d01e1c"
+      },
+      {
+        "title": "Blackout at Sri Lanka court during ex-President's bail hearing",
+        "url": "https://economynext.com/blackout-at-sri-lanka-court-during-ex-presidents-bail-hearing-237928/",
+        "timestamp": "August 22, 2025",
+        "byline": "After proceedings resumed lights went out plunging premises packed with officials, media and supporters into darkness",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "274046b525a5cf05ec209c34478f56c16ddc6f764802aafaf9f1f9e882a3c8c5"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-237917/",
+        "timestamp": "August 22, 2025",
+        "byline": "Rupee depreciated",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "506df1978acdd6fe97b18fa8d0249e8cd7360882c2b0bb61f440a7a12c28c119"
+      },
+      {
+        "title": "Sri Lanka stocks dip 0.32-pct, weighted down by capital goods, financials",
+        "url": "https://economynext.com/sri-lanka-stocks-dip-0-32-pct-weighted-down-by-capital-goods-financials-237887/",
+        "timestamp": "August 22, 2025",
+        "byline": "Turnover was 5.1 billion",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "daabde70ba6538ac92cf643e773e83fa416ce6420329f56dd25394f34f7a3183"
+      },
+      {
+        "title": "Sri Lanka ex-President arrives in court",
+        "url": "https://economynext.com/sri-lanka-ex-president-arrives-in-court-237863/",
+        "timestamp": "August 22, 2025",
+        "byline": "The arrest was over misappropriation of funds during a foreign visit while he was president",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "aab6bc35a9cb81383b6c8d6032a17c18d77f2c5d508dc274b32a6e470ed60085"
+      },
+      {
+        "title": "Sri Lanka ex-President Ranil Wickremesinghe arrested",
+        "url": "https://economynext.com/sri-lanka-ex-president-ranil-wickremesinghe-arrested-237820/",
+        "timestamp": "August 22, 2025",
+        "byline": "Wickremesinghe became president during the worst economic crisis of post-independent Sri Lanka.",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0cdc6b1ee0f61fe3336002dfa9117eb22d3d364c325b050be5149f62fe129b34"
+      },
+      {
+        "title": "EU's The Routes We Take project to feature at YGC festival in Jaffna, Sri Lanka",
+        "url": "https://economynext.com/eus-the-routes-we-take-project-to-feature-at-ygc-festival-in-jaffna-sri-lanka-237813/",
+        "timestamp": "August 22, 2025",
+        "byline": "The Routes we Take (TRWT) will be at the Yarl IT Hub’s YGC Innovation Festival.",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1a8c38076baf7b07699f5560cc407cea0c2db206e46667c28abe1da90eb0ce8f"
+      },
+      {
+        "title": "Sri Lanka’s Ambeon Capital buys 6.8-pct of Ceylon Hotels Corporation",
+        "url": "https://economynext.com/sri-lankas-ambeon-capital-buys-6-8-pct-of-ceylon-hotels-corporation-237805/",
+        "timestamp": "August 22, 2025",
+        "byline": "Ambeon Holdings paid 26 rupees per share",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ff81be5732f7743c29f2f5bfe6ca641afb9be7d7bb8b67d6c1ecc579b0598f2f"
+      },
+      {
+        "title": "Sri Lanka's Ambeon Holdings buys 6.09-pct of The Kandy Hotels Corporation",
+        "url": "https://economynext.com/sri-lankas-ambeon-holdings-buys-6-09-pct-of-the-kandy-hotels-corporation-237784/",
+        "timestamp": "August 22, 2025",
+        "byline": "Ambeon Holdings paid 12 rupees per share,",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3b82983d72cccd8612df72dd68f16cd0580080dc9bb270111c983ea48e45c216"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-237770/",
+        "timestamp": "August 22, 2025",
+        "byline": "Rupee depreciated",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2f1543ab83a9633cf5dd4a2e943b9c0e1f0e968aa8838e5ae226ca896cb85205"
+      },
+      {
+        "title": "Fonterra sells most downstream businesses including in Sri Lanka to Lactalis",
+        "url": "https://economynext.com/fonterra-sells-most-downstream-businesses-including-in-sri-lanka-to-lactalis-237766/",
+        "timestamp": "August 22, 2025",
+        "byline": "The sale gives faster return to farmer shareholders than IPO",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c050fb98e91d429219dd7e9563d0d8967e8106e65134cba9eb9fe7a4423407e1"
+      },
+      {
+        "title": "Sri Lanka loan demand to expand further in 3Q 2025: CB Survey",
+        "url": "https://economynext.com/sri-lanka-loan-demand-to-expand-further-in-3q-2025-cb-survey-237736/",
+        "timestamp": "August 22, 2025",
+        "byline": "Bad loans expected to fall",
+        "isoTimestamp": "2025-08-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "829e405ca579031656d93291ba37d8a513abf1c08d5970c28af3c6be13561b4b"
+      },
+      {
+        "title": "Chinese envoy bats for UN citing hegemonism, law of the jungle",
+        "url": "https://economynext.com/chinese-envoy-bats-for-un-citing-hegemonism-law-of-the-jungle-237729/",
+        "timestamp": "August 21, 2025",
+        "byline": "Chinese ambassador’s comments come after recent U.S. tariff policy",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a871be1fb0d46729b137ba820132a5b7f327baff1bb4c9594aa2f2c6421d7503"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs7.85bn Treasury bills after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs7-85bn-treasury-bills-after-auction-237725/",
+        "timestamp": "August 21, 2025",
+        "byline": "Bringing the total of bills sold this week to 86.35 billion rupees.",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9edf676a8ea60d4cbea1957adbbe47035daf3d8c8fab9e2b603a868afff58d68"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields up",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237715/",
+        "timestamp": "August 21, 2025",
+        "byline": "Rupee depreciated",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc5e2a3d9e99965cbe2e624b5c9d1499295f1c8de234b7ce18398d2ce6068ee6"
+      },
+      {
+        "title": "Sri Lanka stocks close flat, turnover remains high",
+        "url": "https://economynext.com/sri-lanka-stocks-close-flat-turnover-remains-high-237709/",
+        "timestamp": "August 21, 2025",
+        "byline": "Market turnover was 10.52 billion rupees.",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bc93eca95496e106823012e642d772d560299d2613d1419bcadd4c5123744958"
+      },
+      {
+        "title": "Sri Lanka Mirigama export zone not suited for growing cannabis: MP",
+        "url": "https://economynext.com/sri-lanka-mirigama-export-zone-not-suited-for-growing-cannabis-mp-237698/",
+        "timestamp": "August 21, 2025",
+        "byline": "\"Kansa should be grown in areas well known for its cultivation; Wellawaya, Pahala Uva.\"",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5bb172d0e761a4071a3291c34214ce892c7b5bafc8de92f8af75fc14bb5f57c6"
+      },
+      {
+        "title": "Public views sought on SriLankan Airlines, Airport and Aviation Services",
+        "url": "https://economynext.com/public-views-sought-on-srilankan-airlines-airport-and-aviation-services-237691/",
+        "timestamp": "August 21, 2025",
+        "byline": "Committee seeks submissions from employees, staff and general public concerning issues related to both institutes",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "62c7adb2030e9a5ad5c7157ca4ac378931dc7c9b306403a7a5acf8bc6a534b5f"
+      },
+      {
+        "title": "Vietnam food festival in Sri Lanka backed by Hilton hotels",
+        "url": "https://economynext.com/vietnam-food-festival-in-sri-lanka-backed-by-hilton-hotels-237684/",
+        "timestamp": "August 21, 2025",
+        "byline": "Colombo Hilton teams up with Hilton Da Nang",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9922f370837857a941552fbea2bf340c0ddcb64020952b798a3b7ebc23d6168b"
+      },
+      {
+        "title": "Sri Lanka’s Millennium Housing Developers faces trading suspension",
+        "url": "https://economynext.com/sri-lankas-millennium-housing-developers-faces-trading-suspension-237680/",
+        "timestamp": "August 21, 2025",
+        "byline": "Trading of its securities will be suspended from September 1, unless the company rectifies a noncompliance",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2e5cd2a3fa4c3531503e6d9d048f0909f54ed19630b526ddcc8bb417d2888c3f"
+      },
+      {
+        "title": "Sri Lanka sends more migrant workers to South Korea manufacturing sector",
+        "url": "https://economynext.com/sri-lanka-sends-more-migrant-workers-to-south-korea-manufacturing-sector-237671/",
+        "timestamp": "August 21, 2025",
+        "byline": "An increase in female migrant workers in the sector.",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dd8b7ce5d77f070447e853574668661034e3f39f07433bad7cffb47202b7291d"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields up",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-up-237648/",
+        "timestamp": "August 21, 2025",
+        "byline": "Stocks up",
+        "isoTimestamp": "2025-08-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9aec845b4675907f3dd15e2c5ae4e763b0d46dd83f028518cfcf70ba479a2638"
+      }
+    ]
+  },
+  "newswire": {
+    "success": true,
+    "data": [
+      {
+        "title": "Social media video that led to handcuffs : Rapper arrested",
+        "url": "https://www.newswire.lk/2025/08/25/social-media-video-that-led-to-handcuffs-rapper-arrested/",
+        "timestamp": "2025-08-25T20:05:40+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Rapper named Madhava Prasad has been arrested with a fake pistol and narcotics in Homagama, police said. The arrest followedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2021/11/FB-arrest.jpg",
+        "isoTimestamp": "2025-08-25T20:05:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "bbf848a2dae39edfd393b6bb253443b57d30a100b7ebd292c21d1ecb8aff79b1"
+      },
+      {
+        "title": "BASL warns against social media interference in judiciary",
+        "url": "https://www.newswire.lk/2025/08/25/basl-warns-against-social-media-interference-in-judiciary/",
+        "timestamp": "2025-08-25T19:43:04+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Bar Association of Sri Lanka (BASL) has expressed concern over recent social media comments and predictions by individuals andContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/05/BASL-prison-death.jpg",
+        "isoTimestamp": "2025-08-25T19:43:04+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1774aaa7f325504a98b5490f77f202b8a8a23a40e97675306a14c19d06f87861"
+      },
+      {
+        "title": "18 abandoned bridge projects in Hambantota",
+        "url": "https://www.newswire.lk/2025/08/25/18-abandoned-bridge-projects-in-hambantota/",
+        "timestamp": "2025-08-25T19:37:22+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "A review of the projects implemented under the 2025 budget allocations for the Ministry of Urban Development, Construction and Housing,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG-20250825-WA0087.jpg",
+        "isoTimestamp": "2025-08-25T19:37:22+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "549bb0a66eddfa6180256ef88affb2cce3c92eccb52212d6ed91fae8b92bb965"
+      },
+      {
+        "title": "Five of the world’s safest countries in 2025",
+        "url": "https://www.newswire.lk/2025/08/25/five-of-the-worlds-safest-countries-in-2025/",
+        "timestamp": "2025-08-25T19:00:46+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Iceland remains the world’s most peaceful country in 2025, continuing a streak it has held since 2008. It is closelyContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/K-web-pix-6.jpg",
+        "isoTimestamp": "2025-08-25T19:00:46+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "b1a04328a2f3d1c7a51f3bfb394cc365437dcf9998ff1323cf71900c696e5592"
+      },
+      {
+        "title": "Today’s News Digest – August 25",
+        "url": "https://www.newswire.lk/2025/08/25/todays-news-digest-august-25/",
+        "timestamp": "2025-08-25T18:25:18+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Today’s News Digest: Your go-to summary of the key events and headlines that shaped the day. From major developments toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Visual-Stories-2-2.jpg",
+        "isoTimestamp": "2025-08-25T18:25:18+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "550fe7cd5f572e8ee82da5baefb2dcc13d28fd28d54ce662f6e4f1d483560871"
+      },
+      {
+        "title": "Gandara businessman shooting : Gunman & motorcyclist arrested",
+        "url": "https://www.newswire.lk/2025/08/25/gandara-businessman-shooting-gunman-motorcyclist-arrested/",
+        "timestamp": "2025-08-25T18:16:53+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The gunman and motorcyclist wanted over the shooting incident targeting a businessman in the Kapugama area under the Gandara PoliceContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Gandara-shooting.jpg",
+        "isoTimestamp": "2025-08-25T18:16:53+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "414ae5763b454948f231f2ac9fe698be958b748b14649ae5c78cff4eca16dd45"
+      },
+      {
+        "title": "“Our drivers & conductors assaulted at least once a month” : SLTB employees",
+        "url": "https://www.newswire.lk/2025/08/25/our-drivers-conductors-assaulted-at-least-once-a-month-sltb-employees/",
+        "timestamp": "2025-08-25T17:47:00+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Sri Lanka Transport Board (SLTB) employees staged a protest today against the integrated timetable with private buses.   The SLTB employeesContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/SLTB-strike.jpg",
+        "isoTimestamp": "2025-08-25T17:47:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "3c9d43050e2af2c23a222da9a337dac0dcd964c3723c9e909726876cb072c8e9"
+      },
+      {
+        "title": "CSE reports slight drop in ASPI today",
+        "url": "https://www.newswire.lk/2025/08/25/cse-reports-slight-drop-in-aspi-today/",
+        "timestamp": "2025-08-25T17:10:49+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Colombo Stock Exchange (CSE) has reported a slight drop in the All Share Price Index (ASPI) at the closeContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2021/08/CSE.jpeg",
+        "isoTimestamp": "2025-08-25T17:10:49+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "b18a3628998a050ea47ab9fddaf580fd16649a4d662feca03ac300252917b6fe"
+      },
+      {
+        "title": "Sri Lanka’s exports near $10 Bn in first 7 months of 2025",
+        "url": "https://www.newswire.lk/2025/08/25/sri-lankas-exports-near-10-bn-in-first-7-months-of-2025/",
+        "timestamp": "2025-08-25T17:03:54+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Sri Lanka’s total exports reached US$ 9,992.53 million, marking a robust 7.79 % growth compared to the corresponding period inContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/05/Export-revenue.jpg",
+        "isoTimestamp": "2025-08-25T17:03:54+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "153cd9a9439867a5dd3dcd737368887d1b7d43dbe860e00217247578d4cd2088"
+      },
+      {
+        "title": "Opposition parties plan joint strategy after Ranil Wickremesinghe’s arrest",
+        "url": "https://www.newswire.lk/2025/08/25/opposition-parties-plan-joint-strategy-after-ranil-wickremesinghes-arrest/",
+        "timestamp": "2025-08-25T17:03:14+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Opposition Leader Sajith Premadasa said the arrest of former President Ranil Wickremesinghe is not an isolated incident but a seriousContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG-20250825-WA0066-1.jpg",
+        "isoTimestamp": "2025-08-25T17:03:14+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "82f86dcb920f6573eb6759f90d704862c8c4c57beef2120f6e6dd4983f65b71c"
+      },
+      {
+        "title": "Arrest warrant : Court grants bail to Diana Gamage",
+        "url": "https://www.newswire.lk/2025/08/25/arrest-warrant-court-grants-bail-to-diana-gamage/",
+        "timestamp": "2025-08-25T16:30:15+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Former State Minister Diana Gamage, against whom an arrest warrant was issued recently, appeared in court today and was releasedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/02/321802936_1212475039370269_9013607518533161054_n.jpg",
+        "isoTimestamp": "2025-08-25T16:30:15+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "0f2a10b16fe250ec80e4f710a83ca9b7ee37f817f7b478e5075875aacf2c6098"
+      },
+      {
+        "title": "Traffic Sergeant arrested for Rs. 15,000 bribe",
+        "url": "https://www.newswire.lk/2025/08/25/traffic-sergeant-arrested-for-rs-15000-bribe/",
+        "timestamp": "2025-08-25T16:18:21+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "A Police Sergeant attached to the Ja-Ela Traffic Division has been arrested by the Bribery Commission. The officer allegedly demandedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/03/Traffic-Police.jpg",
+        "isoTimestamp": "2025-08-25T16:18:21+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "abe9140c0d7bfaa6795d13836140381c1557aa217861403b756fb7485519ee00"
+      },
+      {
+        "title": "Sri Lanka Tourism featured in ‘Amazing Asia Festival 2025’ in Brussels",
+        "url": "https://www.newswire.lk/2025/08/25/sri-lanka-tourism-featured-in-amazing-asia-festival-2025-in-brussels/",
+        "timestamp": "2025-08-25T16:14:11+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Sri Lankan Embassy in Belgium, in collaboration with the Sri Lanka Tourism Promotion Bureau, has participated in the ‘AmazingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Sri-Lanka-brussels.jpg",
+        "isoTimestamp": "2025-08-25T16:14:11+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "19ee590d14ac1f49d87fdffceb000f01a2eb1e1c513cd2784aafc25d5845bd0e"
+      },
+      {
+        "title": "20 New Ambulances distributed to Government Hospitals",
+        "url": "https://www.newswire.lk/2025/08/25/20-new-ambulances-distributed-to-government-hospitals/",
+        "timestamp": "2025-08-25T15:49:14+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Twenty new ambulances equipped with advanced medical technology were distributed to 20 government hospitals Monday under the leadership of HealthContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/FB_IMG_1756116932603.jpg",
+        "isoTimestamp": "2025-08-25T15:49:14+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f0c41b49facf3382846494602c3504a9cedb003593259913e9b951584b76cac6"
+      },
+      {
+        "title": "Health Ministry sells 60 decommissioned vehicles for Rs 120.8 Million",
+        "url": "https://www.newswire.lk/2025/08/25/health-ministry-sells-60-decommissioned-vehicles-for-rs-120-8-million/",
+        "timestamp": "2025-08-25T15:35:09+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Ministry of Health and the Ministry of Mass Media have deposited Rs. 120,877,000 into government revenue following the publicContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Screenshot_20250825_153101_Gallery.jpg",
+        "isoTimestamp": "2025-08-25T15:35:09+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "c30ceb37808f9cae1ad2a4ac9f180da7fbff9a0dad4b552e245115e0be0139d9"
+      },
+      {
+        "title": "Court defers bail hearing of Mahindananda & Nalin Fernando",
+        "url": "https://www.newswire.lk/2025/08/25/court-defers-bail-hearing-of-mahindananda-nalin-fernando/",
+        "timestamp": "2025-08-25T14:26:40+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Colombo Permanent Trial-at-Bar today ordered that the petitions requesting bail for imprisoned former minister Mahindananda Aluthgamage and former LankaContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/05/Mahindananda-Nalin-Fernando.jpg",
+        "isoTimestamp": "2025-08-25T14:26:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "5655ee314493e7b78773bc7e1cbacaeeb125828f08e82785ec793e45c519ac5a"
+      },
+      {
+        "title": "CID complaint filed over social media threat to assassinate Ranil in hospital",
+        "url": "https://www.newswire.lk/2025/08/25/cid-complaint-filed-over-social-media-threat-to-assassinate-ranil-in-hospital/",
+        "timestamp": "2025-08-25T14:24:33+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "A complaint has been filed with the Criminal Investigations Department (CID) on a message circulated on social media regarding theContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/CID-ranil-murder.jpg",
+        "isoTimestamp": "2025-08-25T14:24:33+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "11d93607c48e9896466a4609dcfb73a6d73f16b7691271e4562938cdf6102532"
+      },
+      {
+        "title": "PM’s Office denies News report on PM Harini visiting Ranil",
+        "url": "https://www.newswire.lk/2025/08/25/pms-office-denies-news-report-on-pm-harini-visiting-ranil/",
+        "timestamp": "2025-08-25T13:56:52+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Prime Minister’s Office has rejected a news report aired by Hiru News, claiming that Prime Minister Harini Amarasuriya hadContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/PSX_20250825_135311.jpg",
+        "isoTimestamp": "2025-08-25T13:56:52+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "d4908f73579c4305c04eee10d05ad0852bdff66327eee7d5dc26ec5ffff96899"
+      },
+      {
+        "title": "Ranil’s arrest : SJB not among parties joining new movement",
+        "url": "https://www.newswire.lk/2025/08/25/ranils-arrest-sjb-not-among-parties-joining-new-movement/",
+        "timestamp": "2025-08-25T13:40:59+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Main opposition Samagi Jana Balawegaya (SJB) was absent from the newly formed political movement against constitutional dictatorship, despite several majorContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/FB_IMG_1756011883237.jpg",
+        "isoTimestamp": "2025-08-25T13:40:59+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "e4fceae8c8f681cb1ad631b0903fb43a55945e7957be315ef3225e3be8159a4c"
+      },
+      {
+        "title": "“Baseless and untrue” : Hanif Yusoof refutes claims of leaving Govt",
+        "url": "https://www.newswire.lk/2025/08/25/baseless-and-untrue-hanif-yusoof-refutes-claims-of-leaving-govt/",
+        "timestamp": "2025-08-25T13:24:35+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Governor of the Western Province, Hanif Yusoof, has refuted reports claiming that he is leaving the government, stating that theyContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/hanif-yusoof-1.jpg",
+        "isoTimestamp": "2025-08-25T13:24:35+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8643c22bb6c26fdb43bf949ed50f0e0d88172808b5ba4bed09b90bc21abbbbfc"
+      },
+      {
+        "title": "Today’s CBSL official exchange rates",
+        "url": "https://www.newswire.lk/2025/08/25/todays-cbsl-official-exchange-rates-518/",
+        "timestamp": "2025-08-25T13:01:15+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Sri Lankan Rupee has depreciated further against the US Dollar today (25 Aug), compared to last Friday. According toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/03/rupee-dollar.jpg",
+        "isoTimestamp": "2025-08-25T13:01:15+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "89514c3ed11038654b3321839e414a4e94ec788f5bd81ea024aac2c7c6ab93f5"
+      },
+      {
+        "title": "Chinese group kidnap & rob fellow businessman in Colombo",
+        "url": "https://www.newswire.lk/2025/08/25/chinese-group-kidnap-rob-fellow-businessman-in-colombo/",
+        "timestamp": "2025-08-25T12:52:30+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "A group of Chinese nationals residing in Sri Lanka have allegedly abducted a fellow Chinese businessman and robbed him ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/07/abduct.jpg",
+        "isoTimestamp": "2025-08-25T12:52:30+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "e25b468c62cdb1ca5ee6418421e6424212813cf656e6cc3c79ea6b0ba3c42c3c"
+      },
+      {
+        "title": "Public warned over fake notices using SLCERT, Police & NCPA stamps",
+        "url": "https://www.newswire.lk/2025/08/25/public-warned-over-fake-notices-using-slcert-police-ncpa-stamps/",
+        "timestamp": "2025-08-25T12:47:14+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The public has been warned of the circulation of fake and fraudulent documents bearing names, signatures, stamps and logos ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/SLCERT-fake-documents-1.jpg",
+        "isoTimestamp": "2025-08-25T12:47:14+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "bd155cd0b5b4969a7947376b3ce5c4c44f71e42f25eb95f9874a1d99f1cc8a71"
+      },
+      {
+        "title": "BOI signs US$171 Mn investment with CEAT OHT Lanka",
+        "url": "https://www.newswire.lk/2025/08/25/boi-signs-us171-mn-investment-with-ceat-oht-lanka/",
+        "timestamp": "2025-08-25T12:23:33+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "CEAT OHT Lanka (Private) Limited has signed an agreement with the Board of Investment of Sri Lanka (BOI) to formaliseContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/BOI-CEAT.jpg",
+        "isoTimestamp": "2025-08-25T12:23:33+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f9c3a654b7ffa51e252aa5eb9e3f038f9c984e32b7addda5b0c5f4cc6c86fb3c"
+      },
+      {
+        "title": "Ranil’s case : Police reveal 10 persons travelled in UK",
+        "url": "https://www.newswire.lk/2025/08/25/ranils-case-police-reveal-10-persons-travelled-in-uk/",
+        "timestamp": "2025-08-25T12:17:43+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Former President Ranil Wickremesinghe was arrested Friday on corruption charges following an investigation into his travel to the United KingdomContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG_7499.jpeg",
+        "isoTimestamp": "2025-08-25T12:17:43+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "af56d14c3f27c506158954a0419704493b2902ddb5052fcd480bb40360668af0"
+      },
+      {
+        "title": "Dollar rate in Sri Lanka today",
+        "url": "https://www.newswire.lk/2025/08/25/dollar-rate-in-sri-lanka-today-384/",
+        "timestamp": "2025-08-25T11:33:37+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Sri Lankan Rupee has depreciated slightly against the US Dollar at commercial banks in Sri Lanka today (25 Aug),Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/08/Dollar-Rupee.jpg",
+        "isoTimestamp": "2025-08-25T11:33:37+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "16c1849255ca6ab8a0ae7e4c8e4c52e3fc6eca76efea64bcd4771e7ca10a07af"
+      },
+      {
+        "title": "Govt to launch large-scale development drive starting from Jaffna",
+        "url": "https://www.newswire.lk/2025/08/25/govt-to-launch-large-scale-development-drive-starting-from-jaffna/",
+        "timestamp": "2025-08-25T10:52:22+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Minister Bimal Rathnayake says the government will launch large-scale development projects starting this September. The minister noted that the firstContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Bimal-Rathnayake-1.jpg",
+        "isoTimestamp": "2025-08-25T10:52:22+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "7a578ec27a7698555676e6f85fc0d2925ca0d92b233d98984c9cb4044fc10783"
+      },
+      {
+        "title": "Colombo DIG arrested over treasure hunting allegations",
+        "url": "https://www.newswire.lk/2025/08/25/colombo-dig-arrested-over-treasure-hunting-allegations/",
+        "timestamp": "2025-08-25T10:17:54+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Deputy Inspector General of Police (DIG) in charge of Colombo, Uditha Liyanage, has been arrested by the Criminal Investigations DepartmentContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/03/SL-Police.jpg",
+        "isoTimestamp": "2025-08-25T10:17:54+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8fb5e513bfdc00d4fcda4f392473348df739650829464c62007f7556d49b70f0"
+      },
+      {
+        "title": "Job scam : Man arrested for defrauding over Rs. 150 Mn",
+        "url": "https://www.newswire.lk/2025/08/25/job-scam-man-arrested-for-defrauding-over-rs-150-mn/",
+        "timestamp": "2025-08-25T10:14:49+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "The Colombo Crimes Division (CCD) has arrested an individual for defrauding over Rs. 150 million, promising jobs in South Korea. Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/03/foreign-jobs-1.jpg",
+        "isoTimestamp": "2025-08-25T10:14:49+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8b388cae7e23e8766f9af07993c18578d04168cc0996efd092d7842eec2bf43c"
+      },
+      {
+        "title": "Ukrainian President shares President AKD’s letter",
+        "url": "https://www.newswire.lk/2025/08/25/ukrainian-president-shares-president-akds-letter/",
+        "timestamp": "2025-08-25T09:41:31+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Ukrainian President Volodymyr Zelenskyy has extended his gratitude to Sri Lankan President Anura Kumara Dissanayake for the latter’s greetings onContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Zelensky-AKd.jpg",
+        "isoTimestamp": "2025-08-25T09:41:31+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "cc1229b214b2fb023bb6c3e298fe87908f0f83c4607d47cba7abd92bbf6dde01"
+      },
+      {
+        "title": "Fair weather expected in most parts of Sri Lanka today",
+        "url": "https://www.newswire.lk/2025/08/25/fair-weather-expected-in-most-parts-of-sri-lanka-today-7/",
+        "timestamp": "2025-08-25T09:13:40+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Mainly fair weather will prevail over most parts of Sri Lanka today, according to the Department of Meteorology. However, showersContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/12/fair-weather.jpg",
+        "isoTimestamp": "2025-08-25T09:13:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "94e4ad929fb55739b80c879b51a74b0ff6a7d7b611a256a1ebfeb53cf11360f5"
+      },
+      {
+        "title": "STF arrests three youths linked to Boralesgamuwa shooting",
+        "url": "https://www.newswire.lk/2025/08/25/stf-arrests-three-youths-linked-to-boralesgamuwa-shooting/",
+        "timestamp": "2025-08-25T08:50:37+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Police Special Task Force officers from the Kalubowila camp arrested three suspects linked to a fatal shooting in Boralesgamuwa yesterday.Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG_9835.jpeg",
+        "isoTimestamp": "2025-08-25T08:50:37+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "4268731f027be86c490869955f577fd2838e458b7388e98ccd48855946ba8e7b"
+      },
+      {
+        "title": "GMOA suspends Doctors strike after late night talks with Minister",
+        "url": "https://www.newswire.lk/2025/08/25/gmoa-suspends-doctors-strike-after-late-night-talks-with-minister/",
+        "timestamp": "2025-08-25T08:43:10+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "Health Minister Nalinda Jayatissa, the Health Ministry secretary and the executive committee of the Government Medical Officers’ Association met SundayContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/06/GMOA.jpg",
+        "isoTimestamp": "2025-08-25T08:43:10+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "627fe9916afc9da28d4b09fc2ac69e7dc95787ed5bd019f12d41ea58f6468866"
+      },
+      {
+        "title": "Shooting incident reported in Wellampitiya",
+        "url": "https://www.newswire.lk/2025/08/25/shooting-incident-reported-in-wellampitiya/",
+        "timestamp": "2025-08-25T08:36:52+05:30",
+        "readableTime": "August 25, 2025",
+        "byline": "A shooting incident was reported early this morning (25) at a lodging house in the Kittampahuwa area, Wellampitiya. Police saidContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/06/police-line-do-not-cross.jpg",
+        "isoTimestamp": "2025-08-25T08:36:52+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f97219866897eebcb9466d4f5fdf6d6842d1a0d512db927dc9c2ab27b1e1dc1f"
+      },
+      {
+        "title": "Erik Solheim: Allegations against Ranil wouldn’t count as crimes in Europe",
+        "url": "https://www.newswire.lk/2025/08/24/erik-solheim-allegations-against-ranil-wouldnt-count-as-crimes-in-europe/",
+        "timestamp": "2025-08-24T21:57:21+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Former Norwegian peace envoy to Sri Lanka Erik Solheim has called for the immediate release of former President Ranil Wickremesinghe,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/20250824_215614.jpg",
+        "isoTimestamp": "2025-08-24T21:57:21+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "2fe495caee7baff7b5df3e1c032f16ecc99f9487e824a7637e1ee4559b2ff95c"
+      },
+      {
+        "title": "“Ranil should have been brought to justice 40 years ago,” minister responds to criticism",
+        "url": "https://www.newswire.lk/2025/08/24/ranil-should-have-been-brought-to-justice-40-years-ago-minister-responds-to-criticism/",
+        "timestamp": "2025-08-24T18:54:59+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Minister Bimal Ratnayake says former President Ranil Wickremesinghe should have been arrested 40 years ago for far more serious allegationsContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/A62F84C3-2BAE-4075-815C-1ACE1C7353D2.jpeg",
+        "isoTimestamp": "2025-08-24T18:54:59+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8b6cfea793a3047515eeecab5f053f7f60b3fb4f1c7d734245070db44d6d9b1e"
+      },
+      {
+        "title": "NPP lawyers accuse opposition of undermining judiciary over Ranil case",
+        "url": "https://www.newswire.lk/2025/08/24/npp-lawyers-accuse-opposition-of-undermining-judiciary-over-ranil-case/",
+        "timestamp": "2025-08-24T18:39:40+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "The National People’s Power (NPP) lawyers held a press conference today (24) asserting that the opposition is attempting to undermineContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG-20250824-WA0095.jpg",
+        "isoTimestamp": "2025-08-24T18:39:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "482000ee96908611e5e3ddd738b809d33903c1ea3e807bec3709a693ac8cb6f4"
+      },
+      {
+        "title": "What misuse? Ali Sabry says Presidents cannot separate official & private security",
+        "url": "https://www.newswire.lk/2025/08/24/what-misuse-ali-sabry-says-presidents-cannot-separate-official-private-security/",
+        "timestamp": "2025-08-24T18:30:41+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Former Foreign Minister and President’s Counsel Ali Sabry has dismissed the allegations against former President Ranil Wickremesinghe as political vendetta,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/11/Ali-Sabry.jpg",
+        "isoTimestamp": "2025-08-24T18:30:41+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "ddf999d060cebdeb7dfa60e8a717a482c1922bda38bf2f9eb8459fcd4538dbc8"
+      },
+      {
+        "title": "SJB condemns Ranil’s arrest, warns of threat to democracy",
+        "url": "https://www.newswire.lk/2025/08/24/sjb-condemns-ranils-arrest-warns-of-threat-to-democracy/",
+        "timestamp": "2025-08-24T18:14:40+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Sri Lanka’s main opposition, the Samagi Jana Balawegaya (SJB), has strongly condemned the arrest of former President Ranil Wickremesinghe, callingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/B8A72F26-EE8E-4013-B9D8-365B1D6765CD.jpeg",
+        "isoTimestamp": "2025-08-24T18:14:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "c73a4c3505dc48640e338e71aad2e7fd1c1f0492594e109adb59c9abb54360b2"
+      },
+      {
+        "title": "Postal workers to resume duties from 4:00 pm today – Minister",
+        "url": "https://www.newswire.lk/2025/08/24/postal-workers-to-resume-duties-from-400-pm-today-minister/",
+        "timestamp": "2025-08-24T16:53:53+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Postal workers have agreed to resume duties from 4.00 pm today (24), Minister Nalinda Jayatissa announced following discussions with unionContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG_9876.jpeg",
+        "isoTimestamp": "2025-08-24T16:53:53+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "925d1efbab2292ba87dac1947df97f0700543dd0b94b7387718b224cc147d785"
+      },
+      {
+        "title": "Govt Info Dept clarifies Ranil’s arrest through legal, social & religious voices",
+        "url": "https://www.newswire.lk/2025/08/24/govt-info-dept-clarifies-ranils-arrest-through-legal-social-religious-voices/",
+        "timestamp": "2025-08-24T16:42:25+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "The Department of Government Information has released four explanatory videos on the imprisonment of former President Ranil Wickremesinghe. These clarificationsContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/PSX_20250824_163509.jpg",
+        "isoTimestamp": "2025-08-24T16:42:25+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "2de2889dcb77b28516087ea63626360bd927d2da090ad0ebf6dec14de14f0dcd"
+      },
+      {
+        "title": "Chemmani excavations reopen wounds — and questions",
+        "url": "https://www.newswire.lk/2025/08/24/chemmani-excavations-reopen-wounds-and-questions/",
+        "timestamp": "2025-08-24T16:02:13+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "On an August morning in Mullaitivu, journalist Kanapathipillai Kumanan received a summons. It was from the Terrorism Investigation Division’s sub-stationContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Visual-Stories-7.jpg",
+        "isoTimestamp": "2025-08-24T16:02:13+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "388d863ab7d486c7e3dc63a9d55fb19a72304711483cdbacc64f9857ac6f2e32"
+      },
+      {
+        "title": "“How can he appear in court?”- Dr. Bellana updates RW’s status in ICU",
+        "url": "https://www.newswire.lk/2025/08/24/how-can-he-appear-in-court-dr-bellana-updates-rws-status-in-icu/",
+        "timestamp": "2025-08-24T15:43:24+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Former President Ranil Wickremesinghe is suffering from dehydration and could face risks of heart, kidney, or other complications if notContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/8A3DE953-0B77-4231-A4B7-EB7F4912FC90.jpeg",
+        "isoTimestamp": "2025-08-24T15:43:24+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "adc96d4e1e4b25e9e128c6b61627f9984bc68c71901606f7bf3d09722c25f58e"
+      },
+      {
+        "title": "51 police inspectors promoted to ASP rank",
+        "url": "https://www.newswire.lk/2025/08/24/51-police-inspectors-promoted-to-asp-rank/",
+        "timestamp": "2025-08-24T14:47:49+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Fifty-one Inspectors of Police (IPs) have been promoted to the rank of Assistant Superintendent of Police (ASP) with effect fromContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Untitled-design-1.jpeg",
+        "isoTimestamp": "2025-08-24T14:47:49+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "470173a14f0656bdd73e129d1ac7903f8552fd3852babd3f6dd13bcd72367845"
+      },
+      {
+        "title": "Doctors will be on strike tomorrow – GMOA",
+        "url": "https://www.newswire.lk/2025/08/24/doctors-will-be-on-strike-tomorrow-gmoa/",
+        "timestamp": "2025-08-24T12:03:47+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "The Government Medical Officers’ Association (GMOA) has confirmed that it will launch an islandwide strike in all government hospitals fromContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/01/GMOA.jpg",
+        "isoTimestamp": "2025-08-24T12:03:47+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "53d75aae9c77552eea791495fb256c139ed282a784c97e9058d35e24fb1985df"
+      },
+      {
+        "title": "Police to launch PCID : Rs 4.5 bn worth of criminal assets already seized",
+        "url": "https://www.newswire.lk/2025/08/24/police-to-launch-pcid-rs-4-5-bn-worth-of-criminal-assets-already-seized/",
+        "timestamp": "2025-08-24T11:58:52+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Sri Lanka Police is set to establish a new division dedicated to investigating properties acquired through criminal activities, Deputy InspectorContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Screenshot_20250824_115817_Chrome.jpg",
+        "isoTimestamp": "2025-08-24T11:58:52+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "79e1b340f3a705614fbadf3b8ca01ebc06675a5e9efe79ce5fa2068755fddd7e"
+      },
+      {
+        "title": "Medicine shortage linked to previous govt’s failure – Health Minister",
+        "url": "https://www.newswire.lk/2025/08/24/medicine-shortage-linked-to-previous-govts-failure-health-minister/",
+        "timestamp": "2025-08-24T11:52:12+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Health Minister Nalinda Jayatissa says the current shortage of certain medicines in the country is the result of the previousContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Nalinda-Jayatissa.jpg",
+        "isoTimestamp": "2025-08-24T11:52:12+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "0a4d538be7e1b1cafc5bd0b01e98fc884825bc04c2d5e1ed862c12d52753c699"
+      },
+      {
+        "title": "Court reprimands police for delaying case against Minister Wasantha – Sunday Times",
+        "url": "https://www.newswire.lk/2025/08/24/court-reprimands-police-for-delaying-case-against-minister-wasantha-sunday-times/",
+        "timestamp": "2025-08-24T11:27:38+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Mount Lavinia Magistrate A.D. Chathurika De Silva has reprimanded officials of the Colombo Fraud Bureau (CFB) for prematurely sending extractsContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Screenshot_20250824_112706_Facebook.jpg",
+        "isoTimestamp": "2025-08-24T11:27:38+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "91634875e17e82cbd2ecb508447459418f4f70d5522a82d89f9ee7c304d1a3f6"
+      },
+      {
+        "title": "Ranil’s arrest an assault on democratic values, says CBK",
+        "url": "https://www.newswire.lk/2025/08/24/ranils-arrest-an-assault-on-democratic-values-says-cbk/",
+        "timestamp": "2025-08-24T10:48:06+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Former President Chandrika Bandaranaike Kumaratunga has voiced strong concern over the arrest of former President Ranil Wickremesinghe, warning that itContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/PSX_20250824_104601.jpg",
+        "isoTimestamp": "2025-08-24T10:48:06+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "cc5db5268f209da7d0b57ac7644bbc17f36f5ee6abf74323808e3a28f3fb3f52"
+      },
+      {
+        "title": "‘Let’s defeat the constitutional dictatorship’: Opposition parties hold joint presser",
+        "url": "https://www.newswire.lk/2025/08/24/lets-defeat-the-constitutional-dictatorship-opposition-parties-hold-joint-presser/",
+        "timestamp": "2025-08-24T10:40:15+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Opposition parties today held a joint press conference in Colombo condemning the arrest of former President Ranil Wickremesinghe. Speaking underContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/FB_IMG_1756011883237.jpg",
+        "isoTimestamp": "2025-08-24T10:40:15+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "db2a9f8d0ab8f59a43630cf97c4616121a8180293484de5115d35144a0c37d54"
+      },
+      {
+        "title": "‘Trivial charges’: Shashi Tharoor condemns arrest of ex-Sri Lankan president",
+        "url": "https://www.newswire.lk/2025/08/24/trivial-charges-shashi-tharoor-condemns-arrest-of-ex-sri-lankan-president/",
+        "timestamp": "2025-08-24T10:23:30+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Indian politician Congress MP Shashi Tharoor has expressed concern over the detention of former Sri Lankan President Ranil Wickremesinghe, warningContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/20250824_101811.jpg",
+        "isoTimestamp": "2025-08-24T10:23:30+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "edc78525c5328de87f463e3d98694f608e0f8d3a14a4b60537e98e5a3c8770b4"
+      },
+      {
+        "title": "Afghanistan & Bangladesh announce Asia Cup squad",
+        "url": "https://www.newswire.lk/2025/08/24/afghanistan-bangladesh-announce-asia-cup-squad/",
+        "timestamp": "2025-08-24T10:00:58+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Bangladesh Squad Announcement Bangladesh has revealed a 16‑member squad for Asia Cup 2025, with Litton Das confirmed as captain. A notable highlightContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/rashid-khan-2.jpg",
+        "isoTimestamp": "2025-08-24T10:00:58+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "e3b87e66a10e1171ae0bee7e76ebe084d72c32286cdfc40a063bfdcfeaaccc05"
+      },
+      {
+        "title": "Media minister comments on YouTuber’s arrest prediction of Ranil",
+        "url": "https://www.newswire.lk/2025/08/24/media-minister-comments-on-youtubers-arrest-prediction-of-ranil/",
+        "timestamp": "2025-08-24T09:39:07+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "Health and Media Minister and Cabinet Spokesman Nalinda Jayatissa said that the government has not interfered in any ongoing courtContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/6DE55981-E1A9-4BA7-899C-8E317DB6B4E4.jpeg",
+        "isoTimestamp": "2025-08-24T09:39:07+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "26e03d27dee663d8721ba5ca02e14bef8b0ddc31494ec0b6897f242cf802a0a4"
+      },
+      {
+        "title": "Weather today: Showers expected in some areas, fair conditions elsewhere",
+        "url": "https://www.newswire.lk/2025/08/24/weather-today-showers-expected-in-some-areas-fair-conditions-elsewhere/",
+        "timestamp": "2025-08-24T08:54:18+05:30",
+        "readableTime": "August 24, 2025",
+        "byline": "WEATHER FORECAST FOR 24 AUGUST 2025 Issued at 05.30 a.m. on 24 August 2025 A few showers may occur inContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/IMG_9837.jpeg",
+        "isoTimestamp": "2025-08-24T08:54:18+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "017f37a9d81dd7e83f83ccdf501f45661af22eb9f376917e1f3ddd50effa0ded"
+      }
+    ]
+  }
+}
