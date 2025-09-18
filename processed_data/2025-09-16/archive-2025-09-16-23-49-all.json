@@ -1,0 +1,607 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "adaderana": {
+    "success": true,
+    "data": [
+      {
+        "title": "Cloudy skies, several spells of showers expected in several areas today",
+        "href": "https://www.adaderana.lk/news.php?nid=112542",
+        "byline": "Cloudy skies can be expected over the Northern, North-Central, Eastern, Uva and Central provinces today (16), the Department of Meteorology said.",
+        "timestamp": "September 16, 2025  5:42 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112542",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b88e7ab0d329617aae1922744cb26eafab59142596ac774607fe5423687bc3fa"
+      },
+      {
+        "title": "Trump says US has a buyer for TikTok",
+        "href": "https://www.adaderana.lk/news.php?nid=112583",
+        "byline": "President Donald Trump said on Tuesday that the U.S. and China have a deal that would keep TikTok operating in the United States, transferring its U.S. assets to U.S. owners from China’s ByteDance, potentially resolving a saga that has lingered for nearly a year.",
+        "timestamp": "September 16, 2025  8:53 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112583",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8a4debe95891500c18348641574e58b11c830c5eab1dbf993bcd42017cf51b4b"
+      },
+      {
+        "title": "Namal meets Indian High Commissioner to discuss on-going political developments",
+        "href": "https://www.adaderana.lk/news.php?nid=112574",
+        "byline": "The National Organiser of the Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Namal Rajapaksa has met with Indian High Commissioner in Colombo Santosh Jha at the India House this afternoon (16).",
+        "timestamp": "September 16, 2025  2:45 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112574",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9fc67243a2a499efc47c68855d181b1e6153563ed44799a82a4ca0c2560f4ab2"
+      },
+      {
+        "title": "Cannes Winner Vimukthi Jayasundara’s Busan Competition Film ‘Spying Stars’ debuts first trailer",
+        "href": "https://www.adaderana.lk/news.php?nid=112554",
+        "byline": "The first trailer for “Spying Stars,” the latest feature from acclaimed Sri Lankan filmmaker Vimukthi Jayasundara, has been unveiled ahead of its world premiere in competition at the 30th Busan International Film Festival.",
+        "timestamp": "September 16, 2025  9:57 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112554",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bfc0218b77f569d8e20be3ef2163584f06f3716b372eb04174f25fe7c3cf2f53"
+      },
+      {
+        "title": "CEB workers to report sick in groups to oppose restructuring",
+        "href": "https://www.adaderana.lk/news.php?nid=112561",
+        "byline": "The Executive Committee Member of the Ceylon Electricity Board Engineers’ Union (CEBEU), Dhanushka Parakramasinghe announced that the trade union action launched in protest against the government’s decision to divide the Ceylon Electricity Board (CEB) into four entities, will be intensified from today (16).",
+        "timestamp": "September 16, 2025  11:48 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112561",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "212bdcda26c5ae235b0908661bea136bd66f6e4269835f50f13d85549d7faaab"
+      },
+      {
+        "title": "World Bank Vice President concludes first official visit to Sri Lanka",
+        "href": "https://www.adaderana.lk/news.php?nid=112559",
+        "byline": "The World Bank’s Vice President for South Asia, Johannes Zutt, concluded his first official visit to Sri Lanka yesterday (15).",
+        "timestamp": "September 16, 2025  11:13 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112559",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bcf5c4d4dacfb927e153bad3ed0acf0ac2b04bec7c6a35bedc47084818e56f68"
+      },
+      {
+        "title": "Southern Province first to adopt GovPay for digital payments across all Secretariats",
+        "href": "https://www.adaderana.lk/news.php?nid=112564",
+        "byline": "All District and Divisional Secretariats across the Southern Province are now empowered to accept digital payments following the adoption of GovPay, the Government Digital Payments Platform.",
+        "timestamp": "September 16, 2025  12:23 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112564",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ea87d4044a7b24bcbee6a8e224a5f7f4216b1c3e5eee52407461976680bbc886"
+      },
+      {
+        "title": "US negotiators in India to revive trade deal talks amid Trump Tariff overhang",
+        "href": "https://www.adaderana.lk/news.php?nid=112555",
+        "byline": "A team of US negotiators will hold discussions with Indian officials in New Delhi today (16) to revive talks on a bilateral trade deal.",
+        "timestamp": "September 16, 2025  10:01 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112555",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "769da018064a15ad14bc2d57631cb3ea17ed1426b3dbdbf0a690d6f5dd07d210"
+      },
+      {
+        "title": "IGP departs for China",
+        "href": "https://www.adaderana.lk/news.php?nid=112567",
+        "byline": "Inspector General of Police (IGP) Priyantha Weerasooriya has left the island to participate in a police conference being held in China.",
+        "timestamp": "September 16, 2025  1:27 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112567",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "75812471adeba2bad51e88979a55a90f628f57e32b9c0fe207a3d332f63bfdeb"
+      },
+      {
+        "title": "Social media platforms required to deactivate accounts of under-16s under Australian ban",
+        "href": "https://www.adaderana.lk/news.php?nid=112556",
+        "byline": "Social media companies will be required to detect and deactivate accounts held by underage children when Australia’s world-first under-16 ban comes into effect in December, the government revealed on Tuesday.",
+        "timestamp": "September 16, 2025  10:10 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112556",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "1ec7eb0b162c06879569806c92b18cdd472a5ccaddc8f07ef2107ffa61322bdc"
+      },
+      {
+        "title": "Israel says ‘Gaza is burning’ as it launches huge ground assault",
+        "href": "https://www.adaderana.lk/news.php?nid=112576",
+        "byline": "Israel launched the main stage of its long-awaited ground offensive on Gaza City on Tuesday, declaring “Gaza is burning” as Palestinians in the area described the most intense bombardment they had experienced in two years of war.",
+        "timestamp": "September 16, 2025  4:03 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112576",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "205f2624dcf753fa55888ec36969962eb063ddb512ca4ac5328e6a9b4ca9a10b"
+      },
+      {
+        "title": "20 Indian fishermen detained by Sri Lanka return to Chennai",
+        "href": "https://www.adaderana.lk/news.php?nid=112577",
+        "byline": "As many as 20 Indian fishermen who were arrested by the Sri Lankan Coast Guard returned to Chennai on Tuesday.",
+        "timestamp": "September 16, 2025  4:56 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112577",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a1870e601cd7506e35bd0469ce13598d5d990c7fff06390465d20f443a431fee"
+      },
+      {
+        "title": "Special Mediation Boards for financial disputes to be established – Minister of Justice",
+        "href": "https://www.adaderana.lk/news.php?nid=112586",
+        "byline": "Minister of Justice and National Integration Harshana Nanayakkara stated that measures will be taken to establish special mediation boards (Samatha Mandala) for financial disputes with the aim of reducing the number of such cases brought before the courts.",
+        "timestamp": "September 16, 2025  10:23 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112586",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4a4da63c6d8b3d9625b62af7f5dda418fb33eb740eed16489e3bb769dc225a3e"
+      },
+      {
+        "title": "Sri Lanka eyes 6% growth in 2026, but 2025 outlook dims amid spending delays: Dy Minister",
+        "href": "https://www.adaderana.lk/news.php?nid=112553",
+        "byline": "Sri Lanka is aiming to boost its economic growth to up to 6% in 2026, partly through record government capital expenditure, though delays in passing the budget could drag on its performance this year, Deputy Minister of Economic Development Anil Jayantha Fernando said.",
+        "timestamp": "September 16, 2025  9:34 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112553",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9f4531a14744bd039e5104be3e894c3bb370173ae825f05427e9a0b9637a992a"
+      },
+      {
+        "title": "15 injured in Epitawala accident involving bus and lorry",
+        "href": "https://www.adaderana.lk/news.php?nid=112565",
+        "byline": "A total of 15 individuals have sustained injuries in an accident involving a private bus and a lorry in Epitawala, along the Horana–Ratnapura main road this morning (16), police stated.",
+        "timestamp": "September 16, 2025  12:38 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112565",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "6e8ba25e323a824b829ea432ce23a746146b4031619a34e916e44c9359fdeb68"
+      },
+      {
+        "title": "Donald Trump says Netanyahu “won’t be hitting” Qatar again",
+        "href": "https://www.adaderana.lk/news.php?nid=112547",
+        "byline": "US President Donald Trump insisted Monday that Israeli Prime Minister Benjamin Netanyahu would not strike Qatar again, after an attack on Hamas last week that infuriated Washington’s Gulf ally.",
+        "timestamp": "September 16, 2025  7:02 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112547",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fcf7fba5da585b761cf549397a30eb383dbf7818188b294318706d56682e6125"
+      },
+      {
+        "title": "Substandard drug imports: Keheliya and other defendants granted bail",
+        "href": "https://www.adaderana.lk/news.php?nid=112580",
+        "byline": "A three-judge bench of the Colombo High Court has ordered the release on bail of former Health Minister Keheliya Rambukwella and other defendants, who are accused of misappropriating government funds by purchasing substandard medicine during the previous government.",
+        "timestamp": "September 16, 2025  5:55 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112580",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "23e2a34c0a4078fc146cb892afb7800f6d3359f954511b3769109c93dede461c"
+      },
+      {
+        "title": "Committee to be appointed to amend laws to grant voting rights to Sri Lankans residing overseas",
+        "href": "https://www.adaderana.lk/news.php?nid=112569",
+        "byline": "The Cabinet of Ministers has granted approval to examine the necessary legal amendments and formulate new laws to safeguard the voting rights of Sri Lankan citizens residing overseas.",
+        "timestamp": "September 16, 2025  2:02 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112569",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "1c340bd92309df3a8331d4f20dade87ba1801b5ada7e24c12ae1f613b9a784bf"
+      },
+      {
+        "title": "Drug-related arrests increase by 41% in 2024: Police",
+        "href": "https://www.adaderana.lk/news.php?nid=112544",
+        "byline": "Over 228,000 individuals have been arrested in 2024 for drug-related offenses, an increase of about 41 percent compared to 2023, police stated.",
+        "timestamp": "September 16, 2025  5:46 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112544",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fbef7092d8550df1930099a2ba3a1983fe616b16559eefb983ca545c36743526"
+      },
+      {
+        "title": "Nine-hour water cut in Colombo and suburbs on Thursday",
+        "href": "https://www.adaderana.lk/news.php?nid=112568",
+        "byline": "The National Water Supply and Drainage Board (NWSDB) has announced a nine-hour water cut from 10:00 a.m. to 7:00 p.m. on Thursday (18) for several areas in Colombo and suburbs.",
+        "timestamp": "September 16, 2025  1:36 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112568",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f3a5d8a21569db764aff9691011979320d77549cbee24d5dccdfe593d59191d4"
+      },
+      {
+        "title": "Substandard drug imports case: Indictments served on Keheliya and others",
+        "href": "https://www.adaderana.lk/news.php?nid=112572",
+        "byline": "Former Minister Keheliya Rambukwella and several other defendants, accused of misusing government funds through the purchase of substandard human immunoglobulin vials during the previous government, were indicted before a three-judge bench of the Colombo High Court today (16).",
+        "timestamp": "September 16, 2025  2:22 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112572",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3b78986c9e8aa57c0ff1a44f6681b3882cb6b75f2c51f320338e0066ad610834"
+      },
+      {
+        "title": "Over 75,000 tourists arrive in first two weeks of September",
+        "href": "https://www.adaderana.lk/news.php?nid=112550",
+        "byline": "The number of tourists who arrived in the country in the first two weeks of September stood at 75,358, the Sri Lanka Tourism Development Authority has announced.",
+        "timestamp": "September 16, 2025  8:02 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112550",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ae753c6bdf7672538233b2aaa5f2fe312756ccd541ff4b95357020d559a2d001"
+      },
+      {
+        "title": "Cabinet approves compensation for sugarcane farmers affected by fires at Sevanagala plantations",
+        "href": "https://www.adaderana.lk/news.php?nid=112571",
+        "byline": "The Cabinet has granted approval to provide compensation to sugarcane farmers whose crops were damaged due to fires that broke out in the sugarcane plantations of the Sevanagala Sugar Factory.",
+        "timestamp": "September 16, 2025  2:10 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112571",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8a98d5600bdb2d3a8406c16708899e2ec3291423934bedd0f50a420e3bafca20"
+      },
+      {
+        "title": "Dy Minister Sunil Watagala lodges complaint with CID over defamatory social media posts",
+        "href": "https://www.adaderana.lk/news.php?nid=112548",
+        "byline": "Deputy Minister of Public Security Sunil Watagala states that he has lodged a complaint with the Criminal Investigation Department (CID) regarding malicious and false statements being circulated about him on social media.",
+        "timestamp": "September 16, 2025  7:27 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112548",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a1da124d688d8b9c579bbf002c132d0aac13a2317e659971989473ce1ddaa7d5"
+      },
+      {
+        "title": "Sri Lanka targets Indian wedding market with multi-city shows",
+        "href": "https://www.adaderana.lk/news.php?nid=112585",
+        "byline": "Sri Lanka Tourism is aiming to attract the growing Indian wedding market and recently organised multi-city luxury wedding shows across the country for the first time, seeking to position Sri Lanka as a wedding destination for Indian couples, covering cities including Ahmedabad, Mumbai and New Delhi.",
+        "timestamp": "September 16, 2025  10:18 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112585",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bddf1993def00348956223f091ba321eabf62e7f9d2a1707951fd59720051aad"
+      },
+      {
+        "title": "Nepal’s deadly protests hammer tourism sector as arrivals fall 30%",
+        "href": "https://www.adaderana.lk/news.php?nid=112549",
+        "byline": "Nepal’s deadliest protests in decades erupted just as the country entered its peak tourist season, dealing a blow to businesses that had been preparing to welcome trekkers from around the globe to experience its world-famous trails.",
+        "timestamp": "September 16, 2025  7:57 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112549",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "04e8e9596884db1c4611ee25bc564f9dab2635013ca8b7a2f1e8df28214e2907"
+      },
+      {
+        "title": "Pro-Palestinian flotilla departs Tunisia in largest bid yet to break Gaza blockade",
+        "href": "https://www.adaderana.lk/news.php?nid=112543",
+        "byline": "A flotilla of 18 vessels carrying pro-Palestinian activists has left the Tunisian port of Bizerte in what organizers called the largest attempt yet to challenge Israel’s naval blockade of Gaza, Tunisia’s state news agency TAP reported on Monday.",
+        "timestamp": "September 16, 2025  5:43 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112543",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "022d9b98bb4091142895961391fe9c22ab5be27f5f4cd9c28babb1925becffa3"
+      },
+      {
+        "title": "Woman dead, seven injured in fatal accident on Southern Expressway",
+        "href": "https://www.adaderana.lk/news.php?nid=112546",
+        "byline": "A woman has died and seven others have been injured in an accident that occurred between the Galenigama and Kahathuduwa interchanges on the Southern Expressway.",
+        "timestamp": "September 16, 2025  6:34 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112546",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "333f0dde32840a278852add7b1a25562cab0298d95138981b7bbac0e3f87c6c8"
+      },
+      {
+        "title": "iOS 26: Apple releases huge, controversial iPhone update",
+        "href": "https://www.adaderana.lk/news.php?nid=112551",
+        "byline": "Apple has released new software for the iPhone and all of its other products.",
+        "timestamp": "September 16, 2025  8:26 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112551",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "802f9e025ed61aa4de3d9bf02cb3ca8cb1b41937a2b0c8fff2e69cf660eace62"
+      },
+      {
+        "title": "Oscar-winning actor, director and activist Robert Redford dies at 89",
+        "href": "https://www.adaderana.lk/news.php?nid=112581",
+        "byline": "Robert Redford, the Hollywood golden boy who became an Oscar-winning director, liberal activist and godfather for independent cinema under the name of one of his best-loved characters, died Tuesday at 89.",
+        "timestamp": "September 16, 2025  6:25 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112581",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "96aa7f4c01bbc3fe76d82c4a94df0ab32d1ef44589c3aa5e06b2a87ec60d7b9b"
+      },
+      {
+        "title": "Sri Lanka sees Sinopec starting work on $3.7 billion refinery soon, bidding for another refinery expansion",
+        "href": "https://www.adaderana.lk/news.php?nid=112582",
+        "byline": "Sri Lanka expects Chinese state energy giant Sinopec to start work on a $3.7 billion refinery this year and is considering the company’s long-standing demand to sell more fuel locally, the energy minister said on Tuesday.",
+        "timestamp": "September 16, 2025  7:08 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112582",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "92514bbf4bf9145f5c8a93f0bde6a4ffadb991f2a4c9316242b6d26f536db28f"
+      },
+      {
+        "title": "Cabinet approves proposal to conduct feasibility study to ease traffic congestion in Colombo",
+        "href": "https://www.adaderana.lk/news.php?nid=112573",
+        "byline": "The Cabinet of Ministers has granted approval to select a consultancy agency, through the procurement process, to conduct a detailed feasibility study aimed at formulating a sustainable solution...",
+        "timestamp": "September 16, 2025  2:28 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112573",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f68d8d9d9ad26fbee67afe0405336cfabb28f53d50d2d3bdf33dec1146da6831"
+      },
+      {
+        "title": "Concessional loans for small-scale entrepreneurs in Western Province",
+        "href": "https://www.adaderana.lk/news.php?nid=112584",
+        "byline": "A concessional loan scheme intended to facilitate micro and small-scale entrepreneurs in the Western Province has been planned, the Chief Secretary of the Western Province, K.G.P. Pushpakumara said.",
+        "timestamp": "September 16, 2025  9:40 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112584",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "99ddf45cec4e48e5c7d39cebc6a490023e52e451e9c81435841e7bcf9689703d"
+      },
+      {
+        "title": "Israel has committed genocide in Gaza, UN commission of inquiry says",
+        "href": "https://www.adaderana.lk/news.php?nid=112566",
+        "byline": "A United Nations commission of inquiry says Israel has committed genocide against Palestinians in Gaza.",
+        "timestamp": "September 16, 2025  12:57 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112566",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c88298449dc13fe1aaa0cd6d6469df09d70bf5bf8c30f2104f5007fe9250dc0a"
+      },
+      {
+        "title": "Inmate dies following injuries from accident at Kalutara prison",
+        "href": "https://www.adaderana.lk/news.php?nid=112578",
+        "byline": "An inmate who was receiving treatment for injuries sustained after climbing and subsequently jumping from a ‘Bo tree’ within the premises of Kalutara Prison has succumbed to his injuries, according to Kalutara North Police.",
+        "timestamp": "September 16, 2025  4:56 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112578",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0366ac9605887d82807ef89018d49d0ec2235a1d7e5f03ef53dcd49263c07015"
+      },
+      {
+        "title": "Six Sri Lankans abandoned in seas off Talaimannar by traffickers rescued",
+        "href": "https://www.adaderana.lk/news.php?nid=112563",
+        "byline": "The Sri Lanka Navy has taken hold of six Sri Lankans, who were abandoned in seas off Talaimannar by human traffickers.",
+        "timestamp": "September 16, 2025  11:56 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112563",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "77685c3533347c3db4e3031defe62f8d01ad525fed79f5d5178d0a2de760b8f8"
+      },
+      {
+        "title": "27,500 individuals subjected to inspection during special police operation",
+        "href": "https://www.adaderana.lk/news.php?nid=112557",
+        "byline": "A total of 598 individuals have been arrested on suspicion of being involved in criminal activities and also over illicit liquor and drug-related offenses during a special island-wide operation conducted yesterday (15).",
+        "timestamp": "September 16, 2025  10:25 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112557",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "73692c3ce158a70f6e15d957e79ed0e65dd561d2fbde81374983084e2cfad304"
+      },
+      {
+        "title": "Digital signature introduced for government entities to enhance efficiency",
+        "href": "https://www.adaderana.lk/news.php?nid=112552",
+        "byline": "A digital signature system has been introduced for public officials with the aim of making official duties easier and more efficient.",
+        "timestamp": "September 16, 2025  9:24 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112552",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "92583d650d39bbf842c9cc5ce9641252b65b8432b30f52ff2524541b6b33ed35"
+      },
+      {
+        "title": "Acting Director of Police Cultural Division SSP Sathish Gamage further remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=112562",
+        "byline": "The Acting Director of the Police Cultural Division, Senior Superintendent of Police (SSP) Sathish Gamage, who was arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has been further remanded, until September 30, Ada Derana reporter said.",
+        "timestamp": "September 16, 2025  11:55 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112562",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8f402a16f064c0252ce7a6d2e9a8e5e0b7cc794599c3672af4302cabc95c9eca"
+      },
+      {
+        "title": "Chinese Ambassador calls on ex-President Maithripala Sirisena",
+        "href": "https://www.adaderana.lk/news.php?nid=112575",
+        "byline": "The Chinese Ambassador to Sri Lanka, Qi Zhenhong has met former President Maithripala Sirisena at his official residence down Hector Kobbekaduwa Mawatha, Colombo, for a discussion.",
+        "timestamp": "September 16, 2025  2:56 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112575",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e74b832b4a5db42d8bfd3b0c9a9ee345c94b9f947ba9ff5c7c3cecfe2b87e519"
+      },
+      {
+        "title": "Govt. allocates Rs. 6 billion to purchase paddy during 2025 Yala season",
+        "href": "https://www.adaderana.lk/news.php?nid=112570",
+        "byline": "The Cabinet of Ministers has approved the proposal to obtain additional provisions to implement purchase of paddy from farmers in the 2025 Yala season under controlled price announced by the government.",
+        "timestamp": "September 16, 2025  2:04 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112570",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2878adabd92a6dbc79416899ff1d83ed22d25979d4a654bc140b156ced7c1e48"
+      },
+      {
+        "title": "Britain to roll out red carpet, royal fanfare for Trump visit",
+        "href": "https://www.adaderana.lk/news.php?nid=112560",
+        "byline": "United States President Donald Trump will arrive in Britain on Tuesday (Sep 16) for a three-day trip.",
+        "timestamp": "September 16, 2025  11:23 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112560",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bde67cac9e0cdff363541a41c3ac34367fff3ff5dea64f3444620466ef45e9ad"
+      },
+      {
+        "title": "HBO Max to enter Sri Lanka on October 15",
+        "href": "https://www.adaderana.lk/news.php?nid=112579",
+        "byline": "Warner Bros. Discovery today announced that its premier global streaming service HBO Max will launch direct-to-consumer in new markets across Asia Pacific on October 15, including Bangladesh, Brunei, Cambodia, Laos, Macau, Mongolia, Pakistan and Sri Lanka.",
+        "timestamp": "September 16, 2025  5:02 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112579",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ac078825846fb68a2efd43c347ee10f02a7501e1c04420b30936199cdc690f03"
+      },
+      {
+        "title": "‘I am humbly proud to have been a people’s leader’: Mahinda Rajapaksa",
+        "href": "https://www.adaderana.lk/news.php?nid=112545",
+        "byline": "Former President Mahinda Rajapaksa says he has spent the greater part of his life among the people and even today, that remains the same.",
+        "timestamp": "September 16, 2025  6:23 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112545",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b3a982cc20198d54314e4343fe4fb8d6641aee074a2acd57a5cd423807cfdb59"
+      },
+      {
+        "title": "Minister holds pre-budget discussion with automobile and electronics importers",
+        "href": "https://www.adaderana.lk/news.php?nid=112587",
+        "byline": "A pre-budget discussion on the automobile and electronic equipment industries was held this afternoon (16) at the Presidential Secretariat, chaired by the Minister of Labour and Deputy Minister of Economic Development, Dr. Anil Jayantha Fernando.",
+        "timestamp": "September 16, 2025  10:54 pm",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112587",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "68a112de34244f7af8d279b28aab877c6e609a893aff3c57100cf635c11a0e79"
+      },
+      {
+        "title": "Sri Lanka’s PMI for August expands",
+        "href": "https://www.adaderana.lk/news.php?nid=112558",
+        "byline": "The Central Bank of Sri Lanka’s purchasing manager’s report for August 2025 has shown that the manufacturing index expanded to 55.2 in the month of August this year.",
+        "timestamp": "September 16, 2025  10:37 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112558",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b8e92d2d4d33eae57ded383e4c2b4d3319dca5d0f99488e2a0767b23b9991165"
+      },
+      {
+        "title": "21-year-old woman arrested for defacing Sigiriya Mirror Wall",
+        "href": "https://www.adaderana.lk/news.php?nid=112501",
+        "byline": "A young woman accused of defacing the World Heritage Site of the Sigiriya Mirror Wall (Kedapath Pavura) was arrested by the Sigiriya Police yesterday (14).",
+        "timestamp": "September 15, 2025  6:44 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112501",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "db5e332c1646729eb7dc1130600c70ee4657847d769a4ae7a069c8370e93122a"
+      },
+      {
+        "title": "Renovation of Pettah Central Bus Stand under President’s patronage today",
+        "href": "https://www.adaderana.lk/news.php?nid=112502",
+        "byline": "The renovation of the Pettah Central Bus Stand is scheduled to commence this morning (15) under the patronage of President Anura Kumara Dissanayake.",
+        "timestamp": "September 15, 2025  7:02 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112502",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "17ebce06a78101c99ab8f91e9bbd17a20652676b2a5e7eac6a8b28aac55e8780"
+      },
+      {
+        "title": "Qatar PM urges world to ‘stop using double standards’ and punish Israel",
+        "href": "https://www.adaderana.lk/news.php?nid=112500",
+        "byline": "Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani urged the international community on Sunday (Sep 14) to “stop using double standards” and punish Israel for what he described as its “crimes”.",
+        "timestamp": "September 15, 2025  6:39 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112500",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4f43a4e15b63e574d998fef5918a6a79dbe6e8a43f8d3a2f33b67d8bdd54384a"
+      },
+      {
+        "title": "Several spells of showers expected in parts of the island",
+        "href": "https://www.adaderana.lk/news.php?nid=112499",
+        "byline": "Several spells of showers will occur in Western and Sabaragamuwa provinces and in Galle, Matara, Kandy, and Nuwara Eliya districts, the Department of Meteorology said.",
+        "timestamp": "September 15, 2025  6:06 am",
+        "isoTimestamp": "2025-09-16T23:34:14+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=112499",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "98947bdecdb3b3f69be4dd7f35c74a3d9a4019f86b1409fd8bae33832423713f"
+      }
+    ]
+  },
+  "aruna": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "themorning": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thamilan": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "economynext": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "newswire": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  }
+}
