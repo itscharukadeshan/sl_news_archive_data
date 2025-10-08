@@ -2,26 +2,26 @@
 
 ## News Archive Summary
 
-Summary Report as of Fri Oct 03 11:24:08 +0000 2025
+Summary Report as of Sat Oct 04 11:46:46 +0000 2025
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 14          | 5993        |
-| adaderana-sinhala               | 26          | 12627        |
+| ada               | 5          | 6003        |
+| adaderana-sinhala               | 22          | 12664        |
 | adaderana-tamil               | 0          | 5098        |
-| adaderana               | 21          | 9882        |
-| aruna               | 18          | 10288        |
-| dailymirror               | 26          | 8499        |
-| dinamina               | 80          | 20414        |
-| economynext               | 0          | 3709        |
+| adaderana               | 17          | 9908        |
+| aruna               | 18          | 10316        |
+| dailymirror               | 19          | 8529        |
+| dinamina               | 15          | 20437        |
+| economynext               | 3          | 3724        |
 | island               | 0          | 6376        |
-| lankadeepa               | 55          | 23747        |
-| newswire               | 25          | 5160        |
-| tamilmirror               | 16          | 10002        |
-| thamilan               | 28          | 11030        |
-| themorning               | 31          | 11844        |
-| thinakaran               | 48          | 14241        |
-| **Total**          | **388**      | **158910** |
+| lankadeepa               | 19          | 23781        |
+| newswire               | 3          | 5170        |
+| tamilmirror               | 9          | 10013        |
+| thamilan               | 17          | 11064        |
+| themorning               | 6          | 11852        |
+| thinakaran               | 19          | 14262        |
+| **Total**          | **172**      | **159197** |
 
 ### Interactive Chart Preview
 🔗 [View Interactive Chart](https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html)
