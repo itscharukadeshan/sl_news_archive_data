@@ -20,10 +20,12 @@ run_script() {
 # List of scripts to execute in order
 SCRIPTS=(
     "process_json.sh"
+    "fix_processed_data.sh"
     "combined_urls.sh"
     "generate_summary.sh"
     "extract_todays_urls.sh"
     "generate_table.sh"
+    
 )
 
 # Loop through each script and execute it
