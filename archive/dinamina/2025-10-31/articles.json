@@ -698,5 +698,415 @@
     "isoTimestamp": "2025-10-31T01:00:28+05:30",
     "baseUrl": "https://www.dinamina.lk",
     "checkSum": "34b19b0116fd3c963ce4a7b109328ba4685a10a380d9aedc6655a9913df387d8"
+  },
+  {
+    "title": "ඉන්ධන මිල සංශෝධනය කෙරේ – නව මිල ගණන් මෙන්න",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T21:20:10+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236141/%e0%b6%89%e0%b6%b1%e0%b7%8a%e0%b6%b0%e0%b6%b1-%e0%b6%b8%e0%b7%92%e0%b6%bd-%e0%b7%83%e0%b6%82%e0%b7%81%e0%b7%9d%e0%b6%b0%e0%b6%b1%e0%b6%ba-%e0%b6%9a%e0%b7%99%e0%b6%bb%e0%b7%9a-%e0%b6%b1%e0%b7%80/",
+    "isoTimestamp": "2025-10-31T21:20:10+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "ad7abccc7e6428cb3c18c4835a5e19219f9d1e3b05da0363058db8ea5864397e"
+  },
+  {
+    "title": "විදේශ ආයෝජන සඳහා ජනාධිපති විශේෂ නියෝජිත ලෙස බස්නාහිර පළාත් ආණ්ඩුකාර හනීෆ් යුසුෆ් මහතා පත් කෙරේ",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T17:14:18+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236138/%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%9a%e0%b7%81-%e0%b6%86%e0%b6%ba%e0%b7%9d%e0%b6%a2%e0%b6%b1-%e0%b7%83%e0%b6%b3%e0%b7%84%e0%b7%8f-%e0%b6%a2%e0%b6%b1%e0%b7%8f%e0%b6%b0%e0%b7%92%e0%b6%b4%e0%b6%ad/",
+    "isoTimestamp": "2025-10-31T17:14:18+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "177cf3c7467233578f5a78c079cbc2f70b2124e14992b797af0ddc607fbfdd54"
+  },
+  {
+    "title": "කුච්චවේලි ප්‍රාදේශිය සභාවේ සභාපති ඒ.පී.මුබාරක් අත්අඩංගුවට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T16:33:35+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236135/%e0%b6%9a%e0%b7%94%e0%b6%a0%e0%b7%8a%e0%b6%a0%e0%b7%80%e0%b7%9a%e0%b6%bd%e0%b7%92-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b7%8f%e0%b6%af%e0%b7%9a%e0%b7%81%e0%b7%92%e0%b6%ba-%e0%b7%83%e0%b6%b7%e0%b7%8f/",
+    "isoTimestamp": "2025-10-31T16:33:35+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "85a156ad4bb2eea3a131d54dd442002faac7ae7c563c4c33d31252300b4f10cc"
+  },
+  {
+    "title": "පෞද්ගලික දත්ත ආරක්ෂණ (සංශෝධන) පනත් කෙටුම්පතට කථානායකවරයාගේ සහතිකය",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T16:26:04+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236132/%e0%b6%b4%e0%b7%9e%e0%b6%af%e0%b7%8a%e0%b6%9c%e0%b6%bd%e0%b7%92%e0%b6%9a-%e0%b6%af%e0%b6%ad%e0%b7%8a%e0%b6%ad-%e0%b6%86%e0%b6%bb%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%ab-%e0%b7%83%e0%b6%82%e0%b7%81/",
+    "isoTimestamp": "2025-10-31T16:26:04+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "51ffe91b0d3e4dba7acf57ad98d4c9b0ba188b898dd3ca9c35c88cd5d9d93668"
+  },
+  {
+    "title": "ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව උතුරු පළාතේ  රාජ්‍ය නිලධාරීන් දැනුවත් කෙරේ",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T16:16:16+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236129/%e0%b6%a9%e0%b7%92%e0%b6%a2%e0%b7%92%e0%b6%a7%e0%b6%bd%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab%e0%b6%ba-%e0%b7%83%e0%b7%84-ai-%e0%b6%ad%e0%b7%8f%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%ab%e0%b6%ba-%e0%b6%b4/",
+    "isoTimestamp": "2025-10-31T16:16:16+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "d9e15b1a7299b1f301645d16b56619f6ae272bed3a91313c73dd2fa640c93d37"
+  },
+  {
+    "title": "කහව දී ත්‍රී රෝද රථයක් දුම්රියක ගැටී රියදුරු මරුට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T15:07:37+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236126/%e0%b6%9a%e0%b7%84%e0%b7%80-%e0%b6%af%e0%b7%93-%e0%b6%ad%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bb%e0%b7%9d%e0%b6%af-%e0%b6%bb%e0%b6%ae%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%af%e0%b7%94%e0%b6%b8/",
+    "isoTimestamp": "2025-10-31T15:07:37+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "0032343b86b3d97a28d5759ebfd537a7fce8dcedb9d22d3e6e38ab6a840fdb08"
+  },
+  {
+    "title": "බැකෝ සමන්ගේ බිරිඳට ඇප",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T14:43:01+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236124/%e0%b6%b6%e0%b7%90%e0%b6%9a%e0%b7%9d-%e0%b7%83%e0%b6%b8%e0%b6%b1%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b6%b6%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b6%b3%e0%b6%a7-%e0%b6%87%e0%b6%b4/",
+    "isoTimestamp": "2025-10-31T14:43:01+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "e417ca6b3336929c60e085ecda9aa7588a2db02e393203f5784f26cbb00361b1"
+  },
+  {
+    "title": "මහ කන්නය සඳහා පොහොර සහනාධාර ලබාදීම ඇරඹේ",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T14:29:36+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236120/%e0%b6%b8%e0%b7%84-%e0%b6%9a%e0%b6%b1%e0%b7%8a%e0%b6%b1%e0%b6%ba-%e0%b7%83%e0%b6%b3%e0%b7%84%e0%b7%8f-%e0%b6%b4%e0%b7%9c%e0%b7%84%e0%b7%9c%e0%b6%bb-%e0%b7%83%e0%b7%84%e0%b6%b1%e0%b7%8f%e0%b6%b0/",
+    "isoTimestamp": "2025-10-31T14:29:36+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "2c9eab9bbfad7572444a53ad507451019c807f16f831e7c9a7e11ceae063fa9a"
+  },
+  {
+    "title": "GovPay  රුපියල් මිලියන 750 කට අධික ඩිජිටල් ගෙවීම් ප‍්‍රමාණයක් සම්පූර්ණ කරයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:49:33+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236117/govpay-%e0%b6%bb%e0%b7%94%e0%b6%b4%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%8a-%e0%b6%b8%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b6%b1-750-%e0%b6%9a%e0%b6%a7-%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a-%e0%b6%a9/",
+    "isoTimestamp": "2025-10-31T13:49:33+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "223ac58d3fe3762ea8e2ca62fd42555a8d204f91b0805205799c5ae17d7a44f5"
+  },
+  {
+    "title": "“කිසිදු නව නිපැයුමක් අත් නොහැරිය යුතුයි. ඒවා ප්‍රවර්ධනය සඳහා වඩා සංවිධිත ජාලයක් ගොඩනගනවා “",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:42:30+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/breaking-news/236114/%e0%b6%9a%e0%b7%92%e0%b7%83%e0%b7%92%e0%b6%af%e0%b7%94-%e0%b6%b1%e0%b7%80-%e0%b6%b1%e0%b7%92%e0%b6%b4%e0%b7%90%e0%b6%ba%e0%b7%94%e0%b6%b8%e0%b6%9a%e0%b7%8a-%e0%b6%85%e0%b6%ad%e0%b7%8a/",
+    "isoTimestamp": "2025-10-31T13:42:30+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "75f398742140b660ee18f3d70382e1614df87cd472c8fe3732c3974231852c78"
+  },
+  {
+    "title": "ගුවන් මගීන් 378 දෙනෙකු රැගෙන පෝලන්ත එන්ටර් එයාර් ගුවන් යානා දෙකක් මෙරටට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:25:40+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236107/%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b6%b1%e0%b7%8a-%e0%b6%b8%e0%b6%9c%e0%b7%93%e0%b6%b1%e0%b7%8a-378-%e0%b6%af%e0%b7%99%e0%b6%b1%e0%b7%99%e0%b6%9a%e0%b7%94-%e0%b6%bb%e0%b7%90%e0%b6%9c%e0%b7%99%e0%b6%b1/",
+    "isoTimestamp": "2025-10-31T13:25:40+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "268e3dff6738a72c83f857b8c3952057460b41aaa9dc3e575a7ed672b9389092"
+  },
+  {
+    "title": "පොලිස් ආරක්ෂාව අවශ්‍ය මන්ත්‍රීන් රකින්න පොලිස්පති සූදානම්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:22:43+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236104/%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%92%e0%b7%83%e0%b7%8a-%e0%b6%86%e0%b6%bb%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b7%8f%e0%b7%80-%e0%b6%85%e0%b7%80%e0%b7%81%e0%b7%8a%e0%b6%ba-%e0%b6%b8%e0%b6%b1/",
+    "isoTimestamp": "2025-10-31T13:22:43+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "59892f34c45ed78761eb78b9e0e7a4170087ae975c6e829d2defb9d65cd4a8a1"
+  },
+  {
+    "title": "මරදානේ මාවතක  ට්‍රාන්ස්ෆෝමරයක ගින්නක්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:20:08+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236100/%e0%b6%b8%e0%b6%bb%e0%b6%af%e0%b7%8f%e0%b6%b1%e0%b7%9a-%e0%b6%b8%e0%b7%8f%e0%b7%80%e0%b6%ad%e0%b6%9a-%e0%b6%a7%e0%b7%8a%e0%b6%bb%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b7%83%e0%b7%8a%e0%b7%86/",
+    "isoTimestamp": "2025-10-31T13:20:08+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "ab228b41010dc0b3ff03d9235dbaf5bfffac8494a6649652970421c058140032"
+  },
+  {
+    "title": "ආබාධ සහිත පුද්ගලයන් සඳහා වන ජාත්‍යන්තර දින සැමරුම යාපනයේදී",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:19:20+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236091/%e0%b6%86%e0%b6%b6%e0%b7%8f%e0%b6%b0-%e0%b7%83%e0%b7%84%e0%b7%92%e0%b6%ad-%e0%b6%b4%e0%b7%94%e0%b6%af%e0%b7%8a%e0%b6%9c%e0%b6%bd%e0%b6%ba%e0%b6%b1%e0%b7%8a-%e0%b7%83%e0%b6%b3%e0%b7%84%e0%b7%8f/",
+    "isoTimestamp": "2025-10-31T13:19:20+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "4990803e2b9c0715873f36e565b3fad9f39b9afce28101b0607c8b4c142abcb6"
+  },
+  {
+    "title": "අද විනිමය අනුපාතය – 2025 ඔක්තෝබර් 31",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T12:48:08+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/business/236095/%e0%b6%85%e0%b6%af-%e0%b7%80%e0%b7%92%e0%b6%b1%e0%b7%92%e0%b6%b8%e0%b6%ba-%e0%b6%85%e0%b6%b1%e0%b7%94%e0%b6%b4%e0%b7%8f%e0%b6%ad%e0%b6%ba-2025-%e0%b6%94%e0%b6%9a%e0%b7%8a%e0%b6%ad%e0%b7%9d-16/",
+    "isoTimestamp": "2025-10-31T12:48:08+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "5029d2ff776598f396dd51ad61936f921b5c8cfc8b068b230f0fa295cca79923"
+  },
+  {
+    "title": "4 වන දකුණු ආසියානු ජ්‍යෙෂ්ඨ මළල ක්‍රීඩා ශූරතාවලියේදී දස්කම් දැක්වූ ශ්‍රී ලංකා යුද්ධ හමුදා ක්‍රීඩකයින් යුද්ධ හමුදාධිපතිගේ පැසසුමට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T12:33:26+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236092/4-%e0%b7%80%e0%b6%b1-%e0%b6%af%e0%b6%9a%e0%b7%94%e0%b6%ab%e0%b7%94-%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b6%b1%e0%b7%94-%e0%b6%a2%e0%b7%8a%e0%b6%ba%e0%b7%99%e0%b7%82%e0%b7%8a/",
+    "isoTimestamp": "2025-10-31T12:33:26+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "7931b01e5c0017948d735c6a6c7183e49f2dbc9e9717671555b1bb258e504bb0"
+  },
+  {
+    "title": "පොලිස්පතිවරයා පාර්ලිමේන්තුවට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T12:19:59+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236089/%e0%b6%b4%e0%b7%9c%e0%b6%bd%e0%b7%92%e0%b7%83%e0%b7%8a%e0%b6%b4%e0%b6%ad%e0%b7%92%e0%b7%80%e0%b6%bb%e0%b6%ba%e0%b7%8f-%e0%b6%b4%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%bd%e0%b7%92%e0%b6%b8%e0%b7%9a%e0%b6%b1/",
+    "isoTimestamp": "2025-10-31T12:19:59+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "75d7133d5442ffe221b08d3b39dec8aa247d5bbd3d2f9723092bcfd5e7ee8c1e"
+  },
+  {
+    "title": "මහින්දගේ ප්‍රධාන ආරක්ෂක නෙවිල්ට ඇප",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T11:33:33+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/lawnorder/236081/%e0%b6%b8%e0%b7%84%e0%b7%92%e0%b6%b1%e0%b7%8a%e0%b6%af%e0%b6%9c%e0%b7%9a-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b6%b0%e0%b7%8f%e0%b6%b1-%e0%b6%86%e0%b6%bb%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%9a-2/",
+    "isoTimestamp": "2025-10-31T11:33:33+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "956557c7172b62689aac138cf2092e9ad4053344db6fdb085e6a6ae9641a6926"
+  },
+  {
+    "title": "ශ්‍රී ලංකා රේගුවේ ආදායම ට්‍රිලියන 02 ඉක්මවයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T10:35:39+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236085/%e0%b7%81%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bd%e0%b6%82%e0%b6%9a%e0%b7%8f-%e0%b6%bb%e0%b7%9a%e0%b6%9c%e0%b7%94%e0%b7%80%e0%b7%9a-%e0%b6%86%e0%b6%af%e0%b7%8f%e0%b6%ba%e0%b6%b8-%e0%b6%a7/",
+    "isoTimestamp": "2025-10-31T10:35:39+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "832f904e9186daf0031f555057b9c27ad705167f1c0e604ac57525fc3d25f24a"
+  },
+  {
+    "title": "යාපනය විශ්වවිද්‍යාල භූමියෙන් තුවක්කු කොටස් සොයා ගැනේ",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T10:01:30+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/lawnorder/236082/%e0%b6%ba%e0%b7%8f%e0%b6%b4%e0%b6%b1%e0%b6%ba-%e0%b7%80%e0%b7%92%e0%b7%81%e0%b7%8a%e0%b7%80%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%8a%e0%b6%ba%e0%b7%8f%e0%b6%bd-%e0%b6%b7%e0%b7%96%e0%b6%b8%e0%b7%92/",
+    "isoTimestamp": "2025-10-31T10:01:30+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "0fa787c770a214327050f553d55a65577d0099e10eb9cee4e112f93d733444c0"
+  },
+  {
+    "title": "රුසියාව යුක්‍රේනය වෙත එල්ල කරන ප්‍රහාර තීව්‍ර කරයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:56:54+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/foreign/236077/%e0%b6%bb%e0%b7%94%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f%e0%b7%80-%e0%b6%ba%e0%b7%94%e0%b6%9a%e0%b7%8a%e0%b6%bb%e0%b7%9a%e0%b6%b1%e0%b6%ba-%e0%b7%80%e0%b7%99%e0%b6%ad-%e0%b6%91%e0%b6%bd/",
+    "isoTimestamp": "2025-10-31T09:56:54+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "3f4097dade3e39d0f5b349ad3faae63a6a39fc3a7e3cf3b205e9805fdea1649b"
+  },
+  {
+    "title": "හෙට සිට ශ්‍රී ලංකාව පුරා නොමිලේ ෂොපින් බෑග් තහනම්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:48:10+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236074/%e0%b7%84%e0%b7%99%e0%b6%a7-%e0%b7%83%e0%b7%92%e0%b6%a7-%e0%b7%81%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bd%e0%b6%82%e0%b6%9a%e0%b7%8f%e0%b7%80-%e0%b6%b4%e0%b7%94%e0%b6%bb%e0%b7%8f-%e0%b6%b1/",
+    "isoTimestamp": "2025-10-31T09:48:10+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "95acfda50b566eeff1b47015f2bcb15684ffc9bedd82004ccaad9725bd38aea9"
+  },
+  {
+    "title": "ශ්‍රී ලංකාවේ හස්ත කර්මාන්ත ක්ෂේත්‍රයට NVQ වරම්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:45:59+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236071/%e0%b7%81%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bd%e0%b6%82%e0%b6%9a%e0%b7%8f%e0%b7%80%e0%b7%9a-%e0%b7%84%e0%b7%83%e0%b7%8a%e0%b6%ad-%e0%b6%9a%e0%b6%bb%e0%b7%8a%e0%b6%b8%e0%b7%8f%e0%b6%b1/",
+    "isoTimestamp": "2025-10-31T09:45:59+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "e30d11c8b6ea55d3d4c0ce288e53bc0a603d1ba74f62660b5557ea998a5d43e1"
+  },
+  {
+    "title": "කර්මාන්ත අමාත්‍යාංශයේ මැදිහත්වීමෙන් රූපලාවණ්‍ය නිෂ්පාදන පරීක්ෂණ රසායනාගාරයක්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:43:27+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236068/%e0%b6%9a%e0%b6%bb%e0%b7%8a%e0%b6%b8%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%ad-%e0%b6%85%e0%b6%b8%e0%b7%8f%e0%b6%ad%e0%b7%8a%e0%b6%ba%e0%b7%8f%e0%b6%82%e0%b7%81%e0%b6%ba%e0%b7%9a-%e0%b6%b8%e0%b7%90/",
+    "isoTimestamp": "2025-10-31T09:43:27+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "470729475a48990216e074ef0204d44114f4f41013e63c13ea8afbc23647a558"
+  },
+  {
+    "title": "පෝලන්තයේ Enter Air අද සිට කොළඹට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:40:15+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236065/%e0%b6%b4%e0%b7%9d%e0%b6%bd%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b6%ba%e0%b7%9a-enter-air-%e0%b6%85%e0%b6%af-%e0%b7%83%e0%b7%92%e0%b6%a7-%e0%b6%9a%e0%b7%9c%e0%b7%85%e0%b6%b9%e0%b6%a7/",
+    "isoTimestamp": "2025-10-31T09:40:15+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "9f0a9f14e4e6462195c6e21069ff89503c2d8b9084982e51c1a00c45dcf65539"
+  },
+  {
+    "title": "චීන ආයෝජකයින් පිරිසක් කටුනායකට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:35:39+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236062/%e0%b6%a0%e0%b7%93%e0%b6%b1-%e0%b6%86%e0%b6%ba%e0%b7%9d%e0%b6%a2%e0%b6%9a%e0%b6%ba%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%92%e0%b6%bb%e0%b7%92%e0%b7%83%e0%b6%9a%e0%b7%8a-%e0%b6%9a%e0%b6%a7/",
+    "isoTimestamp": "2025-10-31T09:35:39+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "d4a4df1d28345e2d114ab90dcbec4e6baaf8ec342cff3d50c3280be2a0b43cb2"
+  },
+  {
+    "title": "ආසියා ශාන්තිකර කලාපයේ විවෘත ආර්ථිකයක් වෙනුවෙන් චීන ජනපතිගෙන් යෝජනාවලියක්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:24:31+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/foreign/236059/%e0%b6%86%e0%b7%83%e0%b7%92%e0%b6%ba%e0%b7%8f-%e0%b7%81%e0%b7%8f%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%92%e0%b6%9a%e0%b6%bb-%e0%b6%9a%e0%b6%bd%e0%b7%8f%e0%b6%b4%e0%b6%ba%e0%b7%9a-%e0%b7%80%e0%b7%92/",
+    "isoTimestamp": "2025-10-31T09:24:31+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "174a047fbc7b97761a6c81fa695f55cddbac4763559cf16bc37338325c5f7443"
+  },
+  {
+    "title": "ටිබෙට් භික්ෂුන් වහන්සේ පිරිසක් ශාසනික මෙහෙවර වෙනුවෙන් ලංකාවට වැඩම කරයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:22:27+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236056/%e0%b6%a7%e0%b7%92%e0%b6%b6%e0%b7%99%e0%b6%a7%e0%b7%8a-%e0%b6%b7%e0%b7%92%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b7%94%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%84%e0%b6%b1%e0%b7%8a%e0%b7%83%e0%b7%9a-%e0%b6%b4/",
+    "isoTimestamp": "2025-10-31T09:22:27+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "055f19bcf83bd2aaf25bfb5f049a3bd993c995a14ad31afc1a4db5186f41a344"
+  },
+  {
+    "title": "කෝටි 3ක කුඩු සමඟ පද්මෙගේ ගෝලයෝ 3ක් අත්අඩංගුවට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:14:52+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/lawnorder/236053/%e0%b6%9a%e0%b7%9d%e0%b6%a7%e0%b7%92-3%e0%b6%9a-%e0%b6%9a%e0%b7%94%e0%b6%a9%e0%b7%94-%e0%b7%83%e0%b6%b8%e0%b6%9f-%e0%b6%b4%e0%b6%af%e0%b7%8a%e0%b6%b8%e0%b7%99%e0%b6%9c%e0%b7%9a-%e0%b6%9c%e0%b7%9d/",
+    "isoTimestamp": "2025-10-31T09:14:52+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "0cb11f291036865c5fdbafe23acb6b74aa9b6496e3eb2bf083ab7a25168bf5d4"
+  },
+  {
+    "title": "වෛද්‍ය වර්ජනය අද දහවල් දක්වා තාවකාලිකව අත්හිටුවයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T09:03:50+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236051/%e0%b7%80%e0%b7%9b%e0%b6%af%e0%b7%8a%e0%b6%ba-%e0%b7%80%e0%b6%bb%e0%b7%8a%e0%b6%a2%e0%b6%b1%e0%b6%ba-%e0%b6%85%e0%b6%af-%e0%b6%af%e0%b7%84%e0%b7%80%e0%b6%bd%e0%b7%8a-%e0%b6%af%e0%b6%9a/",
+    "isoTimestamp": "2025-10-31T09:03:50+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "5637afa6a14b5b437c85e10d3e89dd53f56a837807844b040a889057fa9ff001"
+  },
+  {
+    "title": "විදුලි හීටරයකින් විදුලි සැර වැදී කාන්තාවක් මරුට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T08:46:06+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/lawnorder/236048/%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%94%e0%b6%bd%e0%b7%92-%e0%b7%84%e0%b7%93%e0%b6%a7%e0%b6%bb%e0%b6%ba%e0%b6%9a%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%94%e0%b6%bd%e0%b7%92/",
+    "isoTimestamp": "2025-10-31T08:46:06+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "8954551e4818fd595749087e36678089c7b576542706b1e9fad603cdc544aa79"
+  },
+  {
+    "title": "චාල්ස් රජුගේ අණින් ඇන්ඩෲ කුමරුගේ ‘රජ කුමරු’ පදවිය අහිමිවෙයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T08:41:24+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/foreign/236045/%e0%b6%a0%e0%b7%8f%e0%b6%bd%e0%b7%8a%e0%b7%83%e0%b7%8a-%e0%b6%bb%e0%b6%a2%e0%b7%94%e0%b6%9c%e0%b7%9a-%e0%b6%85%e0%b6%ab%e0%b7%92%e0%b6%b1%e0%b7%8a-%e0%b6%87%e0%b6%b1%e0%b7%8a%e0%b6%a9%e0%b7%b2/",
+    "isoTimestamp": "2025-10-31T08:41:24+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "c1aa5c34f1f99067b140c47ef3e0fc618af4c6ee1f7b6c7c36306ad445ee673f"
+  },
+  {
+    "title": "කොළඹ විශ්වවිද්‍යාලයේ ශ්‍රීපාලි මණ්ඩපයේ වාර්ෂික ජාත්‍යන්තර පර්යේෂණ සම්මන්ත්‍රණය අද",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T08:27:10+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236042/%e0%b6%9a%e0%b7%9c%e0%b7%85%e0%b6%b9-%e0%b7%80%e0%b7%92%e0%b7%81%e0%b7%8a%e0%b7%80%e0%b7%80%e0%b7%92%e0%b6%af%e0%b7%8a%e0%b6%ba%e0%b7%8f%e0%b6%bd%e0%b6%ba%e0%b7%9a-%e0%b7%81%e0%b7%8a/",
+    "isoTimestamp": "2025-10-31T08:27:10+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "495c9357b289b729ba32fb36a31cfb614d32d25ef8f4461b8353a794e3333da7"
+  },
+  {
+    "title": "කාලගුණයේ වෙනසක්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T08:07:23+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236040/%e0%b6%9a%e0%b7%8f%e0%b6%bd%e0%b6%9c%e0%b7%94%e0%b6%ab%e0%b6%ba%e0%b7%9a-%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%83%e0%b6%9a%e0%b7%8a/",
+    "isoTimestamp": "2025-10-31T08:07:23+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "3210726228679f23126d3e9e498b5fec55931ba4f75c7ceb7461be87d2e0eae1"
+  },
+  {
+    "title": "මත් ජාවාරමුන්ට ජනපතිගෙන් අවසන් නිවේදනය",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T01:15:00+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/235944/%e0%b6%b8%e0%b6%ad%e0%b7%8a-%e0%b6%a2%e0%b7%8f%e0%b7%80%e0%b7%8f%e0%b6%bb%e0%b6%b8%e0%b7%94%e0%b6%b1%e0%b7%8a%e0%b6%a7-%e0%b6%a2%e0%b6%b1%e0%b6%b4%e0%b6%ad%e0%b7%92%e0%b6%9c%e0%b7%99%e0%b6%b1%e0%b7%8a/",
+    "isoTimestamp": "2025-10-31T01:15:00+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "3dd2e6f8f709086538bc96136f3833fc2fcaa52fc02732dca7adc2478e982120"
+  },
+  {
+    "title": "පාර්ලිමේන්තු හා පළාත් සභා මන්ත්‍රීවරු 56ක් ජනපති අරමුදලෙන් වෛද්‍යාධාර මිලියන 131ක් අරන්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T01:13:39+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/235954/%e0%b6%b4%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%bd%e0%b7%92%e0%b6%b8%e0%b7%9a%e0%b6%b1%e0%b7%8a%e0%b6%ad%e0%b7%94-%e0%b7%84%e0%b7%8f-%e0%b6%b4%e0%b7%85%e0%b7%8f%e0%b6%ad%e0%b7%8a-%e0%b7%83%e0%b6%b7-2/",
+    "isoTimestamp": "2025-10-31T01:13:39+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "f9cbb34ddf62ee7a6b808590c2584ed450e1868c06b61c34a0f1cf17046230e0"
+  },
+  {
+    "title": "උතුරු පළාතෙන් බිම් බෝම්බ සහමුලින්ම ඉවත් කිරීමට ජපානයෙන් මිලියන 144ක්",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T01:13:01+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/235922/%e0%b6%8b%e0%b6%ad%e0%b7%94%e0%b6%bb%e0%b7%94-%e0%b6%b4%e0%b7%85%e0%b7%8f%e0%b6%ad%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b6%e0%b7%92%e0%b6%b8%e0%b7%8a-%e0%b6%b6%e0%b7%9d%e0%b6%b8%e0%b7%8a%e0%b6%b6/",
+    "isoTimestamp": "2025-10-31T01:13:01+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "8d80c99b62ba502e631d9c11ae08f8c380e7d1a21c3a5ff6fc09253f8a65825d"
+  },
+  {
+    "title": "ඩිජිටල්කරණය සහ AI තාක්ෂණය පිළිබඳව උතුරු පළාතේ  රාජ්‍ය නිලධාරීන් දැනුවත් කෙරේ",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T16:16:16+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236129/%e0%b6%a9%e0%b7%92%e0%b6%a2%e0%b7%92%e0%b6%a7%e0%b6%bd%e0%b7%8a%e0%b6%9a%e0%b6%bb%e0%b6%ab%e0%b6%ba-%e0%b7%83%e0%b7%84-ai-%e0%b6%ad%e0%b7%8f%e0%b6%9a%e0%b7%8a%e0%b7%82%e0%b6%ab%e0%b6%ba-%e0%b6%b4/",
+    "isoTimestamp": "2025-10-31T16:16:16+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "596e5a3b065a9d0599d5c3f199995089e33b7ff32813d83abbd9286b6897aa9b"
+  },
+  {
+    "title": "කහව දී ත්‍රී රෝද රථයක් දුම්රියක ගැටී රියදුරු මරුට",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T15:07:37+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236126/%e0%b6%9a%e0%b7%84%e0%b7%80-%e0%b6%af%e0%b7%93-%e0%b6%ad%e0%b7%8a%e0%b6%bb%e0%b7%93-%e0%b6%bb%e0%b7%9d%e0%b6%af-%e0%b6%bb%e0%b6%ae%e0%b6%ba%e0%b6%9a%e0%b7%8a-%e0%b6%af%e0%b7%94%e0%b6%b8/",
+    "isoTimestamp": "2025-10-31T15:07:37+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "a5b41a587e89135be2f9b307413a93b2a7b31635a8f5ca5490b1ae1d96a0f688"
+  },
+  {
+    "title": "GovPay  රුපියල් මිලියන 750 කට අධික ඩිජිටල් ගෙවීම් ප‍්‍රමාණයක් සම්පූර්ණ කරයි",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:49:33+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236117/govpay-%e0%b6%bb%e0%b7%94%e0%b6%b4%e0%b7%92%e0%b6%ba%e0%b6%bd%e0%b7%8a-%e0%b6%b8%e0%b7%92%e0%b6%bd%e0%b7%92%e0%b6%ba%e0%b6%b1-750-%e0%b6%9a%e0%b6%a7-%e0%b6%85%e0%b6%b0%e0%b7%92%e0%b6%9a-%e0%b6%a9/",
+    "isoTimestamp": "2025-10-31T13:49:33+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "a992393515fe6b11e93ec55f43dac997f647d738f3703b87adc46a71f9e2ded3"
+  },
+  {
+    "title": "“කිසිදු නව නිපැයුමක් අත් නොහැරිය යුතුයි. ඒවා ප්‍රවර්ධනය සඳහා වඩා සංවිධිත ජාලයක් ගොඩනගනවා “",
+    "href": "",
+    "byline": "",
+    "timestamp": "2025-10-31T13:42:30+05:30",
+    "url": "https://www.dinamina.lk/2025/10/31/local/236114/%e0%b6%9a%e0%b7%92%e0%b7%83%e0%b7%92%e0%b6%af%e0%b7%94-%e0%b6%b1%e0%b7%80-%e0%b6%b1%e0%b7%92%e0%b6%b4%e0%b7%90%e0%b6%ba%e0%b7%94%e0%b6%b8%e0%b6%9a%e0%b7%8a-%e0%b6%85%e0%b6%ad%e0%b7%8a/",
+    "isoTimestamp": "2025-10-31T13:42:30+05:30",
+    "baseUrl": "https://www.dinamina.lk",
+    "checkSum": "4d5df76cbb66f0ce0211d7b59ba6ae80bc3fe175bf0421bc92d506d3c1dee515"
   }
 ]
