@@ -38,5 +38,425 @@
     "isoTimestamp": "2025-11-06T07:30:09+05:30",
     "baseUrl": "https://sinhala.adaderana.lk",
     "checkSum": "85fc7d57e990d6d4a21f55ca2075d0c3c4460b17f9ff75951aa08c7b3c814094"
+  },
+  {
+    "title": "සජිත් ඉන්දීය ලෝක කටයුතු පිළිබඳ කවුන්සිලය අමතයි",
+    "href": "news.php?nid=216604",
+    "byline": "ඉන්දියාවේ නිල සංචාරයක නිරත විපක්ෂ නායක, සජිත් ප්‍රේමදාස මහතා නව දිල්ලියේ පැවති ඉන්දීය ලෝක කටයුතු පිළිබඳ කවුන්සිලයේ (Indian Council of World Affairs-ICWA) ප්‍රධාන දේශනයක් පවත්වා තිබේ.",
+    "timestamp": "November 6, 2025  10:04 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216604",
+    "isoTimestamp": "2025-11-06T10:31:01+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6caa5280b44c09d39b0f86d80b4957d0e212e09022cfd7ba4c7b15a43b0083d6"
+  },
+  {
+    "title": "මාරක අනතුරු කිහිපයක් - ජීවිත 5ක් අහිමි වෙයි",
+    "href": "news.php?nid=216603",
+    "byline": "ඊයේ (05) දිනය තුළ දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු මාරක අනතුරු 5කින් පුද්ගලයින් 5 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය පවසයි.",
+    "timestamp": "November 6, 2025  9:37 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216603",
+    "isoTimestamp": "2025-11-06T10:31:01+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "59ead42d99095a9e3bb1b9620bfda786350407ec3a551bf7a91d6abf794b09dd"
+  },
+  {
+    "title": "හෙරොයින් සමග කාන්තාවක් ඇතුළු 4ක් මහරගමදී අත්අඩංගුවට",
+    "href": "news.php?nid=216602",
+    "byline": "හෙරොයින් කිලෝග්‍රෑම් 1.5ක් සහ අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 680ක් සමග කාන්තාවක් ඇතුළු පුද්ගලයින් සිව් දෙනෙකු මහරගමදී අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "November 6, 2025  9:18 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216602",
+    "isoTimestamp": "2025-11-06T10:31:01+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c3186a989dbee527515beba197237c50cb8e7ca806d344d50b695d246dcfae1d"
+  },
+  {
+    "title": "දැදුරු ඔයේ ඛේදවාචකය - දිවි බේරාගත් දරුවෙකු කියන සංවේදී කතාව",
+    "href": "news.php?nid=216601",
+    "byline": "හලාවත ප්‍රදේශයේදී දැදුරු ඔයේ දියනැමට ගිය ළමුන් දෙදෙනෙකු ඇතුළු පුද්ගලයින් පස් දෙනෙකු දියේ ගිලී මිය ගියේය.",
+    "timestamp": "November 6, 2025  8:05 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216601",
+    "isoTimestamp": "2025-11-06T10:31:01+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f754f1571d11ea373c8001641a2a259c2b15689ec0371721bd2ba7cd3743a4f2"
+  },
+  {
+    "title": "ජනතාව අතරට ගිය මෙක්සිකානු ජනපතිනියට අකරතැබ්බයක්",
+    "href": "news.php?nid=216613",
+    "byline": "මෙක්සිකෝ සිටි අගනුවර ජාතික මන්දිරය අසළ මාර්ගයේ දී ජනතාව හමුවෙමින් සිටි එරට ජනාධිපති ක්ලෝඩියා ෂයින්බවුම් නොදන්නා පුද්ගලයෙකුගේ ලිංගික අඩත්තේට්ටමකට ලක්ව තිබේ.",
+    "timestamp": "November 6, 2025  1:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216613",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a4c120e345f7baaf1e371920584674a6e24936fc27fc23eb48495b58f6ad6682"
+  },
+  {
+    "title": "2026 අයවැය යෝජනා අවසන් ලේඛනය ජනපතිගේ නිරීක්ෂණයට",
+    "href": "news.php?nid=216606",
+    "byline": "2026 වසර අයවැය යෝජනා අවසන් ලේඛනය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඊයේ (05) රාත්‍රියේ ජනාධිපති ලේකම් කාර්යාලයේදී නිරීක්ෂණය කළේය.",
+    "timestamp": "November 6, 2025  10:53 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216606",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6f49e47a851d61954f50d4912629d89e9293be1c8339ab6ac8913e2cc1b3d7ad"
+  },
+  {
+    "title": "යෝෂිතගේ නඩුවක් කැඳවීමට දින දෙයි",
+    "href": "news.php?nid=216607",
+    "byline": "මෙම නඩුව අද මහාධිකරණ විනිසුරු උදේශ් රණතුංග මහතා ඉදිරියේ කැඳවනු ලැබීය.",
+    "timestamp": "November 6, 2025  10:59 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216607",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "67278d75a821ed1dc1440469874ff8daf346a4c48e833ac24416c14a3e881b3f"
+  },
+  {
+    "title": "බංග්ලාදේශ නව පිතිකරණ පුහුණුකරු ලෙස මොහොමඩ් අෂ්රෆුල් පත් කෙරේ",
+    "href": "news.php?nid=216608",
+    "byline": "බංග්ලාදේශ ක්‍රිකට් පාලක මණ්ඩලය විසින් බංග්ලාදේශයේ නව පිතිකරණ පුහුණුකරු ලෙස මොහොමඩ් අෂ්රෆුල් පත් කර තිබේ.",
+    "timestamp": "November 6, 2025  11:48 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216608",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3c7ce6f7b7238212f8f03c28b4618047932e68955333907aa0accf8d7d019294"
+  },
+  {
+    "title": "ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් නඩුවේ පූර්ව නඩු විභාගය ගැන ත්‍රිපුද්ගල විනිසුරු මඩුල්ලෙන් තීරණයක්",
+    "href": "news.php?nid=216609",
+    "byline": "එම නඩුව අද ප්‍රියන්ත ලියනගේ, විරාජ් වීරසූරිය හා තිලක රත්නබණ්ඩාර යන ත්‍රිපුද්ගල විනිසුරු මඩුල්ල හමුවේ කැඳවනු ලැබීය.",
+    "timestamp": "November 6, 2025  11:48 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216609",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "13b100a42173c120595347d2c1bfadc20bc369af10ddde5f9587787282dcdd60"
+  },
+  {
+    "title": "තමිල්නාඩුවේ ජීවත්වෙන ශ්‍රී ලාංකික සරණාගතයින් වෙනුවෙන් ඉන්දීය මධ්‍යම රජයට ඉල්ලීමක්",
+    "href": "news.php?nid=216610",
+    "byline": "දශක කිහිපයක සිට තමිල්නාඩුවේ ජීවත්වෙන ශ්‍රී ලාංකික දෙමළ සරණාගතයින්ට ඡන්ද අයිතිය සහ පූර්ණ පුරවැසිභාවය ලබාදෙන ලෙස පාට්ටාලී මක්කල් කච්චි නිර්මාතෘ එස්. රාමදාස්  ඉන්දීය මධ්‍යම රජයෙන් ඉල්ලීමක් කර තිබේ.",
+    "timestamp": "November 6, 2025  11:49 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216610",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9e068fa6c1556959d2da3c2fa8599e9dec6a4d7ddd6182ccf6c9fafa4fca4c36"
+  },
+  {
+    "title": "'දරිද්‍රතාව පිටුදකින ගමනට ජාත්‍යන්තර අත්දැකීම් වැදගත්' - කම්කරු නි.අමාත්‍ය මහින්ද ජයසිංහ",
+    "href": "news.php?nid=216611",
+    "byline": "මෙරට දුප්පත්කම තුරන් කිරීම සඳහා ජාත්‍යන්තරයේ අත්දැකීම් අතිශය වැදගත් බව කම්කරු නියෝජ්‍ය අමාත්‍ය මහින්ද ජයසිංහ මහතා පවසයි.",
+    "timestamp": "November 6, 2025  11:57 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216611",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "77b6fbc9975a4a2fa8218e3dbf67c021c212f9cdc3d3edfca8e6621a8c55bfef"
+  },
+  {
+    "title": "කුඩු සමග හසුවූ විදුහල්පතිගේ මාලිමා මන්ත්‍රී බිරිඳ කොස්ගොඩ සුජීගේ ඥාතිවරියක්",
+    "href": "news.php?nid=216612",
+    "byline": "අනුරාධපුරය ප්‍රදේශයේදී හෙරොයින් සමග අත්අඩංගුවට ගත් විදුහල්පතිවරයාගේ බිරිඳ වන ජාතික ජනබලවේගයේ පෑලියගොඩ නාගරික මන්ත්‍රී දිස්නා නෙරංජලා මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකු මෙන්ම අපරාධකරුවකු වන කොස්ගොඩ සුජීගේ ඥාතිවරියක බව පොලීසිය පවසයි.",
+    "timestamp": "November 6, 2025  12:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216612",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6dca7c4b6dfe84144e47154bd0ea328e1a60eef0c8aa71fcf358494d84d70560"
+  },
+  {
+    "title": "පිලිපීනයේ 'කල්මේගි' පුද්ගලයින් 114කට මරු කැඳවයි",
+    "href": "news.php?nid=216605",
+    "byline": "පිලිපීනයට බලපා ඇති 'කල්මේගි' සුළි කුණාටුවෙන් පුද්ගලයින් 114 අධික පිරිසක් මිය ගොස් තිබේ.",
+    "timestamp": "November 6, 2025  10:38 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216605",
+    "isoTimestamp": "2025-11-06T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c71ba047e878a4dd6226ec4fd648b2db039a0450f74e66252b97a9c655fa95af"
+  },
+  {
+    "title": "ඩ්‍රෝන මෙහෙයුමකින් ගංජා හේන් වටලයි",
+    "href": "news.php?nid=216627",
+    "byline": "විෂ මත්ද්‍රව්‍යවලින් ශ්‍රී ලංකා සමාජය මුදවා ගැනීමේ අරමුණින් ක්‍රියාත්මක 'රටම එකට' ජාතික මෙහෙයුමට සමගාමීව ගංජා හේන් වැටලීමක් තණමල්විල පොලිස් වසමේ ඊයේ (5) සිදුකරනු ලැබීය.",
+    "timestamp": "November 6, 2025  4:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216627",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "aa91bdf6e6a1333efcedccd44bda22cd751d6fdbf818a5aacbb90c79a8feb097"
+  },
+  {
+    "title": "දීප ව්‍යාප්ත විශේෂ මෙහෙයුම් ඒකකයට නව සුරාබදු අධිකාරීවරයෙක්",
+    "href": "news.php?nid=216626",
+    "byline": "දීප ව්‍යාප්ත විශේෂ මෙහෙයුම් ඒකකයෙහි සුරාබදු අධිකාරී ලෙස කටයුතු කළ පී. ඒ. සුනිල් මහතා විශ්‍රාම යාම නිසා පුරාප්පාඩු වූ එම තනතුරෙහි රාජකාරී ආවරණය කිරීම සඳහා පී. එන් හේමන්ත මහතා පත් කර තිබේ.",
+    "timestamp": "November 6, 2025  4:14 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216626",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6b424ed4bdba56bdcdf54958520dbdef8287150ae700a915515b25e76a2dc65b"
+  },
+  {
+    "title": "ප්‍රබල අකුණු පිළිබඳව  අවවාදාත්මක නිවේදනයක්",
+    "href": "news.php?nid=216625",
+    "byline": "ප්‍රබල අකුණු පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.",
+    "timestamp": "November 6, 2025  3:56 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216625",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "25c23cb2dca92eee59c3090c9a821e6b41f9263ba36fce7170282069fc098b7c"
+  },
+  {
+    "title": "13 බලාත්මක කිරීම තම අපේක්ෂාව බව සජිත් ඉන්දියාවේදී කියයි",
+    "href": "news.php?nid=216624",
+    "byline": "13වන ආණ්ඩුක්‍රම ව්‍යවස්ථා සංශෝධනය සම්පූර්ණයෙන්ම බලාත්මක කිරීම තම අපේක්ෂාව බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.",
+    "timestamp": "November 6, 2025  3:53 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216624",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e69cb7fdb4f90bcd4b616b17294884613a58e761714b564a0b4aa5a691954a25"
+  },
+  {
+    "title": "NPP මන්ත්‍රීවරියගේ විදුහල්පති සැමියා රඳවාගෙන ප්‍රශ්න කරයි",
+    "href": "news.php?nid=216623",
+    "byline": "අනුරාධපුරය ප්‍රදේශයේදී හෙරොයින් සමග අත්අඩංගුවට ගත් විදුහල්පතිවරයා එළඹෙන 12 වනදා දක්වා රඳවාගෙන ප්‍රශ්න කිරීමට තඹුත්තේගම මහේස්ත්‍රාත් අධිකරණය පොලීසියට අවසර ලබාදී තිබේ.",
+    "timestamp": "November 6, 2025  3:19 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216623",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "eeec23563f49bab19a245ecf774609ce3dac8bdc5c5793ef3a812043cd8877f8"
+  },
+  {
+    "title": "අමෙරිකාවේ ගුවන් ගමන් කප්පාදුවක් ගැන අනතුරු ඇඟවීමක්",
+    "href": "news.php?nid=216622",
+    "byline": "අමෙරිකානු රජයේ වියදම් සඳහා කොංග්‍රසයට ඉදිරිපත් කෙරුණු කෙටුම්පත සම්මත නොවීම හේතුවෙන් ගුවන් ගමන්වලින් සියයට 10ක් කප්පාදුකිරීමට සිදුවනු ඇතැයි එරට ප්‍රවාහන ලේකම්වරයා පවසයි.",
+    "timestamp": "November 6, 2025  3:16 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216622",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "995358e07c2cc02c30e167753da0748de35836aa6ec52d4dee093b78c0c2cbbe"
+  },
+  {
+    "title": "ජැමෙයිකාවට සහ කියුබාවට විදෙස් ආධාර",
+    "href": "news.php?nid=216621",
+    "byline": "මෙලිසා සුළි කුණාටුවෙන් බලපෑම් එල්ල වූ ජැමෙයිකාවට සහ කියුබාවට ඉන්දියාව මානුෂීය ආධාර සහ ආපදා සහන ටොන් 40ක ද්‍රව්‍ය යවා තිබේ.",
+    "timestamp": "November 6, 2025  3:14 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216621",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "50d01ec58d57aa45b45b9c65b90e20d3f59ae2c3f6e4d925d2c86e31c4805fe9"
+  },
+  {
+    "title": "ක්‍රිකට් ක්‍රීඩකයන්ගෙන් බදු අයකර ගැනීම පිළිබඳ නඩුවට ලැබුණු නියෝගය",
+    "href": "news.php?nid=216620",
+    "byline": "ශ්‍රී ලංකා ජාතික ක්‍රිකට් කණ්ඩායමේ ක්‍රීඩකයින්ගෙන් \"අත්තිකාරම් පුද්ගල ආදායම් බද්ද\" අය කිරීමට දේශීය ආදායම් දෙපාර්තමේන්තුව ගෙන තිබෙන තීරණය පිළිබඳ ගැටලුව ඊට සම්බන්ධ සියලු පාර්ශ්වය එක්ව සාකච්ඡා කර විසඳා ගැනීම සුදුසු බව අභියාචනාධිකරණය අද දේශීය ආදායම් කොමසාරිස් ජනරාල්වරයාට යෝජනා කර තිබේ.",
+    "timestamp": "November 6, 2025  3:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216620",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5b56adc1951c4e02251105ef89ddeefff5c1da01e76a0c3be05e3d7ebede76c0"
+  },
+  {
+    "title": "විද්‍යා ඝාතන නඩුවේ අභියාචනා පෙත්සම් විභාගය අවසන්",
+    "href": "news.php?nid=216619",
+    "byline": "පාසල් සිසුවියක වූ සිවලෝගනාදන් විද්‍යා දැරිය පැහැරගෙන ගොස් ඝාතන සිද්ධිය සම්බන්ධයෙන් මරණීය දණ්ඩනය නියම වී සිටින විත්තිකරුවන් විසින් එම දඬුවමට එරෙහිව ඉදිරිපත් කළ අභියාචනා පෙත්සම් විභාගය අද (6) අවසන් විය.",
+    "timestamp": "November 6, 2025  2:29 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216619",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fc56962fafd994e0908d25948c38021f852784ce4de28bc528b1e76a71439d46"
+  },
+  {
+    "title": "සුළං විදුලි බලාගාර ඉදිකිරීමට එරෙහි  මන්නාරමේ විරෝධතා අඛණ්ඩව",
+    "href": "news.php?nid=216618",
+    "byline": "මන්නාරම දිස්ත්‍රික්කයේ සුළං විදුලි බලාගාර ඉදිකිරීම් නවතා දමන ලෙස හා මන්නාරම දූපත ආශ්‍රිතව ඛනිජ වැලි කැනීම් වෙනුවෙන් අවසර නොදෙන ලෙස ඉල්ලා පවත්වන විරෝධතාවය තවදුරටත් අඛණ්ඩව සිදු කිරීමට මන්නාරම දිස්ත්‍රික් සිවිල් සංවිධාන එකමුතුව තීරණය කර තිබේ.",
+    "timestamp": "November 6, 2025  2:15 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216618",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bd1b94ab5ceeda26333d2be74aa7a56d15f95b20f45e01e40362bf4ad757aeb3"
+  },
+  {
+    "title": "වැලිගම නව සභාපති තේරීමට දින දෙයි",
+    "href": "news.php?nid=216617",
+    "byline": "වැලිගම ප්‍රාදේශීස සභාවේ නව සභාපතිවරයා තෝරා පත්කර ගැනීම එළඹෙන 28 වනදා සිදු කිරීමට තීරණය කර තිබේ.",
+    "timestamp": "November 6, 2025  1:49 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216617",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "003fc44959a8d2d241802cab764e72e72cfedf1ef0777922b2569973a8f0776a"
+  },
+  {
+    "title": "පාසල් නිවාඩුව ගැන දැනුම්දීමක්",
+    "href": "news.php?nid=216616",
+    "byline": "රජයේ සහ රජයේ අනුමත පෞද්ගලික පාසල්වල තුන්වන වාරයේ පළමු අදියර හෙට (07) දිනෙන් අවසන් වේ.",
+    "timestamp": "November 6, 2025  1:42 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216616",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6a13802e6d02d359883f3ac15b749a0cfd0def9595bd4b315aa4a22153fdd204"
+  },
+  {
+    "title": "ජාතික ලාදුරු සමුළුව ජනපති ප්‍රධානත්වයෙන්",
+    "href": "news.php?nid=216615",
+    "byline": "ලාදුරු රෝගය මෙරටින් තුරන් කර දැමීමේ ගමනේ වැදගත් සංධිස්ථානයක් සනිටුහන් කරමින් ජාතික ලාදුරු සමුළුව අද (06) පෙරවරුවේ ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ඇරඹිණි.",
+    "timestamp": "November 6, 2025  1:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216615",
+    "isoTimestamp": "2025-11-06T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a63119da93c1a6e478a09a31c4bc6f2598afdc63e216d52006a04bed77c10dde"
+  },
+  {
+    "title": "රට රැකියා සිහින පෙන්වා  මුදල් ගැරූ කත අල්ලයි",
+    "href": "news.php?nid=216638",
+    "byline": "දකුණු කොරියාවේ, ඉතාලියේ හා නවසීලන්තයේ රැකියා ලබාදෙන බව පවසා මුදල් වංචා කළ කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් ගම්පහ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "November 6, 2025  8:24 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216638",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c8d8c92ec6e84a95e99b232d7d20657da47d7f6906872ecf3acf985d95cf73b9"
+  },
+  {
+    "title": "පාරිසරික ජනමාධ්‍යවේදීන් වෙනුවෙන් ක්ෂණික දුරකථන අංකයක්",
+    "href": "news.php?nid=216637",
+    "byline": "මාධ්‍ය නීති සංසදය (Media Law Forum) විසින් ශ්‍රී ලංකාවේ පාරිසරික ජනමාධ්‍යවේදීන්ට නීති ආධාර ලබා ගැනීම සඳහා පැය 24 පුරාම ක්‍රියාත්මක ක්ෂණික දුරකථන ඇමතුම් සේවයක් ස්ථාපිත කර තිබේ.",
+    "timestamp": "November 6, 2025  7:45 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216637",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c738cb8df64301b261f2b7648556697710e484a0b6e56edff871f7df6a64af57"
+  },
+  {
+    "title": "ලංගම බස් රථයක් මතට ගසක් කඩා වැටීමෙන් අයෙක් මරුට",
+    "href": "news.php?nid=216636",
+    "byline": "දෙල්තොට - මහනුවර මාර්ගයේ හාල්වත්ත ප්‍රදේශයේ දී බස් රථයක් මතට ගසක් කඩාවැටීමෙන් එක් පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව තිබේ.",
+    "timestamp": "November 6, 2025  7:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216636",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7dce8152ef4f25e75b8827d4c2a1749cd3a230bf5da8b4f6bb0513ba7791ae48"
+  },
+  {
+    "title": "'කල්මේගි' වියට්නාමයට කඩාවදී",
+    "href": "news.php?nid=216635",
+    "byline": "මේ වසරේ ආසියාවේ බලවත්ම නිවර්තන කුණාටුව වන 'කල්මේගි' සුළි කුණාටුව වියට්නාමයට ඇතුළු වී තිබේ.",
+    "timestamp": "November 6, 2025  6:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216635",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "47ee37d2f4d08ee86aa37ec0ce862871520a915bd8726cfe04fb9debbd88ecc8"
+  },
+  {
+    "title": "පිරිවෙන් සාමාන්‍ය පෙළ විභාගයට  අයදුම්පත් කැඳවයි",
+    "href": "news.php?nid=216634",
+    "byline": "2026 ජනවාරි මාසයේදී පැවැත්වීමට නියමිත '' පිරිවෙන් සාමාන්‍ය පෙළ විභාගය - 2025 (2026)\" සඳහා මාර්ගගතව අයදුම්පත් කැඳවා තිබේ.",
+    "timestamp": "November 6, 2025  6:21 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216634",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "297553c76ebec05d687d039d1cf674d870846de3b46c4cb034346f1f6415db2c"
+  },
+  {
+    "title": "මීගමුවේ ප්‍රදේශ කිහිපයකට හෙට ජල කප්පාදුවක්",
+    "href": "news.php?nid=216633",
+    "byline": "මීගමුවේ ප්‍රදේශ කිහිපයකට හෙට (07) දින පැය 12ක ජල කප්පාදුවක් සිදු කරන බව ජාතික ජල සම්පාදන සහ ජලාපවහන මණ්ඩලය පවසයි.",
+    "timestamp": "November 6, 2025  6:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216633",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "31a125eb427263d842e265b313127e3b74bbb3694f4d9087c6b5b2590334e7a1"
+  },
+  {
+    "title": "සැමියා සහ පුත්‍රයාට මත්ද්‍රව්‍ය චෝදනා එල්ල වූ මාලිමා මන්ත්‍රීවරිය ධුරයෙන් ඉල්ලා අස්වෙයි",
+    "href": "news.php?nid=216632",
+    "byline": "සැමියා සහ පුත්‍රයා මත්ද්‍රව්‍ය චෝදනාවට ලක්වීමේ සිදුවීමට අදාළ පෑලියගොඩ නගර සභාවේ ජාතික ජන බලවේගයේ මන්ත්‍රීවරිය සිය මන්ත්‍රී ධුරයෙන් ඉල්ලා අස්වී තිබේ.\n\nමෙලෙස චෝදනා එල්ල වී ඇත්තේ දිස්නා නිරන්ජලා කුමාරි නම් මන්ත්‍රීවරියකටය.",
+    "timestamp": "November 6, 2025  5:32 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216632",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b1117646e5277f5cdc56744d39c4f6babbc6fc30e879af50999e925066dc58dc"
+  },
+  {
+    "title": "NPP බලය හිමි කොලොන්න ප්‍රාදේශීය සභාවේ මංගල අයවැය පළමුවර කියවීම පරදියි",
+    "href": "news.php?nid=216631",
+    "byline": "ජාතික ජන බලවේගයට බලය පවතින කොලොන්න ප්‍රාදේශීය සභාවේ මංගල අයවැය පළමුවර කියවීම පරාජයට පත්වී තිබේ.",
+    "timestamp": "November 6, 2025  5:28 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216631",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8d0fd6828963fdc4a73e0cb8940a92e1590f786de2d63c4b8635e81fe2b9df8f"
+  },
+  {
+    "title": "පොලිස් මෙහෙයුම් අඛණ්ඩව - පුද්ගලයින් 29,491ක් පරීක්ෂාවට",
+    "href": "news.php?nid=216630",
+    "byline": "පොලීසිය විසින් දිවයින පුරා සිදු කරන අපරාධ හා මත්ද්‍රව්‍ය නිවාරණ විශේෂ මෙහෙයුම යටතේ විවිධ අපරාධ සිද්ධීන්වලට සෘජුව සම්බන්ධ පුද්ගලයින් 23 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "November 6, 2025  5:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216630",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3bf1b31fc6a19aa9c4f3dde51209bf727dbe12fa9a1eb282da520fe1f33ba042"
+  },
+  {
+    "title": "සංචාරක පැමිණීම ලක්ෂ 19 පනී",
+    "href": "news.php?nid=216629",
+    "byline": "මේ වසරේ ජනවාරි සිට මේ දක්වා මෙරටට පැමිණි සංචාරකයින්ගේ සංඛ්‍යාව ලක්ෂ 19 ඉක්මවා ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරි පවසයි.",
+    "timestamp": "November 6, 2025  4:53 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216629",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "07aeb49b2ce8ef74f55f26f6006aa75221922ffa2f022e38a82450c0e59b8635"
+  },
+  {
+    "title": "ලකුණු 3කින් කොදෙව් බලාපොරොත්තු බොඳවෙයි",
+    "href": "news.php?nid=216628",
+    "byline": "සංචාරක බ.ඉ. කොදෙව් කණ්ඩායම පරාජය කර ඕක්ලන්ඩ්හිදී අද (6) පැවති දෙවන විස්සයි20 ක්‍රිකට් තරගයෙන් ලකුණු 3ක තියුණු ජයක් ලැබීමට සත්කාරක නවසීලන්ත කණ්ඩායම සමත් විය.",
+    "timestamp": "November 6, 2025  4:53 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216628",
+    "isoTimestamp": "2025-11-06T20:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b5aaadca620bc7b059e9f1da7796081c06090ef8893d66e218076f77c457309f"
+  },
+  {
+    "title": "කූඹින්ට ඇති බිය නිසා එක් දරු මවක් සියදිවි නසාගනී",
+    "href": "news.php?nid=216643",
+    "byline": "ඉන්දියාවේ සංගරෙඩ්ඩි දිස්ත්‍රික්කයේ 25 හැවිරිදි කාන්තාවක් කූඹින්ට ඇති බිය හේතුවෙන් නිවසේදීම සියදිවි හානිකරගෙන තිබේ.",
+    "timestamp": "November 6, 2025  10:27 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216643",
+    "isoTimestamp": "2025-11-06T23:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b55f7498758256bb7e23327fd84f4190443f19f863303521bfba6cda6774ac68"
+  },
+  {
+    "title": "අධ්‍යාපන ප්‍රතිසංස්කරණ දෙස ධනාත්මකව බලන්න - අධ්‍යාපන ලේකම්",
+    "href": "news.php?nid=216642",
+    "byline": "නව අධ්‍යාපන ප්‍රතිසංස්කරණ දෙස ධනාත්මකව බලන්නැයි ගුරු සංගම් ඇතුළු සියලු පාර්ශ්වවලින් ඉල්ලා සිටින බව අධ්‍යාපන අමාත්‍යාංශ ලේකම් නාලක කලුවැව මහතා පවසයි.",
+    "timestamp": "November 6, 2025  10:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216642",
+    "isoTimestamp": "2025-11-06T23:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8d6dd1532fc691be1eac718c61a0b933742545b0c603a58d773c7e9ee976f8b2"
+  },
+  {
+    "title": "රජරට විශ්වවිද්‍යාලයේ වැඩවර්ජනය තවදුරටත්",
+    "href": "news.php?nid=216641",
+    "byline": "රජරට විශ්වවිද්‍යාලයේ උපකුලපති ධූරය පිළිබඳ ගැටළුව හේතුවෙන් ආචාර්යවරුන් ආරම්භ කළ වැඩවර්ජනය අඛණ්ඩව 07 වෙනි දිනටත් අද (06) ක්‍රියාත්මක විය.",
+    "timestamp": "November 6, 2025  9:41 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216641",
+    "isoTimestamp": "2025-11-06T23:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7df9806eae292b9966eb9a0fd48c2418907af7f17d4fdbdb0f042b401f18ca4a"
+  },
+  {
+    "title": "රයිනා සහ ධවාන්ගේ කෝටි 11.14ක වත්කම් රාජසන්තක කරයි",
+    "href": "news.php?nid=216640",
+    "byline": "ඉන්දීය හිටපු ක්‍රිකට් ක්‍රීඩකයන් දෙපළක් වන සුරේෂ් රයිනා සහ ශිකර් ධවාන්ගේ රුපියල් කෝටි 11.14ක වත්කම් රාජසන්තක කර තිබේ.",
+    "timestamp": "November 6, 2025  9:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216640",
+    "isoTimestamp": "2025-11-06T23:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "107eaa308139839c5d7998b549a9e8cd5c542f656e2c2a6b5ecdd1cd4c47faba"
+  },
+  {
+    "title": "ප්‍රාණ ඇපකරුවන්ගේ මළ සිරුරු 28න් 21ක් ආපසු දුන් බව හමාස් කියයි",
+    "href": "news.php?nid=216639",
+    "byline": "හමාස් සංවිධානය භාරයේ තිබු ප්‍රාණ ඇපකරුවන්ගේ මළ සිරුරු 28න් 21ක් ආපසු ලබා දී ඇති බව එම සංවිධානය පවසයි.",
+    "timestamp": "November 6, 2025  8:41 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=216639",
+    "isoTimestamp": "2025-11-06T23:30:11+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "72bc5a35d061120c999a0ed24a3d84dae599c90a627630a636cd8bebc81a2e27"
   }
 ]
