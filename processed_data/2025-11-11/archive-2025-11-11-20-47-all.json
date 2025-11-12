@@ -1,0 +1,432 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": true,
+    "data": []
+  },
+  "ada": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka Cabinet nods for transfer of HDFC, SMIB shares to state banks under restructuring",
+        "url": "https://economynext.com/sri-lanka-cabinet-nods-for-transfer-of-hdfc-smib-shares-to-state-banks-under-restructuring-247921/",
+        "timestamp": "November 11, 2025",
+        "byline": "CB has indicated the current business models of these banks unsustainable",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "11b326fd7ef46031d7977177a2ad9cd4fa816fb923637954210e7fbc7be3dc6b"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields flat",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-flat-247937/",
+        "timestamp": "November 11, 2025",
+        "byline": "Bond yields closed broadly steady, dealers said.",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a438dbfbec09448f80f0463bfc81289356f46e8610c287a93e60295182daab29"
+      },
+      {
+        "title": "Sri Lanka stocks close 0.34-pct higher ending volatile session",
+        "url": "https://economynext.com/sri-lanka-stocks-close-0-34-pct-higher-ending-volatile-session-247912/",
+        "timestamp": "November 11, 2025",
+        "byline": "Market turnover was 8.2 billion,",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "620908eee81f17a1dfa27baf02bff900cbc04c9f425d719936aa00af641ead0b"
+      },
+      {
+        "title": "Lanka Ashok Leyland, Toyota Lanka, Browns and Solex get prison vehicle tenders",
+        "url": "https://economynext.com/lanka-ashok-leyland-toyota-lanka-browns-and-solex-get-prison-vehicle-tenders-247915/",
+        "timestamp": "November 11, 2025",
+        "byline": "For the purchase of 30 44-seater buses, 10 30-seater buses, 10 vans, 5 gully bowsers and 3 tractors for the Prisons Dep",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "14e0f471df66532208505ad8e2f0c13673267bdfdf7cb4c54fd62593e8e2bace"
+      },
+      {
+        "title": "Sri Lanka to draft investment protection law",
+        "url": "https://economynext.com/sri-lanka-to-draft-investment-protection-law-247913/",
+        "timestamp": "November 11, 2025",
+        "byline": "Will improve policy stability",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ca3ccff1ec9cdecc8dd24942a32668d06e510cd85b4ee155824cfc69d96586b3"
+      },
+      {
+        "title": "Sri Lanka apparel brand group welcomes VAT on imports",
+        "url": "https://economynext.com/sri-lanka-apparel-brand-group-welcomes-vat-on-imports-247904/",
+        "timestamp": "November 11, 2025",
+        "byline": "Also welcomes reduction of VAT threshold",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d7d7e9d85cdaa6b3cb4cf591ab5303639c62fea2d45c5b853adbad9238a52600"
+      },
+      {
+        "title": "Sri Lanka's 2026 budget - Path of reform amid economic challenges",
+        "url": "https://economynext.com/sri-lankas-2026-budget-path-of-reform-amid-economic-challenges-247814/",
+        "timestamp": "November 11, 2025",
+        "byline": "Policy implementation will be the key for success of 2026 budget",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "eb073f8eab038142f970fe2b61b6a8e058d3b2501fab136be48905601d1d2ead"
+      },
+      {
+        "title": "Sri Lanka’s budget sticks to fiscal consolidation path: Fitch",
+        "url": "https://economynext.com/sri-lankas-budget-sticks-to-fiscal-consolidation-path-fitch-247900/",
+        "timestamp": "November 11, 2025",
+        "byline": "The budget targets a deficit of 5.1% of GDP in 2026, wider than the 4.5% that the government expects in 2025.",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2ab639cd1b42d5dc88f57c976f449ddd6906eeffd1b624d4ce27d2adfd0b23ef"
+      },
+      {
+        "title": "IPD Germany trains Sri Lanka SMEs on costing, pricing for EU market",
+        "url": "https://economynext.com/ipd-germany-trains-sri-lanka-smes-on-costing-pricing-for-eu-market-247893/",
+        "timestamp": "November 11, 2025",
+        "byline": "Focused on improving SMEs' capacity to compete effectively in the EU market",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b0a56fc836c17143eff91fac270ad178cbbfa6b59fc605e361d8c19ad179775a"
+      },
+      {
+        "title": "Ceylon Chamber praises budget for maintaining policy",
+        "url": "https://economynext.com/ceylon-chamber-praises-budget-for-maintaining-policy-247881/",
+        "timestamp": "November 11, 2025",
+        "byline": "Says budget 2026 reinforces policy stability, calls for faster implementation of reforms to achieve growth",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2c57fb476241ab68e13bcbcb00a46e78ad1eae589df1c513986eb13f369b2e97"
+      },
+      {
+        "title": "Sri Lanka chamber commends budget 2026",
+        "url": "https://economynext.com/sri-lanka-chamber-commends-budget-2026-247879/",
+        "timestamp": "November 11, 2025",
+        "byline": "The proposals aligned with Sri Lanka’s commitments under the IMF reform programme",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d2c0d8283ced8f584ffdff6c274f30a84f811d9d74678c0ef08f2ef55f96bde9"
+      },
+      {
+        "title": "Sri Lanka's Adani-John Keells automated box terminal sails off to 'spectacular' growth",
+        "url": "https://economynext.com/sri-lankas-adani-john-keells-automated-box-terminal-sails-off-to-spectacular-growth-247820/",
+        "timestamp": "November 11, 2025",
+        "byline": "So, the growth has been spectacular. So has been the growth in productivity and efficiencies",
+        "isoTimestamp": "2025-11-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "14f1fa4059e80ff4089e39bb91c6b1355da4be0df4765107e0ef20b1734c6daf"
+      },
+      {
+        "title": "Sri Lanka banks to get Rs45.7bn in senior citizen interest arrears in 2026",
+        "url": "https://economynext.com/sri-lanka-banks-to-get-rs45-7bn-in-senior-citizen-interest-arrears-in-2026-247796/",
+        "timestamp": "November 10, 2025",
+        "byline": "In 2025, 10 billion rupees had been paid",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c7852cd9e3c2e48d5eb6504ea8701904e8d3cf019c405d926e196b273b0a5169"
+      },
+      {
+        "title": "Sri Lanka rupee stronger, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-stronger-bond-yields-down-247696/",
+        "timestamp": "November 10, 2025",
+        "byline": "Bond yields closed down, dealers said.",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e83ab93ccb9a7840dd56cb8a3d12ccde46086713cd61077a595cf1b106ad5e30"
+      },
+      {
+        "title": "Sri Lanka stocks rise 0.7-pct led by banks",
+        "url": "https://economynext.com/sri-lanka-stocks-rise-0-7-pct-led-by-banks-247694/",
+        "timestamp": "November 10, 2025",
+        "byline": "Market turnover was 7.5 billion",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "707840872cca494554e12d2b3e3fb22efef6f118feb1372c5f6f20eaf2ea12d4"
+      },
+      {
+        "title": "Sri Lanka central bank calls for public views on Finance Business Act changes",
+        "url": "https://economynext.com/sri-lanka-central-bank-calls-for-public-views-on-finance-business-act-changes-247686/",
+        "timestamp": "November 10, 2025",
+        "byline": "Amends aim to strengthen regulation, supervision of finance companies, investigate and prosecute unauthorized biz",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6ffc11abe19591302c804eafd5307dfc31e997c0576f8e26cb0f74edf2289bf8"
+      },
+      {
+        "title": "ADB to give Sri Lanka $100mn to boost macroeconomic resilience, transparency",
+        "url": "https://economynext.com/adb-to-give-sri-lanka-100mn-to-boost-macroeconomic-resilience-transparency-247661/",
+        "timestamp": "November 10, 2025",
+        "byline": "The program will also support private sector participation, and management of state-owned enterprises",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e40609e0b4d1dcea3949cf80ac4b7db3833338429b38f09e290c667a44009e44"
+      },
+      {
+        "title": "Sri Lanka tax payers to pay up on billions of defaulted SOE loans guaranteed by Treasury",
+        "url": "https://economynext.com/sri-lanka-tax-payers-to-pay-up-on-billions-of-defaulted-soe-loans-guaranteed-by-treasury-247666/",
+        "timestamp": "November 10, 2025",
+        "byline": "There was no number given in the budget on the payments to be made",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b9458246d6f64ccf087f29534f3bd1ed95bb9b8d5fb8008a5f06610afd67a479"
+      },
+      {
+        "title": "Sri Lanka to get $100mn loan from ADB to strengthen financial stability",
+        "url": "https://economynext.com/sri-lanka-to-get-100mn-loan-from-adb-to-strengthen-financial-stability-247657/",
+        "timestamp": "November 10, 2025",
+        "byline": "This initiative builds on earlier banking sector reforms and aims to broaden access to finance for MSMEs",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "287a9a9335cfdfb388f1b18ade7e1931e87a09f6533a1a8ff0914ebd611199cd"
+      },
+      {
+        "title": "Sri Lanka worker remittances up 21-pct to USD712mn in October 2025",
+        "url": "https://economynext.com/sri-lanka-worker-remittances-up-21-pct-to-usd712mn-in-october-2025-247619/",
+        "timestamp": "November 10, 2025",
+        "byline": "Sri Lanka announced housing loans, pension scheme for expatriate workers in its 2026 budget",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5df47338570768488dad10bc27fc9172849d187eb8de9a725cb2f4a54edb7462"
+      },
+      {
+        "title": "Sri Lanka rupee flat, bond yields down sharply",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-bond-yields-down-sharply-247646/",
+        "timestamp": "November 10, 2025",
+        "byline": "Bond were down sharply across the boarddealers said, while activity was up.",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9a6f768a27ab358a2d778372a5320296683e71bd506190dde5b4f5b12677d57f"
+      },
+      {
+        "title": "Sri Lanka private credit surges to new monthly high of Rs236bn in Sept",
+        "url": "https://economynext.com/sri-lanka-private-credit-surges-to-new-monthly-high-of-rs236bn-in-sept-247594/",
+        "timestamp": "November 10, 2025",
+        "byline": "Credit to government down for second month",
+        "isoTimestamp": "2025-11-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fca829be574accb81bb5ba4197cdac3e74cdaa22fb8d62d41e90e6f9e32b57eb"
+      },
+      {
+        "title": "SriLankan Airlines will be re-looked at if current revival plan fails: President",
+        "url": "https://economynext.com/srilankan-airlines-will-be-re-looked-at-if-current-revival-plan-fails-president-247586/",
+        "timestamp": "November 9, 2025",
+        "byline": "\"We have given the board some time. They have made plans",
+        "isoTimestamp": "2025-11-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9ad72c054011a00bef53e3e1326898733e267c4f4c630863bd0fc7733cadcf23"
+      },
+      {
+        "title": "Sri Lanka industry should look outward, integrate with the region: Deputy Minister",
+        "url": "https://economynext.com/sri-lanka-industry-should-look-outward-integrate-with-the-region-deputy-minister-247545/",
+        "timestamp": "November 9, 2025",
+        "byline": "For us, a small country to grow, the most important thing is how far you integrate with the regional economy",
+        "isoTimestamp": "2025-11-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f798a81277458ebdb48ec3815b46829a6a0d5c96fd3c0751602ddd3466ec9e00"
+      },
+      {
+        "title": "Turning Heads: The teacher with short hair",
+        "url": "https://economynext.com/turning-heads-the-teacher-with-short-hair-247542/",
+        "timestamp": "November 9, 2025",
+        "byline": "She remained an Ananda loyalist throughout her life and took great pride in the success of her students",
+        "isoTimestamp": "2025-11-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b4eb0c7feb2c058e0baee5b812a4f5220be6d746eff393e4cdd17ec5043da893"
+      },
+      {
+        "title": "Sri Lanka foreign reserves drop to $6,216mn in October 2025",
+        "url": "https://economynext.com/sri-lanka-foreign-reserves-drop-to-6216mn-in-october-2025-247539/",
+        "timestamp": "November 9, 2025",
+        "byline": "Sri Lanka gross foreign reserves have not grown from October last year",
+        "isoTimestamp": "2025-11-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1fae9895ff80500457b501ec43144195125c517d083075301372c790e6898af5"
+      },
+      {
+        "title": "Sri Lanka central bank tightens vehicle credit by slashing LTV ratio",
+        "url": "https://economynext.com/sri-lanka-central-bank-tightens-vehicle-credit-by-slashing-ltv-ratio-247520/",
+        "timestamp": "November 8, 2025",
+        "byline": "Motor vehicle LTV ratio cut to 50-pct",
+        "isoTimestamp": "2025-11-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4d5204c6be9eb9b9c1f5a80bb7e918d3bf0c57e4d842f4009a39356c995c3207"
+      },
+      {
+        "title": "Sri Lanka para-tariff removal to be revenue neutral, may start 1Q : Treasury Secy",
+        "url": "https://economynext.com/sri-lanka-para-tariff-removal-to-be-revenue-neutral-may-start-1q-treasury-secy-247509/",
+        "timestamp": "November 8, 2025",
+        "byline": "May start from first quarter in 2026",
+        "isoTimestamp": "2025-11-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ea92ed69a6655fa8e348e62ac930a00afd3707dfacae7960c1a732587458698b"
+      },
+      {
+        "title": "Sri Lanka should control the pressure on the exchange rate: President",
+        "url": "https://economynext.com/sri-lanka-should-control-the-pressure-on-the-exchange-rate-president-247486/",
+        "timestamp": "November 8, 2025",
+        "byline": "Imports rise to 2.0 billion US dollars in September",
+        "isoTimestamp": "2025-11-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "af7ed2ce90791bcd8709f852ab2262275207342845d8f96abc1a270ab58f5af2"
+      },
+      {
+        "title": "Bank of Ceylon to raise upto Rs20bn in debenture sale",
+        "url": "https://economynext.com/bank-of-ceylon-to-raise-upto-rs20bn-in-debenture-sale-247456/",
+        "timestamp": "November 8, 2025",
+        "byline": "5-year sustainability bonds with non-viability write down features will be issued at 100 rupees each.",
+        "isoTimestamp": "2025-11-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fee302748ff2956673b84b4baaaf9d918bfa119da492ee65b24f9e9110c7b995"
+      },
+      {
+        "title": "SriLankan Airlines debt expected to be restructured by December: President",
+        "url": "https://economynext.com/srilankan-airlines-debt-expected-to-be-restructured-by-december-president-247483/",
+        "timestamp": "November 8, 2025",
+        "byline": "The bond has a sovereign guarantee",
+        "isoTimestamp": "2025-11-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "118ded9a3f567d96f508a45e3a4083bdbe8578dea69c1d95b81939b41f9cf14f"
+      },
+      {
+        "title": "Sri Lanka debt service US$2,435mn in 2025, most already paid: President",
+        "url": "https://economynext.com/sri-lanka-debt-service-us2435mn-in-2025-most-already-paid-president-247470/",
+        "timestamp": "November 7, 2025",
+        "byline": "There is a narrative that Sri Lanka's debt repayment will begin in 2028",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4b137310c523882f62134344f9008729b43e0d664f26e85817e1711e1bb1be23"
+      },
+      {
+        "title": "Sri Lanka to upgrade airports in Sigiriya and Trincomalee",
+        "url": "https://economynext.com/sri-lanka-to-upgrade-airports-in-sigiriya-and-trincomalee-247458/",
+        "timestamp": "November 7, 2025",
+        "byline": "Hingurakgoda airport is also under development and is expected to be completed by 2026",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d0fba88dc0300c8c0eb994feafda1811f7a1591313c483ed839bf45df7d8183e"
+      },
+      {
+        "title": "Sri Lanka MPs to get pick up trucks as official vehicles",
+        "url": "https://economynext.com/sri-lanka-mps-to-get-pick-up-trucks-as-official-vehicles-247443/",
+        "timestamp": "November 7, 2025",
+        "byline": "The government has decided to buy vehicles and machinery for state institutions and members of parliament",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3343d46948b962a8e4940e4caf769f618eb31eed4d8d377256bbc56b679f6971"
+      },
+      {
+        "title": "Sri Lanka public sector recruitment through exams: President",
+        "url": "https://economynext.com/sri-lanka-public-sector-recruitment-through-exams-president-247441/",
+        "timestamp": "November 7, 2025",
+        "byline": "“Hereafter, all recruitments, promotions and other employment related matters will only take place through exams",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "10f443ad004bd1de2515cc9f4733252db1f67af1eab758aea24acca5c93d57c3"
+      },
+      {
+        "title": "Sri Lanka revises up 2025 tax revenue target, public investment fall short",
+        "url": "https://economynext.com/sri-lanka-revises-up-2025-tax-revenue-target-public-investment-fall-short-247390/",
+        "timestamp": "November 7, 2025",
+        "byline": "Total expenditure target reduced, public investment cut by over 20-pct",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "abf5ff78cb9e100ddcc7e74ec8e4d293e6a9677bb12201c10088846ffa3a5f17"
+      },
+      {
+        "title": "Sri Lanka budget 2026: cemetery and cremation facilities for pets",
+        "url": "https://economynext.com/sri-lanka-budget-2026-cemetery-and-cremation-facilities-for-pets-247404/",
+        "timestamp": "November 7, 2025",
+        "byline": "We are seeing a growing need among people for respectful and environmentally responsible cremation and burial alternativ",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f72ac9e049c7aa8688d09668e187237f04f5fc261f3e3924ab7641832c6a1694"
+      },
+      {
+        "title": "Sri Lanka considers housing loan, contributory pension for foreign expatriates",
+        "url": "https://economynext.com/sri-lanka-considers-housing-loan-contributory-pension-for-foreign-expatriates-247405/",
+        "timestamp": "November 7, 2025",
+        "byline": "Govt allocates Rs.2 bn for expatriates' housing loan, pension",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b0eb407568efb1e6ebd7df9504f77c7e5cf5674c1424e6037645054b59af419a"
+      },
+      {
+        "title": "Sri Lanka leader grants permanent appointment for 9,800 casual, contract workers",
+        "url": "https://economynext.com/sri-lanka-leader-grants-permanent-appointment-for-9800-casual-contract-workers-247399/",
+        "timestamp": "November 7, 2025",
+        "byline": "Workers recruited under previous government had not been made permanent",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6dfad3bc82bec62703ef321cebce2f868a8f90c326e84c9ee755bcad00af719f"
+      },
+      {
+        "title": "Sri Lanka to spend Rs2.5bn to spruce up Beira lake for tourism",
+        "url": "https://economynext.com/sri-lanka-to-spend-rs2-5bn-to-spruce-up-beira-lake-for-tourism-247392/",
+        "timestamp": "November 7, 2025",
+        "byline": "Tourism Promotion Funds to be used",
+        "isoTimestamp": "2025-11-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "df2eedf7b195b9f3aea5649e75f193ad3cf73820f1b99b213c42e0dbc4a26900"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
