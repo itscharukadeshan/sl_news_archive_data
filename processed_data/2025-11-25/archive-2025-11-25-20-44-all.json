@@ -1,0 +1,2186 @@
+{
+  "adaderana-sinhala": {
+    "success": true,
+    "data": [
+      {
+        "title": "25-11-2025",
+        "href": "news.php?nid=217414",
+        "byline": "No byline",
+        "timestamp": "November 25, 2025  5:45 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217414",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "fd51933a2894f7f471d907a9b3bd94b2fd78116e4e8e3540ac04595b66050990"
+      },
+      {
+        "title": "අද සිට වැසි තත්ත්වයේ වැඩිවීමක්",
+        "href": "news.php?nid=217415",
+        "byline": "දිවයින අශ්‍රිතව පහළ වායුගෝලයේ පවතින කැළඹිලි තත්ත්වය හේතුවෙන් උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල පවතින වැසි තත්ත්වයේ වැඩිවීමක් අද (25) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තුවන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 25, 2025  6:01 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217415",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "bf63427e8b83033a6c4fca6bc5a284f91ee32c95658cb1afb8c5cf9ec68f9583"
+      },
+      {
+        "title": "තීරණාත්මක ශ්‍රී ලංකා - සිම්බාබ්වේ තරගය අද",
+        "href": "news.php?nid=217416",
+        "byline": "පාකිස්තානයේ පැවැත්වෙන තුන්කොන් විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර තරගය අද (25) පැවැත්වෙයි.",
+        "timestamp": "November 25, 2025  6:37 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217416",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "3d58ddb8db2e111d6e5e7b2e1d36064c88db819c62018bd439f351da704c002c"
+      },
+      {
+        "title": "හල්දුම්මුල්ලේ රථ වාහන ධාවනය එක් මංතීරුවකට සීමා වෙයි - පහළ කඩුගන්නාවේ ගමනාගමනයට තවදුරටත් බාධා",
+        "href": "news.php?nid=217417",
+        "byline": "බදුල්ල - කොළඹ ප්‍රධාන මාර්ගයට බෙරගල සහ හල්දුමුල්ල අතර ප්‍රදේශයෙන් පස්කන්දක් කඩා වැටීම හේතුවෙන් අවහිර වී තිබුණ රථ වාහන ධාවනය එක් මංතීරුවකට පමණක් සීමා කර තිබේ.",
+        "timestamp": "November 25, 2025  6:37 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217417",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "caa066b6ecc8567237066833d8170986c8307e4f07cbe1ca805e7dc820018d52"
+      },
+      {
+        "title": "ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයින්ට රියදුරු බලපත්‍ර ලබාදීමට කැබිනට් අනුමැතිය",
+        "href": "news.php?nid=217418",
+        "byline": "ඉතාලියේ වෙසෙන ශ්‍රී ලාංකිකයින්ට රියදුරු බලපත්‍ර ලබාදීම සඳහා වූ යෝජනාවට කැබිනට් මණ්ඩල අනුමැතිය හිමිව තිබේ.",
+        "timestamp": "November 25, 2025  7:10 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217418",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d84278aa544e9d3bf8b696070dc11e7b326c2023a96a207840ca1f4b2d38d38f"
+      },
+      {
+        "title": "රුපියල් කෝටි තුනකට අධික මූල්‍ය වංචාවක් - දෙදෙනෙකු අත්අඩංගුවට",
+        "href": "news.php?nid=217419",
+        "byline": "රපියල් කෝටි තුනකට අධික මුදල් වංචා කිරීමකට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු මූල්‍ය අපරාධ විමර්ශන කොට්ඨාසයට ලද පැමිණිල්ලක් මත අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 25, 2025  7:41 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217419",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "219e298e5d76afd3727bbc85a3d6f73fd50019e5fa4aba082674ba986f584c69"
+      },
+      {
+        "title": "මේ වසර තුළ නව බදු ගෙවන්නන් ලක්ෂ 2ක් ලියාපදිංචි වෙයි",
+        "href": "news.php?nid=217420",
+        "byline": "මේ වසරේ ගතවූ කාලය තුළ නව බදු ගෙවන්නන් ලක්ෂ 2ක් ලියාපදිංචි කර ඇති බව දේශීය ආදායම් දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 25, 2025  8:10 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217420",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "4beef2a84b0d9b9ae6ccf911d49876ee650173db653287bab97ccf9b14b30ec6"
+      },
+      {
+        "title": "අයවැය විවාදය ඇරඹෙයි",
+        "href": "news.php?nid=217421",
+        "byline": "නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් අයවැය විවාදය ආරම්භ වී තිබේ.",
+        "timestamp": "November 25, 2025  9:00 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217421",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c749f29844c34f0b34c49d44a63b62aa5685e856b4a88008e0c72317e7d14966"
+      },
+      {
+        "title": "පළාත් 6කට මි.මී 200 ඉක්මවූ වැසි - ක්ෂණික ගංවතුර තත්ත්වයක් ඇතිවීමේ අවදානමක්",
+        "href": "news.php?nid=217422",
+        "byline": "ප්‍රධාන ගංගාවල ජලමට්ටම් ඉතාමත් ඉහළ මට්ටමක පවතින බැවින් හදිසි වර්ෂාවකදී ගංවතුර තත්ත්වයක් ඇති වීමේ අවදානමක් ඇති බවට වාරිමාර්ග දෙපාර්තමේන්තුව දැනුම්දී තිබේ.",
+        "timestamp": "November 25, 2025  9:29 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217422",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "cc213f46a940cc0402b9fc3da13048529f48cb0540f00fb9dbebbf4dd2d52b8c"
+      },
+      {
+        "title": "චතුර ගලප්පත්ති අල්ලස් කොමිසමට",
+        "href": "news.php?nid=217423",
+        "byline": "සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී චතුර ගලප්පත්ති මහතා මීට සුළු වේලාවකට පෙර අල්ලස් කොමිසම හමුවට පැමිණ තිබේ.",
+        "timestamp": "November 25, 2025  10:13 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217423",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "51a18c14c5e111e15e79ef5b55c4cc35a9cbc15901f22b59110088998f4a7ed4"
+      },
+      {
+        "title": "රන් මිල රු 6,000කින් ඉහළට",
+        "href": "news.php?nid=217424",
+        "byline": "ලෝක වෙළෙඳපොළේ රත්‍රං මිලෙහි කැපී පෙනෙන වැඩිවීමක් සිදුව ඇති අතර ඊට සාපේක්ෂව මෙරට රත්‍රං මිල ද විශාල වශයෙන් යළි ඉහළ ගොස් තිබේ.",
+        "timestamp": "November 25, 2025  10:23 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217424",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c0013744d4b7d27f2168203f6defdbed7c71f793ec13b80436f518ec065aa3f5"
+      },
+      {
+        "title": "පහළ කඩුගන්නාව ගැන NBRO වෙතින් නිර්දේශ ඇතුළත් වාර්තාවක්",
+        "href": "news.php?nid=217425",
+        "byline": "පහළ කඩුගන්නාව ආශ්‍රිතව සිදුවූ ගල් පෙරලීමේ ආපදා තත්ත්වය පරීක්ෂා කර ඒ ස්ථානයට ගත යුතු කඩිනම් පියවර සහ විසඳුම් පිළිබඳ නිර්දේශ ඇතුළත් වාර්තාවක් කෑගල්ල දිසාපතිවරයාට සහ මාවනැල්ල ප්‍රාදේශීය ලේකම්වරයා වෙත මෙන්ම මාර්ග සංවර්ධන අධිකාරියට ලබා දී ඇතැයි ජාති‍ක ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.",
+        "timestamp": "November 25, 2025  10:31 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217425",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "0a0c91acee74edf389da0f83a48f0c9263c112417bdf0742bebe017aa189a024"
+      },
+      {
+        "title": "වවුනියාව ප්‍රදේශයේ වෙළෙඳසැළක ගින්නක්",
+        "href": "news.php?nid=217426",
+        "byline": "වවුනියාව හොරොව්පතාන මාර්ගයේ අසළ පිහිටි වෙළෙඳසැළක ගින්නක් හටගෙන තිබේ.",
+        "timestamp": "November 25, 2025  11:04 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217426",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "898b4ae4455522d6fdeef9dbb8cbc2f0e81abe8d40181660d4001deed6f9838b"
+      },
+      {
+        "title": "2025 මුල් මාස 10 තුළ මෙරට අපනයන ආදායම අ.ඩො.බි 14.4 ඉක්මවයි",
+        "href": "news.php?nid=217427",
+        "byline": "2025 මුල් මාස දහය තුළ ශ්‍රී ලංකාවේ අපනයන ආදායම අමෙරිකානු ඩොලර් බිලියන 14.4 ඉක්මවා ඇති බව අපනයන සංවර්ධන මණ්ඩලය පවසයි.",
+        "timestamp": "November 25, 2025  11:09 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217427",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "4cec045e911cee395356df3a783d979dfdf6a22d8332fafa2ca22beec530d43d"
+      },
+      {
+        "title": "ඊශ්‍රායල අගමැතිගේ ඉන්දීය සංචාරය අවලංගු කෙරේ",
+        "href": "news.php?nid=217428",
+        "byline": "ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු සැලසුම්කර තිබු ඉන්දීය සංචාරය අවලංගු කර තිබේ.",
+        "timestamp": "November 25, 2025  11:34 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217428",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "9286f9db7c073210e40b964739e2910f2ef4a60a0f3dea556020406b977fe87f"
+      },
+      {
+        "title": "අල්ලස් ‍ගත් අධිකරණ සේවකයෙකු අත්අඩංගුවට",
+        "href": "news.php?nid=217429",
+        "byline": "ගාල්ල, උඩුගම මහේස්ත්‍රාත් අධිකරණයේ සිතාසි හා ඇස්කිසි ක්‍රියාකරුවෙකු අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 25, 2025  11:42 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217429",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d87b6ad0b22a8fb6c8eeef71bb1cdb933507a7880eb252bd1d830644fb5a4ecc"
+      },
+      {
+        "title": "වරෙන්තුකරුව අල්ලන්න ගිය පොලීසියට අකරතැබ්බයක්",
+        "href": "news.php?nid=217430",
+        "byline": "නිවිතිගල උඩපෑබොටුව ප්‍රදේශයේදී, දෙල්වල පොලීසිය විසින් නවතා තිබූ මෝටර් රථයක් පරීක්ෂා කිරීමට යාමේදී එහි සිටි පුද්ගලයා අණ නොතකා ධාවනය කිරීමට උත්සාහ කර තිබේ.",
+        "timestamp": "November 25, 2025  12:02 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217430",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d5ea22f489165ae8a3fc92fdb3d91e29560a4357b6e406baaa5b3b70f1aed8f0"
+      },
+      {
+        "title": "සේවක අර්ථසාධක අරමුදල ගැන තොරතුරු දැනගන්න නව ඩිජිටල්කරණ පද්ධතියක්",
+        "href": "news.php?nid=217431",
+        "byline": "සේවක අර්ථසාධක අරමුදල සම්බන්ධයෙන් නව ඩිජිටල්කරණ පද්ධතියක් හඳුන්වා දීමට රජය තීරණය කර තිබේ.",
+        "timestamp": "November 25, 2025  12:04 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217431",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "0b77231b05fe29aecbed174605842327a5dcf44aad690c07f3dbd98f19c91406"
+      },
+      {
+        "title": "මාධ්‍ය මර්දනය එරෙහිව නාමල්ගෙනුත් නිවේදනයක්",
+        "href": "news.php?nid=217432",
+        "byline": "අරුණ පුවත්පතේ ප්‍රධාන කර්තෘ මහින්ද ඉලේපෙරුම මහතාව අපරාධ පරීක්ෂණ දෙපා‍ර්තමේන්තු වෙත කැඳවීම, සමස්ත මාධ්‍යවේදීන්ටම කරන අනතුරු ඇඟවීමක් හා මර්දනයක් බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ පවසයි.",
+        "timestamp": "November 25, 2025  12:39 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217432",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "29812e0655711e494e00f320b3235888ea134ba4a30a87828615124268a11e54"
+      },
+      {
+        "title": "යේමනයේ ආණ්ඩුකාරවරයෙකු ඉලක්ක කර වෙඩි ප්‍රහාරයක් - 5ක් මරුට",
+        "href": "news.php?nid=217433",
+        "byline": "යේමනයේ වෙඩි තැබීමකින් පුද්ගලයින් පස් දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.",
+        "timestamp": "November 25, 2025  1:30 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217433",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "6f75d9dc93f7128d386f7ce0d01db66a46942e02fe9cdba80b7e6a418641f66a"
+      },
+      {
+        "title": "පුංචි පුතුට මරු කැඳවූ අනතුර",
+        "href": "news.php?nid=217434",
+        "byline": "කොළඹ, මාළිගාවත්ත මහල් නිවාස සංකීර්ණයක පදිංචිව සිටි 5 හැවිරිදි දරුවෙකු වෑන් රථයක ගැටී ජීවිතක්ෂයට පත්ව තිබේ.",
+        "timestamp": "November 25, 2025  1:32 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217434",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "532798ef44ed5ee216741056c119d390b78adddb3ca1e7106e74c08e66526731"
+      },
+      {
+        "title": "කැබිනට් තීරණ මෙතැනින්",
+        "href": "news.php?nid=217435",
+        "byline": "කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ආරම්භ වී තිබේ.",
+        "timestamp": "November 25, 2025  1:53 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217435",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "745ba0b40164ef446e23727be7a4b3202e77b2c9cb62eda7063ddf427f643373"
+      },
+      {
+        "title": "පාර්ලිමේන්තු සේවිකාවක් සම්බන්ධයෙන් කළ පරීක්ෂණයේ අවසන් වාර්තාව",
+        "href": "news.php?nid=217436",
+        "byline": "පාර්ලිමේන්තුවේ සේවිකාවකට කිසියම් අයුරක ලිංගික හිංසනයක් සිදුවී ඇත්දැයි සොයා බලා වාර්තා කිරීමට පත්කළ විශ්‍රාමික මහාධිකරණ විනිසුරු සුජාතා අලහප්පෙරුම මහත්මිය විසින් ඒ පිළිබඳ සකස් කළ ඇයගේ අවසන් වාර්තාව ඊයේ (24) කථානායක ජගත් වික්‍රමරත්න මහතා වෙත භාර දී තිබේ.",
+        "timestamp": "November 25, 2025  1:56 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217436",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f7cfa51eac583d10a939095f0dc0be6df877c1caf150b237db287a3c8acf19fe"
+      },
+      {
+        "title": "විදේශ සේවා නියුක්ති කාර්යාංශයේ හිටපු සභාපති අත්අඩංගුවට",
+        "href": "news.php?nid=217437",
+        "byline": "විදේශ සේවා නියුක්ති කාර්යාංශයේ හිටපු සභාපති ඒ.ඒ.එම්.හිල්මි මහතා මහතා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 25, 2025  2:07 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217437",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c1ae5b5457c7c222dc4c6342c22183d54e4226bdb9320cc8a17f195b05174567"
+      },
+      {
+        "title": "දකුණු කොරියාවේ 'TV Dad' දිවි ගමනට සමුදෙයි",
+        "href": "news.php?nid=217438",
+        "byline": "දකුණු කොරියාවේ  'TV Dad' ලෙස හඳුන්වන ජනප්‍රිය නළුවෙකු වූ ලී සූන්-ජේ අද (25) දිවි ගමනට සමු දී ඇත.",
+        "timestamp": "November 25, 2025  2:11 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217438",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "1bba8a0cd1c6e0e141ff7ffa4954b485727e9860ebfeafa1d131bab46f3881b8"
+      },
+      {
+        "title": "උසස් පෙළ ආර්ථික විද්‍යාව ප්‍රශ්නපත්‍රය පිටවෙලා ද ?",
+        "href": "news.php?nid=217439",
+        "byline": "මේ වනවිට පැවැත්වෙන අධ්‍යාපන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ ආර්ථික විද්‍යාව ප්‍රශ්න පත්‍රය පිටවී ඇති බවට පළ වන කරුණු සම්බන්ධයෙන් පරීක්ෂණය කිරීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී තිබේ.",
+        "timestamp": "November 25, 2025  2:20 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217439",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "effa851443ec98cf858a07687a1214aad56893ade834ed21779150d5dc6a1d32"
+      },
+      {
+        "title": "වී ගොවීන්ගේ ගැටලු විසඳීම සඳහා ස්ථීර වැඩපිළිවෙළක් සැකසීමට සාකච්ඡාවක්",
+        "href": "news.php?nid=217440",
+        "byline": "වී ගොවීන්ගේ ගැටලුවලට විසඳුම් සෙවීම සඳහා විධිමත් වැඩපිළිවෙළක් සකස් කිරීම පිළිබඳව එම ගොවීන් සමඟ සාකච්ඡාවක් කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍ය කේ.ඩී. ලාල්කාන්ත, වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් අද (25) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.",
+        "timestamp": "November 25, 2025  3:22 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217440",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "aec1ebb1dc9a2492a70e53d49721f2139281c4a30655d5835d0362d74dad7913"
+      },
+      {
+        "title": "ඉන්දු  - ඇෆ්ගන් වෙළඳ සාකච්ඡා",
+        "href": "news.php?nid=217441",
+        "byline": "ඉන්දියාවේ වාණිජ හා කර්මාන්ත අමාත්‍යවරයා ඇෆ්ගනිස්තානයේ කර්මාන්ත හා වාණිජ කටයුතු අමාත්‍යවරයා හමුවී තිබේ.",
+        "timestamp": "November 25, 2025  3:30 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217441",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "45e5d270ea994d7cce53c9e93f829abb4698ff29299eede52f35ee89a80ddfeb"
+      },
+      {
+        "title": "රුසියාවට යුක්‍රේනයෙන් ඩ්‍රෝන ප්‍රහාරයක්",
+        "href": "news.php?nid=217442",
+        "byline": "රුසියාවට යුක්‍රේනයෙන් ඩ්‍රෝන ප්‍රහාරයක් එල්ල වී තිබේ.",
+        "timestamp": "November 25, 2025  3:44 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217442",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "9329b5e977af6ec5b7e755778eebe74a9816be0eef42f5331395cc5e30ae19aa"
+      },
+      {
+        "title": "නීති විරෝධීව වත්කම් උපයාගත් කාන්තාවක් අත්අඩංගුවට",
+        "href": "news.php?nid=217443",
+        "byline": "මොරටුව, මොරටුවැල්ල ප්‍රදේශයේ පදිංචි පුද්ගලයෙකු විසින් නීති විරෝධී ලෙස උපයා ගන්නා ලද මුදලින් දේපළ හා වත්කම් මිලදී ගැනීමක් සම්බන්ධයෙන්...",
+        "timestamp": "November 25, 2025  4:05 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217443",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "43d2c188dd950c4583196fb8448877a84f8cb29ca4400ba61b62d483c0b54bef"
+      },
+      {
+        "title": "පාකිස්තානයෙන් ඇෆ්ගනිස්තානට දරුණු ප්‍රහාරයක් - මියගිය පිරිස අතුරින් 9ක් ළමුන්",
+        "href": "news.php?nid=217444",
+        "byline": "ඇෆ්ගනිස්තානයට එල්ල වු පාකිස්තාන ප්‍රහාරවලින් පුද්ගලයින් 10 දෙනෙකු මිය ගොස් තිබෙන බව විදෙස් මාධ්‍ය පවසයි.",
+        "timestamp": "November 25, 2025  4:15 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217444",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "e9e2ee69544bd75a0b834429633650f4d3f0723c246f5b0303a0f57c2cd19685"
+      },
+      {
+        "title": "පුරාවිද්‍යා නාමපුවරු ගැලවීමේ සිද්ධියට අදාළ ප්‍රා.ස. සභාපති ඇතුළු පස්දෙනෙකුට ඇප",
+        "href": "news.php?nid=217445",
+        "byline": "මඩකලපුව දිස්ත්‍රික්කයේ පුරාවිද්‍යා නාමපුවරු ගැලවීමේ සිද්ධියට සම්බන්ධ වාලච්චේන කෝරලේපත්තු ප්‍රාදේශීය සභාවේ සභාපති, උප සභාපති ඇතුළු සැකකරුවන් පස්දෙනෙකු ඇප මත මුදා හැරීමට අධිකරණය නියෝග කර තිබේ.",
+        "timestamp": "November 25, 2025  4:33 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217445",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "768a5c50698b6726c078a2e88a3ca526ef428918c890e620600aa556cd63736e"
+      },
+      {
+        "title": "විදේශ සේවා නියුක්ති කාර්යාංශයේ හිටපු සභාපති රිමාන්ඩ්",
+        "href": "news.php?nid=217446",
+        "byline": "අල්ලස් කොමිසම විසින් දූෂණ චෝදනාවක් සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් විදේශ සේවා නියුක්ති කාර්යාංශයේ හිටපු සභාපති මොහොමඩ් හිල්මි මහතා දෙසැම්බර් මස 09 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය. \n\nඅල්ලස් කොමිසමේ නිලධාරීන් හා සැකකරුගේ නීතිඥවරු ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අසංග එස් බෝදරගම මහතා විසින් මෙම නියෝගය නිකුත් කළේය.",
+        "timestamp": "November 25, 2025  4:35 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217446",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "89ac8c48541e15ac5e087824c7a11c2b73025c4625eafbdad6f5833834ac8563"
+      },
+      {
+        "title": "මෝදර දේවාලයේ සභාපතිවරයාගේ ඝාතනය සම්බන්ධයෙන් දෙදෙනෙක් අත්අඩංගුවට",
+        "href": "news.php?nid=217447",
+        "byline": "අම්බලන්ගොඩ මෝදර දේවාලයේ කමිටු සභාපතිවරයා ඝාතනය කිරීමේ සිද්ධියට අදාළව සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 25, 2025  5:01 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217447",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "e59182afb45b58f59f5845f6ba8044c1b25d01b8f9dafc3ed5cea17ae52d03d6"
+      },
+      {
+        "title": "අත්අඩංගුවට ගන්නා විෂ මත්ද්‍රව්‍ය කඩිනමින් විනාශ කිරීමට නව නීති",
+        "href": "news.php?nid=217448",
+        "byline": "විෂ මත්ද්‍රව්‍ය අත්අඩංගුවට ගැනීම මෙන්ම ඒවාට ඇබ්බැහි වූවන් පුනරුත්ථාපනය කෙරෙහිද වැඩි අවධානයක් යොමු කළ යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.",
+        "timestamp": "November 25, 2025  6:01 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217448",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "9358795f358d8890537c5c9e1d9bc37c92a9505ee02b25f0b79479f16d7ef39a"
+      },
+      {
+        "title": "කාසියේ වාසිය සිම්බාබ්වේ කණ්ඩායමට",
+        "href": "news.php?nid=217449",
+        "byline": "පාකිස්තානයේ පැවැත්වෙන තුන්කොන් 20-20 තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහභාගිවන 3වැනි තරගයේ කාසියේ වාසිය දිනා ගැනීමට සිම්බාබ්වේ කණ්ඩායම සමත්ව තිබේ.",
+        "timestamp": "November 25, 2025  6:19 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217449",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ce6698decd66437d4f4136e9c0545d8c1d744eb9c2615838fee05237afd9bdf4"
+      },
+      {
+        "title": "පාස්කු ප්‍රහාරයට සම්බන්ධ ශ්‍රී ලාංකික ඉස්ලාමීය සැකකරුවෙකු බ්‍රිතාන්‍යයේ සරණාගතභාවය පතයි",
+        "href": "news.php?nid=217450",
+        "byline": "2019 වසරේ අප්‍රේල් 21 වනදා සිදු වූ පාස්කු ප්‍රහාරය සම්බන්ධයෙන් ශ්‍රී ලංකා පොලීසිය විසින් ප්‍රශ්න කිරීමක් සිදු කරන ලද ඉස්ලාමීය ත්‍රස්තවාදී සැකකරුවෙකු එක්සත් රාජධානියේ සරණාගතභාවය පතමින් සිටින බව බ්‍රිතාන්‍ය මාධ්‍ය වාර්තා කරයි.",
+        "timestamp": "November 25, 2025  7:12 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217450",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "91be50b2eb8b2fd8e4bc27ca9f66d6518c3fa1f7a5602724b87ea937bd1c52dd"
+      },
+      {
+        "title": "ශ්‍රී ලංකාවට ලකුණු 147ක ඉලක්කයක්",
+        "href": "news.php?nid=217452",
+        "byline": "පාකිස්තානයේ පැවැත්වෙන විස්සයි 20 තුන්කොන් තරගාවලියේ ශ්‍රී ලංකාව සහභාගි වන 3වැනි තරගය සිම්බාබ්වේට එරෙහිව මේ වනවිට පැවැත්වෙයි.",
+        "timestamp": "November 25, 2025  8:11 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217452",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c6d4b6e0aab8b447f7b059596f38cfd7fb72a1c9d0653c4ce04b63353def00d8"
+      },
+      {
+        "title": "ඉන්දියාවේ ඇරයුමක් කැනඩාව පිළිගනී",
+        "href": "news.php?nid=217453",
+        "byline": "ඉන්දියාවේ සංචාරයකට එක්වන ලෙස අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි කැනඩා අග්‍රාමාත්‍ය මාර්ක් කාර්නි වෙත ඇරයුම් කර තිබේ.",
+        "timestamp": "November 25, 2025  8:18 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217453",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ea95f4b1232ddc6c3910a716caf5d17fb62541726d49c49cd3406f0d1793561d"
+      },
+      {
+        "title": "2025-11-24",
+        "href": "news.php?nid=217369",
+        "byline": "No byline",
+        "timestamp": "November 24, 2025  6:14 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217369",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "80eba60422370e43d51789da2f0cc1da53ad96e63e8a03ba7e0cb3fe1b01b469"
+      },
+      {
+        "title": "වායු ගෝලයේ  කැලඹිලි තත්ත්වය තවදුරටත්",
+        "href": "news.php?nid=217370",
+        "byline": "දිවයින අශ්‍රිතව පවතින පහළ වායු ගෝලයේ කැලඹිලි තත්ත්වය හෙට (25) දිනයේදී අඩු පීඩන කලාපයක් දක්වා වර්ධනය වීමේ හැකියාව පවතී.",
+        "timestamp": "November 24, 2025  6:21 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217370",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b65257fa980de9716dfcb0ade9c4a6abe86c6039f4b9169a60ae4d11a14a4a3b"
+      },
+      {
+        "title": "ත්‍රීරෝද රථයක් මතට ගසක් කඩා වැටී සිදු වූ අනතුරින් අයෙක් මරුට",
+        "href": "news.php?nid=217371",
+        "byline": "මාවනැල්ල - රඹුක්කන මාර්ගයේ තලගොල්ල ප්‍රදේශයේ දී ත්‍රීරෝද රථයක් මතට විශාල ගසක් කඩා වැටීමෙන් ඊයේ (23) සිදුවු අනතුරෙන් පුද්ගලයෙකු මියගොස් තිබේ.",
+        "timestamp": "November 24, 2025  6:49 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217371",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "137914045dc828570cbdc88ae049a82f37f1196042aed20b066352aae9970bcb"
+      },
+      {
+        "title": "අධික වැසි හමුවේ ප්‍රධාන ජලාශ 73න් 9ක් වාන් දමයි",
+        "href": "news.php?nid=217372",
+        "byline": "පසුගිය පැය 24ක කාලය තුළ වැඩිම වර්ෂාපතනයක් වාර්තා වී ඇත්තේ කුරුණෑගල දිස්ත්‍රික්කය ආශ්‍රිත මහඔය ප්‍රදේශයට බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 24, 2025  7:03 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217372",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "916f9bb30457cbd7390c32ed85b1936d5fba2f6fe471e3c6bc1acb85329f0242"
+      },
+      {
+        "title": "බැංකු කාඩ්පතින් බස් රථයේ ප්‍රවේශපත්‍ර  මිලදී ගැනීමේ අවස්ථාව අද සිට",
+        "href": "news.php?nid=217373",
+        "byline": "මගී බස් රථවල ගමන් කිරීමේ දී ඊට අදාළ ප්‍රවේශපත්‍ර මිලදී ගැනීම සඳහා බැංකු කාඩ්පත් මගින් අද සිට ගෙවීමේ හැකියාව ලබා දීමට හැකි බව ප්‍රවාහන අමාත්‍යාංශය පවසයි.",
+        "timestamp": "November 24, 2025  7:11 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217373",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "64532bfdfaebe8b691683dbf1e985f6b9910620abf4302318fd2ca8e86571e2f"
+      },
+      {
+        "title": "මිදිගම ව්‍යාපාරිකයෙකු ඇතුළු හතක්  ඝාතනයට සැලසුම් කළ අයෙකු අත්අඩංගුවට",
+        "href": "news.php?nid=217374",
+        "byline": "මිදිගම ප්‍රදේශයේ ව්‍යාපාරිකයෙකු ඇතුළු හත්දෙනෙකු ඝාතනය කිරිම සඳහා සැලසුම් කරමින් සිටියදි පලාගිය සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 24, 2025  7:32 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217374",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "501242397b51d1f8681640dd8dcfa10658c552619d0a5aaae2b828603d8fa98c"
+      },
+      {
+        "title": "කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලයෙන් ධීවරයින්ට විශ්‍රාම වැටුප් ක්‍රමයක්",
+        "href": "news.php?nid=217375",
+        "byline": "කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය විසින් ධීවර ප්‍රජාව සඳහා ධීවර විශ්‍රාම වැටුප් යෝජනා ක්‍රමයක් හඳුන්වා දී තිබේ.",
+        "timestamp": "November 24, 2025  7:59 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217375",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "31665fc17f834dc47c4945e87823d59d311cab53f060497ca4f24ae24391d827"
+      },
+      {
+        "title": "පාසිකුඩා මුහුදේ දියනෑමට ගිය පුද්ගලයෙකු රළ පහරකට හසුවී අතුරුදන්",
+        "href": "news.php?nid=217376",
+        "byline": "කල්කුඩා පොලිස් වසමේ පාසිකුඩා මුහුදු තීරයේ දිය නෑමට ගිය පුද්ගලයෙකු රළ පහරකට හසු වී අතුරුදන් වී ඇති බවට කල්කුඩා පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.",
+        "timestamp": "November 24, 2025  8:23 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217376",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c152fc05f0730bf1c0f1766795bfaf30def2939c18ca95b6ba794bda6879cfce"
+      },
+      {
+        "title": "පුරාවස්තු සොයා කැණීම් කළ පුද්ගලයෙක් අත්අඩංගුවට",
+        "href": "news.php?nid=217377",
+        "byline": "පුරාවස්තු සෙවීමේ අරමුණින් කැණීම් කරමින් සිටි පුද්ගලයෙකු තණමල්විල, බටුවැව ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 24, 2025  8:48 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217377",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c898eebe71d1be06913aa49c67668e1597c3f0393ecc80a235bb26c027ee5dd3"
+      },
+      {
+        "title": "අයවැය කාරක සභා විවාදය ඇරඹෙයි",
+        "href": "news.php?nid=217378",
+        "byline": "අයවැය කාරක සභා විවාදය කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාගේ ප්‍රධානත්වයෙන් මේ වනවිට ආරම්භ වී තිබේ.",
+        "timestamp": "November 24, 2025  9:30 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217378",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "da52dca164e09b69e2d14032eb4c21b1a03608d895017e16a21aa2bf189e0f64"
+      },
+      {
+        "title": "අමෙරිකානු තානාපතිනිය හා  අග්‍රාමාත්‍යතුමිය අතර හමුවක්",
+        "href": "news.php?nid=217379",
+        "byline": "ශ්‍රී ලංකාවේ අමෙරිකා එක්සත් ජනපද තානාපතිනි Julie Jiyoon Chung මහත්මිය සහ අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය මහත්මිය අතර හමුවක් අද (24) පාර්ලිමේන්තුවේදී පැවැත්විණි.",
+        "timestamp": "November 24, 2025  9:36 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217379",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "10bd74a15873a500af70292296b10a7346e41ffd662fb5e7227d79eddf850570"
+      },
+      {
+        "title": "පාකිස්තානයේ පැරාමිලිටරි හමුදා මූලස්ථානයකට  මරාගෙන මැරෙන බෝම්බ ප්‍රහාරයක්",
+        "href": "news.php?nid=217380",
+        "byline": "පාකිස්තානයේ වයඹදිග පෙෂාවර් නගරයේ පිහිටි පැරාමිලිටරි හමුදා මූලස්ථානයකට මරාගෙන මැරෙන බෝම්බ ප්‍රහාරය එල්ල වී ඇත.",
+        "timestamp": "November 24, 2025  10:29 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217380",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "aeb022fcf331f151d7fcf35a4d51843884099131d2dc5a0ed0651bb9c3063e47"
+      },
+      {
+        "title": "ස්ත්‍රී පුරුෂ සමාජභාවය පදනම් කරගත්  ප්‍රචණ්ඩත්වය පිටුදැකීමේ  ක්‍රියාකාරී දින 16 ඇරඹෙයි",
+        "href": "news.php?nid=217381",
+        "byline": "ස්ත්‍රී පුරුෂ සමාජභාවය පදනම් කරගත් ප්‍රචණ්ඩත්වය පිටුදැකීමේ ක්‍රියාකාරී දින 16 සනිටුහන් කිරීමේ ගෝලීය ව්‍යාපාරය සංකේතවත් කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය විසින් අද (24) පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට නිල ලාංඡන පැළඳවීමට කටයුතු කර තිබේ.",
+        "timestamp": "November 24, 2025  11:25 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217381",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "30aa964b34ff8fd0a4b0951c4cd3a2b2f5f5afb0d132bdd7f94815c1bbec0ba5"
+      },
+      {
+        "title": "බැංකු කාඩ්පතින් බස් ගාස්තු ගෙවීමේ සේවාව ඇරඹෙයි",
+        "href": "news.php?nid=217382",
+        "byline": "බැංකු කාඩ්පත් මගින් බස් ගාස්තු ගෙවීමේ සේවාව අද (24) පෙරවරුවේ ප්‍රවාහන, මහාමාර්ග සහ නාගරික සංවර්ධන අමාත්‍ය බිමල් රත්නායක මහතාගේ ප්‍රධානත්වයෙන් මාකුඹුර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයේදී ආරම්භ විය.",
+        "timestamp": "November 24, 2025  12:03 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217382",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "cd610ed74b0952f34e560e2e073d9279db4c9dde9754a162a1ee05ecb347a7b3"
+      },
+      {
+        "title": "පාසල් වෑන් රථ සඳහා  ලබන වසරේ සිට CCTV",
+        "href": "news.php?nid=217383",
+        "byline": "පාසල් වෑන් රථ සඳහා සීසීටීවී පද්ධති අනිවාර්ය කිරීමට කටයුතු කරන බව ප්‍රවාහන, මහාමාර්ග සහ නාගරික සංවර්ධන අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.",
+        "timestamp": "November 24, 2025  12:21 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217383",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "93f5dfd8b36242f03429761f8702d1ec85214edab89b0c6e1a8f11046ea73ed4"
+      },
+      {
+        "title": "ඉන්දීය ක්‍රිකට් ක්‍රීඩිකා ස්මිත්‍රි මන්දනාගේ විවාහය අතරමග නතර වෙයි",
+        "href": "news.php?nid=217384",
+        "byline": "ඉන්දීය කාන්තා ක්‍රිකට් කණ්ඩායමේ ජනප්‍රියතම සුපිරි තරුවක් වන ස්මිත්‍රි මන්දනා ඇගේ විවාහ උත්සවය කල් දැමීමට තීරණය කර ඇත.",
+        "timestamp": "November 24, 2025  12:22 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217384",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "929a7e77e664fdf149bf54e5602d0eaf6a8f5f6d848904883680654d4c3b10e1"
+      },
+      {
+        "title": "විශ්‍රාමික රණවිරුවන් පොල්දූව මංසන්දියේ විරෝධතාවක",
+        "href": "news.php?nid=217385",
+        "byline": "විශ්‍රාමික රණවිරුවන් පිරිසක් විසින් අද (24) පොල්දූව පාර්ලිමේන්තු වටරවුමේදී විරෝධතාවක නිරත විය.",
+        "timestamp": "November 24, 2025  12:23 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217385",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d738cf45ff2eb0f10c5d5b602e5df84391eeb52dad0ac420fae4d12df9cd5328"
+      },
+      {
+        "title": "ඊශ්‍රායල ගුවන් ප්‍රහාරයකින්  හිස්බුල්ලා ප්‍රධානියෙක් මරුට",
+        "href": "news.php?nid=217386",
+        "byline": "ලෙබනනයේ බේරූට් අගනුවරට එල්ල වූ ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් එරට තුළ ක්‍රියාත්මක හිස්බුල්ලා සන්නද්ධ කණ්ඩායමේ මාණ්ඩලික ප්‍රධානී අලි තබ්තබෙයි ඇතුළු සිව් දෙනෙකු මියගොස් තිබේ.",
+        "timestamp": "November 24, 2025  12:55 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217386",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "63d7ce82972e4e57e1c7567373b7bc8e0fbd142ab2e7eb1d523e55c764adca5e"
+      },
+      {
+        "title": "මාලිමාවට බලය හිමි කන්දෙකැටිය අයවැය දෙවන වරටත් පරදී",
+        "href": "news.php?nid=217387",
+        "byline": "ජාතික ජනබලවේගයට බලය හිමි කන්දකැටිය ප්‍රාදේශීය සභාවේ 2026 අයවැය ලේඛනය දෙවන වරටත් අද (24) උදෑසන පරාජයට පත්විය.",
+        "timestamp": "November 24, 2025  12:56 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217387",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f7d071fccea5c1476744abd0bcbf9d636a08d6bbe0565283796cfe61d4a4e96f"
+      },
+      {
+        "title": "මෑත කාලයේදී කාන්තාවන් මත්ද්‍රව්‍යට ඇබ්බැහිවීම වැඩිවී ඇතැයි හෙළිදරව්වක්",
+        "href": "news.php?nid=217388",
+        "byline": "මෑත කාලයේදී කාන්තාවන් මත්ද්‍රව්‍යවලට ඇබ්බැහිවීමේ ප්‍රවණතාව වැඩිවී ඇතැයි කාන්තා සහ ළමා කටයුතු අමාත්‍ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහත්මිය පවසයි.",
+        "timestamp": "November 24, 2025  1:09 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217388",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c797b27067ec859ac84aaa395d5ab36aa6a04f3f2375c381af5182c907bca7bd"
+      },
+      {
+        "title": "මැලේසියාවේ අයහපත් කාලගුණයෙන් පුද්ගලයින් 11,000කට අධික පිරිසක් පීඩාවට",
+        "href": "news.php?nid=217389",
+        "byline": "මැලේසියාවට බලපා ඇති අයහපත් කාලගුණික තත්ත්වයෙන් පුද්ගලයින් 11,000කට අධික පිරිසක් පීඩාවට පත්ව තිබේ.",
+        "timestamp": "November 24, 2025  1:09 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217389",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "0dca81c43c4538309363e86459a2475fd6e6e8d05ec39ca91536cb5171ebc1d2"
+      },
+      {
+        "title": "පුද්ගලයින් දසදෙනෙකුට මරණදඬුවම",
+        "href": "news.php?nid=217390",
+        "byline": "ඝාතනයක් සම්බන්ධයෙන් වරදකරුවන් වූ පුද්ගලයින් දස දෙනෙකුට මරණ දඬුවම නියම කර තිබේ.",
+        "timestamp": "November 24, 2025  1:27 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217390",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "469a424deb21929980ad89ddf85175836f7e68af0a3ceaf8943ff10b4ba7d8a3"
+      },
+      {
+        "title": "ඉන්දියාවේ බස් රථ අනතුරක්",
+        "href": "news.php?nid=217391",
+        "byline": "තමිල්නාඩුවේ තෙන්කාසි දිස්ත්‍රික්කයේ අද (24) පෞද්ගලික බස් රථ දෙකක් මුහුණට මුහුණලා ගැටීමෙන් සිදු වූ අනතුරකින් පුද්ගලයින් හය දෙනෙකු මිය ගොස් 28 දෙනෙකු තුවාල ලබා තිබේ.",
+        "timestamp": "November 24, 2025  1:33 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217391",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "131b223c6d9f3989ff873e6d187b4c6367837d8bf413ba567a2cbb006d903c69"
+      },
+      {
+        "title": "සුදු ඉර මත දී පදිකයෙකුට මරු කැඳවූ අනතුර",
+        "href": "news.php?nid=217392",
+        "byline": "පොළොන්නරුව, හබරණ මඩකලපුව මාර්ගයේ සිදුවු රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.",
+        "timestamp": "November 24, 2025  1:56 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217392",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "4a6c6f6cd9752031c6b309ead7f8e8bda198721735a33d58a424b7536ec80146"
+      },
+      {
+        "title": "අරුණ පුවත්පතේ ප්‍රධාන කර්තෘ CIDයට කැඳවීම නිදහස් මාධ්‍ය ව්‍යාපාරය හෙළාදකී",
+        "href": "news.php?nid=217393",
+        "byline": "පුවත්පතේ පළ වූ පුවත් සම්බන්ධයෙන් අරුණ පුවත්පතේ ප්‍රධාන කර්තෘ මහින්ද ඉලේපෙරුම මහතාව ප්‍රකාශයක් ලබාගැනීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබීම හෙළා දකින බව නිවේදනයක් නිකුත් කරමින් නිදහස් මාධ්‍ය ව්‍යාපාරය දැනුම් දී තිබේ.",
+        "timestamp": "November 24, 2025  2:02 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217393",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "5b9a2d7c7d104c6a6552835ad4f14ac2c98e37d9f37b113dd365b097ed71b771"
+      },
+      {
+        "title": "වසර 24කට පසු හිටපු යුද හමුදා කපිතාන්වරයෙකුට ලැබුණ නිදහස",
+        "href": "news.php?nid=217394",
+        "byline": "දීර්ඝ විභාගයකින් අනතුර කොළඹ මහාධිකරණ විනිසුරු ලංකා ජයරත්න මෙනෙවිය විසින් මෙම තීන්දුව ලබාදුන්නාය.",
+        "timestamp": "November 24, 2025  2:04 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217394",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "8125e8f75a4037aafd319362fd7dc3ed67b5ca97c17d386ef843a5a0cf8ecc78"
+      },
+      {
+        "title": "ඉන්දීය ප්‍රවීණ නළු ධර්මේන්ද්‍ර දිවිගමනට සමුදෙයි",
+        "href": "news.php?nid=217395",
+        "byline": "ඉන්දීය ප්‍රවීණ නළු ධර්මේන්ද්‍ර අද (24) දිවියෙන් සමුගෙන තිබේ.",
+        "timestamp": "November 24, 2025  2:22 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217395",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "7123ee6eaf4a2ee0ef4b8f484478ba02cdef6a5e4cf9d277f17824b1315c591a"
+      },
+      {
+        "title": "පානදුර හිරණ ප්‍රදේශයේ ගින්නක්",
+        "href": "news.php?nid=217396",
+        "byline": "පානදුර හිරණ ප්‍රදේශයේ මෙට්ට නිෂ්පාදනය කරනු ලබන කර්මාන්ත ශාලාව ගින්නක් හටගෙන තිබේ.",
+        "timestamp": "November 24, 2025  2:26 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217396",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ab68f2511979d91f150e0d448a411985cf6f14fc36a3e02f15871dcc6a461df8"
+      },
+      {
+        "title": "ඉතියෝපියාවේ හයිලි ගුබ්බි  ගිනිකන්ද සක්‍රිය වෙයි",
+        "href": "news.php?nid=217397",
+        "byline": "ඉතියෝපියාවේ පිහිටා ඇති හයිලි ගුබ්බි ගිනිකන්ද පළමුවරට සක්‍රිය වී තිබේ.",
+        "timestamp": "November 24, 2025  2:28 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217397",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "b55de95cfe52ffe3fdb501d622e8015fdc1da2af89004c29248de1c0ad0bb41c"
+      },
+      {
+        "title": "මාධ්‍ය මර්දන උත්සාහය පරාජය කිරීමට එක්වන්නැයි ශ්‍රී ලංකා වෘත්තීය ජනමාධ්‍යවේදීන්ගේ සංගමය ඉල්ලයි",
+        "href": "news.php?nid=217398",
+        "byline": "අරුණ පුවත්පතේ පළ වූ පුවතක් පදනම් කරගනිමින් එම පුවත්පතේ ප්‍රධාන කර්තෘ මහින්ද ඉලේපෙරුම මහතාව අද (24) දින අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත කැඳවීම ශ්‍රී ලංකා වෘත්තීය ජනමාධ්‍යවේදීන්ගේ සංගමය පිළිකුල රජය වෙත පළ කර තිබේ.",
+        "timestamp": "November 24, 2025  2:47 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217398",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "2914317d0c3e13796ab1fab404be57ce39fa0437f2e224143edc5d6e4bd72893"
+      },
+      {
+        "title": "ගයත්‍රි ඩයස් CIDයට",
+        "href": "news.php?nid=217399",
+        "byline": "ජනප්‍රිය රූපලාවන්‍ය ශිල්පිණියක් සහ රංගන ශිල්පිණියක් වන ගයත්‍රි ඩයස් මහත්මිය අද (24) ප්‍රකාශයක් ලබාදීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවට පැමිණ තිබුණි.",
+        "timestamp": "November 24, 2025  4:02 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217399",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "a3c8b553c7660a95a82d58f8e65658f48b1557cf97f9c70a7176ae4269c40339"
+      },
+      {
+        "title": "ප්‍රදේශ කිහිපයකට ප්‍රබල අකුණු සහ මි.මී. 100ට වැඩි තද වැසි",
+        "href": "news.php?nid=217400",
+        "byline": "බස්නාහිර, සබරගමුව, ඌව සහ දකුණු පළාත්වලත් පොළොන්නරුව, මඩකළපුව, අම්පාර, මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 24, 2025  4:16 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217400",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "3e103512217da984a37ef9ec3f8907364e56dd647b0bd52d9399e79cde6ca92f"
+      },
+      {
+        "title": "ඇමති විජිත, වියට්නාමයේ ගංවතුර ඛේදවාචකය ගැන ශෝකය පළ කරයි",
+        "href": "news.php?nid=217401",
+        "byline": "මධ්‍යම වියට්නාමයේ ඇති වූ දරුණු ගංවතුර තත්ත්වයෙන් සිදුවු ජීවිත හානි පිළිබඳව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා සිය ශෝකය පළ කර තිබේ.",
+        "timestamp": "November 24, 2025  4:33 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217401",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "1c4cff83608fc072b986e72ae340db34abd27a75e39a5bc2ad9ccd21d2d2308c"
+      },
+      {
+        "title": "හේමසිරිට සහ පූජිතට එරෙහි නඩුව කල් යයි",
+        "href": "news.php?nid=217402",
+        "byline": "හිටපු ආරක්ෂක ලේකම් හේමසිරි ප්‍රනාන්දු සහ හිටපු පොලිස්පති පූජිත ජයසුන්දර යන මහත්වරුන්ට එරෙහිව නීතිපතිවරයා ඉදිරිපත් කර ඇති නඩුව ජනවාරි 26 දින යළි කැඳවන ලෙස කොළඹ මහාධිකරණය නියෝග කර තිබේ.",
+        "timestamp": "November 24, 2025  4:48 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217402",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "03e23859f941442293c79cb7b281f8df3e2b2d1256ff462db98434386fb90e0b"
+      },
+      {
+        "title": "අවධානයෙන් ඉන්න - ඉදිරි පැය 24 සඳහා දිස්ත්‍රික්ක 7කට නායයෑම් අනතුරු ඇඟවෙයි",
+        "href": "news.php?nid=217403",
+        "byline": "පවතින වැසි සහිත කාලගුණ තත්ත්වය හමුවේ කඳුකර ප්‍රදේශවල විශේෂයෙන් නායයාම් අවදානම් සහිත ප්‍රදේශවල ජීවත් වන ජනතාවට නායයෑම් පූර්ව අනතුරු ලක්ෂණ සම්බන්ධයෙන් විමසිලිමත් වන ලෙස ජාතික ගොඩනැගිලි පර්යේෂණ ආයතනය දැනුම් දී තිබේ.",
+        "timestamp": "November 24, 2025  4:49 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217403",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "8350b06299ea40d4e8ac20f605efab8a20cb2db017294b2f66948a4fee49afdf"
+      },
+      {
+        "title": "IMF මීළඟ වාරිකය ගැන තීරණය දෙසැම්බර් 15 වෙනිදා",
+        "href": "news.php?nid=217404",
+        "byline": "ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීර්ණ ණය පහසුකම මඟින් සහාය දක්වන, ශ්‍රී ලංකාවේ ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහනේ පස්වන සමාලෝචනය අවසන් කරමින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ කාර්ය මණ්ඩලය සහ ශ්‍රී ලංකා බලධාරීන් ආර්ථික ප්‍රතිපත්ති පිළිබඳ කාර්ය මණ්ඩල එකඟතාවකට පසුගිය ඔක්තෝබර් 09 දා එළැඹුණි.",
+        "timestamp": "November 24, 2025  5:21 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217404",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d715d430f90e5f7ad60b4e3dda333d700db70f5bd0400ded4745d17fc269a142"
+      },
+      {
+        "title": "දිවයින ආශ්‍රිත පහළ වායුගෝලයේ අඩුපීඩන කලාපයක්",
+        "href": "news.php?nid=217405",
+        "byline": "දිවයින ආශ්‍රිත පවතින පහළ වායුගෝලයේ කැළඹිලි තත්ත්වය හෙට (25) දිනයේදී අඩු පීඩන කලාපයක් දක්වා වර්ධනය වීමේ හැකියාව පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 24, 2025  5:37 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217405",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "d24e371cbdecc1249bd7adf01ee351b0b002a52e98ced52b4cee1a0cd1837150"
+      },
+      {
+        "title": "විසඳුම් කියන්න GMOA පැය 48ක් කල්දෙයි",
+        "href": "news.php?nid=217406",
+        "byline": "වෛද්‍යවරුන් සහ සෞඛ්‍ය  පද්ධතියේ ගැටලුවලට ඉදිරිපත් කළ විසඳුම් ප්‍රකාශයට පත්කිරීමට වගකිව යුත්තන්ට පැය 48ක කාලයක් ලබාදීමට රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය තීරණය කර තිබේ.",
+        "timestamp": "November 24, 2025  5:43 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217406",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "a84077a73c4bdb0c4de921070f11f6c919ae6ebca2f58d477157a3996cf176aa"
+      },
+      {
+        "title": "අයහපත් කාලගුණයෙන් පුද්ගල මරණ 10ක්",
+        "href": "news.php?nid=217407",
+        "byline": "අයහපත් කාලගුණ තත්ත්වයෙන් සිදුවූ මරණ සංඛ්‍යාව 10 දෙනෙකු දක්වා ඉහළ ගොස් ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.",
+        "timestamp": "November 24, 2025  6:50 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217407",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "5fcc1e80c04c57c64c8e2823074260016b5b54e8aca39e65f70ce1c78e82ae2e"
+      },
+      {
+        "title": "පුරාවිද්‍යා නාමපුවරු ගැලවූ සැකකරුවෙක් අත්අඩංගුවට",
+        "href": "news.php?nid=217408",
+        "byline": "මඩකලපුව දිස්ත්‍රික්කයේ පුරාවිද්‍යා නාමපුවරු ගැලවීමේ සිද්ධියට සම්බන්ධ සැකකරුවෙකු මඩකලපුව කිරාන් ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පැවසීය.",
+        "timestamp": "November 24, 2025  7:02 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217408",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "00a37098e197fec63d20d3834b7aed1793a604e9ba8736d97092620569750894"
+      },
+      {
+        "title": "මා පිය රැකවරණ දීමනාව ගැන අරක්ෂක අමාත්‍යංශයෙන් නිවේදනයක්",
+        "href": "news.php?nid=217409",
+        "byline": "රණවිරු දෙමාපියන්ට ලබාදෙන \"මා පිය රැකවරණ දීමනාව\" අත්හිටුවා ඇති බවට ප්‍රචාරය වන අසත්‍ය ප්‍රකාශය සම්බන්ධයෙන් අරක්ෂක අමාත්‍යංශයේ නිවේදනයක් නිකුත් කර තිබේ.",
+        "timestamp": "November 24, 2025  7:42 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217409",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "6b31f2906a436ac86f300304a9b7216b4453a7753cdc94f03ebb913a8651065d"
+      },
+      {
+        "title": "හල්දුම්මුල්ලේ පස් කන්දක් නායයයි - රථ වාහන ධාවනයට බාධා",
+        "href": "news.php?nid=217410",
+        "byline": "බදුල්ල - කොළඹ ප්‍රධාන මාර්ගයේ හල්දුම්මුල්ල පොලිස් වසමේ ⁣කදිරේෂන් බෝක්කුව අසල ප්‍රදේශයේ නායයෑමක් සිදු වී තිබේ.",
+        "timestamp": "November 24, 2025  8:11 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217410",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "84e1a8b6f66c39caf757ea2daf43714d1bd9013e6e0bc56cb15a2324e2225dae"
+      },
+      {
+        "title": "තවත් අමාත්‍යාංශ කිහිපයක වැය ශීර්ෂ ඡන්ද විමසීමකින් තොරව සම්මතයි",
+        "href": "news.php?nid=217411",
+        "byline": "ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යාංශයේ සහ නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස අමාත්‍යාංශයේ වැය ශීර්ෂ සම්මත වී තිබේ.",
+        "timestamp": "November 24, 2025  9:27 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217411",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "0dde6e98a4e815c5d16613314fe43cd1d0c888ddad2ad3a89e57699ea418f85c"
+      },
+      {
+        "title": "ජනපතිගේ ජන්ම දිනයට සෙත්පතා ආශිර්වාද පුජාවක්",
+        "href": "news.php?nid=217412",
+        "byline": "ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ උපන්දිනය අදට යෙදී තිබේ.",
+        "timestamp": "November 24, 2025  9:56 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217412",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "3a5ad0d654ec463e82fb16db42054741874435c560a9d10641aa03707c486d10"
+      },
+      {
+        "title": "නීතිවිරෝධී දැව ලොරිය පොලිස් අණ නොතකා පලා යයි",
+        "href": "news.php?nid=217413",
+        "byline": "චාවකච්චේරිය ප්‍රදේශයේ නීතිවිරෝධී ලෙස දැව ප්‍රවාහනය කරමින් තිබූ ලොරි රථයක් පොලිස් අණ නොතකා පලාගොස් තිබේ.",
+        "timestamp": "November 24, 2025  10:30 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217413",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "f33896f0bf9c5ef8dff8846eb5b080dde5222317709d4748760d5bdbd7f210c2"
+      },
+      {
+        "title": "අදත් මි.මී 100 ඉක්මවූ වැසි",
+        "href": "news.php?nid=217341",
+        "byline": "බස්නාහිර, සබරගමුව, වයඹ, උතුරු සහ දකුණු පළාත්වලත් මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල අද (23) දිනයේ මි.මී. 100ට වැඩි තද වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 23, 2025  6:01 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217341",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "e01148a4d44a4c11c6b438ecc694655986c8f7488d27602ae1450b824824c1ef"
+      },
+      {
+        "title": "පහළ කඩුගන්නාව නායයෑම් ප්‍රදේශය ගැන NBRO වෙතින් නිවේදනයක්",
+        "href": "news.php?nid=217342",
+        "byline": "පහළ කඩුගන්නාව ප්‍රදේශයේ ඊයේ (22) ඇතිවූ හදිසි ආපදා තත්ත්වය හේතුවෙන් ආපදාවට පත්වූ ප්‍රදේශය මේ වන විට යථා තත්ත්වයට පත් කිරීමට බෙරගල යුද හමුදාව මැදිහත්වීම මත සිදුකෙරෙමින් පවතින බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.",
+        "timestamp": "November 23, 2025  6:28 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217342",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "bf554a1061640ebd491bf707ce71fbec2c1ae2450f280e4d90629b763cde930b"
+      },
+      {
+        "title": "අදත් ජලාශ කිහිපයක වාන් දොරටු විවෘතයි",
+        "href": "news.php?nid=217343",
+        "byline": "පවතින අධික වර්ෂාව හේතුවෙන් ජලාශ කිහිපයක වාන් දොරටු විවෘත කර ඇති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 23, 2025  6:33 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217343",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "ba59680dd3e970d85f2f086c6ca7b4e4732ee15e89aaa3705d287c612376654d"
+      },
+      {
+        "title": "දැදුරු ඔය සහ අත්තනගලු ඔය ආශ්‍රිතව ගංවතුර අනතුරු ඇඟවීමක්",
+        "href": "news.php?nid=217344",
+        "byline": "දැදුරු ඔය සහ අත්තනගලු ඔය ආශ්‍රිතව ගංවතුර තත්ත්වයක් ඇති විය හැකි බව වාරිමාර්ග දෙපාර්තමේන්තුව අනතුරු ඇඟවීමක් සිදුකර තිබේ.",
+        "timestamp": "November 23, 2025  6:54 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217344",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "dbd9871e1e32b094bde0e3616cc568d297bed09cc00efa20f7ef930281e9d731"
+      },
+      {
+        "title": "පහරදීමකින් කාන්තාවක් ජීවිතක්ෂයට",
+        "href": "news.php?nid=217345",
+        "byline": "පොතුවිල් පොලිස් වසමේ හුලංනුගේ 12 කණුව ප්‍රදේශයේදී පුද්ගලයෙකු විසින් කාන්තාවකට උදැල්ලකින් පහරදී ඝාතනය කර තිබේ.",
+        "timestamp": "November 23, 2025  7:51 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217345",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "25f8f6d6f5fc0f7dc6a0178d9334a432c89c3365d0fea4d1def49a96a05bd1b9"
+      },
+      {
+        "title": "අයහපත් කාලගුණයෙන් පුද්ගල මරණ 09ක්",
+        "href": "news.php?nid=217346",
+        "byline": "අයහපත් කාලගුණික තත්ත්වයෙන් සිදුවූ මරණ සංඛ්‍යාව 09 දෙනෙකු දක්වා ඉහළ ගොස් ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.",
+        "timestamp": "November 23, 2025  8:18 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217346",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "9dec826f744315ae84717d0fc6fc7a9da8f886e98efd7ae38adda773c7429382"
+      },
+      {
+        "title": "බැංකු කාඩ්පතින් බස් රථයේ ප්‍රවේශපත්‍ර මිලදී ගැනීමේ අවස්ථාව හෙට සිට",
+        "href": "news.php?nid=217347",
+        "byline": "බැංකු කාඩ්පතින් බස් රථයේ ප්‍රවේශපත්‍ර මිලදී ගැනීමේ අවස්ථාව හෙට සිට ක්‍රියාත්මක කිරීමට නියමිතව තිබේ.",
+        "timestamp": "November 23, 2025  9:38 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217347",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c84a8119e610be6d14d74593e1142b732565b29a24042b0de191c53d69f5acbc"
+      },
+      {
+        "title": "‘රටම එකට‘ ජාතික මෙහෙයුමෙන් පුද්ගලයින් 1,017දෙනෙකු අත්අඩංගුවට",
+        "href": "news.php?nid=217348",
+        "byline": "විෂ මත්ද්‍රව්‍ය රටින් තුරන් කිරීමේ ‘රටම එකට‘ ජාතික මෙහෙයුම යටතේ දිවයින පුරා ඊයේ දිනයේ සිදුකළ වැටලීම්වලින් පුද්ගලයින් 1,017දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 23, 2025  11:03 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217348",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "642a20039d266b9244de57cc7da22e4ceb3c5ec11dd99903de654071136a461a"
+      },
+      {
+        "title": "දුම්රියේ වනඅලි ගැටීමට විසඳුම් ඉල්ලා දුම්රිය රියදුරන්ගෙන් තීරණයක්",
+        "href": "news.php?nid=217349",
+        "byline": "මහව සිට ත්‍රිකුණාමලය, මඩකලපුවට සහ කන්කසන්තුරේට ධාවනය කරන භාණ්ඩ හා තෙල් ප්‍රවාහන දුම්රියන් ධාවනයෙන් ඉවත් වන බව දුම්රිය ලොකොමෝටිව් ඔපරේටින් ඉංජිනියර්ස් සංගමය පවසයි.",
+        "timestamp": "November 23, 2025  11:04 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217349",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "2bd726ecec6ff83abdcba98ede7419e251677277ebf1a1b2ae58a49634a3fcbf"
+      },
+      {
+        "title": "ඊශ්‍රායල ගුවන් ප්‍රහාරවලින් ගාසාහි 22ක් මරුට",
+        "href": "news.php?nid=217350",
+        "byline": "ගාසා තීරයට එල්ල වූ ඊශ්‍රායල ගුවන් ප්‍රහාරවලින් පුද්ගලයින් 22 දෙනෙකු මියගොස් තිබේ.",
+        "timestamp": "November 23, 2025  11:28 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217350",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "2b07fee3503dc6163a56fd3d447df3b057310d4899cc25909a3eff492fded2e1"
+      },
+      {
+        "title": "නායයෑම් අනතුරු ඇඟවීමේ නිවේදනය තවදුරටත් දීර්ඝ කෙරේ",
+        "href": "news.php?nid=217351",
+        "byline": "දිවයිනේ ප්‍රදේශ කිහිපයක් සඳහා නිකුත් කර තිබූ නායයෑම් අනතුරු ඇඟවීමේ නිවේදනය තවදුරටත් දීර්ඝ කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.",
+        "timestamp": "November 23, 2025  11:42 am",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217351",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "40ec43d706ae4fbed9ccb473fcfff9630d959e29d4727a08a7d95d820400c5d2"
+      },
+      {
+        "title": "හෙට සිට වැසි වැඩිවෙන ලකුණු",
+        "href": "news.php?nid=217352",
+        "byline": "හෙට දිනයේ සිට පවතින වැසි සහිත කාලගුණ තත්ත්වයේ වැඩිවීමක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "timestamp": "November 23, 2025  12:25 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217352",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "c192aae5c6018107c7f4410b82444d6462dbbaedd7b917f39ce879980594656a"
+      },
+      {
+        "title": "උසස් පෙළ විභාගයේ ප්‍රශ්න පත්‍රයක්  පිටවූ බවට පළවන වාර්තා  සම්බන්ධයෙන් CIDයට පැමිණිල්ලක්",
+        "href": "news.php?nid=217353",
+        "byline": "මෙවර අධ්‍යන පොදු සහතිකපත්‍ර උසස් පෙළ විභාගයේ ආර්ථික විද්‍යා ප්‍රශ්න පත්‍රය විභාගයට පෙර පිටවූ බවට පළවන වාර්තා සම්බන්ධයෙන් සොයා බැලීම සදහා විභාග දෙපාර්තමේන්තුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.",
+        "timestamp": "November 23, 2025  12:51 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217353",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "27d6860f43ae61b310a91b330a1e568e9183ca536614955625cadb3ba479531e"
+      },
+      {
+        "title": "ටයිටැනික් නෞකාවේ මගියෙකුගේ ඔරලෝසුවක්  වාර්තාගත මිලකට අලෙවි වෙයි",
+        "href": "news.php?nid=217354",
+        "byline": "1912 වසරේදී මුහුදුබත් වූ ටයිටැනික් නෞකාවේ ගමන් කළ මගියකු සතුව තිබියදී සොයාගත් ඔරලෝසුවක් අමෙරිකානු ඩොලර් මිලියන 2.3කට අධික මුදලකට වෙන්දේසි වී තිබේ.",
+        "timestamp": "November 23, 2025  1:07 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217354",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "1e2944a462fad43d48c9d7c9264fc5a7884ec6a018e1202075c6e1d8e1ee4338"
+      },
+      {
+        "title": "මාදම්පිටියේ දී අයිස් සමග තරුණයෙකු අත්අඩංගුවට",
+        "href": "news.php?nid=217355",
+        "byline": "මාදම්පිටිය, මිහිජය සෙවණ ප්‍රදේශයේදී අයිස් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 01කට අධික තොගයක් සමග පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.",
+        "timestamp": "November 23, 2025  1:50 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217355",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "349da9b346b0fb7d6d2d99e184b4845be5eb5508e2a0aba36edd0fd86de40652"
+      },
+      {
+        "title": "ඩී.එස් සේනානායක විද්‍යාලයේ ආරම්භක විදුහල්පති 12 වැනි ගුණානුස්මරණය එළැඹෙන 27 වැනිදා",
+        "href": "news.php?nid=217356",
+        "byline": "කොළඹ ඩී.එස් සේනානායක විද්‍යාලයේ ආරම්භක විදුහල්පති ආර්.අයි.ටී.අලස් මහතාගේ 12 වැනි ගුණානුස්මරණය උත්සවය එළැඹෙන 27 වැනි දින එම විදුහල් පරිශ්‍රයේදී පැවැත්වීමට නියමිතව තිබේ.",
+        "timestamp": "November 23, 2025  1:54 pm",
+        "url": "https://sinhala.adaderana.lk/news.php?nid=217356",
+        "isoTimestamp": "2025-11-25T20:30:30+05:30",
+        "baseUrl": "https://sinhala.adaderana.lk",
+        "checkSum": "84ed77e3ae37b768a237b2d2c2f8ab8295157225907945f8a9ad556681b4367a"
+      }
+    ]
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": true,
+    "data": [
+      {
+        "title": "Court official remanded for soliciting bribe from female litigant",
+        "href": "https://www.adaderana.lk/news.php?nid=115095",
+        "byline": "The Fiscal of the Udugama Magistrate’s Court in Galle has been arrested by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).",
+        "timestamp": "November 25, 2025  12:26 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115095",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e7659b5c9265fa769ba322ece8451f57840a2a0ff9b7915423ed1ea3ed0e8f25"
+      },
+      {
+        "title": "No incidents of sexual harassment took place involving Parliamentary staff, inquiry finds",
+        "href": "https://www.adaderana.lk/news.php?nid=115108",
+        "byline": "The committee appointed to investigate and report on whether any form of sexual harassment had occurred involving a female employee of Parliament has determined that no such incident has taken place.",
+        "timestamp": "November 25, 2025  3:16 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115108",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "85c27dc8c3f8e99af553f2eb4537ee31de4e3061f2d938628a159188cae9fec7"
+      },
+      {
+        "title": "Badulla–Colombo Road restricted to one lane; further disruptions in Pahala Kadugannawa",
+        "href": "https://www.adaderana.lk/news.php?nid=115083",
+        "byline": "The Badulla–Colombo main road, which was blocked due to a landslide between Beragala and Haldummulla, has been restricted to a single lane, police said.",
+        "timestamp": "November 25, 2025  7:17 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115083",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0211763a82be1aba82790ab44706c1f258fdf7675efd9ac88c3475056a73c1ab"
+      },
+      {
+        "title": "About 150 firefighters tackling west London warehouse blaze",
+        "href": "https://www.adaderana.lk/news.php?nid=115123",
+        "byline": "A major incident has been declared as fireworks and gas cylinders are believed to be inside a warehouse on fire in west London.",
+        "timestamp": "November 25, 2025  7:54 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115123",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0a6c687aab82caa20b569f13750d4797a440a2159bad92484a794b07844912b4"
+      },
+      {
+        "title": "Cabinet approves amended Sri Lanka–Luxembourg double taxation agreement",
+        "href": "https://www.adaderana.lk/news.php?nid=115100",
+        "byline": "The Cabinet of Ministers has granted approval to sign the protocol amending the Agreement on the Avoidance of Double Taxation and the Prevention of Fiscal Evasion between the Democratic Socialist Republic of Sri Lanka and the Government of the Grand Duchy of Luxembourg.",
+        "timestamp": "November 25, 2025  1:37 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115100",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "7e5e9ca0ff1fa7d8be674796a7a49f4ff1eca5f91a39bfe7371d064c07fd5840"
+      },
+      {
+        "title": "Two arrested over Modara Devalaya committee chairman’s murder",
+        "href": "https://www.adaderana.lk/news.php?nid=115116",
+        "byline": "Two individuals have been arrested in connection with the murder of the Chairman of the Ambalangoda Modara Devalaya Committee.",
+        "timestamp": "November 25, 2025  5:26 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115116",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "df6eabc821daa78edf2868f7c42405187f2f760df7e5ce4787d5488ab3736121"
+      },
+      {
+        "title": "CID probes reports that A/L Economics paper has been leaked",
+        "href": "https://www.adaderana.lk/news.php?nid=115106",
+        "byline": "The Criminal Investigation Department (CID) has commenced investigation over reports that the Economics question paper of the ongoing G.C.E. Advanced Level examination has been leaked.",
+        "timestamp": "November 25, 2025  2:39 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115106",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5899e3e1cb4ce956013604d1bf7e08ff954895b9af1fe22912c31e7f92463475"
+      },
+      {
+        "title": "Govt to suspend issuance of new licences to operate analogue TV channels",
+        "href": "https://www.adaderana.lk/news.php?nid=115105",
+        "byline": "The government has decided to suspend the issuance of new licences for the operation of terrestrial analogue television channels in Sri Lanka.",
+        "timestamp": "November 25, 2025  2:23 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115105",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a95c08fc764c087f70b3bd7ec478aa5f81ef6c0d52ce1cc547faa1b66b04cd55"
+      },
+      {
+        "title": "Energy Minister visits proposed wind power project site in Kilinochchi",
+        "href": "https://www.adaderana.lk/news.php?nid=115119",
+        "byline": "Minister of Energy Kumara Jayakody today conducted an on-site inspection and fact-finding tour of the land designated for the proposed wind power project in the Kiranchi-Veravil area of the Kilinochchi district.",
+        "timestamp": "November 25, 2025  6:31 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115119",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f9a7d4f7a3df541849de15f31e69d373e4c3ec96fc7c55541dec23f73d5aaf9f"
+      },
+      {
+        "title": "Melania Trump welcomes Christmas tree to the White House",
+        "href": "https://www.adaderana.lk/news.php?nid=115089",
+        "byline": "First lady Melania Trump on Monday welcomed this year’s official White House Christmas tree, a white fir from a farm in Michigan that arrived by horse-drawn carriage.",
+        "timestamp": "November 25, 2025  10:08 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115089",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f57ad0c627c204f655a03b01a2676c141a2f67852dd80a35fb59134670a9f968"
+      },
+      {
+        "title": "Flood warnings issued for several areas due to heavy rainfall",
+        "href": "https://www.adaderana.lk/news.php?nid=115087",
+        "byline": "The Irrigation Department has warned that there is a substantial risk of flash flooding in several areas owing to the prevailing heavy rainfall across the country.",
+        "timestamp": "November 25, 2025  9:51 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115087",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ffec757ea3d0c80370d63bc5ab1d18715288b4ade4ae80c482082ca3fcad09e8"
+      },
+      {
+        "title": "Heavy showers above 100 mm expected in parts of the island",
+        "href": "https://www.adaderana.lk/news.php?nid=115081",
+        "byline": "Due to the low-level atmospheric disturbance in the vicinity of Sri Lanka, an enhancement of the prevailing showery conditions is expected over the Northern, North-central, Eastern and Uva provinces during the next few days from today (25), the Department of Meteorology said.",
+        "timestamp": "November 25, 2025  6:31 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115081",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3ba7be0c17e506c622bb3ed1a6db9d61e117f460fe05da042ba8066d90cc251c"
+      },
+      {
+        "title": "CID summoning Editor of ‘Aruna’ newspaper a warning to all journalists – Namal",
+        "href": "https://www.adaderana.lk/news.php?nid=115098",
+        "byline": "Parliamentarian Namal Rajapaksa stated that the summoning of the Editor-in-Chief of the Aruna newspaper, Mahinda Ileperuma, to the Criminal Investigation Department (CID) is an act of suppression and a warning directed at all journalists.",
+        "timestamp": "November 25, 2025  1:14 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115098",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e796e6ad6cc2c4b5492350153c374a75dd5e57b18d628dc044f7884f48a41578"
+      },
+      {
+        "title": "Sri Lanka’s exports surpass USD 14 bln in first ten months of 2025",
+        "href": "https://www.adaderana.lk/news.php?nid=115092",
+        "byline": "Sri Lanka Customs data indicates that total exports reached USD 14,433.82 million during the first ten months of 2025, exceeding the figures recorded in the corresponding period of the previous year.",
+        "timestamp": "November 25, 2025  10:59 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115092",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "bab70f6faeba691e8660e96e1d261afd9573a5dfd3295de0b63b8b3385c22d93"
+      },
+      {
+        "title": "IRD registers 200,000 new taxpayers amid highest-ever revenue collection",
+        "href": "https://www.adaderana.lk/news.php?nid=115086",
+        "byline": "The Inland Revenue Department (IRD) has announced that a total of 200,000 new taxpayers have been registered so far this year.",
+        "timestamp": "November 25, 2025  9:46 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115086",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "05fed656a3976d4f9202f840743f9467602d73aaa2a6b38cb67d44fe53b0f03b"
+      },
+      {
+        "title": "Gold prices in Sri Lanka increase by Rs. 6,000 today",
+        "href": "https://www.adaderana.lk/news.php?nid=115091",
+        "byline": "There has been a significant increase in gold prices in the world market, and correspondingly, the price of gold in Sri Lanka has also risen notably once again.",
+        "timestamp": "November 25, 2025  10:50 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115091",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e70dd82048453b76853300aebfc08828cdd218b87700c5ec3c6cc9727bb46b2a"
+      },
+      {
+        "title": "Govt to introduce new digitalization system for EPF – Dy Minister",
+        "href": "https://www.adaderana.lk/news.php?nid=115096",
+        "byline": "The government of Sri Lanka has decided to introduce a new digitalization system for the Employees’ Provident Fund (EPF).",
+        "timestamp": "November 25, 2025  12:51 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115096",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f32d4158d697b93ff107eace5a2ad70943046c6f8a676b0fce7565c9fafee7c0"
+      },
+      {
+        "title": "Nine children killed in Pakistani attack in Afghan province, Taliban says",
+        "href": "https://www.adaderana.lk/news.php?nid=115088",
+        "byline": "At least nine children and a woman were killed after Pakistani forces bombed the home of a local resident in Afghanistan’s Khost province, Afghan Taliban spokesman Zabihullah Mujahid said on Tuesday.",
+        "timestamp": "November 25, 2025  10:03 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115088",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "73be3a77bc82e32e6224c9d6c879a785d78da501e2600342921459330fa18737"
+      },
+      {
+        "title": "Woman arrested in Moratuwa for illegally acquiring assets remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=115113",
+        "byline": "A woman, who was arrested on charges of purchasing property using money obtained through drug trafficking has been remanded.",
+        "timestamp": "November 25, 2025  4:49 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115113",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "d008f56fcb4c4ab6f15b5c183bab57d5b56e89da76546befb6b4081247bbf744"
+      },
+      {
+        "title": "Pahala Kadugannawa Landslide: NBRO submits report, road could reopen after recommendations",
+        "href": "https://www.adaderana.lk/news.php?nid=115094",
+        "byline": "The National Building Research Organization (NBRO) has submitted a report containing recommendations on immediate measures and long-term solutions for the site following the landslide in Pahala Kadugannawa to the Kegalle District Secretary, the Mawanella Divisional Secretary, and the Road Development Authority (RDA).",
+        "timestamp": "November 25, 2025  11:50 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115094",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fd71ed155c5d4489bcb2a89dee779adbbdfc8e1c14e36f76ddcdf4c33600ae16"
+      },
+      {
+        "title": "Two suspects arrested over Rs. 35 million fraud case",
+        "href": "https://www.adaderana.lk/news.php?nid=115085",
+        "byline": "Two suspects involved in a fraud amounting to more than Rs. 35 million have been arrested following a complaint received by the Financial Crimes Investigation Division (FCID).",
+        "timestamp": "November 25, 2025  8:18 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115085",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c456f533d0a51777a30bfbba8bb8bf3300e6c9f64d856ac1e96c9b987f54ed78"
+      },
+      {
+        "title": "Govt to present draft bill in Parliament to amend Port City Economic Commission Act",
+        "href": "https://www.adaderana.lk/news.php?nid=115103",
+        "byline": "The Cabinet of Ministers has granted approval to the proposal to publish the Colombo Port City Economic Commission Act No. 11 of 2021 draft bill in the government gazette notification and present it to Parliament for approval.",
+        "timestamp": "November 25, 2025  2:12 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115103",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4142d34b76f11768d7b9f35a83fcfa738f3d15831b273efe321d4b3324189751"
+      },
+      {
+        "title": "Five arrested over removal of signboards at archaeological sites in Batticaloa released on bail",
+        "href": "https://www.adaderana.lk/news.php?nid=115114",
+        "byline": "A total of five individuals who were arrested in connection with the removal of signboards at archaeological sites in Batticaloa District have been released on bail.",
+        "timestamp": "November 25, 2025  4:54 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115114",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ed4bb85bef7956278fcdc7d38a755f8027929f4e7a76bc0b33d0a8b39a7ef4ee"
+      },
+      {
+        "title": "2026 T20 World Cup: Sri Lanka grouped with Australia, Ireland, Zimbabwe and Oman",
+        "href": "https://www.adaderana.lk/news.php?nid=115124",
+        "byline": "The 10th edition of ICC Men’s T20 World Cup will start on February 7, 2026, with a total of six sides in action on the opening day, including the title-holders India.",
+        "timestamp": "November 25, 2025  8:18 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115124",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e87ff2ee51bcbb0a64ab4d4f76bccf7609c3af19e60183e1e24f24cd8b13bb42"
+      },
+      {
+        "title": "UK minister flags visa ‘abuse’ as student asylum claims surge",
+        "href": "https://www.adaderana.lk/news.php?nid=115118",
+        "byline": "UK’s Indo-Pacific Minister Seema Malhotra has defended her government’s immigration proposals during a visit to India, while expressing concern about a rise in foreign students seeking asylum at the end of their studies.",
+        "timestamp": "November 25, 2025  6:19 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115118",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "d670aeda9594c2cdd5860bf07bb20cf3fd6e78cac5be60762e9c0faf8539934c"
+      },
+      {
+        "title": "MrBeast and Rockefeller Foundation team up to inspire global youth action",
+        "href": "https://www.adaderana.lk/news.php?nid=115111",
+        "byline": "One of the most storied American philanthropies is teaming up with the internet’s biggest creator to instill young people with a concern for what they call the world’s “most vulnerable” populations.",
+        "timestamp": "November 25, 2025  4:21 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115111",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "cac8f308f7ab80faa23822d46e273f563b761fd44419afbdeab951008a56baf3"
+      },
+      {
+        "title": "Fire breaks out at shop in Vavuniya",
+        "href": "https://www.adaderana.lk/news.php?nid=115093",
+        "byline": "A fire has reportedly broken out at a shop along the Horowpathana road in Vavuniya, said Ada Derana reporter.",
+        "timestamp": "November 25, 2025  11:48 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115093",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "731b9c0628a7b5dadc6f9c720be3be3571ffa968f4f7a6821632dfc69fd33999"
+      },
+      {
+        "title": "Air India, Akasa cancel flights after Ethiopia volcano erupts",
+        "href": "https://www.adaderana.lk/news.php?nid=115097",
+        "byline": "Indian airlines Air India and Akasa Air said on Tuesday they were cancelling some flights after ash plumes from a volcanic eruption in Ethiopia disrupted operations.",
+        "timestamp": "November 25, 2025  1:11 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115097",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ce25c90a8801d812d6f2d68ad2da642d8971259d124018b64200c2fc893c9c51"
+      },
+      {
+        "title": "Terror suspect in Easter Sunday bombings seeking asylum in UK – report",
+        "href": "https://www.adaderana.lk/news.php?nid=115115",
+        "byline": "A Islamist terror suspect questioned over the 2019 bombings in Sri Lanka is reportedly seeking asylum in the UK, according to British media reports.",
+        "timestamp": "November 25, 2025  5:10 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115115",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "421703d9e986fce3fb81ab0ca32130b4e1216c5afebbd2f6060ad0768601610c"
+      },
+      {
+        "title": "Superman issue found in attic by three brothers sells for $9.12M",
+        "href": "https://www.adaderana.lk/news.php?nid=115110",
+        "byline": "A copy of the first Superman issue, unearthed by three brothers cleaning out their late mother’s attic, netted $9.12 million this month at a Texas auction house which says it is the most expensive comic book ever sold.",
+        "timestamp": "November 25, 2025  4:21 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115110",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a178c6fc214566e94708d5504d9b2a20d165158caaed49916a8058390af55e1e"
+      },
+      {
+        "title": "Recently signed Sri Lanka-US Defence Pact made public",
+        "href": "https://www.adaderana.lk/news.php?nid=115109",
+        "byline": "A Memorandum of Understanding between the Ministry of Defence of Sri Lanka, the Montana National Guard and the United States Coast Guard was signed in Colombo on November 14.",
+        "timestamp": "November 25, 2025  3:59 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115109",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "da2fe5e53235838fff0bf2a9091510aa749fa4d636cc6e3c863d1ee08f05165b"
+      },
+      {
+        "title": "Cabinet grants approval to procure 3 million rabies vaccine doses",
+        "href": "https://www.adaderana.lk/news.php?nid=115104",
+        "byline": "The Cabinet of Ministers has granted approval to the proposal to award the contract, amounting to Rs. 360 million (without VAT), to procure 3,000,000 inactivated doses of 0.5 ml/1 ml rabies vaccine (for human use) for the prevention of rabies.",
+        "timestamp": "November 25, 2025  2:12 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115104",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a035a282ee2436726ec07dbbdb9c468050f9845a225d0e55d1cbf4549641d4fe"
+      },
+      {
+        "title": "Chathura Galappaththi arrives at Bribery Commission",
+        "href": "https://www.adaderana.lk/news.php?nid=115090",
+        "byline": "The Samagi Jana Balawegaya (SJB), Member of Parliament (MP), Chathura Galappaththi has appeared before the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), a short while ago.",
+        "timestamp": "November 25, 2025  10:25 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115090",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "651cc7e8cbfb68aef011dfcb46934ee4378bad997e9102a82f8d58b2fe798dec"
+      },
+      {
+        "title": "Cabinet grants approval to issue driving licences for Sri Lankans residing in Italy",
+        "href": "https://www.adaderana.lk/news.php?nid=115084",
+        "byline": "The Cabinet of Ministers has granted approval to a proposal to issue driving licences to Sri Lankans residing in Italy.",
+        "timestamp": "November 25, 2025  8:02 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115084",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "72ef49c2239b3b8e1a7771dd6d445b4fbad42d5b89dd3fbdaf6682278c6b1a36"
+      },
+      {
+        "title": "President directs to formulate new laws for swift disposal of seized drugs",
+        "href": "https://www.adaderana.lk/news.php?nid=115121",
+        "byline": "President Anura Kumara Dissanayake emphasized that it is essential to focus equally on both the confiscation of illegal drugs and the rehabilitation of individuals who have developed an addiction to them.",
+        "timestamp": "November 25, 2025  6:34 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115121",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f145b7d80474b6ac403ea4d07086c46ffec7f4de173ffff5122bf4583a802dbc"
+      },
+      {
+        "title": "Former Chairman of SLBFE Mohammed Hilmi arrested",
+        "href": "https://www.adaderana.lk/news.php?nid=115102",
+        "byline": "Former Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), Mohammed Hilmi, has been arrested on corruption charges by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC).",
+        "timestamp": "November 25, 2025  1:58 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115102",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "25d69e69c2cb3e17e8f7be8dc608158c4f6d72b8162f077eef391aef6f2d69e3"
+      },
+      {
+        "title": "Govt plans to limit rice imports and increase paddy production – Minister",
+        "href": "https://www.adaderana.lk/news.php?nid=115117",
+        "byline": "A discussion aimed at formulating a structured plan to resolve the issues faced by paddy farmers was held today (25) at the Presidential Secretariat.",
+        "timestamp": "November 25, 2025  5:44 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115117",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "7f69014a7200f2bff2e5d96d0d307dad49e772ee2c2a88747414437c8ba90f9a"
+      },
+      {
+        "title": "Ukraine ‘agrees to Donald Trump-brokered peace plan’, US media reports",
+        "href": "https://www.adaderana.lk/news.php?nid=115120",
+        "byline": "Ukraine has agreed to the peace proposal brokered by the Trump administration, with some minor details still to be worked out, according to US media.",
+        "timestamp": "November 25, 2025  6:31 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115120",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a062d2d0b01cde0b73356f966f6654f3d9932cfb7cf659f8014e1fa8aeb1fd5e"
+      },
+      {
+        "title": "Former Chairman of SLBFE Mohammed Hilmi remanded",
+        "href": "https://www.adaderana.lk/news.php?nid=115112",
+        "byline": "The former Chairman of the Sri Lanka Bureau of Foreign Employment (SLBFE), Mohammed Hilmi, who was arrested by the Bribery Commission, has been remanded until December 09, Ada Derana reporter said.",
+        "timestamp": "November 25, 2025  4:27 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115112",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e30213fe774ec0f589dbb379c775757562fee02c2c4feb5fa18b23d12d0bfbd5"
+      },
+      {
+        "title": "Cabinet grants approval for Sri Lanka to join RCEP trade bloc",
+        "href": "https://www.adaderana.lk/news.php?nid=115101",
+        "byline": "The Cabinet of Ministers has granted approval to the proposal for Sri Lanka’s participation in the Regional Comprehensive Economic Partnership (RCEP) and for the completion and submission of the initial questionnaire provided to Sri Lanka as necessary.",
+        "timestamp": "November 25, 2025  1:43 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115101",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b78e1e62bf149e373bda69117fc641d4c5ebfc427e2174b33590118fb7a8ded7"
+      },
+      {
+        "title": "Over 700 families in 12 districts affected by adverse weather",
+        "href": "https://www.adaderana.lk/news.php?nid=115122",
+        "byline": "A total of 2,617 individuals from 737 families in 12 districts have been affected by prevailing adverse weather conditions in the country.",
+        "timestamp": "November 25, 2025  7:26 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115122",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "830ac45713e0eac3e4ad45a7521050f9422fbaf323292356edcb290ff282fcd7"
+      },
+      {
+        "title": "Australian Sen. Pauline Hanson suspended from Parliament for wearing burqa in protest",
+        "href": "https://www.adaderana.lk/news.php?nid=115107",
+        "byline": "An Australian senator who is campaigning for a national burqa ban was barred Tuesday from Parliament for the rest of the year for wearing the Muslim garment in the chamber.",
+        "timestamp": "November 25, 2025  2:53 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115107",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a202cb438a5498a7d0531a2dc3134ed8506fa3bf70c9b59099c1fc8fbb50584d"
+      },
+      {
+        "title": "Pope Leo to take peace message to Turkey, Lebanon on first overseas trip",
+        "href": "https://www.adaderana.lk/news.php?nid=115099",
+        "byline": "Pope Leo will embark on his first trip outside Italy as the leader of the Catholic Church on Thursday, travelling to Turkey and Lebanon, where he is expected to make appeals for peace in the region and urge unity among long-divided Christian churches.",
+        "timestamp": "November 25, 2025  1:28 pm",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115099",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9b7aeb5a78b9f32f8c2ddb9c36802e6841691a5cf86b726caf92ba8553202f54"
+      },
+      {
+        "title": "Trump touts ‘extremely strong’ China relations after call with Xi",
+        "href": "https://www.adaderana.lk/news.php?nid=115082",
+        "byline": "President Donald Trump touted relations with China as “extremely strong” on Monday following a call with Chinese leader Xi Jinping, who told Trump that Taiwan’s “return to China” is a key part of Beijing’s vision for the world order.",
+        "timestamp": "November 25, 2025  6:43 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115082",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "764936c4b4e26ad4841ff22c237e6584c8b1fe626315be9e3f52b94149690314"
+      },
+      {
+        "title": "One dead, 3 injured after tree falls on three-wheeler in Rambukkana",
+        "href": "https://www.adaderana.lk/news.php?nid=115036",
+        "byline": "One person has been confirmed dead following an incident in which a large tree fell onto a three-wheeler travelling through the Talagolla area along the Mawanella–Rambukkana road last night (23).",
+        "timestamp": "November 24, 2025  7:17 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115036",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "fa0b7b94dbe7bd1bdd229a0d93f63d1cca16215bcb4493f9ebb41e1a6c0697b1"
+      },
+      {
+        "title": "Heavy rainfall expected in parts of the island today",
+        "href": "https://www.adaderana.lk/news.php?nid=115034",
+        "byline": "The low-level atmospheric disturbance in the vicinity of Sri Lanka is likely to develop into a low pressure system by tomorrow (25). Therefore, the prevailing showery conditions over the island are expected to continue during the next few days, the Department of Meteorology said.",
+        "timestamp": "November 24, 2025  6:32 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115034",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "eb45b1af9ec79360605372c7ae8564226397fc685be3f538a8960c8685da16ca"
+      },
+      {
+        "title": "Suspect arrested for providing lodging to gunmen plotting to kill businessman and 6 others in Midigama",
+        "href": "https://www.adaderana.lk/news.php?nid=115040",
+        "byline": "A suspect allegedly involved in a attempt to kill seven people, including a businessman, in the Midigama area has been arrested.",
+        "timestamp": "November 24, 2025  8:53 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115040",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a3bb6ba4693dd48ae6acd5dad4b067bc3f84f1f8de8668046c2d196729f339f9"
+      },
+      {
+        "title": "Agrarian Insurance Board unveils pension scheme offering multiple benefits to fishermen",
+        "href": "https://www.adaderana.lk/news.php?nid=115039",
+        "byline": "The Agricultural and Agrarian Insurance Board has introduced a new Fishermen’s Pension Scheme aimed at providing enhanced social security and financial benefits to members of the fishing community.",
+        "timestamp": "November 24, 2025  8:52 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115039",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4a51a10ad5ca0f14c04565274e1ac2b94fe879a726b2c07670480b6df8b7932c"
+      },
+      {
+        "title": "US hails ‘tremendous progress’ at Ukraine peace talks",
+        "href": "https://www.adaderana.lk/news.php?nid=115035",
+        "byline": "A “tremendous amount of progress” has been achieved in talks to finalise a US-proposed peace plan to end the Russia-Ukraine war, Secretary of State Marco Rubio has said.",
+        "timestamp": "November 24, 2025  6:45 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115035",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5e66e41f5cdc5e65802cd512a7e6d1938a61a9c24fc6ac259861a8db61d608e5"
+      },
+      {
+        "title": "President Dissanayake celebrates 57th birthday today",
+        "href": "https://www.adaderana.lk/news.php?nid=115038",
+        "byline": "President Anura Kumara Dissanayake, the 9th Executive President of Sri Lanka, celebrates his 57th birthday today, November 24.",
+        "timestamp": "November 24, 2025  8:28 am",
+        "isoTimestamp": "2025-11-25T20:32:27+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115038",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5dcb68e2798bdad294f7b8317b6fc3c74d1c81c6131304cb13df640748cc388a"
+      }
+    ]
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": true,
+    "data": []
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "කැබ් රථයක් මතට ගසක කඩා වැටෙයි",
+        "url": "https://www.ada.lk/breaking_news/කැබ්-රථයක්-මතට-ගසක-කඩා-වැටෙයි/11-419877",
+        "timestamp": "25 11 2025 18:32:00",
+        "byline": "පවතින වර්ෂාව හා තද සුළඟ සමඟ විශාල ගසක් අද 25  බෙරගල ගල්කන්ද ප්‍රදේශයේ  මිදුලේ නවතා තිබූ කැබ් රථයක්  මතට කඩා වැටීමෙන් කැබ්  රථයට දැඩි හානි සිදුවී ඇති බව හපුතලයේ පොලිසිය පැවසීය. මෙසේ කැබ් රථයක් මතට ගසක් කඩා වැටී ඇත්තේ බෙරගල  නිකපොත ගල් කන්ද ප්‍රදේශයේ පදිංචි පත්ම  කුමාර නමැති ව්‍යාපාරික මහතෙකුට අයත් කැබ්  රථයයක්  මතටය .",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "dcbbcc123a74b4ee1221aa94a17a68d72fcf03aabda4500178ccc52f386fae0b"
+      },
+      {
+        "title": "අත්අඩංගුවට ගන්නා මත්ද්‍රව්‍ය ඒ ඒ අවස්ථාවලදීම විනාශ කරන්න නීති",
+        "url": "https://www.ada.lk/breaking_news/අත්අඩංගුවට-ගන්නා-මත්ද්‍රව්‍ය-ඒ-ඒ-අවස්ථාවලදීම-විනාශ-කරන්න-නීති/11-419883",
+        "timestamp": "25 11 2025 18:23:00",
+        "byline": "විෂ මත්ද්‍රව්‍ය උවදුර මුලිනුපුටා දැමීම අරමුණු කර ගත් ‘රටම එකට’ ජාතික මෙහෙයුම් සභාවේ දෙවැනි සැසිය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනපති ලේකම් කාර්යාලයේදි අද (25) පෙරවරුවේ පැවැත්විණ.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c3c0bc6e7a1fbf650c6daa96ed923aa4cb5e4a317af30b50357e2ff1673ad79f"
+      },
+      {
+        "title": "වාලච්චේන සිදුවීමට ලිහිල් බවක් දෙන්නේ නෑ",
+        "url": "https://www.ada.lk/breaking_news/වාලච්චේන-සිදුවීමට-ලිහිල්-බවක්-දෙන්නේ-නෑ/11-419876",
+        "timestamp": "25 11 2025 17:42:00",
+        "byline": "වාලච්චේන ප්‍ර දේශයේ සිදුවූ සිදුවීම සම්බන්ධයෙන් කිසිම ලිහිල් බවක් රජය නොපෙන්වන බව කැබිනට් ප්‍රකාශක අමාත්‍ය නලින්ද ජයතිස්ස මහතා පැවැසීය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "466b7f8272773eed3c56638fff672cc82b402cafb5a28d96d3d23998621a86f5"
+      },
+      {
+        "title": "වී සඳහා ස්ථාවර මිළක්",
+        "url": "https://www.ada.lk/breaking_news/වී-සඳහා-ස්ථාවර-මිළක්/11-419882",
+        "timestamp": "25 11 2025 17:16:00",
+        "byline": "වී ගොවීන්ගේ ගැටලුවලට විසඳුම් සෙවීම සඳහා විධිමත් වැඩපිළිවෙළක් සකස් කිරීම පිළිබඳව එම ගොවීන් සමඟ සාකච්ඡාවක් කෘෂිකර්ම, පශු සම්පත්, ඉඩම් සහ වාරිමාර්ග අමාත්‍ය කේ.ඩී. ලාල්කාන්ත, වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ යන මහත්වරුන්ගේ ප්‍රධානත්වයෙන් අද (25) පෙරවරුවේ ජනාධිපති කාර්යාලයේදී පැවැත්විණි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4bac39eb89d1eba2680db388304fbaf522fb46bfc7412057de273a49a6f1d024"
+      },
+      {
+        "title": "සූරියවැව සභාවේ අයවැය මාලිමාව දිනයි",
+        "url": "https://www.ada.lk/breaking_news/සූරියවැව-සභාවේ-අයවැය-මාලිමාව-දිනයි/11-419875",
+        "timestamp": "25 11 2025 16:52:00",
+        "byline": "ජාතික ජන බලවේගයට බලය හිමිවූ සූරිය වැව ප්‍රාදේශීය සභාවේ මංගල අයවැය වැඩි ජන්ද  දෙකකින් සම්මත වෙයි.\nපොහොට්ටුව හා සමගි ජන බලවේගය විරුද්ධ වෙයි.\nශ්‍රීලංකා නිදහස් පක්ෂයේ මන්ත්‍රීවරයා ඡන්දය දීමෙන් වැළකෙයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a364d5ee7419c0f9ff774f0c95d80ca876d65ae6e4eaedc34bc27406c8057486"
+      },
+      {
+        "title": "කාලගුණයෙන් රතු නිවේදනයක්",
+        "url": "https://www.ada.lk/breaking_news/කාලගුණයෙන්-රතු-නිවේදනයක්/11-419881",
+        "timestamp": "25 11 2025 16:29:00",
+        "byline": "තද වැසි ඳපිළිබ අවවාදාත්මක රතු නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ. අද පස්වරු 3.45ට\nනිකුත් කළ මෙම නිවේදනය හෙට පස්වරු 3.45 දක්වා වලංගු වෙයි.  නැගෙනහිර, මධ්‍යම, ඌව පළාත් හා පොළොන්නරුව\nදිස්ත්‍රික්ක ඳසහා අදාළ වන පරිදි මෙම නිවේදනය නිකුත් කර තිබේ.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f6a3fcf9d661ba6f54896ec8f6e4bef0e97165ee3848c49b21797ebe7c363453"
+      },
+      {
+        "title": "කළාවැව වාන් දමයි",
+        "url": "https://www.ada.lk/breaking_news/කළාවැව-වාන්-දමයි/11-419874",
+        "timestamp": "25 11 2025 16:01:00",
+        "byline": "දින කීපයක් පුරා පැවති වර්ෂාපතනය හේතුවෙන් කළාවැව ජලාශය වාන් මට්ටමට පැමිනිම හේතුවෙන් කළාවැවෙහි වාන් දොරටු දෙක අඩි 2 ක් බැගින් විවෘත කිරීමට කටයුතු කර ඇත.වාන් දොරටු දෙකෙන් මෙන්ම පිට වානෙන්ද කළාවැවේ ජලය කළාඔයට පිට වෙන අතර, ඒ හේතුවෙන්හේ‍ෙතුවෙන්  තප්පරයට ඝන අඩි 2640 ක ජල ධාරිතාවක් කළාඔය ඔස්සේ  රාජාංගන ජලාශයට නිකුත් කෙරේ.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "37f0b21e8d4f99c78971ee843cf436a35d83f14adff3b3024bd4d19b743fcaa5"
+      },
+      {
+        "title": "මෙවර සිරිපා වන්දනාවට ලීටරයට අඩු ජල බෝතල් එපා",
+        "url": "https://www.ada.lk/breaking_news/මෙවර-සිරිපා-වන්දනාවට-ලීටරයට-අඩු-ජල-බෝතල්-එපා/11-419873",
+        "timestamp": "25 11 2025 15:11:00",
+        "byline": "මෙවර සිරිපා වන්දනා සමයේදී අති සංවේදී සිරිපා හරිත අඩවියේ පරිසර පද්ධතිය ආරක්ෂා කර ගැනීම සඳහා විශේෂ වැඩ සටහන් රැසක් දියත් කිරීමට පියවර ගෙන ඇතැයි පරිසර අමාත්‍ය දම්මික පටබැඳි මහතා පවසයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4969d5b2c6a165da54cabe821276af366378824b249371f612799422981b9c89"
+      },
+      {
+        "title": "මුදල් පසුම්බියක් සොරකම් කිරිමට තැත්කළ හමුදා සැරයන් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/මුදල්-පසුම්බියක්-සොරකම්-කිරිමට-තැත්කළ-හමුදා-සැරයන්-අල්ලයි/11-419872",
+        "timestamp": "25 11 2025 14:17:00",
+        "byline": "බදුල්ල සිට පානදුර බලා ගමන් ගත් බස් රථයක නැගී ගමන් ගනිමින් සිටි තරුණියක සතුව තිබූ මුදල් පසුම්බියක් සොරකම් කිරීමට තැත්කළ යුධ හමුදා සෙබලෙකු ඊයේ (24) සවස එම බස් රියේම ගමන්ගත් මගීන් පිරිසක් එක්ව අල්ලා පොලීසියට බාරදීමට කටයුතු කර ඇතැයි බණ්ඩාරවෙල පොලීසිය පවසයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ffe7f3b9ee08aa096a0659082dc5e7696105dd329ac524c236ff313874e7b69e"
+      },
+      {
+        "title": "ඌවේ සියලු පෙර පාසල් දින නියමයක් නොමැතිව වසයි",
+        "url": "https://www.ada.lk/breaking_news/ඌවේ-සියලු-පෙර-පාසල්-දින-නියමයක්-නොමැතිව-වසයි/11-419870",
+        "timestamp": "25 11 2025 13:29:00",
+        "byline": "පවතින්න අයහපත් කාලගුණ තත්ත්වය හමුවේ පළාතේ සියලුම පෙර පාසල් අද විසිපහදින සිට යළි දැනුම් දෙන තුරු තාවකාලිකව අසා දැමීමට ඌව පළාත් මුල් ළමාවිය සංවර්ධන අධිකාරිය පියවර ගෙන ඇත.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "10d0ed633af99166102e9fbbcd5f5b84b6a49872f6bc394c7de4887bfa0db5a0"
+      },
+      {
+        "title": "බදුල්ල කොළඹ මාර්ගය සම්පූර්ණයෙන් විවෘතයි",
+        "url": "https://www.ada.lk/breaking_news/බදුල්ල-කොළඹ-මාර්ගය-සම්පූර්ණයෙන්-විවෘතයි/11-419868",
+        "timestamp": "25 11 2025 12:59:00",
+        "byline": "හල්දුම්මුල්ල නගරයේ ආසන්නයේ මාර්ගයේ ඉහළීන් පිහිටි පස් කන්දක් කඩා වැටීමෙන් අවහිර වූ බදුල්ල කොළඹ ප්‍රධාන මාර්ගය අද (25) උදෑසන වන විට යථා තත්වයට පත්කර වාහන ගමනාගමනය සදහා විවෘත කිරීමට කටයුතු කල බව මාර්ග සංවර්ධන අධිකාරියේ බණ්ඩාරවෙල විධායක ඉංජිනේරුවරයා පැවසීය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fd0ffe8c7553a834ed05ec773f5ad238840ae87617b5c8b9a0490e3474325853"
+      },
+      {
+        "title": "හම්බන්තොට සීනුක්කුගල ගොවිබිම් රැසක් වන අලින් වනසයි",
+        "url": "https://www.ada.lk/breaking_news/හම්බන්තොට-සීනුක්කුගල-ගොවිබිම්-රැසක්-වන-අලින්-වනසයි/11-419867",
+        "timestamp": "25 11 2025 12:52:00",
+        "byline": "හම්බන්තොට සිනුක්කුගල ප්‍රදේශයේ වගාබිම් රැසකට පසුගිය 24 වනදා රාත්‍රී වන අලින් පැමිණ විශාල වග විනශයක් සිදුකර තිබෙන බවට එම ප්‍රදේශයන්හි ගොවින් පවසා සිටිනවා.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "22af5457c2e7d6c4eac1e1e817ace98d59a0a07e0ef1c5facbeb03f1df29c51e"
+      },
+      {
+        "title": "පාර්ලිමේන්තු සේවිකාවට කිසිදු ලිංගික හිංසනයක් සිදුව නෑ",
+        "url": "https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-සේවිකාවට-කිසිදු-ලිංගික-හිංසනයක්-සිදුව-නෑ/11-419869",
+        "timestamp": "25 11 2025 12:01:00",
+        "byline": "පාර්ලිමේන්තුවේ සේවිකාවකට කිසියම් අයුරක ලිංගික හිංසනයක් සිදුවී ඇත්දැයි සොයා බලා වාර්තා කිරීමට පත්කළ විශ්‍රාමික මහාධිකරණ විනිසුරු සුජාතා අලහප්පෙරුම මහත්මිය විසින් ඒ පිළිබඳ සකස් කළ ඇයගේ  අවසන් වාර්තාව ඊයේ (24) කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා වෙත භාර දෙන ලදී.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "af792fe3a81b62e09dc8bc537754d5b8117c540ae655b977114be36b84a40f10"
+      },
+      {
+        "title": "වෛද්‍යවරු හෙට 26 වර්ජනයක ?",
+        "url": "https://www.ada.lk/breaking_news/වෛද්‍යවරු-හෙට-26-වර්ජනයක--/11-419866",
+        "timestamp": "25 11 2025 11:30:00",
+        "byline": "වෛද්‍යවරුන් සහ සෞඛ්‍ය පද්ධතියේ ගැටලු වලට ඉදිරිපත් කල විසඳුම් සඳහා නිෂ්චිත කාල රාමුවක් ප්‍රකාශයට පත් නොවන්නේ නම් ඉදිරි ක්‍රියාමාර්ග තීරණය කිරීම පැය 48 කින් ලෙස ඊයේ (24) දා රජයේ වෛද්‍ය නිළධාරීන්ගේ සංගමය නිවේදනයක් නිකුත් කරමින් දන්වා සිටීය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4954c3906132ccafee664707821d1b718edf4ff8bc1d559153dbe096de29cb46"
+      },
+      {
+        "title": "ඇමෙරිකානු ජනපති ලබන වසරේදී චීන සංචාරයකට",
+        "url": "https://www.ada.lk/international/ඇමෙරිකානු-ජනපති-ලබන-වසරේදී-චීන-සංචාරයකට/3-419861",
+        "timestamp": "25 11 2025 11:26:00",
+        "byline": "තමා අප්‍රේල් මාසයේදී චීනයේ නිල සංචාරයකට එක්වන බවත් ලබන වසර අගදී චීන ජනාධිපති ෂී ජින් පිං ඇමෙරිකාවේ නිල සංචාරයක් සඳහා එක්වන බවත් ඇමෙරිකානු ජනපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කරයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9c845cbbba2e7d97400da7fdf35c1b95b2f96d52cdde8dfb34d2ca3e6470470f"
+      },
+      {
+        "title": "2025 මුල් මාස 10 තුළ මෙරට අපනයන ආදායම ඩොලර් බිලියන 14 ඉක්මවයි",
+        "url": "https://www.ada.lk/breaking_news/2025-මුල්-මාස-10-තුළ-මෙරට-අපනයන-ආදායම-ඩොලර්-බිලියන-14-ඉක්මවයි/11-419865",
+        "timestamp": "25 11 2025 11:14:00",
+        "byline": "2025 මුල් මාස දහය තුළ ශ්‍රී ලංකාවේ අපනයන ආදායම ඇමරිකානු ඩොලර් බිලියන 14.4 ඉක්මවා ඇති බව අපනයන සංවර්ධන මණ්ඩලය සඳහන් කරයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a003bae19d07bb80b3b2788b7b85ae94d54c2ff15a927b4c7fdbb7d4a645cd93"
+      },
+      {
+        "title": "චතුර ගලප්පත්ති අල්ලස් කොමිසම හමුවට",
+        "url": "https://www.ada.lk/breaking_news/චතුර-ගලප්පත්ති-අල්ලස්-කොමිසම-හමුවට/11-419864",
+        "timestamp": "25 11 2025 10:36:00",
+        "byline": "සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී චතුර ගලප්පත්ති මහතා අද(25දා)  අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව හමුවට පැමිණ තිබේ.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "eb64a85c9488ff6c119a9051af7ba5c316bc957693318ab6e352e43152961ef7"
+      },
+      {
+        "title": "ශ්‍රී ලංකාවට තිරණාත්මක තරගය අද",
+        "url": "https://www.ada.lk/sports/ශ්‍රී-ලංකාවට-තිරණාත්මක-තරගය-අද/9-419860",
+        "timestamp": "25 11 2025 10:31:00",
+        "byline": "පාකිස්තානයේ පැවැත්වෙන තුන්කොන් විස්සයි20 ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකා කණ්ඩායම සහ සිම්බාබ්වේ කණ්ඩායම අතර තීරණාත්මක තරගය අද (25) පැවැත්වෙයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2c79abd293180cef2579c2caea63e1473a428210bb1d43b739e0cfeeca69b763"
+      },
+      {
+        "title": "පුරාවිද්‍යා පුවරු ගැලවූ වාලච්චේන සභාපති ඇතුළු 6ක් ප්‍ර දේශයෙන් පළා ගිහින්",
+        "url": "https://www.ada.lk/breaking_news/පුරාවිද්‍යා-පුවරු-ගැලවූ-වාලච්චේන-සභාපති-ඇතුළු-6ක්-ප්‍ර-දේශයෙන්-පළා-ගිහින්/11-419857",
+        "timestamp": "25 11 2025 09:47:00",
+        "byline": "වාලච්චේන කිරාන් පුරාවිද්‍යා කාර්යාලය මගින් වාලච්චේන පොලිස් වසමේ තිහිලිවට්ට හන්දිය, පල්ලච්චේන, කොන්ඩුකච්චේන හා සරාවලී යන ප්‍ර දේශවල සවිකර තිබූ පුරාවිද්‍යා සලකුණු සහිත නාම පුවරු වාලච්චේන ප්‍රා දේශීය සභාව විසින් ගලවා ඉවත් කිරීමට පසුගියදා කටයුතු කර තිබුණි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "15f5fb3ccf6058857ecdf1bd92298837b0ebee2963b4907813ac104d98987eb1"
+      },
+      {
+        "title": "පොලිස් කොමිසම නමට පමණද? විගණනයෙන් හෙළිවූ දේ මෙන්න",
+        "url": "https://www.ada.lk/breaking_news/පොලිස්-කොමිසම-නමට-පමණද--විගණනයෙන්-හෙළිවූ-දේ-මෙන්න/11-419856",
+        "timestamp": "25 11 2025 08:51:00",
+        "byline": "ජාතික පොලිස් කොමිෂන් සභාව වෙත පසුගිය වසර නමයක කාලය තුලදි  මහජන පැමිණිලි 5935ක් ලැබි තිබුණද ඉකුත් වර්ෂය (2024)  අවසන් වනවිට ඉන් පැමිණිලි 4902ක් හෙවත් සියයට 82ක විමර්ශන කටයුතු අවසන්කොට නොතිබු බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින්  අනාවරණය වි ඇත",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "60755a403e5c6bad25f86826275dec04d04a45434f716b5d6f5568f332041323"
+      },
+      {
+        "title": "අද සිට තවත් වැස්ස වැඩිවෙයි",
+        "url": "https://www.ada.lk/breaking_news/අද-සිට-තවත්-වැස්ස-වැඩිවෙයි/11-419855",
+        "timestamp": "25 11 2025 07:29:00",
+        "byline": "දිවයින අශ්‍රිතව පහළ වායුගෝලයේ පවතින කැළඹිලි තත්ත්වය හේතුවෙන් උතුරු, උතුරු-මැද, නැගෙනහිර හා ඌව පළාත්වල පවතින වැසි තත්ත්වයේ වැඩිවිමක් අද දින සිට ඉදිරි දින කිහිපයේදී බලාපෙරොත්තුවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. එසේම දිවයිනේ බොහෝ ප්‍ර දේශවල අහස වළාකුළින් බරව පවතිනු ඇති බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයේ දැක්වෙයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3cd497185231c40bf974e0d78e708629aeef92eddc2a3d366f373deb31dc5fe7"
+      },
+      {
+        "title": "බදුල්ල කොළඹ මාර්ගයේ එක් මංතීරුවක් විවෘත කරයි",
+        "url": "https://www.ada.lk/breaking_news/බදුල්ල-කොළඹ-මාර්ගයේ-එක්-මංතීරුවක්-විවෘත-කරයි/11-419858",
+        "timestamp": "25 11 2025 06:45:00",
+        "byline": "පවතින වර්ෂාව සමඟ ඊයේ 24 රාත්‍රී ගල් පර්වත සහ පස් කඳු කඩා වැටී හල්දුම්මුල්ලෙන් අවහිර  වූ කොළඹ බදුල්ල  ප්‍රධාන මාර්ගය එම ස්ථානයෙන්  එක් මන්තීරුවක් ගමනාගමනය සඳහා විවෘත කළ බව හල්දුම්මුල්ල පොලිසිය පැවසීය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "377ae4c4aadd4736d4e76b78e26d9288c9a3715a843e87765905c17f09d358b7"
+      },
+      {
+        "title": "කොළඹ බදුල්ල මාර්ගය හල්දුම්මුල්ලෙන් අවහිර වෙයි",
+        "url": "https://www.ada.lk/breaking_news/කොළඹ-බදුල්ල-මාර්ගය-හල්දුම්මුල්ලෙන්-අවහිර-වෙයි/11-419854",
+        "timestamp": "24 11 2025 20:46:00",
+        "byline": "පවතින වර්ෂාව සමඟ අද 24 සවස  කොළඹ බදුල්ල ප්‍රධාන මාර්ගයට හල්දුම්මුල්ල  නගරයට නුදුරු කදිරියේෂන් ඇල්ල ආසන්නයේදී  විශාල  ගල්කුළු සමග පස් කන්දක් කඩා වැටී එම මාර්ගය මුළුමනින්ම අවහිර වී ඇතැයි හල්දුම්මුල්ල ප්‍රාදේශීය ලේකම් කේ ඒ ජී  පියංගිකා මහත්මිය පැවසුවාය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6aefcf6eb87c081932418c2811d529867fbca04425bbdb9070dc0ea12aeea441"
+      },
+      {
+        "title": "බිමල්ගේ අමාත්‍යාංශ වැය ශිර්ෂය සම්මතයි",
+        "url": "https://www.ada.lk/breaking_news/බිමල්ගේ-අමාත්‍යාංශ-වැය-ශිර්ෂය-සම්මතයි/11-419853",
+        "timestamp": "24 11 2025 19:57:00",
+        "byline": "ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා  අමාත්‍යාංශයේ සහ නාගරික සංවර්ධන, ඉදිකිරීම් සහ නිවාස අමාත්‍යාංශයේ  වැය ශීර්ෂ සම්මතයි.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "88381d4c3edfe501e871fd1a5552122d7aa93d8f904e15be4127c5ec6a00e213"
+      },
+      {
+        "title": "පුද්ගලයින් දස දෙනෙකුට මරණ දඬුවම",
+        "url": "https://www.ada.lk/breaking_news/පුද්ගලයින්-දස-දෙනෙකුට-මරණ-දඬුවම/11-419852",
+        "timestamp": "24 11 2025 19:09:00",
+        "byline": "2011 වසරේදී ඇඹිලිපිටිය, මුල්ලගස්යාය ප්‍රදේශයේදී පුද්ගලයෙකු කපා කොටා ඝාතනය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් ඇඹිලිපිටිය මහාධිකරණය අද (24) තීන්දුව ප්‍රකාශයට පත් කර ඇත.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1de5fd84bf5782d37c9f2889e0ea83dbff1d9ad29e94d2fd9c653c916583f45a"
+      },
+      {
+        "title": "ආණ්ඩුවේ බලාපොරොත්තු සුන් කරමින් නුගේගොඩ මහා හිස් ගොඩක් බවට පත් වුණා",
+        "url": "https://www.ada.lk/breaking_news/ආණ්ඩුවේ-බලාපොරොත්තු-සුන්-කරමින්-නුගේගොඩ-මහා-හිස්-ගොඩක්-බවට-පත්-වුණා/11-419851",
+        "timestamp": "24 11 2025 18:16:00",
+        "byline": "’’නුගේගොඩ නොවැම්බර් 21 වෙනිදා ඉතිහාසයේ හැරවුම් ලක්ෂයක් බවට පත් කිරිමට අපට හැකි වුනා ආණ්ඩුවේ බලාපොරොත්තු සුන් කරමින් නුගේගොඩ මහා හිස් ගොඩක් බවට ඒදා පත් වුනා. මහ වැසි මැද ආණ්ඩුවේ අනේක විධ බාධක අපහාස මැද දුන් පොරොන්දු ඉටු කරනු කියලා ආණ්ඩුවට බල කරන්න නොවැම්බර් 21 දා නුගේගොඩට පැමිණි මහා ජන ගංගාවට මහජන හඬ වෙනුවෙන් ප්‍රණාමය පුද\nකරනවා.’’ යැ",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a24a1b09b425b99fc7bcb3d5263ea18c80c527bf2c996f4a5c33d14192414a24"
+      },
+      {
+        "title": "කාඩ්පත් මගින් බස් ගාස්තු ගෙවිම අරඹයි - මගියාට අමතර මුදල් අයවිමක් නෑ",
+        "url": "https://www.ada.lk/breaking_news/කාඩ්පත්-මගින්-බස්-ගාස්තු-ගෙවිම-අරඹයි---මගියාට-අමතර-මුදල්-අයවිමක්-නෑ/11-419850",
+        "timestamp": "24 11 2025 17:19:00",
+        "byline": "විද්‍යුත් කාඩ්පත් හරහා බස් ගාස්තු ගෙවීම අද ( 24 ) මාකුඹුර බහුවිධ මධ්‍යස්ථානයේ දී අමාත්‍ය බිමල් රත්නායකගේ ප්‍රධානත්වයෙන් ආරම්භ විය. ප්‍රවාහන සේවය තවත් ශක්තිමත් කිරීම, මගීන් සහ කොන්දොස්තර මහත්වරුන් අතර විනිවිදභාවය  තවදුරටත් තහවුරු කිරීමටත් මෙම සේවාව ආරම්භ විය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2cda36ce83e53c12c9a27aae1c82513cad034e6a9e71f05b298a20400a157b7b"
+      },
+      {
+        "title": "කන්දකැටිය අයවැය දෙවැනි වරටත් පරදී",
+        "url": "https://www.ada.lk/breaking_news/කන්දකැටිය-අයවැය-දෙවැනි-වරටත්-පරදී/11-419849",
+        "timestamp": "24 11 2025 16:19:00",
+        "byline": "ජාතික ජන බලවේගයට බලය හිමි කන්දකැටිය ප්‍රාදේශීය සභාවේ 2026 අයවැය ලේඛනය  දෙවන වරටත් අද (24 ) උදෑසන  වැඩි ඡන්ද හතරකින් (04)  පරාජයට පත් විය.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "951621e2e9d0aa0b8e1b39fe540c6960062578c37180231297a3adbc6cadac67"
+      },
+      {
+        "title": "කඩුගන්නාව ගනේතැන්න මාර්ගය අදත් වසයි",
+        "url": "https://www.ada.lk/breaking_news/කඩුගන්නාව-ගනේතැන්න-මාර්ගය-අදත්-වසයි/11-419848",
+        "timestamp": "24 11 2025 15:21:00",
+        "byline": "පහළ කඩුගන්නාව ප්‍රදේශයේ මාර්ගය ගිලා බැසීම හේතුවෙන් වසා දැමු මහනුවර කොළඹ මාර්ගයේ ගණේතැන්න හා කඩුගන්නාව මාර්ගය අද දිනයේත් වසා දමා ඇත.",
+        "isoTimestamp": "2025-11-25T20:42:55+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6bafa0d043202764bf61aedd42314ca326b0bd3a764b1fa7fa82924ccd4294dc"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "SriLankan Airlines lost $60mn on CFM engined Airbuses, to lose $172mn",
+        "url": "https://economynext.com/srilankan-airlines-lost-60mn-on-cfm-engined-airbuses-to-lose-172mn-249846/",
+        "timestamp": "November 25, 2025",
+        "byline": "One of these aircraft is still not flying",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc7fda1cae5ed3f2e36c22eccb505f0801acea60ad107a07f105d7e94a35d35c"
+      },
+      {
+        "title": "Sri Lanka rupee flat, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-bonds-steady-249859/",
+        "timestamp": "November 25, 2025",
+        "byline": "Bill and bond auctions scheduled on Wednesday and Thursday this week",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "99bfc86e14f56f680a64f65741b86ed0c16c41aff904aa709586080f1229b511"
+      },
+      {
+        "title": "Sri Lanka stocks rebound 0.77-pct after two days of profit taking",
+        "url": "https://economynext.com/sri-lanka-stocks-rebound-0-77-pct-after-two-days-of-profit-taking-249827/",
+        "timestamp": "November 25, 2025",
+        "byline": "Market turnover was 4.06 billion",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b900b3486af2c590431e597208ce0328320b5d0a3eac77e6c1397a0860e9ef50"
+      },
+      {
+        "title": "Sri Lanka, Italy to sign agreement on mutual recognition of driving licenses",
+        "url": "https://economynext.com/sri-lanka-italy-to-sign-agreement-on-mutual-recognition-of-driving-licenses-249821/",
+        "timestamp": "November 25, 2025",
+        "byline": "A previous such agreement expired in 2021",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "71cea976f9610e5deb7ad42114dc9edcb31ea45e49779395f3ea7d248dcb7b64"
+      },
+      {
+        "title": "Maga Engineering gets Rs696.75mn contract to widen road in Kandy, Sri Lanka",
+        "url": "https://economynext.com/maga-engineering-gets-rs696-75mn-contract-to-widen-road-in-kandy-sri-lanka-249807/",
+        "timestamp": "November 25, 2025",
+        "byline": "To widen and upgrade a section of the William Gopallawa Mawatha in Kandy, Sri Lanka, to a 4-lane standard road",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d4c00b76d821b871166ca3a37e029c8b96129efd5f24255ee03b662ad6347940"
+      },
+      {
+        "title": "Sri Lanka SEC warns public over Blue Ocean Securities",
+        "url": "https://economynext.com/sri-lanka-sec-warns-public-over-blue-ocean-securities-249804/",
+        "timestamp": "November 25, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "306f0fc4aaf17f802c5330f183618a96f88e01659aa3faff8c10145a35393123"
+      },
+      {
+        "title": "Sri Lanka services exports up slightly in October, led by ICT, financial services",
+        "url": "https://economynext.com/sri-lanka-services-exports-up-slightly-in-october-led-by-ict-financial-services-249791/",
+        "timestamp": "November 25, 2025",
+        "byline": "ICT/BPM exports rose 26.71 percent to 154.50 million US dollars in October 2025 compared to October 2024.",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f2c10459b3abb06b78e6802ccf602c997c2427bbd9d07774998c94316d888b7f"
+      },
+      {
+        "title": "Sri Lanka goods exports flat in Oct 2025, apparel, tea down",
+        "url": "https://economynext.com/sri-lanka-goods-exports-flat-in-oct-2025-apparel-tea-down-249767/",
+        "timestamp": "November 25, 2025",
+        "byline": "Export earnings from apparel and textiles dropped 0.24 percent y-o-y to 429.17 million dollars.",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "64750aeaeec4e93d9a041caffa97806055d9959e2c196a96c2f7b3e7336a7d41"
+      },
+      {
+        "title": "Sri Lanka plans to call investors for West Container Terminal 2 by August 2026",
+        "url": "https://economynext.com/sri-lanka-plans-to-call-investors-for-west-container-terminal-2-by-august-2026-249747/",
+        "timestamp": "November 25, 2025",
+        "byline": "We have to continue this momentum if we are to take on the regional volume",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e1fc511d7614cbcf78fb9ef12948724091d938a6d6905076152f3670e5b65631"
+      },
+      {
+        "title": "Sri Lanka rupee flat, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-bonds-steady-249694/",
+        "timestamp": "November 25, 2025",
+        "byline": "Stocks up",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3760013e43c98a603b6132e5c9a497af0ef179f0d7bd582b9f41dbd4434309f8"
+      },
+      {
+        "title": "Corrupt Airbus deal cost SriLanka national carrier US$400mn: Minister",
+        "url": "https://economynext.com/corrupt-airbus-deal-cost-srilanka-national-carrier-us400mn-minister-249734/",
+        "timestamp": "November 25, 2025",
+        "byline": "Two old A330 aircraft were acquired paying 50 million dollars higher than market price",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6f86e6303460e89f05c1b49a40ec0bb5421cdb9bebaab007f3b16866140194c8"
+      },
+      {
+        "title": "Foreigners sell Sri Lanka rupee bonds for second week amid currency fall",
+        "url": "https://economynext.com/foreigners-sell-sri-lanka-rupee-bonds-for-second-week-amid-currency-fall-249706/",
+        "timestamp": "November 25, 2025",
+        "byline": "The currency has been on a falling trend against the US dollars since last month",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b5e049b84b20b5e7ec82165ee92ea4e9a1355cc5f1b50fc97aca15edb1ab7758"
+      },
+      {
+        "title": "IMF to review Sri Lanka program on December 15",
+        "url": "https://economynext.com/imf-to-review-sri-lanka-program-on-december-15-249716/",
+        "timestamp": "November 25, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-11-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "855a75d00d072d217280eb59bfff94296849cc175971b2b0938446d2f2899f65"
+      },
+      {
+        "title": "Sri Lanka to begin VAT refunds for good exporters soon: tax office",
+        "url": "https://economynext.com/sri-lanka-to-begin-vat-refunds-for-good-exporters-soon-tax-office-249658/",
+        "timestamp": "November 24, 2025",
+        "byline": "\"We will make the refunds for low and medium risk exporters within 16 days,\"",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "044bc8c30eb8de570b8baa4e3fe02db5bd645ac707edd50157358e311699cb46"
+      },
+      {
+        "title": "Sri Lanka, Bay of Bengal countries mark World Fisheries Day",
+        "url": "https://economynext.com/sri-lanka-bay-of-bengal-countries-mark-world-fisheries-day-249659/",
+        "timestamp": "November 24, 2025",
+        "byline": "Event brought together representatives from Bangladesh, India, Maldives, and Sri Lanka",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "386253f8c2576bef9603984ac1eefdce27f08165c207dc7cce3608cfe4f22b47"
+      },
+      {
+        "title": "Sri Lanka stocks drop 1.47-pct as profit taking continues",
+        "url": "https://economynext.com/sri-lanka-stocks-drop-1-47-pct-as-profit-taking-continues-249633/",
+        "timestamp": "November 24, 2025",
+        "byline": "Turnover was 4,95 billion rupees.",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "002169a142315edcd517e8a0a8ab954b72250656fb2f35f83308b621159bf06d"
+      },
+      {
+        "title": "Sri Lanka pilots card payments for bus fares",
+        "url": "https://economynext.com/sri-lanka-pilots-card-payments-for-bus-fares-249626/",
+        "timestamp": "November 24, 2025",
+        "byline": "System to be developed based on the strengths and weaknesses identified.",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bed3eef86983d0d7f83a5c4d86cce08ab7e2964318eecbce2d4ebe0377a30945"
+      },
+      {
+        "title": "Sri Lanka price controls push British, US meds out of local market: Former min",
+        "url": "https://economynext.com/sri-lanka-price-controls-push-british-us-meds-out-of-local-market-former-min-249587/",
+        "timestamp": "November 24, 2025",
+        "byline": "\"So now whether we like it or not, we have to buy medicines of Indian standards when we are sick.",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f551c69fd0fd04387ecaeda991ce6e3aba59a9a71677712dc5b4ea8aeaf08e04"
+      },
+      {
+        "title": "Sri Lanka kicks off local FX bond sales with $50mn auction",
+        "url": "https://economynext.com/sri-lanka-kicks-off-local-fx-bond-sales-with-50mn-auction-249581/",
+        "timestamp": "November 24, 2025",
+        "byline": "The bonds are targeted at local banks.",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3cc4428ac674772296c01148a4a8dc9a450bc59c1a3fce26cd8c75f2d1f7d461"
+      },
+      {
+        "title": "Sri Lanka rupee opens flat, bonds steady",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-flat-bonds-steady-249570/",
+        "timestamp": "November 24, 2025",
+        "byline": "Rupee has been depreciating",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d78aa361c3a763c3e2021f70768168b1c8bfb9ee05691e128a024b6d9477bdf5"
+      },
+      {
+        "title": "Sri Lanka's exchange rate depreciation by 'Political Ravishment'",
+        "url": "https://economynext.com/sri-lankas-exchange-rate-depreciation-by-political-ravishment-249531/",
+        "timestamp": "November 24, 2025",
+        "byline": "Hunky dory depreciation is due to a flaw in the exchange rate policy",
+        "isoTimestamp": "2025-11-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0e42ab4e7ed43bdd7c91d521b62163e182a74fb505988c1313144b21ff9443e8"
+      },
+      {
+        "title": "Ladies show how to play blind cricket in international tourney in Sri Lanka",
+        "url": "https://economynext.com/ladies-show-how-to-play-blind-cricket-in-international-tourney-in-sri-lanka-249526/",
+        "timestamp": "November 23, 2025",
+        "byline": "Sri Lanka and India are co-hosting the first T20 World Cup for visually impaired women",
+        "isoTimestamp": "2025-11-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "80365ea32f754c9b44f34d6a263bb4ce98853f8e576c462052b491da6025bd9d"
+      },
+      {
+        "title": "Maldives President likely to visit Sri Lanka in December: eyes on tourism, trade deals",
+        "url": "https://economynext.com/maldives-president-likely-to-visit-sri-lanka-in-december-eyes-on-tourism-trade-deals-249499/",
+        "timestamp": "November 23, 2025",
+        "byline": "President Dissanayake visited Maldives in July this year",
+        "isoTimestamp": "2025-11-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "eee01959ec67862dbd1cd88877d6ad0ff26ec60f2196e2f381beed891d7d80cd"
+      },
+      {
+        "title": "Vietnam diplomats visit Sri Lanka's Jaffna to promote economic links",
+        "url": "https://economynext.com/vietnam-diplomats-visit-sri-lankas-jaffna-to-promote-economic-links-249497/",
+        "timestamp": "November 23, 2025",
+        "byline": "Senior officials invite Vietnamese businesses invest in industrial zones and link with agrictulture",
+        "isoTimestamp": "2025-11-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5062a8d06a4eb0cb417bb999e7176a52cfbff088c4f4a80861b989d0a989416a"
+      },
+      {
+        "title": "Sri Lanka's China-backed Hambantota Port eyes fast clearing with hi-tech box inspection",
+        "url": "https://economynext.com/sri-lankas-china-backed-hambantota-port-eyes-fast-clearing-with-hi-tech-box-inspection-249493/",
+        "timestamp": "November 23, 2025",
+        "byline": "Hambantota Port is planning to draw more container traffic",
+        "isoTimestamp": "2025-11-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "7d11efe0112e2e0b420961e0ecb33c9808f70d5f5dcf8775b93537cd8c45046c"
+      },
+      {
+        "title": "Sri Lanka tax payers to inject Rs100bn take-over SriLankan state bank debt",
+        "url": "https://economynext.com/sri-lanka-tax-payers-to-inject-rs100bn-take-over-srilankan-state-bank-debt-249429/",
+        "timestamp": "November 23, 2025",
+        "byline": "Rs 25bn injected in 2025 not counting the sovereign guaranteed bond",
+        "isoTimestamp": "2025-11-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9f5313036bc29d900c78010370270f4569f9ce4ba56df648b27e3efcd51a74dc"
+      },
+      {
+        "title": "How price controls backfire on Sri Lanka's rice sector : Advocata",
+        "url": "https://economynext.com/how-price-controls-backfire-on-sri-lankas-rice-sector-advocata-249298/",
+        "timestamp": "November 22, 2025",
+        "byline": "Advocata Institute article examines recurring instability in rice market",
+        "isoTimestamp": "2025-11-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "86d85f268359ec10e9e709e776c5b43329e43b01c49a5cf13bf52b4e4dc2e10f"
+      },
+      {
+        "title": "Sri Lanka power utility sells to 70-pct of customers at loss, middle class hit 317-pct of cost",
+        "url": "https://economynext.com/sri-lanka-power-utility-sells-to-70-pct-of-customers-at-loss-middle-class-hit-317-pct-of-cost-249347/",
+        "timestamp": "November 22, 2025",
+        "byline": "The users of 190 units are being charged 300 percent of cost and extraordinary tax on the families",
+        "isoTimestamp": "2025-11-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5bff0a18e7e730559e2d546f1dd8dcda98b0f0ee2c9121b98862ca71bf6efbed"
+      },
+      {
+        "title": "Sri Lanka expecting joint working team from India on Trinco tanks : Minister",
+        "url": "https://economynext.com/sri-lanka-expecting-joint-working-team-from-india-on-trinco-tanks-minister-249362/",
+        "timestamp": "November 22, 2025",
+        "byline": "India has also proposed a submarine pipeline to connect Trinco with India",
+        "isoTimestamp": "2025-11-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc39127870acf9913c3cb6ab7f633796b65200247ac1febd3263fe51771a7ec2"
+      },
+      {
+        "title": "Sri Lanka’s SEC defers Softlogic trading suspension by month",
+        "url": "https://economynext.com/sri-lankas-sec-defers-softlogic-trading-suspension-by-month-249315/",
+        "timestamp": "November 21, 2025",
+        "byline": "Suspension of trading of shares that was due to take place on December 1.",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8dfccd568e497348fe1fd03e260239ffc91a6c752b2bbb8b66135385689c6074"
+      },
+      {
+        "title": "Sri Lanka rupee depreciates over week, some recovery on Friday",
+        "url": "https://economynext.com/sri-lanka-rupee-depreciates-over-week-some-recovery-on-friday-249313/",
+        "timestamp": "November 21, 2025",
+        "byline": "Rupee was 305.50/90 last week Thursday",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "75012768affb558cf03e23199b569b568295267d57c4c63c539851b61d7cc2c5"
+      },
+      {
+        "title": "Sri Lanka stocks end the week down",
+        "url": "https://economynext.com/sri-lanka-stocks-end-the-week-down-249307/",
+        "timestamp": "November 21, 2025",
+        "byline": "Turnover was 3.81 billion rupees.",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4a6c169c2e9773edcaca0b1e67d7e67279084fc4e10692b151f5c849d5b83e52"
+      },
+      {
+        "title": "Sri Lanka building 10 industrial parks, three to open next year",
+        "url": "https://economynext.com/sri-lanka-building-10-industrial-parks-three-to-open-next-year-249281/",
+        "timestamp": "November 21, 2025",
+        "byline": "105 acres of land in the country have been earmarked for industrial parks",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "19fe2ec23488cd235976ecc2b44504128bcc8ad8a223acdca68e9b121e2b9141"
+      },
+      {
+        "title": "Sri Lanka to call investors to build 438MW of wind power plants",
+        "url": "https://economynext.com/sri-lanka-to-call-investors-to-build-438mw-of-wind-power-plants-249282/",
+        "timestamp": "November 21, 2025",
+        "byline": "Plans to tender in 2026",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a11e0dd8ae6deff8d7582a281504519cd851d1cd8019fd64d2e29f8d2458bd56"
+      },
+      {
+        "title": "Sri Lanka HDFC, SMIB on Fitch positive rating watch on proposed acquisition",
+        "url": "https://economynext.com/sri-lanka-hdfc-smib-on-fitch-positive-rating-watch-on-proposed-acquisition-249275/",
+        "timestamp": "November 21, 2025",
+        "byline": "Acquisitions of HDFC and SMIB by BOC and PB, respectively, would result in HDFC and SMIB benefitting from new owners",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "94d032b2a392a08c8db5d7808ff8bbd91a5246700a0dd06033146d77fa9a288c"
+      },
+      {
+        "title": "Sri Lanka's legislators given language lessons",
+        "url": "https://economynext.com/sri-lankas-legislators-given-language-lessons-249267/",
+        "timestamp": "November 21, 2025",
+        "byline": "21 members of parliament have applied to follow the Sinhala language course, and 63 MPs have applied for Tamil course",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c3b19664f75c3ba12a2e5ab9e0f0386de623a1bc0099b5b7c572ae6e91fcdef4"
+      },
+      {
+        "title": "Sri Lanka rupee opens sharply depreciated from week earlier",
+        "url": "https://economynext.com/sri-lanka-rupee-opens-sharply-depreciated-from-week-earlier-249217/",
+        "timestamp": "November 21, 2025",
+        "byline": "Stronger from the previous day",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2017bcf11adb2325cc2418ed13289724a1d2ec994619add258363021674d88e8"
+      },
+      {
+        "title": "Sri Lanka warned of solar linked grid instability early next year : Minister",
+        "url": "https://economynext.com/sri-lanka-warned-of-solar-linked-grid-instability-early-next-year-minister-249187/",
+        "timestamp": "November 21, 2025",
+        "byline": "Taking measures to avoid Sunny Sunday blackouts",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9e6088b31fe2c56782bed5ab5e15d40d1488032e4f3b94e3c66135883ed18ae7"
+      },
+      {
+        "title": "Emirates A380 lands in Sri Lanka over medical emergency",
+        "url": "https://economynext.com/emirates-a380-lands-in-sri-lanka-over-medical-emergency-249186/",
+        "timestamp": "November 21, 2025",
+        "byline": ".\nThe airport said \"swift medical care\" was provided to the passenger.",
+        "isoTimestamp": "2025-11-21T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9ee9ab7ea198684eb0edab01c68334e3b1d58b6598412d1457d38c72c3ab748c"
+      },
+      {
+        "title": "Sri Lanka gets 153 offers for battery storage, lowest around Rs17: Minister",
+        "url": "https://economynext.com/sri-lanka-gets-153-offers-for-battery-storage-lowest-around-rs17-minister-249171/",
+        "timestamp": "November 20, 2025",
+        "byline": "The evaluation is ongoing so we cannot give an exact price",
+        "isoTimestamp": "2025-11-20T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "49b1e337664c673df51db54c6e534f3f9eaff96b8d5202f1da2420ed30bae9d0"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
