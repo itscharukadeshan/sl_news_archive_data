@@ -1,0 +1,2141 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": true,
+    "data": [
+      {
+        "title": "No Laugfs Gas price revision in December",
+        "href": "https://www.adaderana.lk/news.php?nid=115440",
+        "byline": "LAUGFS Gas PLC has confirmed that there will be no price revision for domestic gas cylinder refills in the month of December, 2025.",
+        "timestamp": "December 1, 2025  3:50 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115440",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "85edd2afd4381b9f89c70f45fcdf88c090d02ad9d9abf1668d0ec171c8b08ccd"
+      },
+      {
+        "title": "Nepal announces USD 200,000 in financial aid to flood-hit Sri Lanka",
+        "href": "https://www.adaderana.lk/news.php?nid=115408",
+        "byline": "The Nepali government on Sunday announced financial aid of 200,000 U.S. dollars for Sri Lanka to support relief and recovery efforts for people badly affected by recent floods.",
+        "timestamp": "December 1, 2025  9:04 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115408",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f8839eee1d384976997c6f91d5c67a8d46bcf28e3765b7ae3e00ff004a28f69f"
+      },
+      {
+        "title": "Validity of November train season tickets extended",
+        "href": "https://www.adaderana.lk/news.php?nid=115445",
+        "byline": "The Department of Railways has announced that the validity period of train season tickets issued for the month of November has been extended until December 7, 2025.",
+        "timestamp": "December 1, 2025  4:49 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115445",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2f109da0548498987f74aeb9bb7bfdd94cd9bf56b398c346c0d0e03cdde7d6e6"
+      },
+      {
+        "title": "Divisional Secretaries to be notified when distributing aid to flood-affected areas",
+        "href": "https://www.adaderana.lk/news.php?nid=115423",
+        "byline": "Colombo District Secretary Prasanna Ginige has requested to inform Divisional Secretariats when distributing aid to flood-affected people, and that arrangements be made to distribute the donations through the respective Divisional Secretariats.",
+        "timestamp": "December 1, 2025  11:59 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115423",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "db8615aeb33e4167d03a5670353cfc6467ddb7acce9b749f1b9bc650a70e5417"
+      },
+      {
+        "title": "Australia pledges AUD 1 Million to aid Sri Lanka’s Cyclone ‘Ditwah’ relief efforts",
+        "href": "https://www.adaderana.lk/news.php?nid=115432",
+        "byline": "The government of Australia has announced that it will provide AUD 1 million in humanitarian assistance to support Sri Lanka’s response to Cyclone ‘Ditwah’.",
+        "timestamp": "December 1, 2025  1:47 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115432",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ca6b66c588240c5a71b941b9aaa17cf16e5c553f874d52b09711b0e904caf72e"
+      },
+      {
+        "title": "Vegetable prices surge at Dambulla Economic Centre",
+        "href": "https://www.adaderana.lk/news.php?nid=115416",
+        "byline": "The wholesale prices of vegetables at the Dambulla Dedicated Economic Centre have increased significantly.",
+        "timestamp": "December 1, 2025  10:17 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115416",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "4f8659c62d265f7c2acb73f1e6aea0c70692fc39d145e2e7ea4a1c3655d1d693"
+      },
+      {
+        "title": "Nayaru main bridge in Mullaitivu collapses amid heavy flooding",
+        "href": "https://www.adaderana.lk/news.php?nid=115406",
+        "byline": "The Disaster Management Centre in Mullaitivu has stated that the Nayaru main bridge, Mullaitivu has been completely collapsed due to severe flooding.",
+        "timestamp": "December 1, 2025  7:57 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115406",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a2f2e2832cfde021e3d832f5d30b96196d6297c8e3e943139db8fa4b03859208"
+      },
+      {
+        "title": "Railway Department announces revised time table for today",
+        "href": "https://www.adaderana.lk/news.php?nid=115405",
+        "byline": "The Railway Department has announced revised train operations for today (01) due to existing obstructions along several railway lines.",
+        "timestamp": "December 1, 2025  7:31 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115405",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "9b33b84ae515b2cd71aff5922ec22066d89ee1e1228a1c01d53da7817f445b27"
+      },
+      {
+        "title": "Parliament to conclude at 12:30 p.m.; Reconvene on Dec 03",
+        "href": "https://www.adaderana.lk/news.php?nid=115419",
+        "byline": "The Speaker of Parliament, Dr. Jagath Wickramaratne, has announced that today’s (01) sitting for the Committee Stage of the budget debates will conclude at 12:30 p.m.",
+        "timestamp": "December 1, 2025  10:37 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115419",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "60300cbf8324e4ee8f58c5870556e146b9a795c26e1cbfad07571d1e4677fd09"
+      },
+      {
+        "title": "Agriculture Ministry issues notice on transportation of vegetables",
+        "href": "https://www.adaderana.lk/news.php?nid=115456",
+        "byline": "Vegetables such as cabbage, carrots and beans are currently being received in significant quantities at the economic centers in Welimada, Keppetipola and other areas in the Badulla District, which is a major vegetable-producing region, according to the Ministry of Agriculture.",
+        "timestamp": "December 1, 2025  7:21 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115456",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "daf95dd9df30d286257984d668a465b90c2420c7ae4b3729dd226cd335531e44"
+      },
+      {
+        "title": "Tri-Force personnel continue nationwide disaster rescue and relief operations",
+        "href": "https://www.adaderana.lk/news.php?nid=115458",
+        "byline": "Sri Lanka’s tri-forces have intensified rescue and relief operations across the country as heavy rains and rising flood levels impacted the livelihoods of thousands of families.",
+        "timestamp": "December 1, 2025  7:59 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115458",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "08f0cab0f6e7345d11c4b7529a737ff329fc076fd7f0c2da973cd1f32bcf5680"
+      },
+      {
+        "title": "Flood warning for Mahaweli River Basin extended",
+        "href": "https://www.adaderana.lk/news.php?nid=115443",
+        "byline": "The Irrigation Department has announced that the flood warning issued for the Mahaweli River Basin under Flood Warning Bulletin No. 08, released on 29 November 2025 at 12:30 p.m., has been extended for an additional 48 hours.",
+        "timestamp": "December 1, 2025  4:37 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115443",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "adec534a90071d7f9cfbf9efb888d7186c06c66befec7499e2014e85b1bc2cff"
+      },
+      {
+        "title": "Sri Lanka Police grant grace period for those with expired driving licences",
+        "href": "https://www.adaderana.lk/news.php?nid=115437",
+        "byline": "Sri Lanka Police have decided to grant a grace period allowing drivers—who were unable to renew their driving licences—to drive without legal obstruction owing to the adverse weather conditions.",
+        "timestamp": "December 1, 2025  3:06 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115437",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8f373191b2893470741575050a72e7192cd051ae84b277c3c8cb4fc8cfbebca4"
+      },
+      {
+        "title": "India’s INS Sukanya arrives in Trincomalee with more relief materials",
+        "href": "https://www.adaderana.lk/news.php?nid=115431",
+        "byline": "In a post on X (formerly Twitter), India’s External Affairs Minister, Dr. S. Jaishankar, announced that the Indian Navy ship INS Sukanya has arrived in Trincomalee carrying additional humanitarian aid for Sri Lanka.",
+        "timestamp": "December 1, 2025  1:26 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115431",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a0fb72343ddac34695d6937c2f3f728191784c9a0b156eb527fa52087d3c92ee"
+      },
+      {
+        "title": "UK pledges US$ 890,000 for Sri Lanka’s disaster relief operation",
+        "href": "https://www.adaderana.lk/news.php?nid=115459",
+        "byline": "The British government has announced that it will provide US$ 890,000 (£675,000) worth of urgent humanitarian support for Sri Lanka.",
+        "timestamp": "December 1, 2025  8:21 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115459",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3364e5d768ecafbe8539e3d385163cd98b419587398041e42aaa82db745e5a95"
+      },
+      {
+        "title": "Indian Air Force helicopter used to rescue group of individuals from Nuwara Eliya",
+        "href": "https://www.adaderana.lk/news.php?nid=115441",
+        "byline": "An Indian Air Force helicopter has rescued a group of injured individuals and children affected by the disaster situation in Nuwara Eliya and Kotmale.",
+        "timestamp": "December 1, 2025  4:09 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115441",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "b06dbe26ec7db7bb078e31220b197f7dc8c3a9c3c202ef3c4dd73afa3256fb57"
+      },
+      {
+        "title": "Chilaw General Hospital temporarily closed due to severe flooding",
+        "href": "https://www.adaderana.lk/news.php?nid=115436",
+        "byline": "The Chilaw General Hospital has been temporarily closed until further notice following severe flooding caused by heavy rains, Hospital Director Dr. Sumith Attanayake confirmed.",
+        "timestamp": "December 1, 2025  2:54 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115436",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "612c28ed215a2e90c858a09da5600776593c4141680cb306edc46a418b81ded3"
+      },
+      {
+        "title": "Pakistan helicopter used to evacuate stranded family from Kotikawatta",
+        "href": "https://www.adaderana.lk/news.php?nid=115457",
+        "byline": "A Pakistan helicopter has been used to rescue a stranded family, including a 7-month-old infant from a rooftop of a house in Kotikawatta.",
+        "timestamp": "December 1, 2025  7:54 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115457",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c505a816a5981df36e10c20b3ecd24837055da5f7b49d9860400ab5277597f15"
+      },
+      {
+        "title": "Security forces assist airline crew in flood-affected areas",
+        "href": "https://www.adaderana.lk/news.php?nid=115413",
+        "byline": "Security forces have provided transportation support to airline crew members in the areas affected by recent floods.",
+        "timestamp": "December 1, 2025  9:48 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115413",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2d09355c9b83f6cb0f7b2a5ecb15856fbdfd14a91a7a4688834bc7f4d4358c85"
+      },
+      {
+        "title": "Vadduvakal Bridge breaks in two places due to flooding",
+        "href": "https://www.adaderana.lk/news.php?nid=115438",
+        "byline": "The Vadduvakal bridge in Mullaitivu has collapsed in two places due to flooding, the Road Development Authority stated.",
+        "timestamp": "December 1, 2025  3:12 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115438",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2a7f35e04fe516b184a41109ac11f3aa7adbf3005147c0bc538e786f824aee00"
+      },
+      {
+        "title": "Police warn against sharing false news on social media during disaster situations",
+        "href": "https://www.adaderana.lk/news.php?nid=115448",
+        "byline": "Strict legal action will be taken against individuals who spread false news on social media during the disaster situation, a time when the entire nation is united, Police Media Spokesperson Assistant Superintendent of Police F. U. Wootler noted.",
+        "timestamp": "December 1, 2025  5:40 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115448",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "ece92b25792133c7a0211ef485f60c98e91e9a365cfe39703f3e5ce78568dc4b"
+      },
+      {
+        "title": "SLAF urges public to refrain from flying drones in disaster zones",
+        "href": "https://www.adaderana.lk/news.php?nid=115426",
+        "byline": "The Sri Lanka Air Force (SLAF) has urged the public to avoid flying drones in disaster-affected zones, warning that unregulated activity endangers vital rescue flights.",
+        "timestamp": "December 1, 2025  12:19 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115426",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "8a202d2183707f19903c473473c07df0e43adab940f91f603406ffcfa325709e"
+      },
+      {
+        "title": "Foreign Ministry establishes Emergency Coordination Unit to aid Sri Lankans affected by floods",
+        "href": "https://www.adaderana.lk/news.php?nid=115403",
+        "byline": "The Ministry of Foreign Affairs, Foreign Employment and Tourism has established an Emergency Coordination Unit to manage and streamline relief efforts for Sri Lankan nationals affected by the recent floods.",
+        "timestamp": "December 1, 2025  6:50 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115403",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "848561e501d27593a229c5b91877e8eb42d425ff670ce43e6f8d0c19752ca945"
+      },
+      {
+        "title": "Cyclone “Ditwah” moves away from Sri Lanka; Advisory for fishermen lifted",
+        "href": "https://www.adaderana.lk/news.php?nid=115414",
+        "byline": "The Deep Depression was located near latitude 12.5°N and longitude 80.5°E, about 320 km North-northeast of Kankesanturai, and it is very likely to move northwards, away from the island and weaken further, the Department of Meteorology said.",
+        "timestamp": "December 1, 2025  9:49 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115414",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a11fd1d23f5f936cecba1ba8a6a7a20c2b8f82ae09e74b58c44da83b4026ec16"
+      },
+      {
+        "title": "CAA urges public not to hoard goods unnecessarily amid flood crisis",
+        "href": "https://www.adaderana.lk/news.php?nid=115427",
+        "byline": "The Consumer Affairs Authority (CAA) has warned that people are hoarding goods in large quantities due to the current disaster situation in Sri Lanka and emphasized that there is no need to create unnecessary panic.",
+        "timestamp": "December 1, 2025  12:38 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115427",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2efa93cef18dc047a757b77c0960441cc35e0da3361aa0794e843d99941c5de9"
+      },
+      {
+        "title": "GovPay introduces facility to support Sri Lanka’s disaster relief fund",
+        "href": "https://www.adaderana.lk/news.php?nid=115424",
+        "byline": "A new facility has been introduced through GovPay with the aim of providing relief to people affected by the prevailing adverse weather conditions in Sri Lanka.",
+        "timestamp": "December 1, 2025  12:00 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115424",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "cd0992acc00d15bde3e4230d243b66a44bf006ec40b4d473aa4fe73e1681a6bc"
+      },
+      {
+        "title": "Ex-President Ranil calls party leaders’ meeting in wake of disaster situation",
+        "href": "https://www.adaderana.lk/news.php?nid=115430",
+        "byline": "Former President Ranil Wickremesinghe has convened a meeting of party leaders to discuss measures to address the severe disaster situation Sri Lanka is currently facing following the recent cyclone.",
+        "timestamp": "December 1, 2025  1:19 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115430",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "651bfd87aa3e3cdd49afe82c64b727b50135d5753622c9369d0c2738ff7ad045"
+      },
+      {
+        "title": "New Zealand extends NZ$ 1 million to support emergency humanitarian relief in Sri Lanka",
+        "href": "https://www.adaderana.lk/news.php?nid=115434",
+        "byline": "The government of New Zealand has announced it will contribute NZ$ 1 million to Sri Lanka to support emergency humanitarian relief through an international humanitarian partner.",
+        "timestamp": "December 1, 2025  2:34 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115434",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "e6b2d5d07454c41533b16f67af7d937c2a9f41ffb8b22502da0a486d1307b9ce"
+      },
+      {
+        "title": "Expenditure heads of four ministries approved in Parliament",
+        "href": "https://www.adaderana.lk/news.php?nid=115439",
+        "byline": "Expenditure heads of four ministries have been approved in Parliament today (01).",
+        "timestamp": "December 1, 2025  3:16 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115439",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "69c5fc32b5dde0c2df2614271d8b0c811b64befd475b29e79a608467405de30b"
+      },
+      {
+        "title": "IDH and Mulleriyawa Mental Health Institute not flooded - Ministry",
+        "href": "https://www.adaderana.lk/news.php?nid=115435",
+        "byline": "The Ministry of Health has categorically rejected claims circulating on social media suggesting that the National Institute of Infectious Diseases (NIID), formerly known as the Infectious Diseases Hospital (IDH), and the Mulleriyawa National Institute of Mental Health have been flooded.",
+        "timestamp": "December 1, 2025  2:50 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115435",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a510469a25eb1147f2c444dc54eeb014390ef009706a070dbb1ba00c57b87ebb"
+      },
+      {
+        "title": "Former Minister Chamal Rajapaksa arrives at Bribery Commission",
+        "href": "https://www.adaderana.lk/news.php?nid=115415",
+        "byline": "Former Minister Chamal Rajapaksa has arrived today (01) at the Commission to Investigate Allegations of Bribery or Corruption (CIABOC), said Ada Derana reporter.",
+        "timestamp": "December 1, 2025  9:55 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115415",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "18beea6d2eeeb1b5930e80162a1265b2810b1260c4cb1f4d8a165fd1ba6aee5c"
+      },
+      {
+        "title": "Parliament adjourned for 30 minutes",
+        "href": "https://www.adaderana.lk/news.php?nid=115410",
+        "byline": "Parliament commenced today (01) at 9:00 a.m. under the chairmanship of the Speaker of the House, Dr. Jagath Wickramaratne.",
+        "timestamp": "December 1, 2025  9:23 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115410",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "74cc09b53b6818a8654240ec5a801e1425259bc3aee60fe980968b92fc7c48e5"
+      },
+      {
+        "title": "SLAF honors deceased pilot’s heroism in flood rescue mission in Wennappuwa",
+        "href": "https://www.adaderana.lk/news.php?nid=115409",
+        "byline": "The Sri Lanka Air Force (SLAF) has issued a special statement regarding the pilot who was killed while engaged in rescue operations for people affected by the adverse weather conditions in near the Lunuwila area, Wennappuwa.",
+        "timestamp": "December 1, 2025  9:05 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115409",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2d8d01fe226d7ed969dac0a4bcad977587af7c310b9712f45c3c6d3907ec1344"
+      },
+      {
+        "title": "Water level at Nagalagam Street gauge surpasses 8-foot mark",
+        "href": "https://www.adaderana.lk/news.php?nid=115404",
+        "byline": "Due to the rising water levels in the Kelani River Basin, Hanwella and several surrounding low-lying areas are currently experiencing a major flood situation.",
+        "timestamp": "December 1, 2025  7:30 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115404",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "95a3e91e94fbee255a744acb67d46b8c00b5f34139e13edd66aaa314a8c49013"
+      },
+      {
+        "title": "‘Don’t return home until officials conduct safety assessments’, NBRO warns evacuees",
+        "href": "https://www.adaderana.lk/news.php?nid=115425",
+        "byline": "A Senior Scientist at the National Building Research Organisation (NBRO), Dr. Wasantha Senadeera, stated that the public should not return to their residences until officials from the NBRO’s District Offices conduct inspections and issue their official conclusions.",
+        "timestamp": "December 1, 2025  12:04 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115425",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "a2b6c700bf71e0ede4c73b0efdf415b4d43c90f2b818207e93411def851c78c2"
+      },
+      {
+        "title": "Sri Dalada Maligawa initiates ‘Social Welfare Fund’ for flood relief; donates Rs. 20 mln",
+        "href": "https://www.adaderana.lk/news.php?nid=115428",
+        "byline": "Sri Dalada Maligawa, Malwathu and Asgiri Chapters have donated Rs. 20 million to support those affected by the recent floods, opening a “Social Welfare Fund” to assist disaster-affected families, Diyawadana Nilame Pradeep Nilanga Dela said.",
+        "timestamp": "December 1, 2025  12:40 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115428",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "1b5f1f81fc3d2af84ea4e69b7d7af04404969198b878e3491e7704ebcc65f982"
+      },
+      {
+        "title": "RDA issues list of roads disrupted due to disaster situation",
+        "href": "https://www.adaderana.lk/news.php?nid=115442",
+        "byline": "The Road Development Authority has issued a statement regarding roads that have been disrupted due to the disaster situation caused by heavy rainfall.",
+        "timestamp": "December 1, 2025  4:10 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115442",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "3d8befbc7b4a814c942edd324aaad2668e05029a0865dc0215fbff4ca08f2ae0"
+      },
+      {
+        "title": "Public urged to exercise caution regarding risk of infectious and vector-borne diseases amidst floods",
+        "href": "https://www.adaderana.lk/news.php?nid=115446",
+        "byline": "The general public has been urged to exercise caution regarding the high risk of infectious and vector-borne diseases amid the ongoing flooding and waterlogging situation.",
+        "timestamp": "December 1, 2025  4:56 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115446",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "d54f43dcb224490ab431e75b4a312a431057c736713f05f0342455b12d60f1a3"
+      },
+      {
+        "title": "Landslide reported in Rambukkana",
+        "href": "https://www.adaderana.lk/news.php?nid=115418",
+        "byline": "A landslide has occurred in the Gangekumbura area of Rambukkana, Ada Derana reporter said.",
+        "timestamp": "December 1, 2025  10:34 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115418",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "c5770c4bc840a3607c8d38477a4f5ff6edd2004a52b2f98fad5d2bece3781ba5"
+      },
+      {
+        "title": "PHIU urges caution on drinking water and diseases in flood-affected areas",
+        "href": "https://www.adaderana.lk/news.php?nid=115411",
+        "byline": "The Public Health Inspectors’ Union (PHIU) has urged people in flood-affected areas to exercise caution when using drinking water.",
+        "timestamp": "December 1, 2025  9:26 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115411",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "2dc62635d94b61c1fb3ad60038da8e6d3a60a412f8f706dfc0f9dbe208820d2a"
+      },
+      {
+        "title": "Death toll from Thailand floods reaches 170",
+        "href": "https://www.adaderana.lk/news.php?nid=115402",
+        "byline": "The death toll from flooding in Thailand has hit 170, the country’s Ministry of Public Health reported, an increase of eight from Saturday November 29, and 102 injuries.",
+        "timestamp": "December 1, 2025  6:41 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115402",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "735592a15db4eca20ccbf77e578eada83809bf1592bc6aeb427154c1062ce26b"
+      },
+      {
+        "title": "Ella-Wellawaya road reopens for traffic",
+        "href": "https://www.adaderana.lk/news.php?nid=115417",
+        "byline": "The Ella-Wellawaya road has been completely reopened for traffic, according to Badulla District Secretary Panduka Sri Prabath Abeywardena.",
+        "timestamp": "December 1, 2025  10:18 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115417",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "37d131cb7c6a9ab4c7652be21bf7b2e846938ad20b4d483421baae0841634a42"
+      },
+      {
+        "title": "Gold prices increase by around Rs. 2,000 today",
+        "href": "https://www.adaderana.lk/news.php?nid=115420",
+        "byline": "Gold prices in Sri Lanka have risen following a significant increase in the price of gold in the world market.",
+        "timestamp": "December 1, 2025  11:01 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115420",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "43c9039ca2324819470d1c2469a5f54e55231afcc270dfcfaa79798aecec16db"
+      },
+      {
+        "title": "Landslides removal underway on Hatton–Colombo route; Public urged to remain alert",
+        "href": "https://www.adaderana.lk/news.php?nid=115412",
+        "byline": "The removal of landslides that occurred along the Hatton–Colombo main road has already commenced, according to Senior Superintendent of Police (SSP) for the Hatton Division, Pradeep Weerasekara.",
+        "timestamp": "December 1, 2025  9:38 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115412",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "f8790aca9f8c3171be285bc4fa685f8b11d69ec9a8832a319977dc47344b026d"
+      },
+      {
+        "title": "Several spells of showers expected in parts of the island today",
+        "href": "https://www.adaderana.lk/news.php?nid=115401",
+        "byline": "The Deep Depression was located near latitude 12.3°N and longitude 80.6°E, about 300 km Northnortheast of Kankasanthurai, the Department of Meteorology said.",
+        "timestamp": "December 1, 2025  6:30 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115401",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "0f3b4f3b8b74b8ee0c1295b97fa93b4f340f771d7983ecec4f795bf0f53dbceb"
+      },
+      {
+        "title": "06 infants and mothers evacuated from Chilaw to Puttalam by SLAF helicopter",
+        "href": "https://www.adaderana.lk/news.php?nid=115422",
+        "byline": "Six infants and their mothers, who were receiving treatment at Chilaw Base Hospital, were relocated to Puttalam Base Hospital yesterday (30) due to flooding at the hospital caused by adverse weather conditions affecting the island.",
+        "timestamp": "December 1, 2025  11:19 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115422",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "02ccc1baf8ea307a20c0d5dda38ae4be28f185066866cc68891cb4690c5a27c5"
+      },
+      {
+        "title": "Navy rescues over 300 people following Mavil Aru tank embankment breach",
+        "href": "https://www.adaderana.lk/news.php?nid=115407",
+        "byline": "The Sri Lanka Navy is continuing extensive rescue and relief operations in areas affected by flooding caused by the breach of a section of the Mavil Aru tank embankment in Trincomalee on 30 November 2025, following heavy rainfall.",
+        "timestamp": "December 1, 2025  9:02 am",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115407",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "5d9f13e33a2dfc675bb696153adb691466a6cfd67403990ba06d6f27c4619f29"
+      },
+      {
+        "title": "Committee appointed to investigate Lunuwila helicopter accident",
+        "href": "https://www.adaderana.lk/news.php?nid=115433",
+        "byline": "A nine-member committee, including senior Air Force officers, has been appointed to investigate the helicopter accident that occurred in Lunuwila, Wennappuwa, yesterday (300, Sri Lanka Air Force Media Spokesman Group Captain Eranda Geeganage stated.",
+        "timestamp": "December 1, 2025  2:13 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115433",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "7446dacc1c7568c62ef78dbe911b752b2edf46e1d7e51fa5dcbabb1c45b2bec8"
+      },
+      {
+        "title": "CSE’s major indices record losses",
+        "href": "https://www.adaderana.lk/news.php?nid=115444",
+        "byline": "The Colombo Stock Exchange’s (CSE) main indices recorded significant losses today, with the All Share Price Index (ASPI) falling by 690.76 points or 3.04% to close at 22,022.06 points.",
+        "timestamp": "December 1, 2025  4:44 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115444",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "53241b509ad8bc1ec33efc90f5234f83527896b40bb84708a84f7d563f31ff93"
+      },
+      {
+        "title": "Disney’s ‘Zootopia 2’ hits US$556m box office worldwide, highest-grossing animated movie in China",
+        "href": "https://www.adaderana.lk/news.php?nid=115429",
+        "byline": "Walt Disney’s animated Zootopia 2 racked up an estimated US$556 million in global ticket sales over the US Thanksgiving weekend, providing a strong kickoff to Hollywood’s crucial holiday moviegoing season.",
+        "timestamp": "December 1, 2025  1:04 pm",
+        "isoTimestamp": "2025-12-01T20:33:12+05:30",
+        "url": "https://www.adaderana.lk/news.php?nid=115429",
+        "baseUrl": "https://adaderana.lk",
+        "checkSum": "cff47aaec4517b89206f45e03e96faafe991621d9a4c2bf6c74fe939a49c6ac8"
+      }
+    ]
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": true,
+    "data": []
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": [
+      {
+        "title": "ලාෆ් ගෑස් මිළෙහි වෙනසක් නැහැ",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244105/%e0%b6%bd%e0%b7%8f%e0%b7%86%e0%b7%8a-%e0%b6%9c%e0%b7%91%e0%b7%83%e0%b7%8a-%e0%b6%b8%e0%b7%92%e0%b7%85%e0%b7%99%e0%b7%84%e0%b7%92-%e0%b7%80%e0%b7%99%e0%b6%b1%e0%b7%83%e0%b6%9a%e0%b7%8a-%e0%b6%b1/",
+        "timestamp": "2025-12-01T16:01:02+05:30",
+        "checkSum": "7897af267376aed946207d3e9d27df6fdccfdb47ac24687dd4956c2e8bc36f21",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T16:01:02+05:30"
+      },
+      {
+        "title": "දුම්රිය වාර ප්‍රවේශ පත්‍ර වලංගු කාලසීමාව දීර්ඝ කරයි",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244103/%e0%b6%af%e0%b7%94%e0%b6%b8%e0%b7%8a%e0%b6%bb%e0%b7%92%e0%b6%ba-%e0%b7%80%e0%b7%8f%e0%b6%bb-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b7%80%e0%b7%9a%e0%b7%81-%e0%b6%b4%e0%b6%ad%e0%b7%8a/",
+        "timestamp": "2025-12-01T15:57:59+05:30",
+        "checkSum": "dcb871670b1f725ca91945332cdaab9a45b7715939201493c8243b06c2a2d7aa",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T15:57:59+05:30"
+      },
+      {
+        "title": "සදාචාර විරෝධී ලෙස සත්‍යයෙන් තොර පුවත් සමාජගත කරන පුද්ගලයන්ට එරෙහිව දැඩි නීතිමය පියවර ගන්නවා",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244100/%e0%b7%83%e0%b6%af%e0%b7%8f%e0%b6%a0%e0%b7%8f%e0%b6%bb-%e0%b7%80%e0%b7%92%e0%b6%bb%e0%b7%9d%e0%b6%b0%e0%b7%93-%e0%b6%bd%e0%b7%99%e0%b7%83-%e0%b7%83%e0%b6%ad%e0%b7%8a%e0%b6%ba%e0%b6%ba/",
+        "timestamp": "2025-12-01T15:53:53+05:30",
+        "checkSum": "f6744519847bd89871f765090ab516315304d80e8659da53b22c5e91c47400dc",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T15:53:53+05:30"
+      },
+      {
+        "title": "හැටන් කොළඹ ප්‍රධාන මාර්ගයේ ගමනා ගමනයට එක් මං තීරුවක් විවෘත කෙරේ",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244096/%e0%b7%84%e0%b7%90%e0%b6%a7%e0%b6%b1%e0%b7%8a-%e0%b6%9a%e0%b7%9c%e0%b7%85%e0%b6%b9-%e0%b6%b4%e0%b7%8a%e0%b6%bb%e0%b6%b0%e0%b7%8f%e0%b6%b1-%e0%b6%b8%e0%b7%8f%e0%b6%bb%e0%b7%8a%e0%b6%9c-3/",
+        "timestamp": "2025-12-01T15:42:12+05:30",
+        "checkSum": "08767c6c20f97278c587e7cefc175743d30a8d982fcbf925449a51e3b9c49071",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T15:42:12+05:30"
+      },
+      {
+        "title": "ආපදා තත්ත්වයෙන් පසු රට නැව ආපදා තත්ත්වයෙන් පසු රට නැවත ගොඩනැඟීමට සියලුදෙනා දායක කර ගනිමින්  දිගුකාලීන ශක්තිමත් අරමුදලක්",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244093/%e0%b6%86%e0%b6%b4%e0%b6%af%e0%b7%8f-%e0%b6%ad%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b7%8a%e0%b7%80%e0%b6%ba%e0%b7%99%e0%b6%b1%e0%b7%8a-%e0%b6%b4%e0%b7%83%e0%b7%94-%e0%b6%bb%e0%b6%a7-%e0%b6%b1%e0%b7%90/",
+        "timestamp": "2025-12-01T15:28:58+05:30",
+        "checkSum": "498eb15a318b05872dea8d3c6bfb62b5a69278cd7f429a812b528e7107a85cda",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T15:28:58+05:30"
+      },
+      {
+        "title": "ගංවතුර බැස යන තත්ත්වය තුළ වසංගත රෝග පිළිබඳව විමසිලිමත් වන්න",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244087/%e0%b6%9c%e0%b6%82%e0%b7%80%e0%b6%ad%e0%b7%94%e0%b6%bb-%e0%b6%b6%e0%b7%90%e0%b7%83-%e0%b6%ba%e0%b6%b1-%e0%b6%ad%e0%b6%ad%e0%b7%8a%e0%b6%ad%e0%b7%8a%e0%b7%80%e0%b6%ba-%e0%b6%ad%e0%b7%94%e0%b7%85/",
+        "timestamp": "2025-12-01T13:33:22+05:30",
+        "checkSum": "89583dade96a74d66811132ff487fa7728b68bb8f2cc1f287d9f16ce7bd7a3ed",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T13:33:22+05:30"
+      },
+      {
+        "title": "ආපදා මරණ 355 දක්වා ඉහළට – 366 ක් අතුරුදහන්",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244084/%e0%b6%86%e0%b6%b4%e0%b6%af%e0%b7%8f-%e0%b6%b8%e0%b6%bb%e0%b6%ab-355-%e0%b6%af%e0%b6%9a%e0%b7%8a%e0%b7%80%e0%b7%8f-%e0%b6%89%e0%b7%84%e0%b7%85%e0%b6%a7-366-%e0%b6%9a%e0%b7%8a-%e0%b6%85%e0%b6%ad/",
+        "timestamp": "2025-12-01T13:29:22+05:30",
+        "checkSum": "ded24b8be370b6905a46236dd4d1f72a1a740ed91152eb43ce690408d732235a",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T13:29:22+05:30"
+      },
+      {
+        "title": "සහන මෙහෙයුම්වල තිබෙන ස්ථානවල ඩ්‍රෝන යවන්න එපා – ගුවන් හමුදාව",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244082/%e0%b7%83%e0%b7%84%e0%b6%b1-%e0%b6%b8%e0%b7%99%e0%b7%84%e0%b7%99%e0%b6%ba%e0%b7%94%e0%b6%b8%e0%b7%8a%e0%b7%80%e0%b6%bd-%e0%b6%ad%e0%b7%92%e0%b6%b6%e0%b7%99%e0%b6%b1-%e0%b7%83%e0%b7%8a%e0%b6%ae/",
+        "timestamp": "2025-12-01T13:18:03+05:30",
+        "checkSum": "4d5e66977d27dae73233972601c9ff26b792b6ebb0a4a6ddb4e0acb99b93b0e2",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T13:18:03+05:30"
+      },
+      {
+        "title": "වැලිකඩ රැඳවියන්ගේ දිවා ආහාරය ගංවතුරෙන් පීඩාවට පත් ජනතාවට පරිත්‍යාග කරයි",
+        "url": "https://www.dinamina.lk/2025/12/01/breaking-news/244078/%e0%b7%80%e0%b7%90%e0%b6%bd%e0%b7%92%e0%b6%9a%e0%b6%a9-%e0%b6%bb%e0%b7%90%e0%b6%b3%e0%b7%80%e0%b7%92%e0%b6%ba%e0%b6%b1%e0%b7%8a%e0%b6%9c%e0%b7%9a-%e0%b6%af%e0%b7%92%e0%b7%80%e0%b7%8f-%e0%b6%86/",
+        "timestamp": "2025-12-01T12:53:44+05:30",
+        "checkSum": "b014001229a74eaf032f2f0b3c587a2cfdacd0018cc81ec2a05ef5eeafd26ffe",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T12:53:44+05:30"
+      },
+      {
+        "title": "විපතට පත් නැගෙනහිර ජනතාවට ආධාර රැගත් ඉන්දීය නෞකාවක් ත්‍රිකුණාමලයට",
+        "url": "https://www.dinamina.lk/2025/12/01/local/244075/%e0%b7%80%e0%b7%92%e0%b6%b4%e0%b6%ad-%e0%b6%b4%e0%b6%ad%e0%b7%8a-%e0%b6%b1%e0%b7%90%e0%b6%9c%e0%b7%99%e0%b6%b1%e0%b7%84%e0%b7%92%e0%b6%bb-%e0%b6%a2%e0%b6%b1%e0%b6%ad%e0%b7%8f%e0%b7%80%e0%b6%a7/",
+        "timestamp": "2025-12-01T12:47:32+05:30",
+        "checkSum": "cbdde44776bdaf7a4aceb63d3534a298b1de152936ebe99cf1450ce989230cb0",
+        "baseUrl": "https://www.dinamina.lk",
+        "isoTimestamp": "2025-12-01T12:47:32+05:30"
+      }
+    ]
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": true,
+    "data": [
+      {
+        "title": "கொச்சிக்கடையில் இருவர் மரணம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடையில்-இருவர்-மரணம்/175-368896",
+        "timestamp": "5 hours ago",
+        "byline": "நாட்டைத் தாக்கிய பாரிய பேரழிவின் காரணமாக...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e1dcde062351b1b5abf0c5f90b6576094b1fc6c46ff9c0a42306d6ce5a08e267"
+      },
+      {
+        "title": "கொச்சிக்கடையில் இருவர் மரணம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடையில்-இருவர்-மரணம்/175-368896",
+        "timestamp": "5 hours ago",
+        "byline": "நாட்டைத் தாக்கிய பாரிய பேரழிவின் காரணமாக...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e1dcde062351b1b5abf0c5f90b6576094b1fc6c46ff9c0a42306d6ce5a08e267"
+      },
+      {
+        "title": "ஒருகொடவத்தையின் நிலவரம்",
+        "url": "https://www.tamilmirror.lk/பிரதான-செய்திகள்/ஒருகொடவத்தையின்-நிலவரம்/46-368897",
+        "timestamp": "5 hours ago",
+        "byline": "ஒருகொடவத்தை பகுதியில் ஏற்பட்டுள்ள வௌ்ளம்...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "ef6674e584522d76df239e501164b83f78a491214249a03481ddea516c3b870e"
+      },
+      {
+        "title": "பண்ணையில் சிக்கியவர்கள்  மீட்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பண்ணையில்-சிக்கியவர்கள்-மீட்பு/175-368895",
+        "timestamp": "5 hours ago",
+        "byline": "முல்லைத்தீவு முத்தியங்காட்டு நீர்த்தேக்கத்தின் வான்...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "89c01efcffcf01d7d844561de1d1fc0548a856674e9ecdc800478385ebefb441"
+      },
+      {
+        "title": "நீர் விநியோகத்தை இரு நாட்களுக்குள் சீரமைக்க நடவடிக்கை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/நீர்-விநியோகத்தை-இரு-நாட்களுக்குள்-சீரமைக்க-நடவடிக்கை/175-368893",
+        "timestamp": "5 hours ago",
+        "byline": "தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்பு சபை தெரிவித்துள்ளது...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "53e0c0432cba3d027c92f751de1584730b13ec11b7903832e047be488f999ff2"
+      },
+      {
+        "title": "சாரதி அனுமதிப் பத்திரங்கள் தொடர்பில் தகவல்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/சாரதி-அனுமதிப்-பத்திரங்கள்-தொடர்பில்-தகவல்/175-368892",
+        "timestamp": "5 hours ago",
+        "byline": "சாரதி  அனுமதிப் பத்திர அலுவலகங்களுக்குச் செல்ல முடியவில்லை...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "26e3bc9dbaa54ed637adc6d6178159e939c4ae0445989c4fdb04f40226469c21"
+      },
+      {
+        "title": "“சிறையில் இம்ரான் உயிரோடு இருக்கிறார்”",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/சிறையில்-இம்ரான்-உயிரோடு-இருக்கிறார்/50-368891",
+        "timestamp": "5 hours ago",
+        "byline": "தெக்​ரீக்​-இ-இன்​சாப்​(பிடிஐ) கட்​சி​யின் செனட் உறுப்​பினர் குர்​ராம் ஜீஷன்...",
+        "isoTimestamp": "2025-12-01T20:36:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c136c54fa022deb325ddc873cb8762476e5c2d78320a85adfe3a0c42a82d5985"
+      },
+      {
+        "title": "காசா போரில் 70,100 பேர் பலி",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/காசா-போரில்-70-100-பேர்-பலி/50-368889",
+        "timestamp": "6 hours ago",
+        "byline": "காசா சுகாதார அமைச்சகம் தெரிவித்துள்ளது...",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "ade078f23cb116b61d5a3aecab81c6904af7622659672755c823dc164ffee42d"
+      },
+      {
+        "title": "ஜேர்மனி  போராட்டத்தில் வன்முறை (படம்)",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/ஜேர்மனி-போராட்டத்தில்-வன்முறை-படம்/50-368888",
+        "timestamp": "6 hours ago",
+        "byline": "உள்நாட்டு உளவு நிறுவனம் ’தீவிரவாதக்குழு’வாக வகைப்படுத்தியிருந்தது...",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7a2d3c774cb9c208f4bac9b648ddfca3abb993d769eac616edf9df2e62e1f35b"
+      },
+      {
+        "title": "பேலியாகொட பாலத்தின் நிலை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பேலியாகொட-பாலத்தின்-நிலை/175-368894",
+        "timestamp": "6 hours ago",
+        "byline": "தொடர்ச்சியான சீரற்ற வானிலைக்கு மத்தியில்...",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e2497ae4ebd7c46f9c3de43da4f986568e8d8510da31a8ccb502b2de6ebc6969"
+      },
+      {
+        "title": "எலி காய்ச்சலை தடுக்க இலவச சிகிச்சை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/எலி-காய்ச்சலை-தடுக்க-இலவச-சிகிச்சை/175-368887",
+        "timestamp": "6 hours ago",
+        "byline": "வெள்ள அனர்த்தத்தினால் பாதிக்கப்பட்ட மக்கள், எலி ...",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "59b77aa9a1b3d86aedabfe3e0f134b5054585078db60641f5220dc0bda3707ef"
+      },
+      {
+        "title": "பிளவடைந்த வட்டுவாகல் பாலம் (படம்)",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பிளவடைந்த-வட்டுவாகல்-பாலம்-படம்/175-368886",
+        "timestamp": "6 hours ago",
+        "byline": "மாற்று வழியினை பயன்படுத்துமாறு அனர்த்த முகாமைத்துவ மையம் அறிவுறுத்தல்...",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "4d09544336706c3bdd6639c669dbd57e6b193ef8dec8df1c44697c271a243e63"
+      },
+      {
+        "title": "“பொருட்களின் விலையை அதிகரித்தால் முறைப்பாடு செய்க”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பொருட்களின்-விலையை-அதிகரித்தால்-முறைப்பாடு-செய்க/175-368885",
+        "timestamp": "6 hours ago",
+        "byline": "நுகர்வோர் விவகார அதிகார சபை வலியுறுத்தியுள்ளது...",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "26ebf7f9d75992b5718db8ab0db32984a86842f52d53771aeaf03be16b0ff159"
+      },
+      {
+        "title": "மறு அறிவிப்பு வரை திட்டமிடப்பட்ட ரயில் சேவை நேரங்கள்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/மறு-அறிவிப்பு-வரை-திட்டமிடப்பட்ட-ரயில்-சேவை-நேரங்கள்/175-368884",
+        "timestamp": "6 hours ago",
+        "byline": "No description",
+        "isoTimestamp": "2025-12-01T20:35:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "51eee23b3bbcf4ba89ed82a69a8c8a0e7c1d1ce62d1a8d747eb7e197554e5fa6"
+      },
+      {
+        "title": "வெள்ளத்தால் பாதிக்கப்பட்ட 157 பேர் மீட்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/வெள்ளத்தால்-பாதிக்கப்பட்ட-157-பேர்-மீட்பு/175-368883",
+        "timestamp": "7 hours ago",
+        "byline": "மன்னார் இலுப்பைக்கடவை  மற்றும் செட்டிகுளம்...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "a4a2a7315e3643a8f2be09fcdbafb8025b8d496d2b6dbfbeca9fdeb7cd70aa90"
+      },
+      {
+        "title": "கொரிய தூதுவரை சஜித் சந்தித்தார்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கொரிய-தூதுவரை-சஜித்-சந்தித்தார்/175-368881",
+        "timestamp": "7 hours ago",
+        "byline": "தற்போதைய பேரிடர் சூழ்நிலையால் பாதிக்கப்பட்ட...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "9c89e61aa59e3046f22e04bb71cac0e3099f6a30c904eba45331bc9b2687d44f"
+      },
+      {
+        "title": "ரங்கல - நிவ்டிவிசனில் ஏற்பட்டுள்ள அனர்த்தம்...",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ரங்கல-நிவ்டிவிசனில்-ஏற்பட்டுள்ள-அனர்த்தம்/175-368882",
+        "timestamp": "7 hours ago",
+        "byline": "அதிர்ஷ்டவசமாக உயிராபத்துகள் ஏற்படவில்லை...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "5864a2d2392e526f44c068a32f45125555948c7ab065d8a91b4e604ca00a1a0e"
+      },
+      {
+        "title": "நன்கொடை வழங்குவதற்கு ’GovPay’ அறிமுகம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/நன்கொடை-வழங்குவதற்கு-GovPay-அறிமுகம்/175-368880",
+        "timestamp": "7 hours ago",
+        "byline": "நன்கொடைப் பணம் உடனடியாக நிதிக்கு வரவு வைக்கப்படுவதுடன்...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7a722888e9504f3457627ab67a6ffc07c37cf98ca485954853b3730dccd7d0c7"
+      },
+      {
+        "title": "“அதிகமாக பொருட்களை சேகரிக்க வேண்டாம்”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அதிகமாக-பொருட்களை-சேகரிக்க-வேண்டாம்/175-368877",
+        "timestamp": "7 hours ago",
+        "byline": "தேவையான பொருட்களின் அளவை மட்டும் வழங்குமாறு...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "0fd7603c523ab9246ef073f5621f5b0928f9efeb903901dcacab7a16014d9fad"
+      },
+      {
+        "title": "இந்திய கடற்படை நிவாரண பொருட்களை வழங்கியது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/இந்திய-கடற்படை-நிவாரண-பொருட்களை-வழங்கியது/175-368879",
+        "timestamp": "7 hours ago",
+        "byline": "12 தொன் நிவாரண உதவிப் பொருட்களுடன்...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "b0fe63cfdfdea461a5b81bfdcf4e750b2ffd72f299f24389e37bbf633733b90f"
+      },
+      {
+        "title": "“தொற்றுநோய்கள் குறித்து எச்சரிக்கையாக இருங்கள்”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தொற்றுநோய்கள்-குறித்து-எச்சரிக்கையாக-இருங்கள்/175-368878",
+        "timestamp": "7 hours ago",
+        "byline": "வெள்ளம் குறையும் நிலைமையில் தொற்று நோய்கள் மற்றும்...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "5e53b8db01a7d1564d1111d422f22e2818b625f2b9b214fd7cf6bed09d13dee9"
+      },
+      {
+        "title": "பசறை-பதுளை ஒரு வழிப்பாதை மீண்டும் திறப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பசறை-பதுளை-ஒரு-வழிப்பாதை-மீண்டும்-திறப்பு/175-368876",
+        "timestamp": "7 hours ago",
+        "byline": "பதுளை-பசறை வீதியின் பல இடங்கள்   மண்சரிவுகளால் தடைபட்டுள்ளன...",
+        "isoTimestamp": "2025-12-01T20:34:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "3aa5167ccc73f0a711f5ac57573eb9d72adffd6a828885d3076c17f4a0d56d4c"
+      },
+      {
+        "title": "ஈச்சலம்பட்டு மருத்துவமனையும் மூழ்கியது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஈச்சலம்பட்டு-மருத்துவமனையும்-மூழ்கியது/175-368874",
+        "timestamp": "8 hours ago",
+        "byline": "ஈச்சலம்பட்டு பிரதேச மருத்துவமனையும்",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7cd9a11c77f1111a2aaf2897b09425c5adc50c743ef6c02a4fa8a11c69f0c557"
+      },
+      {
+        "title": "​அவுஸ்திரேலியா 1 மில்லியன்  டாலர் நிதியுதவி வழங்க தயார்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலியா-1-மில்லியன்-டாலர்-நிதியுதவி-வழங்க-தயார்/175-368875",
+        "timestamp": "8 hours ago",
+        "byline": "டிட்வா சூறாவளிக்கு இலங்கையின் மீட்புப் பணிகளை...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "4e1b7fa37d324cf37ebd9082efdacb9ece57f481c94bb2dc43150161dbcb4021"
+      },
+      {
+        "title": "எதிர்க்கட்சிகளுக்கு அழைப்பு விடுத்த  ரணில்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகளுக்கு-அழைப்பு-விடுத்த-ரணில்/175-368873",
+        "timestamp": "8 hours ago",
+        "byline": "சீரற்ற வானிலை குறித்து விவாதிக்க அனைத்து எதிர்க்கட்சிகளையும்...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e1bbea1903c48ed095ad60ce87daf858bf7d73566b75ce2572d4ae02eb033515"
+      },
+      {
+        "title": "பொதுமக்களுக்கு முக்கிய அறிவிப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-முக்கிய-அறிவிப்பு/175-368872",
+        "timestamp": "8 hours ago",
+        "byline": "பொதுமக்கள் தங்கள் வீடுகளுக்குத் திரும்ப வேண்டாம்...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "a74a08bd5cfa634373f4e42bc5385f91b68f1e01f38e6af3210cb3def82be4c3"
+      },
+      {
+        "title": "அனர்த்த இடங்களில் ட்ரோன்களைப் பறக்க விடாதீர்கள்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அனர்த்த-இடங்களில்-ட்ரோன்களைப்-பறக்க-விடாதீர்கள்/175-368871",
+        "timestamp": "8 hours ago",
+        "byline": "முக்கியமான மீட்பு விமானங்களுக்கு ஆபத்தை விளைவிக்கும்...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "edabde03794eeeb18b858999440fce1dfbcdba6941b4aa73615f26cdfc9d1500"
+      },
+      {
+        "title": "களனி கங்கையின் நீர்மட்டம் 8.45 அடியாக உயர்வு",
+        "url": "https://www.tamilmirror.lk/cinema/களனி-கங்கையின்-நீர்மட்டம்-8-45-அடியாக-உயர்வு/54-368870",
+        "timestamp": "8 hours ago",
+        "byline": "நாகல்கம் தெருவில் களனி கங்கையின் தொடர்ந்து வெள்ளப்பெருக்கு...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "df79b04fe888d5f86c888c4fbcbbbed1facfe60644c5936029fc4abc54275136"
+      },
+      {
+        "title": "“ பேரழிவைத் தடுக்க அரசாங்கம் நடவடிக்கைகளை எடுக்கவில்லை”",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பேரழிவைத்-தடுக்க-அரசாங்கம்-நடவடிக்கைகளை-எடுக்கவில்லை/175-368869",
+        "timestamp": "8 hours ago",
+        "byline": "சமகி ஜன பலவேகய  எம்.பி. கபீர் ஹாஷிம் பாராளுமன்றத்தில் தெரிவித்தார்...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "cc0a89329d252d848b4e8ebd0fc45d6773a070bf18d420faf92fa086137a236c"
+      },
+      {
+        "title": "தவறான தகவல்களை பரப்புவதற்கு எதிராக நடவடிக்கை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தவறான-தகவல்களை-பரப்புவதற்கு-எதிராக-நடவடிக்கை/175-368868",
+        "timestamp": "8 hours ago",
+        "byline": "நிலவும் அவசர கால சூழ்நிலை காரணமாக, ஜனாதிபதியால்...",
+        "isoTimestamp": "2025-12-01T20:33:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "1036968062ddc8fd0335d8d2991bad95c175c2744a7a861e72eb61537c4835d3"
+      },
+      {
+        "title": "தங்கத்தின் விலை மேலும் அதிகரிப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தங்கத்தின்-விலை-மேலும்-அதிகரிப்பு/175-368867",
+        "timestamp": "9 hours ago",
+        "byline": "இலங்கையில் இன்று திங்கட்கிழமை (01) நிலைவரப்படி, உலகளவில் தங்கத்தின்....",
+        "isoTimestamp": "2025-12-01T20:32:26+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e93cba1b766552516cb61cb3d9ec809f762414e571107236de7730c2eabf4a77"
+      }
+    ]
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "2020න් පසුව ඉහළම විදේශ ප්‍රේෂණ ලැබීම් ඔක්තෝබරයේ",
+        "url": "https://www.ada.lk/business/2020න්-පසුව-ඉහළම-විදේශ-ප්‍රේෂණ-ලැබීම්-ඔක්තෝබරයේ/7-419997",
+        "timestamp": "1 12 2025 20:00:00",
+        "byline": "සමුච්චිත පදනමක් මත, වසරේ මුල් මාස දහය තුළ ප්‍රේෂණ සියයට 20.1ක වාර්ෂික ලක්ෂ්‍යමය වර්ධනයක් වාර්තා කර ඇති බව ශ්‍රී ලංකා මහ බැංකුව පෙන්වා දෙයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "cbf43fe7d77880bae82ebe8cb161f79a114664a23bf541c12a5955d4e9206534"
+      },
+      {
+        "title": "අමාත්‍යාංශ හතරක වැය ශීර්ෂ සම්මතයි",
+        "url": "https://www.ada.lk/breaking_news/අමාත්‍යාංශ-හතරක-වැය-ශීර්ෂ-සම්මතයි/11-420005",
+        "timestamp": "1 12 2025 19:21:00",
+        "byline": "2026 වර්ෂය සඳහා වන විසර්ජන පනත් කෙටුම්පත කාරක සභා අවස්ථා විවාදයේ 12 වන දිනය වන අද දින (01) තරුණ කටයුතු සහ ක්‍රීඩා අමාත්‍යාංශය, කාන්තා හා ළමා කටයුතු අමාත්‍යාංශය, බුද්ධශාසන, ආගමික සහ සංස්කෘතික කටයුතු අමාත්‍යාංශය සහ පරිසර අමාත්‍යාංශය යන අමාත්‍යාංශවල වැය ශිර්ෂ විවාදයකින් තොරව, සංශෝධන සහිතව සම්මත විය.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "da92a8fe67d32f92198a0cfcf7cd95f56c16c1e791442d7f7c6a58842ec64664"
+      },
+      {
+        "title": "මහනුවර දිස්ත්‍රික්කයේ 131 ක් මිය ගොස් 174 ක් අතුරුදහන්",
+        "url": "https://www.ada.lk/breaking_news/මහනුවර-දිස්ත්‍රික්කයේ-131-ක්-මිය-ගොස්-174-ක්-අතුරුදහන්/11-420004",
+        "timestamp": "1 12 2025 18:23:00",
+        "byline": "දිවයින පුරා ඇති වූ අධික වැසි සහිත කාලගුණ තත්වය හේතුවෙන් අද 01 වනදා දක්වා මහනුවර දිස්ත්‍රික්කයේ පුද්ගලයින් 131 දෙනෙකු මිය ගොස් තවත් පුද්ගලයින් 174 දෙනෙකු අතුරුදහන් වී ඇති බව මහනුවර දිස්ත්‍රික් ආපදා කළමණාකරණ මධ්‍යස්ථානය පවසයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "bd7a167f1c513595a196c1eb6dd1942dd23cef39f4871c80cb225351f84c287d"
+      },
+      {
+        "title": "තේ කර්මාන්තය සාමාන්‍ය පරිදි අරඹයි",
+        "url": "https://www.ada.lk/breaking_news/තේ-කර්මාන්තය-සාමාන්‍ය-පරිදි-අරඹයි/11-420003",
+        "timestamp": "1 12 2025 17:31:00",
+        "byline": "පසුගිය දින කිහිපය තුල නුවරඑලිය දිස්ත්‍රික්කයට ඇද හැලුණු අධික වර්ෂාවත් සමග අඩාල වී තිබූ වතුකරයේ තේ දළු නෙලීම් සහ තේ නිෂ්පාදන කටයුතු (01) දින සිට සාමාන්‍ය පරිදි සිදු කරන බව වතු අධිකාරිවරුන් පැවසීය.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "8d19e6cb892df33f4915b55b5fe1d0b12a6434cf3ce3da5dc146ed597eebd330"
+      },
+      {
+        "title": "පාර්ලිමේන්තුවේ වැඩ වෙන්නේ මෙහෙමයි",
+        "url": "https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවේ-වැඩ-වෙන්නේ-මෙහෙමයි/11-420002",
+        "timestamp": "1 12 2025 16:47:00",
+        "byline": "පවතින ආපදා තත්ත්වය හේතුවෙන් හෙට (02) පාර්ලිමේන්තුව රැස් නොවීමටත් නැවත අනිද්දා (03) සහ 5 වැනිදා පාර්ලිමේන්තුව රැස්වීමටත්   පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව විසින් තීරණය කළ බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "30fdca82321f18a654865f880f9c75adc8feb86ff2069c5c274a92b250a3c34e"
+      },
+      {
+        "title": "හැටන් කොළඹ මාර්ගයේ එක් මංතීරුවක් විවෘතයි",
+        "url": "https://www.ada.lk/breaking_news/හැටන්-කොළඹ-මාර්ගයේ-එක්-මංතීරුවක්-විවෘතයි/11-420001",
+        "timestamp": "1 12 2025 15:59:00",
+        "byline": "පැවති අයහපත් කාළගුණයත් සමග හැටන් කොළඹ ප්‍රධාන මාර්ගයේ ස්ථාන කිහිපයකදී පස් කදු කඩා වැටීම හේතුවෙන් (27) දින සිට සම්පූර්ණයෙන්ම ඇනහිට තිබුණි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1c26ebf34e0269bebc42c5948c34ad9a95d2cb12397f783385347d8c8148097b"
+      },
+      {
+        "title": "ඩ්‍රෝන යැවිම ගැන ගුවන් හමුදාවෙන් නිවේදනයක්",
+        "url": "https://www.ada.lk/breaking_news/ඩ්‍රෝන-යැවිම-ගැන-ගුවන්-හමුදාවෙන්-නිවේදනයක්/11-420000",
+        "timestamp": "1 12 2025 14:39:00",
+        "byline": "ආපදා තත්ත්වයෙන් පීඩාව පත් ප්‍ර දේශවල ඩ්‍රෝන යානා ක්‍රියාත්මක කිරිමේදී මහජනතාවගේ සහයෝගය ශ්‍රි ලංකා ගුවන් හමුදාව විසින් බලාපොරොත්තු වන බව ගුවන් හමුදාව නිවේදනයක් නිකුත් කරමින් පවසයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2ca8ff25d271d73e3fe4edfefcb21580258bd8c9a2c14864761dcbec97d312ef"
+      },
+      {
+        "title": "දිට්වා ලංකාවේ විශාලම බිත්තර නිෂ්පාදකයා හාන්සි කරයි",
+        "url": "https://www.ada.lk/breaking_news/දිට්වා-ලංකාවේ-විශාලම-බිත්තර-නිෂ්පාදකයා-හාන්සි-කරයි/11-419999",
+        "timestamp": "1 12 2025 13:42:00",
+        "byline": "පැවති ධාරානිපාත වර්ෂාව නිසා වාන් දොරටු 8ම විවෘත කිරීමට සිදුවූ දැදුරු ඔය ජලාශයේ පිටාර ජලය හේතුවෙන් ලංකාවේ බිත්තර නිෂ්පාදනය වෙනුවෙන් විශාලම දායකත්වයක් සපයන එම් ඒ එම් ෆාර්ම් ආයතනය මුලූ මනින්ම වනාශ වි ඇත.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4735fedec4be2b5d10a6c357a5bb39c7ed11f76ac46332a9bbc0116c73efdd36"
+      },
+      {
+        "title": "මී උණ රෝගය ගැන සැලකිළිමත් වන්න",
+        "url": "https://www.ada.lk/breaking_news/මී-උණ-රෝගය-ගැන-සැලකිළිමත්-වන්න/11-419995",
+        "timestamp": "1 12 2025 12:59:00",
+        "byline": "අධි අවදානම් කලාප වල ගංවතුරට නිරාවරණය වුණු සියලුදෙනා මී උණ රෝගයට ගොදුරු විය හැකි බැවින් ඒ පිළිබඳව සැලකිලිමත් වන ලෙස විශේෂඥ වෛද්‍ය තුෂානි දඹරේරා  මහත්මිය සඳහන් කරයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "cda0204c34a888f7a4967a9c56753945bae69bc50c121dc16c4e73afe3cc03ae"
+      },
+      {
+        "title": "කතරගම දේවාලයට පිවිසුම් මාර්ග සියල්ල යථා තත්වයට",
+        "url": "https://www.ada.lk/breaking_news/කතරගම-දේවාලයට-පිවිසුම්-මාර්ග-සියල්ල-යථා-තත්වයට/11-419993",
+        "timestamp": "1 12 2025 12:01:00",
+        "byline": "මැණික් ගඟ පිහිටාර ගැලීමෙන් කතරගම පුදබිමට පිවිසෙන පිවිසුම් මාර්ග සියල්ල අවහිරවී තිබිණි. මැණික් ගඟේ ජලය අඩුවීමත් සමඟ ජල මට්ටම පහළ බැස තිබූ අතර මේ වන විට කතරගම දේවාලයට පිවිසෙන සියලුම පිවිසුම් මාර්ග  පිරිසිදු කර යළි යථා තත්වයට පත් කිරීමට හැකි වූ බැව් රුහුණු කතරගම මහා දේවාලයේ වැඩබලන බස්නායක නිලමේ තැන්පත් ආරච්චිගේ තිළිණ මධුසංඛ අබේරත්න මහතා පැවසීය.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f355cd82bb7a5c13303397ac95323c9eb1df5c51a8761ac3ae6d3440c4255bab"
+      },
+      {
+        "title": "ධීවර හා නාවික කටයුතුවලට තිබූ බාධාව ඉවතට",
+        "url": "https://www.ada.lk/breaking_news/ධීවර-හා-නාවික-කටයුතුවලට-තිබූ-බාධාව-ඉවතට/11-419991",
+        "timestamp": "1 12 2025 11:19:00",
+        "byline": "දිට්වා සුළි කුණාටුව හේතුවෙන් දිවයින වටා මුහුදු ප්‍ර දේශවල ධීවර හා නාවික කටයුතු යෙදීම වළක්වමින් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ අනතුරු ඇඟවීම ඉවත් කිරීමට ඒම දෙපාර්තමේන්තුව කටයුතු කර තිබේ. අද පෙරවරු 9.00ට මෙම නිවේදනය නිකුත් කර තිබේ.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6568fc3d5caf3f45c8900fa8175f93789918559424ff15b4653be394ace888f8"
+      },
+      {
+        "title": "පාර්ලිමේන්තුව අද 12.30ට අවසන් - හෙටත් නිවාඩු",
+        "url": "https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව-අද-12-30ට-අවසන්---හෙටත්-නිවාඩු/11-419992",
+        "timestamp": "1 12 2025 10:33:00",
+        "byline": "පාර්ලිමේන්තු රැස්වීම අද පස්වරු 12.30ට අවසන් කිරීමට පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාව තීරණය කර තිබේ.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3f3ebb9bcd2fe01735b57f848500902611eb42de82b4a6d734c1cf97711a688a"
+      },
+      {
+        "title": "ස්වාභාවික අනතුරු පූර්ව ඇඟවීමේ කටයුතුවලට වෙන්කළ මුදලින් සියයට 77ක්ම ප්‍රයෝජනයට ගෙන නෑ",
+        "url": "https://www.ada.lk/breaking_news/ස්වාභාවික-අනතුරු-පූර්ව-ඇඟවීමේ-කටයුතුවලට-වෙන්කළ-මුදලින්-සියයට-77ක්ම-ප්‍රයෝජනයට-ගෙන-නෑ/11-419990",
+        "timestamp": "1 12 2025 10:21:00",
+        "byline": "අධිබලපෑම් සහිත කාලගුණය, ගංවතුර සහ නායයාම් පිළිබද  පුරෝකථනය සහ  පූර්ව අනතුරු ඇගවිමේ කටයුතු සදහා රුපියල් මිලියන  1,503ක ඇස්තමේන්තුගත ප්‍රතිපාදනයක් ඉකුත් වර්ෂයේ (2024)  වෙන්කොට තිබුනද    ඉන් වැයකොට ඇත්තේ රුපියල්  මිලියන 357.55ක් හෙවත් සියයට 23.79ක් බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "694900903f478f74cf8775610a976d93ea9fc2fcbfafa193b02ba7439ae3c39b"
+      },
+      {
+        "title": "වැලිකඩ රැඳවියන්ගේ ආහාර වේලක්  කොළඹ ආපදාවට පත්වූවන්ට",
+        "url": "https://www.ada.lk/breaking_news/වැලිකඩ-රැඳවියන්ගේ-ආහාර-වේලක්--කොළඹ-ආපදාවට-පත්වූවන්ට/11-419989",
+        "timestamp": "1 12 2025 09:09:00",
+        "byline": "හදිසි ආපදා තත්වය හේතුවෙන් ඇති වු ගංවතුරින් පීඩාවට පත් කොළඹ දිස්ත්‍රික්කයේ ජනතාවට බෙදාදීම සදහා වැලිකඩ බන්ධනාගාරයේ සිර දඩුවම් නියමව සිටින රැදවියන්ගේ 2025 දෙසැම්බර් 01 වන දින දෛනික ආහාරවේලෙන් එක් ආහාරවේලක් සදහා යොදා‌ ගන්නා  ද්‍රව්‍ය පරිත්‍යාග කිරීමට පියවර ගෙන තිබේ. එම වියළි ආහාර ද්‍රව්‍ය කොළඹ මහ නගර සභාව හරහා පීඩාවට පත් ජනතාවට බෙදාදීමට කටයුතු යොදා ඇති අතර, අදාළ වියළි ආහාර ද්‍රව්‍ය ජනතාවට බෙදාදීම සදහා කොළඹ මහ නගර සභාවේ නියෝජ්‍ය නගරාධිපතිතුමා වෙත භාරද",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c38b44b2664ec9377a745440d32be51a265787a443dfa9edd03ae900d6113c2d"
+      },
+      {
+        "title": "ආරක්ෂිත දිවා සුරැකුම් මධ්‍යස්ථාන අද සිට විවෘත කරන්න",
+        "url": "https://www.ada.lk/breaking_news/ආරක්ෂිත-දිවා-සුරැකුම්-මධ්‍යස්ථාන-අද-සිට-විවෘත-කරන්න/11-419987",
+        "timestamp": "1 12 2025 08:21:00",
+        "byline": "පවතින ආපදා තත්ත්වය තුළ ජනතාවගේ අවශ්‍යතා සපුරාලීම උදෙසා ක්‍රියාත්මක අත්‍යවශ්‍ය සේවා හි නිරත රජයේ සහ පුද්ගලික අංශයේ නිලධාරීන් සහ වෘත්තිකයන්ගේ දරුවන් රැකබලා ගැනීම වෙනුවෙන් අද (01) වන දින සිට ආරක්ෂිත බව තහවුරු කරන ලද දිවා සුරැකුම් මධ්‍යස්ථාන නැවත ආරම්භ කරන මෙන් කාන්තා සහ ළමා කටයුතු අමාත්‍ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහත්මිය සියලුම දිවා සුරැකුම් මධ්‍යස්ථාන භාර නිලධාරීන්ගෙන් ඉල්ලා සිටී.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5d802eeb93cffb8cf273245f5c712b0fc74bbe10483438b05ec41b8ada0a8456"
+      },
+      {
+        "title": "අද වැසි වාර කිහිපයක් පමණයි",
+        "url": "https://www.ada.lk/breaking_news/අද-වැසි-වාර-කිහිපයක්-පමණයි/11-419986",
+        "timestamp": "1 12 2025 07:28:00",
+        "byline": "උතුරු, බස්නාහිර, සබරගමුව හා දකුණු පළාත්වලත් මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් අද දිනයේදි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමෙන්තුව පවසයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "42739de90fbfc12225afa23c644df7942718772c00dd80f36f8335ef9a044bc1"
+      },
+      {
+        "title": "ජනපති ජාතිය අමතයි",
+        "url": "https://www.ada.lk/breaking_news/ජනපති-ජාතිය-අමතයි/11-419985",
+        "timestamp": "30 11 2025 19:24:00",
+        "byline": "ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (30) රාත්‍රි 8.30ට ජාතිය අමතා විශේෂ ප්‍රකාශයක් සිදුකිරීමට නියමිතයි. ඒම  ප්‍රකාශය සියලුම මාධ්‍ය හරහා විකාශය කිරීමට නියමිතය.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f505ce23bc2efefccb6e82275b41f8b5adc10fc12fc249ca764f26057d4b271e"
+      },
+      {
+        "title": "ශ්‍රී පාද මළුවේ නාය යෑමක් නෑ",
+        "url": "https://www.ada.lk/breaking_news/ශ්‍රී-පාද-මළුවේ-නාය-යෑමක්-නෑ/11-419984",
+        "timestamp": "30 11 2025 18:20:00",
+        "byline": "ශ්‍රී පාද මළුවේ නායයෑමක් සිදු වී ඇති බවට ඇතැම් සමාජ මාධ්‍යවල පලවුණ පුවත්වල කිසිදු සත්‍යතාවක් නොමැති බව ශ්‍රි පාදස්ථානාධිපති ඌව වෙල්ලස්ස විශ්ව විද්‍යාලයේ කුලපති, සබරගමු රත්නපුර මහ දිසාවේ ප්‍රධාන සංඝ නායක , පැල්මඩුලු දාගැබ් රජමහා විහාරාධිශ්වර , ධර්ම කිර්ති ශ්‍රි ත්‍රිපිටකාචාර්ය, ශ්‍රි සුමංගල රතනපාල ධම්මරක්ඛිතාභිධාන , බෙන්ගමුවේ ශ්‍රි ධම්මදින්න නාහිමියන් පැවසූූහ.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "89aa36bb539a577fea36466de8779d4cccbd0ad4995bd57675c1e460dc6d3c7f"
+      },
+      {
+        "title": "ගලවා ගැනීමට ගිය හෙලිකොප්ටරයක් අනතුරක",
+        "url": "https://www.ada.lk/breaking_news/ගලවා-ගැනීමට-ගිය-හෙලිකොප්ටරයක්-අනතුරක/11-419983",
+        "timestamp": "30 11 2025 18:13:00",
+        "byline": "ලුණුවිල හා වෙන්නප්පුව අතර ප්‍ර දේශවල ජල ගැනිමෙන් විපතට පත් පිරිසක් මුදවා ගැනීමට ගිය ගුවන් හමුදාවට අයත් හෙලිකොප්ටරයක් අනතුරට ලක්ව ඇති බව වාර්තා වෙයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2e9e59f89e533c8b60e1fdea2c64cbdf4676e90a2ebc1b01655f7e7be9361e39"
+      },
+      {
+        "title": "දායකයෙක් සමග චෛත්‍යයේ කොතට වී  තෙදිනක් ගතකර දිවි බේරාගත් හාමුදුරුවෝ",
+        "url": "https://www.ada.lk/picture_story/දායකයෙක්-සමග-චෛත්‍යයේ-කොතට-වී--තෙදිනක්-ගතකර-දිවි-බේරාගත්-හාමුදුරුවෝ/10-419982",
+        "timestamp": "30 11 2025 16:08:00",
+        "byline": "’’27දින රාත්‍රිය වනවිට ගංවතුර ඇතිවන බව දැනගත්තා. නමුත් මීට පෙර අවස්ථා කිහිපයකම තියෙන අත් දැකීම් අනුව මම හිතුන වෙනද වගේම සාමන්‍ය ගංවතුර තත්වයක් ඇතිවෙයි කියල.ඒ නිසා මම හිටියා. මමත් එක්ක බාලසූරිය මාමත් හිටිය .චෛත්‍ය පහළ ඉඳලා වතුර වැඩි වෙනකොට චෛත්‍ය උඩටම ගියා එහි කොටසක ඉන්න පුළුවන් කම තියෙනව.වැස්ස නිසා කුඩත් ඉහළගෙන හිටියා. පස්සෙ හමුදාව බෝටබෝට්ටුවලින් ඇවිත් ඉන්නවත් දැක්ක අපි එයාලට කෑගහුව නමුත් වැඩක් වුනේ නෑ.’’",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "beab28876a9ff6a1cb945cddf330ad6005417ac553859e9e094939fcd1c42bbe"
+      },
+      {
+        "title": "රඹුකේඇල නාය යෑමෙන් යට වූ 43 දෙනාගෙන් මෘත ශරීර අටක් හමු වෙයි",
+        "url": "https://www.ada.lk/breaking_news/රඹුකේඇල-නාය-යෑමෙන්-යට-වූ-43-දෙනාගෙන්-මෘත-ශරීර-අටක්-හමු-වෙයි/11-419981",
+        "timestamp": "30 11 2025 16:00:00",
+        "byline": "අලවතුගොඩ පොලිස් බල ප්‍රදේශයට අයත් රඹුකේඇල මුදුනේකඩේ ප්‍රදේශයේ සිදු වී අති විශාල නායයෑමක් හේතුවෙන්  පවුල් 15 ක පමණ පුද්ගලයින් 43 දෙනෙකු අතුරුදහන්ව  ඇති අතර ශ්‍රී ලංකා  යුද හමුදාව, පොලීසිය  සහ ප්‍රදේශවාසින් එක්ව සිදු කළ  මෙහෙයුමකින් පසුව ඊයේ 29 වනදා සවස් වන විට මෘත ශරීර අටක් සොයා ගැනීමට හැකි විය.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fa167535ed20bfde2f3a92f70db6436b3932fde854d94feaa57a9338de36cd00"
+      },
+      {
+        "title": "කොත්මලේ පාලුවත්ත ප්‍ර දේශයේ නාය යෑමේ දැඩි අවධානමක්",
+        "url": "https://www.ada.lk/uncategorized/කොත්මලේ-පාලුවත්ත-ප්‍ර-දේශයේ-නාය-යෑමේ-දැඩි-අවධානමක්/1-419980",
+        "timestamp": "30 11 2025 14:25:00",
+        "byline": "තලවකැලේ තවලන්තැන්න මාර්ගය නායයයි. කොත්මලේ පාලුවත්ත ප්‍රදේශයේ නිවාස රැසක් නායයැමේ අවධානමක.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "cb1b473151dda3524fba6b0c60535d422a5a65034b850b09f98bdb16a29972c2"
+      },
+      {
+        "title": "වලපනේ රෝහලේ නාය යෑමෙන් 11ක් ජීවිතක්ෂයට",
+        "url": "https://www.ada.lk/breaking_news/වලපනේ-රෝහලේ-නාය-යෑමෙන්-11ක්-ජීවිතක්ෂයට/11-419979",
+        "timestamp": "30 11 2025 11:51:00",
+        "byline": "වලපනේ ප්‍රාදේශීය රෝහලේ නායයෑමෙන් ජීවිතක්ෂයට පත් 11 දෙනෙකුගේ සිරුරු ඇති බවත්, එම රෝහලට අවශය පහසුකම් ලබා දෙන ලෙස මයිලගස්තැන්නේ ධම්මදින්න හිමියෝ ඉල්ලති.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5d8748f69211aa4801ba7f6471c00071d13d2114cf3488503caf77580cc8dcaf"
+      },
+      {
+        "title": "වහළ මත සවිකර ඇති සූර්ය පැනල ක්‍රියාවිරහිත කරන්න",
+        "url": "https://www.ada.lk/breaking_news/වහළ-මත-සවිකර-ඇති-සූර්ය-පැනල-ක්‍රියාවිරහිත-කරන්න/11-419978",
+        "timestamp": "30 11 2025 11:09:00",
+        "byline": "විදුලි බල පද්ධතියේ දක්නට ලැබෙන සැලකිය යුතු අඩු ඉල්ලුම හේතුවෙන් පවතින ආපදා කාලය තුළ වහල මත සවි කර ඇති සූර්ය පැනල හිමිකරුවන් අද පස්වරු 3 දක්වා ස්වේච්ඡාවෙන් තම සූර්ය පැනල ක්‍රියා විරහිත කරන ලෙස ලංකා විදුලි බල මණ්ඩලය එම හිමිකරුවන්ගෙන් ඉල්ලීමක් කර තිබේ. ජාතික විදුලිබල පද්ධතියේ විශ්වසනීය හා ස්ථාවර ක්‍රියාකාරිත්වය සහකිත කිරීම සඳහා සූර්ය පැනල ක්‍රියා විරහිත කිරීමට අවශ්‍ය වේ.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ae5f77f4fb58f27f0537bdc16721077c7d34701458b40ec04a1488d7526b17d0"
+      },
+      {
+        "title": "කොත්මලේ නැගෙනහිරට ආපදා රැසක් - සහන කණ්ඩායම්වලට ළගා වෙන්න බෑ",
+        "url": "https://www.ada.lk/breaking_news/කොත්මලේ-නැගෙනහිරට-ආපදා-රැසක්---සහන-කණ්ඩායම්වලට-ළගා-වෙන්න-බෑ/11-419977",
+        "timestamp": "30 11 2025 10:58:00",
+        "byline": "කොත්මලේ නැගෙනහිර කලාපයේ ආපදා රැසක් සිදු වී ඇති බවත්, එම ස්ථානවලට ලගා විමට නොහැකි තත්වයක් උද්ගත වී ඇති බව නුවරඑලිය දිස්ත්‍රික් පා.ම. අනුෂ්කා ප්‍රියදර්ශනි මහත්මිය මාධ්‍ය හමුවේ කියයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ee365993171868d279085d6779b97e30305bcdec8da38665195d3abc191ee297"
+      },
+      {
+        "title": "අද සිට වැස්ස අඩුවෙයි",
+        "url": "https://www.ada.lk/breaking_news/අද-සිට-වැස්ස-අඩුවෙයි/11-419976",
+        "timestamp": "30 11 2025 08:09:00",
+        "byline": "දිට්වා සුළි කුණාටුව හේතුවෙන් ඇතිවී වැසි සහිත කාලගුණ තත්ත්වනේ අඩුවීමක් අද (නොවැම්බර් 30) සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. කෙසේ වෙතත් අද දිනයේදී උතුර, උතුරුමැද, වයඹ, බස්නාහිර, සබරගමුව පළාත්වලත් ගාල්ල, මාතර, මහනුවර හා නුවරඑළිය දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව එම දෙපාර්තමේන්තුව දන්වා සිටියි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e9648d0f5c104e92e8292a48332e537041ce2970461decc5cbf9477614e5b92d"
+      },
+      {
+        "title": "වැලිමඩ රේන්දපොල දරුණු නාය යාමක්",
+        "url": "https://www.ada.lk/breaking_news/වැලිමඩ-රේන්දපොල-දරුණු-නාය-යාමක්/11-419975",
+        "timestamp": "30 11 2025 07:28:00",
+        "byline": "වැලිමඩ රේන්දපොල ඊයේ 29 රාත්‍රී බිහිසුණු නායාමක් සිදුවී ඇති බවත් ශ්‍රී  ලංකා යුද හමුදාවේ කඩිනම් මෙහෙයුමකින් ආර්ජන්ටිනා හා මෙක්සිකානු විදේශීය සංචාරක කාන්තාවන් තිදෙනෙකු ඇතුළු තවත් දහයකට අධික පිරිසක් මුදවා ගනු ලැබූ බවත් බදුල්ල  ආපදා කළමනාකරන මධ්‍යස්ථානය පැවසීය .",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b359273fd9b5f0b7f9e6068ac4d828b5bb6014292de591354b2b24b90d633aaa"
+      },
+      {
+        "title": "දිට්වා 193ක් බිලි ගනියි, 228ක් අතුරුදන්",
+        "url": "https://www.ada.lk/breaking_news/දිට්වා-193ක්-බිලි-ගනියි--228ක්-අතුරුදන්/11-419974",
+        "timestamp": "29 11 2025 18:17:00",
+        "byline": "2025/11/30 12.00  PM\n\nදිවයිනට බලපා අධික වැසි සහිත කාලගුණ තතත්වය හේතුවෙන් අද (30දා) පස්වරු 12.00 වන විට පුද්ගලයන් 193ක් ජීවිතක්ෂයට පත්ව ඇති අතර තවත් පුද්ගලයන් 228ක් අතුරුදන්ව ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "dd1e2ddc3fcdb18a061b9cc63d5a8a62342d4919400b26a9ab3949e55f5f117b"
+      },
+      {
+        "title": "සේනානායක සමුද්‍රයේ වම් ඇළට ජීප් රියක් වැටි පුද්ගලයෙක් මරුට",
+        "url": "https://www.ada.lk/uncategorized/සේනානායක-සමුද්‍රයේ-වම්-ඇළට-ජීප්-රියක්-වැටි-පුද්ගලයෙක්-මරුට/1-419973",
+        "timestamp": "29 11 2025 14:41:00",
+        "byline": "ඉගිණියාගල සිට අම්පාර දක්වා ගමන් කරමින් තිබු  මොටර් රථයක්පොල්වත්ත හන්දිය පාලම  අසලදි සේනානායක සමුද්‍රයෙන් එන ප්‍රධාන වම් ඇලට වැටි පුද්ගලයෙක් මියගොස් තිබේ.",
+        "isoTimestamp": "2025-12-01T20:44:05+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4763ebdb1dc18067f30876b1473a6bdc38a681e8502f7ee1cefa28711886a401"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Double down to tackle Sri Lanka’s freshwater tsunami",
+        "url": "https://economynext.com/double-down-to-tackle-sri-lankas-freshwater-tsunami-250991/",
+        "timestamp": "December 1, 2025",
+        "byline": "This time it is a freshwater tsunami engulfing the entire country",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5ebc719aa2936f08e0856407e326362bdd8b305dc8a193c007090ebb4a3acbbf"
+      },
+      {
+        "title": "Sri Lanka announces hotlines for stranded tourists",
+        "url": "https://economynext.com/sri-lanka-announces-hotlines-for-stranded-tourists-250975/",
+        "timestamp": "December 1, 2025",
+        "byline": "Foreign tourists are advised to contact the following designated officers and hotlines for assistance:",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ba91dd1c31daa043b656bc0b1da9e8ce5c1a5feb3752a29ae18df4a18ea1e833"
+      },
+      {
+        "title": "Sri Lanka telco battles Cyclone Ditwah to restore connectivity",
+        "url": "https://economynext.com/sri-lanka-telco-battles-cyclone-ditwah-to-restore-connectivity-250910/",
+        "timestamp": "December 1, 2025",
+        "byline": "Teams from all telecom networks backed by the military worked",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "03bf596fb40176df57bf8d63090ae36c08d13d15dbba49f9ab8bf7e9193337e5"
+      },
+      {
+        "title": "Sri Lanka stocks plunge 2.84-pct at open after Cyclone Ditwah",
+        "url": "https://economynext.com/sri-lanka-stocks-plunge-2-84-pct-at-open-after-cyclone-ditwah-250919/",
+        "timestamp": "December 1, 2025",
+        "byline": "\"There is some panic selling, which we have seen in the past, too, following a disaster,\"",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "70789c16b51e92dfc3e0df895be888d17d4b0652a9e4e024b1501c6d940bf6e8"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields slightly higher",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-slightly-higher-250908/",
+        "timestamp": "December 1, 2025",
+        "byline": "Stocks were trading down",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f65dc214f4f80bce378dd7191fc6b7299012993c5839fd484e6b68d157e615bb"
+      },
+      {
+        "title": "Sri Lanka has Rs30bn for disaster, supplementary estimates if needed: President",
+        "url": "https://economynext.com/sri-lanka-has-rs30bn-for-disaster-supplementary-estimates-if-needed-president-250904/",
+        "timestamp": "December 1, 2025",
+        "byline": "We will take action through supplementary estimates and Parliament to secure additional provisions",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0710750e577c5dc20d458e158194afc887db59daeeb3675138f18eb38672e887"
+      },
+      {
+        "title": "Cyclone Ditwah kills 334 in Sri Lanka, floods and landslides hit 1.1 million",
+        "url": "https://economynext.com/cyclone-ditwah-kills-334-in-sri-lanka-floods-and-landslides-hit-1-1-million-250896/",
+        "timestamp": "December 1, 2025",
+        "byline": "Highest toll taken on the people of Kandy district followed by Badulla",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "64345093db634c7264a5049fb1d194414fb385b31a37ec0ce60752323816a59a"
+      },
+      {
+        "title": "Sri Lanka President's address to the nation after cyclone Ditwah disaster",
+        "url": "https://economynext.com/sri-lanka-presidents-address-to-the-nation-after-cyclone-ditwah-disaster-250890/",
+        "timestamp": "December 1, 2025",
+        "byline": "Looking ahead, we must face the immense task of reconstruction and recovery",
+        "isoTimestamp": "2025-12-01T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "00a3422f80ff0e9d87d8f2755d655087d81e2de68e552646567b536558ad6564"
+      },
+      {
+        "title": "Sri Lanka cyclone floods begin to ease, irrigation infrastructure intact",
+        "url": "https://economynext.com/sri-lanka-cyclone-floods-begin-to-ease-irrigation-infrastructure-intact-250827/",
+        "timestamp": "November 30, 2025",
+        "byline": "Floods peaking in most areas except downriver Mahaweli in Trincomalee district",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "40a55c4561b5dd897cec56430fab1723e84e7db71e5e4ad2c9393f871640d5e7"
+      },
+      {
+        "title": "India, Pakistan send rescue teams to Sri Lanka after Cyclone Ditwah disaster",
+        "url": "https://economynext.com/india-pakistan-send-rescue-teams-to-sri-lanka-after-cyclone-ditwah-disaster-250835/",
+        "timestamp": "November 30, 2025",
+        "byline": "Many flood hits area still are not accessible by relief workers; many people are still in rubble",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "613afb4ddd1e315651bf8ae44e8680f3ea983eff142889fbe9db93a825f5f2ea"
+      },
+      {
+        "title": "Sri Lanka cyclone deaths rise to 212, roads, rail damaged, crops under water",
+        "url": "https://economynext.com/sri-lanka-cyclone-deaths-rise-to-212-roads-rail-damaged-crops-under-water-250808/",
+        "timestamp": "November 30, 2025",
+        "byline": "One million hit by floods and landslides",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e93a60457ecd4ca395203ab87c0dba4f5c917699ed941be6704d646d8e6f6502"
+      },
+      {
+        "title": "Sri Lanka’s CEB asks for solar panel switch off as sun shines after cyclone",
+        "url": "https://economynext.com/sri-lankas-ceb-asks-for-solar-panel-switch-off-as-sun-shines-after-cyclone-250801/",
+        "timestamp": "November 30, 2025",
+        "byline": "Requests rooftop solar system owners to voluntarily switch off their solar inverters today until 3:00 PM",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c843193dd43ec80b9721e13b00ea464e2df6a0bd106cbdf1b4d9d9da98bc7d5e"
+      },
+      {
+        "title": "Cyclone Ditwah hits 206 major roads in Sri Lanka, 10 bridges damaged",
+        "url": "https://economynext.com/cyclone-ditwah-hits-206-major-roads-in-sri-lanka-10-bridges-damaged-250790/",
+        "timestamp": "November 30, 2025",
+        "byline": "Bridges could be made usable with Baily Bridges and causways",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6fd6d1f0a59a0b539dea8f6a8baeafd623b58e8b9bdd17d6e50c5cb252cd4400"
+      },
+      {
+        "title": "Sri Lanka's president meets business community to seek cooperation",
+        "url": "https://economynext.com/sri-lankas-president-meets-business-community-to-seek-cooperation-250786/",
+        "timestamp": "November 30, 2025",
+        "byline": "Challenges faced by industrial sector amid emergency and urgent measures required to ensure sector progress discussed",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "aa4408d4e226a2ff0e1dc8e10e736f3cba6db37f628c5318979ac089121146c6"
+      },
+      {
+        "title": "Sri Lanka's Mavil Aru Reservoir bund breached in multiple places",
+        "url": "https://economynext.com/sri-lankas-mavil-aru-reservoir-bund-breached-in-multiple-places-250778/",
+        "timestamp": "November 30, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4f48f9f86a2cf1149f3e2b16dbacaeee1c33353cea1a17d1080146b78c74e2ae"
+      },
+      {
+        "title": "Flood alert for Battaramulla, Malabe, Athurugiriya low lying areas in Sri Lanka cyclone",
+        "url": "https://economynext.com/flood-alert-for-battaramulla-malabe-athurugiriya-low-lying-areas-in-sri-lanka-cyclone-250733/",
+        "timestamp": "November 30, 2025",
+        "byline": "Critical flood alert issued for Mahaweli lower catchment areas",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ea8588a141f19f3dc882eac6ad8df556a32d2a3ea686c97607935d4567e94d3e"
+      },
+      {
+        "title": "Japan sends disaster assessment team to Sri Lanka after cyclone",
+        "url": "https://economynext.com/japan-sends-disaster-assessment-team-to-sri-lanka-after-cyclone-250730/",
+        "timestamp": "November 30, 2025",
+        "byline": "Mulls sending Japan Disaster Response team",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a33149e1df1786911d210a0ac28b3af47c45168322cdb466644fa15054801656"
+      },
+      {
+        "title": "Sri Lanka extends visas free to tourists, says airlines to waive date change fees",
+        "url": "https://economynext.com/sri-lanka-extends-visas-free-to-tourists-says-airlines-to-waive-date-change-fees-250723/",
+        "timestamp": "November 30, 2025",
+        "byline": "Passenger  declaration to be sufficient to qualify for date change fee waiver",
+        "isoTimestamp": "2025-11-30T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4bfa52288ab6db60df1de9d13dd0c42002306eb9087959c12798983f5ca02ace"
+      },
+      {
+        "title": "Death toll rises to 159 in Sri Lanka’s Ditwah-hit disaster; 203 missing",
+        "url": "https://economynext.com/death-toll-rises-to-159-in-sri-lankas-ditwah-hit-disaster-203-missing-250714/",
+        "timestamp": "November 29, 2025",
+        "byline": "The country has declared state of emergency",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc60e625f956833537351e2d330f520c870743a90b80545d616bf6903bdb2c41"
+      },
+      {
+        "title": "Access to Kandy, Gampola towns in Sri Lanka restored after Cyclone Ditwah",
+        "url": "https://economynext.com/access-to-kandy-gampola-towns-in-sri-lanka-restored-after-cyclone-ditwah-250706/",
+        "timestamp": "November 29, 2025",
+        "byline": "Electricity to be restored starting Saturday evening",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e0ea1e580ee6962b1ebcadc5f97d024c170bceabc0a5211e85ef76bd6ec60d53"
+      },
+      {
+        "title": "Access to Kandy, Gampola towns in Sri Lanka restored after Cyclone Ditwah",
+        "url": "https://economynext.com/access-to-kandy-gampola-towns-in-sri-lanka-restored-after-cyclone-ditwah-250706/",
+        "timestamp": "November 29, 2025",
+        "byline": "Electricity to be restored starting Saturday evening",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e0ea1e580ee6962b1ebcadc5f97d024c170bceabc0a5211e85ef76bd6ec60d53"
+      },
+      {
+        "title": "Sri Lanka declares state of emergency as death toll from Ditwah rises",
+        "url": "https://economynext.com/sri-lanka-declares-state-of-emergency-as-death-toll-from-ditwah-rises-250692/",
+        "timestamp": "November 29, 2025",
+        "byline": "The cyclone brought heavy rains and strong winds casing death and destruction across the island nation.",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b87315ca3e092febd946ded85cdb02166bf7e04391e81c140cbe843e8d64ae7f"
+      },
+      {
+        "title": "Cyclone Ditwah kills 132 in Sri Lanka 646,000 hit by floods, landslides",
+        "url": "https://economynext.com/cyclone-ditwah-kills-132-in-sri-lanka-646000-hit-by-floods-landslides-250665/",
+        "timestamp": "November 29, 2025",
+        "byline": "The Kandy district in the hill country which includes Gampola, has seen 52 people dead and 105 missing",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "43a12f2299c218934e8f89e70b90fb5ae9d15a89c5b79de45d723415112c7265"
+      },
+      {
+        "title": "SriLankan asks pilots, cabin crew to contact airline amid communication disruption",
+        "url": "https://economynext.com/srilankan-asks-pilots-cabin-crew-to-contact-airline-amid-communication-disruption-250662/",
+        "timestamp": "November 29, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a01a675e1ee471697f1cccbe9636b09efe6bfa3655cdcc3b851ac8118064a43d"
+      },
+      {
+        "title": "Sri Lanka current forex inflows $200mn above record high imports in October",
+        "url": "https://economynext.com/sri-lanka-current-forex-inflows-200mn-above-record-high-imports-in-october-250629/",
+        "timestamp": "November 29, 2025",
+        "byline": "Investment goods, base metals, vehicle imports up, amid strong credit growth",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f6afb660c6d2b9cc1f7440fbb9627d1918dcb3ffdd0f9cde66e9819cad1c8505"
+      },
+      {
+        "title": "Cyclone Ditwah kills 123 in Sri Lanka, 130 missing",
+        "url": "https://economynext.com/cyclone-ditwah-kills-123-in-sri-lanka-130-missing-250645/",
+        "timestamp": "November 29, 2025",
+        "byline": "The highest reported death toll so far of 51 is from the Kandy district. The missing is 67",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dadf68d024f657e2baa3bb456c69c1b49d3a7e2d6f76cb1a5f437a70f4196942"
+      },
+      {
+        "title": "Sri Lanka construction expands in October 2025: PMI",
+        "url": "https://economynext.com/sri-lanka-construction-expands-in-october-2025-pmi-250566/",
+        "timestamp": "November 29, 2025",
+        "byline": "With many respondents reporting an increase in government-funded projects, New Orders rose from September to October.",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d2afee14da6cc297ef954e170b9bebb24df440c8d9e93c335a9d6d33cd3af2e3"
+      },
+      {
+        "title": "Cyclone Ditwah waters rush down Sri Lanka rivers flooding coastal towns",
+        "url": "https://economynext.com/cyclone-ditwah-waters-rush-down-sri-lanka-rivers-flooding-coastal-towns-250593/",
+        "timestamp": "November 29, 2025",
+        "byline": "Colombo's Hanwella, Gampaha, Ja-Ela, Negombo, Giriulla face higher water levels",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "70f8046e817eff69d8bdf2d94374a3455e9c382ccf681582e90ac9ca443c5d3f"
+      },
+      {
+        "title": "India gives relief supplies from aircraft carrier Vikrant to Sri Lanka cyclone victims",
+        "url": "https://economynext.com/india-gives-relief-supplies-from-aircraft-carrier-vikrant-to-sri-lanka-cyclone-victims-250581/",
+        "timestamp": "November 29, 2025",
+        "byline": "India has so far provided 4.5 tons of dry rations and 2 tons of fresh rations",
+        "isoTimestamp": "2025-11-29T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ea6f5bdb3631b56cd2b8b065ab2d2e19f0ea552387d799e501b159f9d714fb0d"
+      },
+      {
+        "title": "Death toll rises to 69 in Sri Lanka’s worst floods in 8 years as Ditwah prevails",
+        "url": "https://economynext.com/death-toll-rises-to-69-in-sri-lankas-worst-floods-in-8-years-as-ditwah-prevails-250574/",
+        "timestamp": "November 28, 2025",
+        "byline": "Most people have died from Badulla district while most missing recorded from Kandy",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0d8962bc70876dcb7cbb17e9582e27cf50a844a4ed1ea3d2488bffd04e8ec94b"
+      },
+      {
+        "title": "Sri Lanka invites expatriates, foreigners to support disaster relief fund",
+        "url": "https://economynext.com/sri-lanka-invites-expatriates-foreigners-to-support-disaster-relief-fund-250572/",
+        "timestamp": "November 28, 2025",
+        "byline": "At least 69 have been killed so far in the disaster",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "93d3b9e0b5df0edebac4c446cfac86450ca92d880582c513b49bbdaaccb0c672"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs2.2bn Treasury bonds after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs2-2bn-treasury-bonds-after-auction-250562/",
+        "timestamp": "November 28, 2025",
+        "byline": "Bringing the total of bonds sold in the week to 41.6 billion",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dfdc353c31a08ef138d041b119f1d960f7c529df4abdea114f41e6bfad721667"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs80mn Treasury bills after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs80mn-treasury-bills-after-auction-250558/",
+        "timestamp": "November 28, 2025",
+        "byline": "Bringing the total of bills sold this week to 55.71 billion rupees.",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "7814d691cb6b4728fa638707eccf2b3468ca964ad946334581bf2d53995b0229"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-steady-250556/",
+        "timestamp": "November 28, 2025",
+        "byline": "Rupee depreciated from last Friday's close of 307.80/95",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6465e6258906f2aaf671de1897e7bc17dec81c19c9ed02140c22ce1b9c4f7718"
+      },
+      {
+        "title": "India provides rations to Ditwah-hit Sri Lanka",
+        "url": "https://economynext.com/india-provides-rations-to-ditwah-hit-sri-lanka-250551/",
+        "timestamp": "November 28, 2025",
+        "byline": "At least 56 have died so far due to adverse weather in Sri Lanka",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "92082169d07190ee72eeda240b8ba9b703942a8719e4d46f0de592458042cd1e"
+      },
+      {
+        "title": "Access to Sri Lanka’s main airport hit by floods",
+        "url": "https://economynext.com/access-to-sri-lankas-main-airport-hit-by-floods-250546/",
+        "timestamp": "November 28, 2025",
+        "byline": "Sri Lanka's adverse weather has killed at least 56 so far",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c07defd5c0081c713a3fe8062d6f5b1309e1edbb116f9f7041c44ac99a3c3941"
+      },
+      {
+        "title": "Sri Lanka stocks close 0.22-pct higher amidst cyclone Ditwah",
+        "url": "https://economynext.com/sri-lanka-stocks-close-0-22-pct-higher-amidst-cyclone-ditwah-250531/",
+        "timestamp": "November 28, 2025",
+        "byline": "Market ceased trading after 3 hours.",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ad092fff06adecfc351ae43c5312dfdc7e5144552111b11f6a07ebee3e422b97"
+      },
+      {
+        "title": "Sri Lanka president, party leaders, officials discuss emergency situation",
+        "url": "https://economynext.com/sri-lanka-president-party-leaders-officials-discuss-emergency-situation-250526/",
+        "timestamp": "November 28, 2025",
+        "byline": "State officials are due to meet diplomatic corps later today to request for international help, Defence Secretary said",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e2954be6b407a610d94268e5b4cdee39f709d9a9fe870d1aee7f293ac8254fa2"
+      },
+      {
+        "title": "Cyclone Ditwah kills 56 in Sri Lanka, 21 missing as flood waters continue to rise",
+        "url": "https://economynext.com/cyclone-ditwah-kills-56-in-sri-lanka-21-missing-as-flood-waters-continue-to-rise-250492/",
+        "timestamp": "November 28, 2025",
+        "byline": "National Disaster Management Council meets",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8b49f9dbb2e26218bcd18e039830abad20618e1ac52780c5e2199d77d950ca0f"
+      },
+      {
+        "title": "Sri Lanka rupee flat, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-bond-yields-steady-250488/",
+        "timestamp": "November 28, 2025",
+        "byline": "Bond yields were broadly steady",
+        "isoTimestamp": "2025-11-28T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a85d88545e3c57e42125bac1a38912ee6c319be2d1df635dc87f643127fedb6a"
+      }
+    ]
+  },
+  "newswire": {
+    "success": true,
+    "data": [
+      {
+        "title": "‘Rebuilding Sri Lanka’ Fund Established: Committee announced",
+        "url": "https://www.newswire.lk/2025/12/01/rebuilding-sri-lanka-fund-established-committee-announced/",
+        "timestamp": "2025-12-01T20:05:51+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Cabinet approval has been granted to establish the ‘Rebuilding Sri Lanka’ Fund, aimed at rebuilding the country following the severeContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/PSX_20251201_200147.jpg",
+        "isoTimestamp": "2025-12-01T20:05:51+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "9ea47bb4e01e776795e286dd059155f641180ab184134a21de35de631c7c964f"
+      },
+      {
+        "title": "Adverse weather : 366 dead & 367 missing in Sri Lanka",
+        "url": "https://www.newswire.lk/2025/12/01/adverse-weather-366-dead-367-missing-in-sri-lanka/",
+        "timestamp": "2025-12-01T18:09:43+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "A total of 366 deaths have been reported in Sri Lanka due to adverse weather, in the 06 days fromContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/floods-SL.jpg",
+        "isoTimestamp": "2025-12-01T18:09:43+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "e778ce4cbd892ed774a2edbd8ffcc725cc499d9ce998c33c9513026a64331b8b"
+      },
+      {
+        "title": "Extreme weather : Sri Lanka to get World Bank to assess disaster damage",
+        "url": "https://www.newswire.lk/2025/12/01/extreme-weather-sri-lanka-to-get-world-bank-to-assess-disaster-damage/",
+        "timestamp": "2025-12-01T18:07:59+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "President Anura Kumara Dissanayake says the government has begun discussions with the World Bank to prepare a detailed assessment ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/President-AKD.jpg",
+        "isoTimestamp": "2025-12-01T18:07:59+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "da1ae33e7249e37b3fc3dcd71a66071c14915b022284b22ad5b5dbbaa1b64841"
+      },
+      {
+        "title": "China grants USD 1 million donation to support Sri Lanka",
+        "url": "https://www.newswire.lk/2025/12/01/china-grants-usd-1-million-donation-to-support-sri-lanka/",
+        "timestamp": "2025-12-01T18:05:33+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Government of China has announced cash and relief donations to support Sri Lanka, which has faced large-scale disaster dueContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/China-donation.jpg",
+        "isoTimestamp": "2025-12-01T18:05:33+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "9cc441672b131a1a50bc594eb40cb77b4afe808bfbbbc4c18db7d19f74c0d4d3"
+      },
+      {
+        "title": "No change in CCPI- based inflation in November 2025",
+        "url": "https://www.newswire.lk/2025/12/01/no-change-in-ccpi-based-inflation-in-november-2025/",
+        "timestamp": "2025-12-01T17:43:12+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The overall rate of inflation, as measured by the Colombo Consumer Price Index (CCPI) on a year-on-year basis, in NovemberContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/03/Inflation.jpg",
+        "isoTimestamp": "2025-12-01T17:43:12+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "d2ca39ca806af03efce9cc4235eacb366ad5709404de44f341746443b9da05b7"
+      },
+      {
+        "title": "How can goods be sent to Sri Lanka from Overseas : Customs explains",
+        "url": "https://www.newswire.lk/2025/12/01/how-can-goods-be-sent-to-sri-lanka-from-overseas-customs-explains/",
+        "timestamp": "2025-12-01T16:51:24+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The government has announced measures to facilitate the receipt and distribution of humanitarian assistance from overseas donors, with adverse weatherContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Disaster-relief.jpg",
+        "isoTimestamp": "2025-12-01T16:51:24+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "dd681048b44e9f365772a7f38094c1f9e939e75ecba4aaef6e9a2fdfd961701d"
+      },
+      {
+        "title": "Opposition to file criminal case against Govt over disaster deaths",
+        "url": "https://www.newswire.lk/2025/12/01/opposition-to-file-criminal-case-against-govt-over-disaster-deaths/",
+        "timestamp": "2025-12-01T16:47:56+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Opposition says it intends to file a criminal case against the government over the current disaster situation in SriContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/SM-Marikkar.jpg",
+        "isoTimestamp": "2025-12-01T16:47:56+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "07fd074a831cec1b0c5e706e21dadacdfa72d12510a1163884c7ee307ff8325f"
+      },
+      {
+        "title": "False Disaster News Will Face Legal Consequences, Police Warn",
+        "url": "https://www.newswire.lk/2025/12/01/false-disaster-news-will-face-legal-consequences-police-warn/",
+        "timestamp": "2025-12-01T16:00:44+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Police Media Spokesman ASP F. U. Wootler warned that strict legal action will be taken against individuals who circulate falseContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/IMG-20251201-WA0095.jpg",
+        "isoTimestamp": "2025-12-01T16:00:44+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "aeb28ba434bc91bd552b3253d1ca7ec6254c8c9aaba7e07903805e63ae2ab273"
+      },
+      {
+        "title": "RDA issues list of 108 roads currently closed",
+        "url": "https://www.newswire.lk/2025/12/01/rda-issues-list-of-108-roads-currently-closed/",
+        "timestamp": "2025-12-01T15:46:59+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Road Development Authority (RDA) has released an updated list of roads closed to traffic as of Dec. 1, 2025,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/06/K-web-pix-9.jpg",
+        "isoTimestamp": "2025-12-01T15:46:59+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "42ec78267f05794ac254855fdbe6712dd0d5f2a0adef41243f957129d0396a8c"
+      },
+      {
+        "title": "Police to refrain from action against expired Licences until Dec 25",
+        "url": "https://www.newswire.lk/2025/12/01/police-to-refrain-from-action-against-expired-licences-until-dec-25/",
+        "timestamp": "2025-12-01T14:51:08+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Sri Lanka Police says legal action will not be initiated for traffic violations involving individuals with expired driving licences betweenContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/12/Driving-licence-1.jpg",
+        "isoTimestamp": "2025-12-01T14:51:08+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f380d60ef2c1bf0d553967cf1351b78bbb915e1bfdf12b4548a7eeb4d71387c2"
+      },
+      {
+        "title": "Disaster Relief Centre warns of disease risk as floodwaters recede",
+        "url": "https://www.newswire.lk/2025/12/01/disaster-relief-centre-warns-of-disease-risk-as-floodwaters-recede/",
+        "timestamp": "2025-12-01T14:49:39+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The National Disaster Relief Services Centre has urged the public to remain vigilant about the increased risk of infectious andContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/National-Disaster-Relief-Jayatissa-Munasinghe.jpg",
+        "isoTimestamp": "2025-12-01T14:49:39+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "9000f2ea899c384296ab480ac3e01708edcece12f19a6c0506358bdca3c460c4"
+      },
+      {
+        "title": "Weather today: Rain expected for several areas after 2 PM",
+        "url": "https://www.newswire.lk/2025/12/01/weather-today-rain-expected-for-several-areas-after-2-pm-2/",
+        "timestamp": "2025-12-01T14:41:50+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "WEATHER FORECAST FOR 02 DECEMBER 2025 Issued at 2.00 p.m. on 01 December 2025 Several spells of showers will occurContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Rain.jpg",
+        "isoTimestamp": "2025-12-01T14:41:50+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "509e1bba3119267a33cf41be513ef64873c4feaf738bc932b764963280385ac6"
+      },
+      {
+        "title": "New dates announced for Lanka Premier League",
+        "url": "https://www.newswire.lk/2025/12/01/new-dates-announced-for-lanka-premier-league/",
+        "timestamp": "2025-12-01T14:10:34+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Sri Lanka Cricket (SLC) has announced that the sixth edition of the Lanka Premier League (LPL) will be held fromContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/LPL.jpg",
+        "isoTimestamp": "2025-12-01T14:10:34+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "d965f9b6c719a7bb03070a9e0dd68853c5bce9cd301c15c4364e75dd05bb4ce2"
+      },
+      {
+        "title": "Colombo hotel employee arrested for alleged assault of trainees",
+        "url": "https://www.newswire.lk/2025/12/01/colombo-hotel-employee-arrested-for-alleged-assault-of-trainees/",
+        "timestamp": "2025-12-01T14:06:40+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "A security manager at a prominent hotel in Colombo has been arrested for allegedly assaulting trainee hotel students, it wasContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Taj-security-manager.jpg",
+        "isoTimestamp": "2025-12-01T14:06:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "0a6ff7304a7cab779396664fd707cca65d7c80c22b06ddb82ccb4ff3867943df"
+      },
+      {
+        "title": "Indian Navy’s INS Sukanya arrives with disaster relief supplies",
+        "url": "https://www.newswire.lk/2025/12/01/indian-navys-ins-sukanya-arrives-with-disaster-relief-supplies/",
+        "timestamp": "2025-12-01T13:20:40+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "INS Sukanya, the lead vessel of the Sukanya-class patrol vessels of the Indian Navy, has entered Sri Lankan waters withContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/INS-Sukanya-1.jpg",
+        "isoTimestamp": "2025-12-01T13:20:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "677e6496e407c9c06ae902287a6e555c1bb5c02a7db929e225a80e39f8833760"
+      },
+      {
+        "title": "Ranil to share experience on 2003 & 2016 disaster handling",
+        "url": "https://www.newswire.lk/2025/12/01/ranil-to-share-experience-on-2003-2016-disaster-handling/",
+        "timestamp": "2025-12-01T13:02:40+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Former President Ranil Wickremesinghe has taken steps to convene all party leaders to discuss the steps to be taken inContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/07/Ranil-Wickremesinghe.jpg",
+        "isoTimestamp": "2025-12-01T13:02:40+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "4c8e49ffcce302e69f6c15db73628cf2f1372801cebf23c0b68796cca09d1754"
+      },
+      {
+        "title": "Today’s CBSL official exchange rates",
+        "url": "https://www.newswire.lk/2025/12/01/todays-cbsl-official-exchange-rates-573/",
+        "timestamp": "2025-12-01T12:48:10+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Sri Lankan Rupee has depreciated slightly against the US Dollar today (01 Dec), compared to last Friday. According toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/08/Dollar-Rupee.jpg",
+        "isoTimestamp": "2025-12-01T12:48:10+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8f72ea406df26500dc24cf3a52e2ebcdafeb34ea72cd3f230e61fc1100cf15a2"
+      },
+      {
+        "title": "‘GovPay’ enables real-time donations to Sri Lanka’s Disaster Relief Fund",
+        "url": "https://www.newswire.lk/2025/12/01/govpay-enables-real-time-donations-to-sri-lankas-disaster-relief-fund/",
+        "timestamp": "2025-12-01T12:45:27+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The government has introduced a mechanism to make donations through the ‘GovPay’ digital payment platform with the aim of providingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/GovPay.jpg",
+        "isoTimestamp": "2025-12-01T12:45:27+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1838d49200c9ee1589cf066d165fa4d7a22a52cb5b61def7598967c3193453f2"
+      },
+      {
+        "title": "SLAF urges public to halt unregulated Drone use during disaster relief missions",
+        "url": "https://www.newswire.lk/2025/12/01/slaf-urges-public-to-halt-unregulated-drone-use-during-disaster-relief-missions/",
+        "timestamp": "2025-12-01T12:42:03+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Sri Lanka Air Force (SLAF) has requested the cooperation of the public when operating drones in areas affected byContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2021/05/use-of-drone-large.jpg",
+        "isoTimestamp": "2025-12-01T12:42:03+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "779422e8c1cd1c4b3795de55aec806444802c4ab1cd3c147b72a4795d0b34f07"
+      },
+      {
+        "title": "Opposition walks out of Parliament after tense exchange on disaster handling",
+        "url": "https://www.newswire.lk/2025/12/01/opposition-walks-out-of-parliament-after-tense-exchange-on-disaster-handling/",
+        "timestamp": "2025-12-01T12:17:53+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "A tense situation arose in Parliament today after the Opposition walked out of the Chambers accusing the government of failingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Opposition-walk-out.jpg",
+        "isoTimestamp": "2025-12-01T12:17:53+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "11896f3eb3589eaa84deea1d5cbbe05db8d9d09522bc941d0b310e503941ecd6"
+      },
+      {
+        "title": "Adverse weather : Several affected roads reopened for traffic",
+        "url": "https://www.newswire.lk/2025/12/01/adverse-weather-several-affected-roads-reopened-for-traffic/",
+        "timestamp": "2025-12-01T11:54:24+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Ministry of Transport has announced the reopening of several roads that were affected due to the inclement weather experiencedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/11/IMG_2359.jpeg",
+        "isoTimestamp": "2025-12-01T11:54:24+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "fd3ba5a9aa3224ce446ca4977b8017251b123014604d5a74a767ab2230f9daf0"
+      },
+      {
+        "title": "Dollar rate in Sri Lanka today",
+        "url": "https://www.newswire.lk/2025/12/01/dollar-rate-in-sri-lanka-today-446/",
+        "timestamp": "2025-12-01T11:37:32+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Sri Lankan Rupee remains steady against the US Dollar at commercial banks in Sri Lanka today (01 Dec), comparedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/07/5-1.jpg",
+        "isoTimestamp": "2025-12-01T11:37:32+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "a19cd2ce63c8db6fe0d65453121533124194da5618a57a2c7a86e4e35f7df23e"
+      },
+      {
+        "title": "Budget debate : Speaker announces amended schedule",
+        "url": "https://www.newswire.lk/2025/12/01/budget-debate-speaker-announces-amended-schedule/",
+        "timestamp": "2025-12-01T10:52:22+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Speaker Jagath Wickramaratne has announced an amended schedule for the Committee Stage debates on the Budget 2026 in Parliament. TheContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/05/Parliament.jpg",
+        "isoTimestamp": "2025-12-01T10:52:22+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "e1b7a26c894540e8318ce8764aa0f49065ce4aa23d2037c9fb49a564cce1f813"
+      },
+      {
+        "title": "Extreme weather : Sajith seeks assistance from Japanese Government",
+        "url": "https://www.newswire.lk/2025/12/01/extreme-weather-sajith-seeks-assistance-from-japanese-government/",
+        "timestamp": "2025-12-01T10:49:53+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Opposition Leader Sajith Premadasa and Japanese Ambassador Akio Isomata engaged in an extensive discussion on the current disaster situation facingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Sajith-Japan.jpg",
+        "isoTimestamp": "2025-12-01T10:49:53+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "19fdfe4c5efb6c639b5574f870ef67de500cf13989cdc36c360db01f055fb5d7"
+      },
+      {
+        "title": "Chamal Rajapaksa questioned by Bribery Commission",
+        "url": "https://www.newswire.lk/2025/12/01/chamal-rajapaksa-questioned-by-bribery-commission/",
+        "timestamp": "2025-12-01T10:24:08+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Former Speaker Chamal Rajapaksa has reported to the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) today. It isContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Chamal-Rajapaksa.jpg",
+        "isoTimestamp": "2025-12-01T10:24:08+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "bf38fcb30aa20a836bebb607e6a5041e9c7f1bdf275b01b51178cce2b3149963"
+      },
+      {
+        "title": "UN estimates 15,000 homes destroyed in Sri Lanka",
+        "url": "https://www.newswire.lk/2025/12/01/un-estimates-15000-homes-destroyed-in-sri-lanka/",
+        "timestamp": "2025-12-01T10:14:14+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) says initial assessments indicate that more than 15,000 homesContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Ditwah-homes-destroyed.jpg",
+        "isoTimestamp": "2025-12-01T10:14:14+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "d76ced8f883110d9b6caa926155276fdb3786b5b4619fbf572df58115025e52e"
+      },
+      {
+        "title": "Kelani River : Water level at Nagalagam Street steady with no rise in last 03 hrs",
+        "url": "https://www.newswire.lk/2025/12/01/kelani-river-water-level-at-nagalagam-street-steady-with-no-rise-in-last-03-hrs/",
+        "timestamp": "2025-12-01T10:11:57+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Irrigation Department says the Kelani River water level at Nagalagam Street has shown no increase over the past threeContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Screenshot_20251130_222934_WhatsApp.jpg",
+        "isoTimestamp": "2025-12-01T10:11:57+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f0ee3a09ea9b532f3463aed9f321be89e879ea2faecd6681a4b99fdcb523aad1"
+      },
+      {
+        "title": "SLAF launch probe into Bell 212 helicopter emergency landing",
+        "url": "https://www.newswire.lk/2025/12/01/slaf-launch-probe-into-bell-212-helicopter-emergency-landing/",
+        "timestamp": "2025-12-01T10:09:42+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Sri Lanka Air Force (SLAF) says a board of inquiry has been appointed and an investigation has been initiated intoContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Screenshot_20251130_183024_Gallery.jpg",
+        "isoTimestamp": "2025-12-01T10:09:42+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "794a31727b5a178c7e67325d48516b3e2b313602407bda66292bc19a53d0849f"
+      },
+      {
+        "title": "Extreme weather : 334 dead, 370 missing in Sri Lanka",
+        "url": "https://www.newswire.lk/2025/12/01/extreme-weather-334-dead-370-missing-in-sri-lanka/",
+        "timestamp": "2025-12-01T09:48:56+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The death toll due to inclement weather in Sri Lanka stands at 334, while 370 persons are reported missing asContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Landslide-1.jpg",
+        "isoTimestamp": "2025-12-01T09:48:56+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "db28a31014dd54e56a3761d20b155390d793f31f7337eb4b11c20ded4b52782b"
+      },
+      {
+        "title": "Warning issued to naval and fishing communities withdrawn",
+        "url": "https://www.newswire.lk/2025/12/01/warning-issued-to-naval-and-fishing-communities-withdrawn/",
+        "timestamp": "2025-12-01T09:45:30+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Department of Meteorology says the warning issued earlier advising naval and fishing communities not to venture into the seaContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/07/Fishing-boat.jpg",
+        "isoTimestamp": "2025-12-01T09:45:30+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "0cc496be2861bb2a38f417a2556927dce1a1d13a76aec40b4d2b7a2bdf573d4d"
+      },
+      {
+        "title": "Report traders selling goods at higher price – CAA",
+        "url": "https://www.newswire.lk/2025/12/01/report-traders-selling-goods-at-higher-price-caa/",
+        "timestamp": "2025-12-01T09:43:54+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Consumer Affairs Authority (CAA) has urged the public to report traders who sell goods at a higher price duringContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/06/Grocery-store.jpg",
+        "isoTimestamp": "2025-12-01T09:43:54+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "194ac7f00d3e75161da055f3b4bc14fe1fe09c84bf0218872dd27db8c36135af"
+      },
+      {
+        "title": "Deep Depression : Showers expected in some areas today",
+        "url": "https://www.newswire.lk/2025/12/01/deep-depression-showers-expected-in-some-areas-today/",
+        "timestamp": "2025-12-01T09:14:11+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "The Deep Depression was located about 300 km North-northeast of Kankasanthurai and is very likely to move northwards, away fromContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/09/Heavy-to-very-heavy-rain-alert-issue-for-State.jpg",
+        "isoTimestamp": "2025-12-01T09:14:11+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "87504fef0998d1a81c9a4f5b18b0f8a4d226be8697468940fd8f4611ac856823"
+      },
+      {
+        "title": "Flood-mitigation mission turns fatal as five Navy personnel die",
+        "url": "https://www.newswire.lk/2025/12/01/flood-mitigation-mission-turns-fatal-as-five-navy-personnel-die/",
+        "timestamp": "2025-12-01T00:41:49+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Police have confirmed that the five Sri Lanka Navy personnel who went missing during a flood-mitigation operation in the ChundikkulamContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Screenshot_20251201_002938_Business-Suite.jpg",
+        "isoTimestamp": "2025-12-01T00:41:49+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "9994caa4194adaa6cc5bb1e0804a981d39f3c5bd249df8f31744a7c25cb93129"
+      },
+      {
+        "title": "Kotmale Dam rumours trigger panic in Gampola; authorities confirm no danger",
+        "url": "https://www.newswire.lk/2025/12/01/kotmale-dam-rumours-trigger-panic-in-gampola-authorities-confirm-no-danger/",
+        "timestamp": "2025-12-01T00:13:27+05:30",
+        "readableTime": "December 1, 2025",
+        "byline": "Sri Lankan authorities have dismissed widespread rumours claiming the Kotmale Dam had broken, urging the public to remain calm andContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/12/Screenshot_20251201_001257_WhatsApp.jpg",
+        "isoTimestamp": "2025-12-01T00:13:27+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "61aaa1761d6637c38b64d24370945bd1917723c4221aadb393df7d3a6c52aba6"
+      },
+      {
+        "title": "Essential Services Commissioner announces sweeping actions to aid affected communities",
+        "url": "https://www.newswire.lk/2025/11/30/essential-services-commissioner-announces-sweeping-actions-to-aid-affected-communities/",
+        "timestamp": "2025-11-30T23:17:12+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Sri Lanka has launched urgent measures to restore essential public services and support disaster-hit communities, the Commissioner-General of Essential ServicesContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/IMG-20251129-WA0212.jpg",
+        "isoTimestamp": "2025-11-30T23:17:12+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8f9bbecf8ec40df7773cea2e84e3b3eee3d12a0ef378f02c5d7f7aee607e74d0"
+      },
+      {
+        "title": "Kelani River Surges to 8 ft at Nagalagam Street as Flood Risk Intensifies",
+        "url": "https://www.newswire.lk/2025/11/30/kelani-river-surges-to-8-ft-at-nagalagam-street-as-flood-risk-intensifies/",
+        "timestamp": "2025-11-30T22:30:31+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Colombo is facing a worsening flood situation as the Kelani River water level at Nagalagam Street climbed to 8.0 feetContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Screenshot_20251130_222934_WhatsApp.jpg",
+        "isoTimestamp": "2025-11-30T22:30:31+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "241dd2f4489f6da92d2ccd3e1e0def23580240f03f54878291885b1530d81c30"
+      },
+      {
+        "title": "SLAF pilot killed after diverting helicopter to save people on Bridge",
+        "url": "https://www.newswire.lk/2025/11/30/slaf-pilot-killed-after-diverting-helicopter-to-save-people-on-bridge/",
+        "timestamp": "2025-11-30T22:16:43+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Sri Lanka Air Force Wing Commander Nirmal Siyambalapitiya, the pilot of the Bell 212 helicopter that crashed during disaster reliefContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/FB_IMG_1764519989871.jpg",
+        "isoTimestamp": "2025-11-30T22:16:43+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "3d7df1ab50563143b996a755aeb0fd5809a95f3860de7ff0c294896c56c0b582"
+      },
+      {
+        "title": "WATCH: President AKD special statement",
+        "url": "https://www.newswire.lk/2025/11/30/watch-president-akd-special-statement/",
+        "timestamp": "2025-11-30T20:36:53+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "No description",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/07/Anura-Kumara-Dissanayake.jpg",
+        "isoTimestamp": "2025-11-30T20:36:53+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "4c96ec23e5603041faab3926722495b1c0f360b72098981b65e54a2e49841eb2"
+      },
+      {
+        "title": "Sri Lanka Death Toll Climbs to 334, With 370 Still Missing",
+        "url": "https://www.newswire.lk/2025/11/30/sri-lanka-death-toll-climbs-to-334-with-370-still-missing/",
+        "timestamp": "2025-11-30T20:23:56+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "At least 334 people have died and 370 remain missing, according to the latest situation reports issued by the DisasterContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/FB_IMG_1764496853117.jpg",
+        "isoTimestamp": "2025-11-30T20:23:56+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "5b7e51fe74b7f0315577d023a1e759478180f4ac0fe2a4fec742729886ba7c11"
+      },
+      {
+        "title": "All Universities and Training Institutes Closed Until December 8",
+        "url": "https://www.newswire.lk/2025/11/30/all-universities-and-training-institutes-closed-until-december-8/",
+        "timestamp": "2025-11-30T20:18:57+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "The Ministry of Education has announced that all universities, higher education institutes, and vocational training centres operating under its authorityContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2021/05/closed-sign.jpg",
+        "isoTimestamp": "2025-11-30T20:18:57+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "2f176d245b63386cb87335819e5502ceb9c1a96ee5682fb9aa85de3ee029324d"
+      },
+      {
+        "title": "Sri Lanka Air Force Helicopter crash lands (Video)",
+        "url": "https://www.newswire.lk/2025/11/30/sri-lanka-air-force-helicopter-crash-lands-video/",
+        "timestamp": "2025-11-30T18:31:15+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Sri Lanka Air Force Bell 212 helicopter engaged in disaster relief operations has crash landed in an area between LunuwilaContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Screenshot_20251130_183024_Gallery.jpg",
+        "isoTimestamp": "2025-11-30T18:31:15+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "44c588a3d5f779fd93be30f7779258b28a0e7d248c4d8011b8a7459c72389ef0"
+      },
+      {
+        "title": "Expressway remains toll-free, public urged to use responsibly",
+        "url": "https://www.newswire.lk/2025/11/30/expressway-remains-toll-free-public-urged-to-use-responsibly/",
+        "timestamp": "2025-11-30T17:16:07+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "The Expressway Operation, Maintenance and Management Division has expressed gratitude to the public for using the expressway system responsibly duringContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/589073381_1258225199675866_4420150133357301502_n.jpg",
+        "isoTimestamp": "2025-11-30T17:16:07+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "34dfc2d7ce7d32f39ddc69a29a631e44dd7eb330e2ea3f213ebcb7ec0a3ba699"
+      },
+      {
+        "title": "No disruption expected to Colombo’s water supply",
+        "url": "https://www.newswire.lk/2025/11/30/no-disruption-expected-to-colombos-water-supply/",
+        "timestamp": "2025-11-30T16:24:05+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "The risk at the Ambatale and Biyagama water purification plants has now eased, following the earlier rise in water levelsContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Screenshot_20251130_162132_Facebook.jpg",
+        "isoTimestamp": "2025-11-30T16:24:05+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "bc1424534f8743a7d274563e9f9ea4c0b5fa61ba807de76eaffb290d114be09f"
+      },
+      {
+        "title": "Nagalagam water level rising: Colombo flood peak expected tomorrow",
+        "url": "https://www.newswire.lk/2025/11/30/nagalagam-water-level-rising-colombo-flood-peak-expected-tomorrow/",
+        "timestamp": "2025-11-30T15:50:02+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "The Irrigation Department has reported that water levels at the Nagalagam Street gauging station in Colombo are continuing to rise,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/Screenshot_20251130_154108_Chrome.jpg",
+        "isoTimestamp": "2025-11-30T15:50:02+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1cd9f346d1d1171876f9ae15c333065deaf678842bf0b3182023c27d56af7551"
+      },
+      {
+        "title": "No fuel price revision for December",
+        "url": "https://www.newswire.lk/2025/11/30/no-fuel-price-revision-for-december/",
+        "timestamp": "2025-11-30T14:56:23+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Sri Lanka’s state-run Ceylon Petroleum Corporation (CPC) has decided not to revise fuel prices for the month of December, despiteContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2023/09/CPC-fuel.jpg",
+        "isoTimestamp": "2025-11-30T14:56:23+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "0fa95f2b0cefbb9d9c7f60ffe9257b5b20284822cdbc39a7995e7014113cd72d"
+      },
+      {
+        "title": "President directs to set up Office of Commissioner General of Essential Services",
+        "url": "https://www.newswire.lk/2025/11/30/president-directs-to-set-up-office-of-commissioner-general-of-essential-services/",
+        "timestamp": "2025-11-30T14:51:47+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "President Anura Kumara Dissanayake has ordered the establishment of an “Office of the Commissioner General of Essential Services” at theContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/591721390_1434020944760797_8328403814592466869_n.jpg",
+        "isoTimestamp": "2025-11-30T14:51:47+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "ce078549e5d015f1d9453441e110dbc460cf6e78b1ba03540111100c0eab8f6c"
+      },
+      {
+        "title": "A/Level exams postponed indefinitely",
+        "url": "https://www.newswire.lk/2025/11/30/a-level-exams-postponed-indefinitely/",
+        "timestamp": "2025-11-30T14:03:48+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "All examinations, including the GCE Advanced Level, have been postponed indefinitely due to the ongoing disaster situation, the Ministry ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/05/Exam-Dept-1.jpg",
+        "isoTimestamp": "2025-11-30T14:03:48+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1fc8d9c2d5ce5672177a8d8d905414d4030e15bdfbccd875b9a37431cd3339a0"
+      },
+      {
+        "title": "Overcrowding: Blood donations temporarily halted at Narahenpita Blood Bank",
+        "url": "https://www.newswire.lk/2025/11/30/overcrowding-blood-donations-temporarily-halted-at-narahenpita-blood-bank/",
+        "timestamp": "2025-11-30T13:47:25+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "The National Blood Bank has temporarily stopped admitting blood donors at its Narahenpita centre due to overcrowding. According to officials,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/K-web-pix-2-4.jpg",
+        "isoTimestamp": "2025-11-30T13:47:25+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "e0a8d01e493d179c21ec1c2480c261251d8ba9b7600b8654afe9068a20a07d88"
+      },
+      {
+        "title": "Sri Lanka Air Force rescues 121 people trapped in Mavil Aru floods (Video)",
+        "url": "https://www.newswire.lk/2025/11/30/sri-lanka-air-force-rescues-121-people-trapped-in-mavil-aru-floods-video/",
+        "timestamp": "2025-11-30T13:20:33+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Sri Lanka Air Force rescue teams have evacuated 121 people trapped by rising floodwaters in the Mavil Aru area today.Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/PSX_20251130_131831.jpg",
+        "isoTimestamp": "2025-11-30T13:20:33+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "c4ecc34bdc0b0951bf04f8a52717d0596300bf57af1db9646bc401dd1e5a2c1e"
+      },
+      {
+        "title": "Several main roads reopened following closures",
+        "url": "https://www.newswire.lk/2025/11/30/several-main-roads-reopened-following-closures/",
+        "timestamp": "2025-11-30T13:10:04+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Several major roads have been reopened for vehicular traffic following temporary closures due to adverse weather conditions, the Road DevelopmentContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2024/11/Landslide-1.jpg",
+        "isoTimestamp": "2025-11-30T13:10:04+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "9695a663ab451ab62efd9e828b4010cb3624357196df516da03d1c0aa784f7d1"
+      },
+      {
+        "title": "Donors turn up in numbers at the Blood Bank following appeal",
+        "url": "https://www.newswire.lk/2025/11/30/donors-turn-up-in-numbers-at-the-blood-bank-following-appeal/",
+        "timestamp": "2025-11-30T12:53:05+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Donors have turned up in large numbers at the National Blood Transfusion Service (NBTS) in Narahenpita today, following a callContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/K-web-pix-2-4.jpg",
+        "isoTimestamp": "2025-11-30T12:53:05+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "7f59e2a2ecc19f60d8e40172d3abbb5e678f4d727b96d46300cb2ffa164e0f21"
+      },
+      {
+        "title": "Islandwide Water Levels Update: Major Floods at Nagalagam Street and Hanwella",
+        "url": "https://www.newswire.lk/2025/11/30/islandwide-water-levels-update-major-floods-at-nagalagam-street-and-hanwella/",
+        "timestamp": "2025-11-30T12:53:04+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Islandwide water levels continue to fluctuate across major rivers, with several key locations remaining under flood conditions, according to theContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/FB_IMG_1764487128646.jpg",
+        "isoTimestamp": "2025-11-30T12:53:04+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8ba63519d4bed236c2009211423ec3851148ff3a26c583394da80d769229b655"
+      },
+      {
+        "title": "How to reach the National Disaster Donation Help Desk",
+        "url": "https://www.newswire.lk/2025/11/30/how-to-reach-the-national-disaster-donation-help-desk/",
+        "timestamp": "2025-11-30T12:32:33+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "The government has set up a Disaster Donation Help Desk to coordinate aid and assistance for people affected by theContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-30-at-11.48.28.jpeg",
+        "isoTimestamp": "2025-11-30T12:32:33+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "41e263c66c5f2bc76da460a06b5198975986eb0d8a1f2d19f718fb883e8fb401"
+      },
+      {
+        "title": "Sri Lanka’s Weather Disaster Claims 193 Lives; 228 Still Missing",
+        "url": "https://www.newswire.lk/2025/11/30/sri-lankas-weather-disaster-claims-193-lives-228-still-missing/",
+        "timestamp": "2025-11-30T12:27:42+05:30",
+        "readableTime": "November 30, 2025",
+        "byline": "Sri Lanka’s death toll from the severe weather that has swept across the country has risen to 193, according toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/11/IMG-20251128-WA0074.jpg",
+        "isoTimestamp": "2025-11-30T12:27:42+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "9a6630bfd76939bef7eac1d3b2ab90f968b4c3ca813004403fa64b2f94c8c241"
+      }
+    ]
+  }
+}
