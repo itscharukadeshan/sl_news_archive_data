@@ -1,0 +1,427 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": true,
+    "data": []
+  },
+  "ada": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka’s average daily tourist arrivals down in first 8 days of December after disaster",
+        "url": "https://economynext.com/sri-lankas-average-daily-tourist-arrivals-down-in-first-8-days-of-december-after-disaster-252230/",
+        "timestamp": "December 9, 2025",
+        "byline": "Ditwah-hit floods and landslides has affected tourism hotspots Kandy and Nuwara Eliya",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6907f54cb4418b90ce194591dcf40bb9cbe65a55492ee426797c1fc1ddecd22c"
+      },
+      {
+        "title": "Sri Lanka rupee steady, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-steady-bond-yields-drop-252257/",
+        "timestamp": "December 9, 2025",
+        "byline": "Bond yields dropped dealers said.",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4a3da2a01193157e6a3214680c8995a9af1922dfe9729c138df7feae977c26ba"
+      },
+      {
+        "title": "UN allocates USD 4.5 mn for Sri Lanka’s relief efforts",
+        "url": "https://economynext.com/un-allocates-usd-4-5-mn-for-sri-lankas-relief-efforts-252254/",
+        "timestamp": "December 9, 2025",
+        "byline": "Ditwah-hit devastation is one of Sri Lanka's worst natural disasters in terms of damages to public infrastructure",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b034e149571b077fa4cda0ad20e8101dbbdb3bc4cd474fa14bdfd4d504d3d87b"
+      },
+      {
+        "title": "Sri Lanka stocks bounce back buoyed by construction, banks",
+        "url": "https://economynext.com/sri-lanka-stocks-bounce-back-buoyed-by-construction-banks-252226/",
+        "timestamp": "December 9, 2025",
+        "byline": "ASPI was up over 2 percent",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "762d23a69a208224956ac037db1c4be7a2dc574b33b6fc6be99edbad9bd81103"
+      },
+      {
+        "title": "Sri Lanka’s food security after Cyclone Ditwah: Risk, recovery, and resilience",
+        "url": "https://economynext.com/sri-lankas-food-security-after-cyclone-ditwah-risk-recovery-and-resilience-252214/",
+        "timestamp": "December 9, 2025",
+        "byline": "An Institute of Policy Studies article looks at urgency of restoring transport links, supporting farmers",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2a6461a4ca4c4924aaebf96468db648b2bc5c786e60519f8686cc4fdd013f0c0"
+      },
+      {
+        "title": "1,200 landslides in Sri Lanka by Cyclone Ditwah, 20-pct of  land under water: UNDP",
+        "url": "https://economynext.com/1200-landslides-in-sri-lanka-by-cyclone-ditwah-20-pct-of-land-under-water-undp-252195/",
+        "timestamp": "December 9, 2025",
+        "byline": "The floodwaters reached nearly 720,000 buildings, about one in every twelve buildings in the country",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d2102b2a0b7141c0c816dc02ad3cc44808b0fbe76544a81afa7989896242fe71"
+      },
+      {
+        "title": "Global shipping outlook deteriorating in 2026: Fitch Ratings",
+        "url": "https://economynext.com/global-shipping-outlook-deteriorating-in-2026-fitch-ratings-252198/",
+        "timestamp": "December 9, 2025",
+        "byline": "Deteriorating outlook for the global shipping sector, reflecting geopolitical and policy risks",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e39ea634a3e02386f0cdbea3910e60c7e0c37f3d125bc1351f63115d82f8b669"
+      },
+      {
+        "title": "635 Sri Lanka exporters make VAT refund claims by Nov 30",
+        "url": "https://economynext.com/635-sri-lanka-exporters-make-vat-refund-claims-by-nov-30-252099/",
+        "timestamp": "December 9, 2025",
+        "byline": "Another 322 claims were in progress.",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "76873ab5eb1170d5cdd92eddf19263f2c45a8be4c590a92d58c915f6fed12e48"
+      },
+      {
+        "title": "Sri Lanka rupee flat, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-flat-bond-yields-steady-252186/",
+        "timestamp": "December 9, 2025",
+        "byline": "Stocks were trading up",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c39acebd0d88dee4409c04e975149d83237a104ac18f92a02053828e44a2ebe7"
+      },
+      {
+        "title": "Sri Lanka key road restoration to cost Rs190bn : President",
+        "url": "https://economynext.com/sri-lanka-key-road-restoration-to-cost-rs190bn-president-252153/",
+        "timestamp": "December 9, 2025",
+        "byline": "There are hundreds of smaller road also damaged",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "21012c71679127f918647cc4b2f7a9b47a0761b342352591a7951c17122b11ae"
+      },
+      {
+        "title": "Sri Lanka budget circular for Ditwah compensation: businesses Rs5mn, fishing boats Rs400,000",
+        "url": "https://economynext.com/sri-lanka-budget-circular-for-ditwah-compensation-businesses-rs5mn-fishing-boats-rs400000-252170/",
+        "timestamp": "December 9, 2025",
+        "byline": "People without houses will also be paid 5 million rupees to rebuild their house",
+        "isoTimestamp": "2025-12-09T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "54905da05215ce984963b4a03510e09a73667f37c327742cf1e2c99e48adf43b"
+      },
+      {
+        "title": "Ditwah destroys 108,000 ha of paddy in Sri Lanka, 23,000 ha of other crops",
+        "url": "https://economynext.com/ditwah-destroys-108000-ha-of-paddy-in-sri-lanka-23000-ha-of-other-crops-252144/",
+        "timestamp": "December 8, 2025",
+        "byline": "Farmers already started re-cultivation",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "7d290303d3f95f75ec6f41736a535805c39895e4bdde9ed82525eaedec8b7774"
+      },
+      {
+        "title": "Sri Lanka Customs likely to see 2025 revenue target exceeding by Rs. 400 bln: DG",
+        "url": "https://economynext.com/sri-lanka-customs-likely-to-see-2025-revenue-target-exceeding-by-rs-400-bln-dg-252140/",
+        "timestamp": "December 8, 2025",
+        "byline": "Country has witnessed record high revenue from the Customs this year",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8e2fa84913ce52e8bb4813974090534850ee4960b80737d0b83e7351f628648d"
+      },
+      {
+        "title": "Sri Lanka rupee slightly weaker, bond yields broadly steady",
+        "url": "https://economynext.com/sri-lanka-rupee-slightly-weaker-bond-yields-broadly-steady-252117/",
+        "timestamp": "December 8, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0400c6c168ac8f9a6d0db89fd570a14c670781a48d454b1226317de2121f5f25"
+      },
+      {
+        "title": "Financial, capital good shares push Sri Lanka stocks up",
+        "url": "https://economynext.com/financial-capital-good-shares-push-sri-lanka-stocks-up-252094/",
+        "timestamp": "December 8, 2025",
+        "byline": "Market turnover was 2.8 billion rupees",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "22b57ed35f5fe3377984a550fedeb83d7a0261ed7eafce9a3f5c7dd172e27822"
+      },
+      {
+        "title": "Sri Lanka's tea sector suffers minimal damage and recovering quickly,industry body says",
+        "url": "https://economynext.com/sri-lankas-tea-sector-suffers-minimal-damage-and-recovering-quicklyindustry-body-says-252092/",
+        "timestamp": "December 8, 2025",
+        "byline": "The Tea Auction previously set for the 1st week of December has been rescheduled to the last week of December.",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3a9481872bb7615a65e8a78b6e55cf768fa23e0ff3d5f959fc208fd4a283b5f0"
+      },
+      {
+        "title": "Foreigners buy Sri Lanka rupee bonds for second week amid currency fall",
+        "url": "https://economynext.com/foreigners-buy-sri-lanka-rupee-bonds-for-second-week-amid-currency-fall-252090/",
+        "timestamp": "December 8, 2025",
+        "byline": "Fed rate cut has led investors to look into other markets, analysts say",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1c498030e03ce66b02ec0e95d08cf89523035e9c6e3cefd83c3ec989a907b17a"
+      },
+      {
+        "title": "Sri Lanka post-default fiscal track to be hit by Ditwah: Moody's",
+        "url": "https://economynext.com/sri-lanka-post-default-fiscal-track-to-be-hit-by-ditwah-moodys-252080/",
+        "timestamp": "December 8, 2025",
+        "byline": "Sri Lanka and Vietnam also had governance concerns",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "13c8f2936d7c9c150540ced56efe13bc736e673ed2c37900b8e7919685795ae1"
+      },
+      {
+        "title": "InsureMe marks debut on Sri Lanka's bourse with bell ringing",
+        "url": "https://economynext.com/insureme-marks-debut-on-sri-lankas-bourse-with-bell-ringing-252071/",
+        "timestamp": "December 8, 2025",
+        "byline": "InsureMe Insurance Brokers Ltd marked its listing on the Empower Board",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "725ef33c4cb84a5dd5979263a9a6f768ccc7b3868f68b7b5334020366ebac0ad"
+      },
+      {
+        "title": "Sri Lanka's EDB to help exporters affected by Cyclone Ditwah",
+        "url": "https://economynext.com/sri-lankas-edb-to-help-exporters-affected-by-cyclone-ditwah-252062/",
+        "timestamp": "December 8, 2025",
+        "byline": "EDB working with customs, port authorities, and logistics providers to manage infrastructure delays",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "eb6b33d4c1bb26cc47ef5d7f1ac01ea373a5e1835fd64ee6384f6e320ecee977"
+      },
+      {
+        "title": "Sri Lanka to re-allocate Rs50bn for Dec disaster spending, budget unchanged",
+        "url": "https://economynext.com/sri-lanka-to-re-allocate-rs50bn-for-dec-disaster-spending-budget-unchanged-252061/",
+        "timestamp": "December 8, 2025",
+        "byline": "We need parliament's approval to get unspent money from other ministries",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "dc364015d114cb6420ad40fbee84b03c259ca54b697186ab94e3126627c85b1e"
+      },
+      {
+        "title": "Sri Lanka rupee steady, bond yields slightly higher",
+        "url": "https://economynext.com/sri-lanka-rupee-steady-bond-yields-slightly-higher-252047/",
+        "timestamp": "December 8, 2025",
+        "byline": "Stocks were trading up",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a10d95655e1fd9cda95dbd55a89b6a618f13313d44726ac04c49d6d0e1fe684d"
+      },
+      {
+        "title": "Sri Lanka lending and deposit interest rates edge up amid credit demand",
+        "url": "https://economynext.com/sri-lanka-lending-and-deposit-interest-rates-edge-up-amid-credit-demand-252022/",
+        "timestamp": "December 8, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "47624c45529fd7dba2b049f73b8a142b5bd5d6371ce65457486b87fe8830a307"
+      },
+      {
+        "title": "Sri Lanka to go for 18th IMF program: never say never",
+        "url": "https://economynext.com/sri-lanka-to-go-for-18th-imf-program-never-say-never-251961/",
+        "timestamp": "December 8, 2025",
+        "byline": "A team will be in Sri Lanka in January for a new review",
+        "isoTimestamp": "2025-12-08T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e03c7dc8117a79b4c2f6975211dbf545340e5503e8971859c360c790489c1b8c"
+      },
+      {
+        "title": "IMF to discuss Sri Lanka’s fifth review again amid RFI request after disaster",
+        "url": "https://economynext.com/imf-to-discuss-sri-lankas-fifth-review-again-amid-rfi-request-after-disaster-251955/",
+        "timestamp": "December 7, 2025",
+        "byline": "Sri Lanka will receive sixth tranche of the EFF after the completion of fifth review",
+        "isoTimestamp": "2025-12-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a36247370da51f4fd0acfabddff7ecefa832671837296beadfe258f055840509"
+      },
+      {
+        "title": "Sri Lanka railway tracks 'left hanging' by Cyclone Ditwah : GM",
+        "url": "https://economynext.com/sri-lanka-railway-tracks-left-hanging-by-cyclone-ditwah-gm-251911/",
+        "timestamp": "December 7, 2025",
+        "byline": "The worst damage was to the Kandy, Badulla and Matale tracks in the hill country",
+        "isoTimestamp": "2025-12-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f6a5079f3dea0bb1815e856f1510f54f91b86f4a6192183a4d59479d86390305"
+      },
+      {
+        "title": "Sri Lanka central bank warned local fx swaps are a 'hot money operation' by COPF members",
+        "url": "https://economynext.com/sri-lanka-central-bank-warned-local-fx-swaps-are-a-hot-money-operation-by-copf-members-251881/",
+        "timestamp": "December 7, 2025",
+        "byline": "That is a more of a hot money type of operation",
+        "isoTimestamp": "2025-12-07T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "de8c56e7fe5109b5969ea585dfe98407aeb0f93c7595d951fcd7a6bf07a8a4f2"
+      },
+      {
+        "title": "Sri Lanka foreign exchange reserves drop to $6,083mn in Nov 2025",
+        "url": "https://economynext.com/sri-lanka-foreign-exchange-reserves-drop-to-6083mn-in-nov-2025-251835/",
+        "timestamp": "December 6, 2025",
+        "byline": "Rupee fell from 297 to 308 over 11 months amid over-purchasing dollars",
+        "isoTimestamp": "2025-12-06T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c8ebd8789b58fa2fefc1f64d9af4bb4097f21873c893ccbd9dfd0955dd45fe2d"
+      },
+      {
+        "title": "Sri Lanka sells Rs45.84bn Treasury bills; yields mostly flat",
+        "url": "https://economynext.com/sri-lanka-sells-rs45-84bn-treasury-bills-yields-mostly-flat-251824/",
+        "timestamp": "December 6, 2025",
+        "byline": "Treasury bills offered at an auction and on tap last week",
+        "isoTimestamp": "2025-12-06T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f91318f56c44c5aab531fe7352a9aecb01e2c36ef26e3b9f572996c1fe51efa4"
+      },
+      {
+        "title": "Sri Lanka’s Abans Finance to raise Rs1.5bn from debentures",
+        "url": "https://economynext.com/sri-lankas-abans-finance-to-raise-rs1-5bn-from-debentures-251821/",
+        "timestamp": "December 6, 2025",
+        "byline": "15 million listed, rated, senior, unsecured, redeemable debentures will be offered",
+        "isoTimestamp": "2025-12-06T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "83b63eb4e679fdca48e16f7c3204a59045708b6065a37610a703a3a00f4b546f"
+      },
+      {
+        "title": "Sri Lanka reopens all major roads after Ditwah, Kandy road in daytime",
+        "url": "https://economynext.com/sri-lanka-reopens-all-major-roads-after-ditwah-kandy-road-in-daytime-251797/",
+        "timestamp": "December 6, 2025",
+        "byline": "RDA staff are blasting rocks overnight on Kandy road",
+        "isoTimestamp": "2025-12-06T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5577b1a2146d54e48f3b2309271293b1c332927e0a42f5187ef2e5d340f4d1cd"
+      },
+      {
+        "title": "Sri Lanka Central Bank announces relief measures to assist disaster-hit businesses",
+        "url": "https://economynext.com/sri-lanka-central-bank-announces-relief-measures-to-assist-disaster-hit-businesses-251784/",
+        "timestamp": "December 5, 2025",
+        "byline": "Disaster has affected around 10 percent of Sri Lanka's population",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8b517060740856002f480eca1e5fd12e3473fa156fb37754c991b5e5047c2bcc"
+      },
+      {
+        "title": "Sri Lanka President announces sweeping relief for disaster affected people",
+        "url": "https://economynext.com/sri-lanka-president-announces-sweeping-relief-for-disaster-affected-people-251782/",
+        "timestamp": "December 5, 2025",
+        "byline": "Government expects to spend Rs. 72.2 billion in the next 25 days in this month",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "596076d82cf165ee9919ccc3077f12b5ff8512bc64bfbb9d7abee2fddfd7fc77"
+      },
+      {
+        "title": "Sri Lanka to seek Rs500bn extra Ditwah linked spending in 2026: President",
+        "url": "https://economynext.com/sri-lanka-to-seek-rs500bn-extra-ditwah-linked-spending-in-2026-president-251747/",
+        "timestamp": "December 5, 2025",
+        "byline": "For 2025, Rs50 bn will be sought",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1a1881a0179e3367b0aa7dc1da53268c8b6e431b9d0e484606a49e522dab178f"
+      },
+      {
+        "title": "Sri Lanka parliament passes 2026 budget",
+        "url": "https://economynext.com/sri-lanka-parliament-passes-2026-budget-251732/",
+        "timestamp": "December 5, 2025",
+        "byline": "The budget debate lasted 21 days.",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4d049e8103b568774726d1b0bda0bfeb734810ae447773e60d3d053dabdfebf7"
+      },
+      {
+        "title": "Sri Lanka’s death toll in disaster rises to 607; still 214 missing",
+        "url": "https://economynext.com/sri-lankas-death-toll-in-disaster-rises-to-607-still-214-missing-251722/",
+        "timestamp": "December 5, 2025",
+        "byline": "Rescue operation continued in central Sri Lanka with hopes faded over missing people",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0a198627cc90deaf12e23cb2fd6043c0f603e400697d54bebfffba948e11a8a4"
+      },
+      {
+        "title": "Sri Lanka seeks $200mn from IMF through Rapid Financing Instrument",
+        "url": "https://economynext.com/sri-lanka-seeks-200mn-from-imf-through-rapid-financing-instrument-251717/",
+        "timestamp": "December 5, 2025",
+        "byline": "This request is currently under consideration and subject to approval by the IMF board",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "486ef0f4f31318f10306e5e4d449c86eb332d5741e274c313e885b505818044c"
+      },
+      {
+        "title": "Sri Lanka seeks extra funds and relief from IMF, review likely in Feb: President",
+        "url": "https://economynext.com/sri-lanka-seeks-extra-funds-and-relief-from-imf-review-likely-in-feb-president-251715/",
+        "timestamp": "December 5, 2025",
+        "byline": "Has sought $200mn relief",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a325c2e42337610dfcdd4fc9dce0e3c3babd3f0b6f73820bb4ffe260450c079d"
+      },
+      {
+        "title": "Sri Lanka’s apparel sector working to aid employees in crisis: JAAF",
+        "url": "https://economynext.com/sri-lankas-apparel-sector-working-to-aid-employees-in-crisis-jaaf-251711/",
+        "timestamp": "December 5, 2025",
+        "byline": "Companies are already providing emergency support, including food, clothing, temporary shelter, transport assistance,",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "af4ae02304aeb1db3bbc8c90736832d7cb105558c8504adf3430a3a61900fecf"
+      },
+      {
+        "title": "Sri Lanka rupee strengthens marginally, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-strengthens-marginally-bond-yields-steady-251697/",
+        "timestamp": "December 5, 2025",
+        "byline": "The rupee was quoted at 307.80/95 last Friday.",
+        "isoTimestamp": "2025-12-05T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e87473a60e4bf6dfe928efa4a0d84000f738defc70745c9815766bd4ff8a1572"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
