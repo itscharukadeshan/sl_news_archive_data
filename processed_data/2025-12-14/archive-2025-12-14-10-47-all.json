@@ -1,0 +1,997 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "themorning": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thamilan": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": true,
+    "data": [
+      {
+        "title": "’Ditwah’ leaves 2.2 million people affected across Sri Lanka",
+        "url": "https://www.dailymirror.lk/breaking-news/Ditwah-leaves-2-2-million-people-affected-across-Sri-Lanka/108-327780",
+        "byline": "The total number of people affected by Cyclone Ditwah has risen to 2.2 million, with 1.7 million people severely impacted, according to the latest figures released by the Disaster Management Centre.",
+        "timestamp": "2 minute ago",
+        "isoTimestamp": "2025-12-14T10:39:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "e27bb85b539a6591c22d7bc505b7927d8682d96f51d134fe080520ab82ab0ddf"
+      },
+      {
+        "title": "Oil leak reported at Colombo Port during crude oil transfer",
+        "url": "https://www.dailymirror.lk/breaking-news/Oil-leak-reported-at-Colombo-Port-during-crude-oil-transfer/108-327779",
+        "byline": "A leak has been reported in a pipeline while a ship was unloading crude oil at the Colombo Port.",
+        "timestamp": "7 minute ago",
+        "isoTimestamp": "2025-12-14T10:34:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "bb5e79385f18f627c9b507700d33a22acc3be83fe77effc2c0e030c339efc7f0"
+      },
+      {
+        "title": "John Cena ends his wrestling career in defeat",
+        "url": "https://www.dailymirror.lk/breaking-news/John-Cena-ends-his-wrestling-career-in-defeat/108-327778",
+        "byline": "The iconic WWE wrestler lost the final match of his storied run, as Gunther emerged victorious at Saturday Night’s Main Event on Dec. 13.",
+        "timestamp": "40 minute ago",
+        "isoTimestamp": "2025-12-14T10:01:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "2eb52e5eb3dea65ac7b56b834d8069782ac23f042c506692acbb3f23867b8dfd"
+      },
+      {
+        "title": "AI technology for disaster resilience explored",
+        "url": "https://www.dailymirror.lk/breaking-news/AI-technology-for-disaster-resilience-explored/108-327776",
+        "byline": "The Association of Disaster Risk Management Professionals (ADRMP) Sri Lanka successfully launched a national initiative titled “GeoAI for Disaster Resilience”, aimed at strengthening Sri Lanka’s capacity to predict, prepare for, and respond to disasters using cutting-edge geospatial and artificial intelligence technologies.",
+        "timestamp": "1 hours ago",
+        "isoTimestamp": "2025-12-14T10:40:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "92729cb6d8a42c2a3925ab1e5206eb5c8581956e31f42b24d78ecaadbb7df067"
+      },
+      {
+        "title": "Police hunt for gunman who killed 2 Brown University students, injured 9 people",
+        "url": "https://www.dailymirror.lk/international/Police-hunt-for-gunman-who-killed-2-Brown-University-students-injured-9-people/107-327775",
+        "byline": "Police in Rhode Island were searching for a suspect late on Saturday after a shooting at Brown University in Providence left two students dead and eight others critically wounded at the Ivy League school, officials said. A ninth person was hurt by bullet fragments, the mayor said.",
+        "timestamp": "1 hours ago",
+        "isoTimestamp": "2025-12-14T10:40:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "650cbb84910589570efcf8262622e6d53bc3a87e3a281eecd8e7b1b3bb0d7602"
+      },
+      {
+        "title": "SC to hear former Moscow Defence Attaché’s son’s FR on university admission",
+        "url": "https://www.dailymirror.lk/breaking-news/SC-to-hear-former-Moscow-Defence-Attachés-sons-FR-on-university-admission/108-327774",
+        "byline": "The Supreme Court is scheduled to hear a Fundamental Rights petition filed by the son of the former Defence Attaché to Moscow, challenging the decision of the University Grants Commission not accept his application to local universities.",
+        "timestamp": "2 hours ago",
+        "isoTimestamp": "2025-12-14T10:39:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "1b0ced5f306e1bfc502de0292d8f4cd9ce018f165bafbc4d6857f0afd1d51f4f"
+      },
+      {
+        "title": "2.3kg of heroin seized at BIA; suspect arrested",
+        "url": "https://www.dailymirror.lk/breaking-news/2-3kg-of-heroin-seized-at-BIA-suspect-arrested/108-327773",
+        "byline": "A suspect has been arrested at the Bandaranaike International Airport (BIA) with 2.3 kilograms of heroin, police said.",
+        "timestamp": "2 hours ago",
+        "isoTimestamp": "2025-12-14T10:39:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "bf43d5d209fbbc834e9e0089bbd9632c3b20b846387e36deebee76990c30bc19"
+      },
+      {
+        "title": "Chilaw Hospital flood damage crosses Rs. 1.2 Bn",
+        "url": "https://www.dailymirror.lk/breaking-news/Chilaw-Hospital-flood-damage-crosses-Rs-1-2-Bn/108-327772",
+        "byline": "Health and Mass Media Minister Dr. Nalinda Jayatissa said that damages caused by the recent flooding at the Chilaw General Hospital exceed Rs. 1,200 million.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "68da6cc4f2420947b84c01b76728764ba3865f115e56874d42f3b6322a552d1b"
+      },
+      {
+        "title": "Ministry urges public not to share details of disaster-affected children",
+        "url": "https://www.dailymirror.lk/breaking-news/Ministry-urges-public-not-to-share-details-of-disaster-affected-children/108-327769",
+        "byline": "The Ministry of Child and Women Affairs has urged the public and media institutions to refrain from sharing photographs, video footage, or personal details of children affected by the prevailing disaster situation through social media or mainstream media platforms.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "5e411ced1a66236f4b1e0e92fb9de3afffccd50781458f6d130b5f990398bf12"
+      },
+      {
+        "title": "Almas Holdings pledges Rs. 225 mn for flood relief and rebuilding",
+        "url": "https://www.dailymirror.lk/breaking-news/Almas-Holdings-pledges-Rs-225-mn-for-flood-relief-and-rebuilding/108-327770",
+        "byline": "Almas Holdings (Pvt) Ltd, a long-term investment holding company with interests in the capital market and real estate sectors, has pledged Rs. 225 million to support flood relief and post-disaster rebuilding efforts, underscoring growing private sector participation in national recovery initiatives.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "ebd3df87e2e9a0ac6ec734cbe8224bdf92f802d61c0777ac3f27d0aed6812be4"
+      },
+      {
+        "title": "Public servants to receive special festive advance",
+        "url": "https://www.dailymirror.lk/breaking-news/Public-servants-to-receive-special-festive-advance/108-327768",
+        "byline": "A circular has been issued authorizing a special advance payment of up to Rs. 4,000 for public sector employees in view of the festive season.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "dfbd7b4a0bf22854ba45bdcc486364a2b8d79f9d51acd8e3d47ca1c152d593b8"
+      },
+      {
+        "title": "Dudley Sirisena’s company donates Rs 100Mn for ‘Rebuilding Sri Lanka’ fund",
+        "url": "https://www.dailymirror.lk/breaking-news/Dudley-Sirisenas-company-donates-Rs-100Mn-for-Rebuilding-Sri-Lanka-fund/108-327767",
+        "byline": "Lakbima Rice Mills (Pvt) Ltd, based in Polonnaruwa, has contributed Rs. 100 million to the Government’s ‘Rebuilding Sri Lanka’ Fund, established to provide relief to communities affected by Cyclone Ditwa.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "e38802f2ae4285ecda070437defe07cda495d0dfadd22363b040b19c890f8aeb"
+      },
+      {
+        "title": "US Ambassador nominee outlines Washington’s priorities for Sri Lanka",
+        "url": "https://www.dailymirror.lk/breaking-news/US-Ambassador-nominee-outlines-Washingtons-priorities-for-Sri-Lanka/108-327766",
+        "byline": "US President Donald Trump’s nominee for ambassador to Sri Lanka has told lawmakers that Washington will focus on maritime security, economic reforms and countering China’s expanding influence in the Indian Ocean, as Sri Lanka continues its recovery from the 2022 economic crisis and a deadly cyclone this year.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "7a43071440d9acf3e33c0f0b6755d5e3ed9acd6f0ee15dea65648ee64316b3ed"
+      },
+      {
+        "title": "Rs. 10,000 compensation for coconut trees destroyed by Cyclone Ditwah",
+        "url": "https://www.dailymirror.lk/breaking-news/Rs-10-000-compensation-for-coconut-trees-destroyed-by-Cyclone-Ditwah/108-327765",
+        "byline": "The Government has drawn attention to providing compensation of Rs. 10,000 per coconut tree, along with coconut saplings, to farmers whose coconut trees were destroyed by the recent Cyclonic Storm Ditwah.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "27c36f0dd69ffd932f4a41752ba574985d75903b9819a2b331fce5340ec1fb30"
+      },
+      {
+        "title": "Messi event in Kolkata turns messy as fans go on rampage",
+        "url": "https://www.dailymirror.lk/international/Messi-event-in-Kolkata-turns-messy-as-fans-go-on-rampage/107-327764",
+        "byline": "What was billed as a historic, celebratory moment during Lionel Messi’s Kolkata stop on the GOAT Tour spiralled into chaos at the Vivekananda Yuvabharati Krirangan on Friday, with allegations of serious mismanagement overshadowing the Argentine legend’s brief appearance.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "741fff852bb72a30cf41ad8228f0ee697519375baa92e7bf4b96ef1830f5a77d"
+      },
+      {
+        "title": "Thundershowers with severe lightning forecast",
+        "url": "https://www.dailymirror.lk/breaking-news/Thundershowers-with-severe-lightning-forecast/108-327763",
+        "byline": "The Department of Meteorology has issued a warning for residents in Kalutara, Rathnapura, Galle, and Matara districts as thundershowers accompanied by severe lightning are likely to occur in some areas.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "2603ac4e1cdd64a6b298030b3969b7b42446a5b97926f6b4dac1848a61b878bf"
+      },
+      {
+        "title": "Will proposed international climate change university see the light of day in Sri Lanka?",
+        "url": "https://www.dailymirror.lk/breaking-news/Will-proposed-international-climate-change-university-see-the-light-of-day-in-Sri-Lanka/108-327689",
+        "byline": "The previous government completed the concept paper for the establishment of an international climate change university in Sri Lanka, and a Cabinet paper was presented at that time to seek approval for land demarcation for the project, an official attached to the then Climate Change secretariat said.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "1955f0dc13d6cd94b11ff912d7a8dbb560d5ef397e7a57efb68df3f305a4566c"
+      },
+      {
+        "title": "Almas Holdings pledges Rs 225 Million for flood relief in Sri Lanka",
+        "url": "https://www.dailymirror.lk/breaking-news/Almas-Holdings-pledges-Rs-225-Million-for-flood-relief-in-Sri-Lanka/108-327762",
+        "byline": "Almas Holdings Pvt Limited, a leading investment holding company active in the Capital Market and Real Estate sectors, has pledged a total of Rs 225 million to support flood relief and rebuilding efforts in Sri Lanka.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "803179fd5ef99b887debfc53b8d103ab45b4b6c4090064cb6dea21ef91f99e08"
+      },
+      {
+        "title": "Passenger arrested with Rs. 800,000 worth of smuggled whiskey",
+        "url": "https://www.dailymirror.lk/breaking-news/Passenger-arrested-with-Rs-800-000-worth-of-smuggled-whiskey/108-327761",
+        "byline": "A Sri Lankan air passenger was arrested in the early hours of today (13) at the Bandaranaike International Airport (BIA) for attempting to illegally bring a large stock of foreign-made whiskey into the country.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "86198d3b7d2172f9f0cd3144a9b803d12dbcd72be2552f10bb03b3c90f789f56"
+      },
+      {
+        "title": "Census to be conducted in affected areas",
+        "url": "https://www.dailymirror.lk/breaking-news/Census-to-be-conducted-in-affected-areas/108-327760",
+        "byline": "The Land Commissioner’s Department has focused its attention on conducting a census of lands affected by two recent minor storms, Commissioner General of Land, Chandana Ranaweera Arachchi said.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "455048f9628a8ad6b9b36d4bd7bde7ff7e73d640de71b209241696f0cac61cac"
+      },
+      {
+        "title": "Sri Lanka, Italy renew driving licence recognition agreement",
+        "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Italy-renew-driving-licence-recognition-agreement/108-327759",
+        "byline": "The Governments of Sri Lanka and Italy formally renewed the Bilateral Agreement for the Mutual Recognition of Driving Licences, reaffirming cooperation between the two countries.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "ee586675b4951c28c91c237d712d7741294a3178b2e8044b50b08431c9606881"
+      },
+      {
+        "title": "Delay in damage assessment cost SL crucial aid: UNP",
+        "url": "https://www.dailymirror.lk/breaking-news/Delay-in-damage-assessment-cost-SL-crucial-aid-UNP/108-327688",
+        "byline": "The UNP said yesterday that the delay in assessing the loss of lives and property damages of cyclone Ditwah by the authorities has caused a delay in obtaining further foreign aid for rebuilding the nation after the disaster.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "adb3af97ed9bf0772d014ba92d0ce0b67f39a4d8c860cd5be1866cc4a6634b37"
+      },
+      {
+        "title": "Viren, Ranithma Lead 1,500-Strong Field at 73rd National Badminton Championships",
+        "url": "https://www.dailymirror.lk/breaking-news/Viren-Ranithma-Lead-1-500-Strong-Field-at-73rd-National-Badminton-Championships/108-327749",
+        "byline": "Star shuttlers Viren Nettasinghe and Ranithma Liyanage are set to headline the action as more than 1,500 competitors prepare to battle it out at the 73rd National Badminton Championship 2025, scheduled from December 17",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "959dfa6d7c47ddef8c471c762d9b9cf1ae937c2ca459e354ca294bf41b4bc8c4"
+      },
+      {
+        "title": "Lionel Messi meets Shah Rukh Khan, unveils 70-ft statue In Kolkata",
+        "url": "https://www.dailymirror.lk/breaking-news/Lionel-Messi-meets-Shah-Rukh-Khan-unveils-70-ft-statue-In-Kolkata/108-327746",
+        "byline": "Football icon Lionel Messi virtually unveiled his 70-foot statue from Salt Lake stadium, with West Bengal Minister Sujit Bose and Bollywood actor Shah Rukh Khan present at the event on Saturday.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "b6e0091a97121176585499abda7113cb2f5712b54e4a5dea18244877582d51f0"
+      },
+      {
+        "title": "Facing one last fight, John Cena became a WWE legend for more than ability",
+        "url": "https://www.dailymirror.lk/international/Facing-one-last-fight-John-Cena-became-a-WWE-legend-for-more-than-ability/107-327741",
+        "byline": "The Last Time Is Now. It’s the name given to the tournament in which 16 wrestling giants have been competing to be the one opponent in John Cena’s final fight before retirement.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "ef39b4e03ed3623981629ef5bc14f13fbcd6243f4cfe281b1c18049b5e1a4593"
+      },
+      {
+        "title": "People’s attitude key to dengue eradication: Expert",
+        "url": "https://www.dailymirror.lk/breaking-news/Peoples-attitude-key-to-dengue-eradication-Expert/108-327687",
+        "byline": "Dr Kapila Kannangara, Director, National Dengue Control Unit, called on Sri Lankans and the authorities combating dengue to develop a better attitude since the responsibility lies with them in keeping the environment clean.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "1321b4f4982171b9e584ba5b324133da5f596181e4ce0aae10e2cabc38c04e9f"
+      },
+      {
+        "title": "Young woman who digitally created another young woman’s nude images fined",
+        "url": "https://www.dailymirror.lk/breaking-news/Young-woman-who-digitally-created-another-young-womans-nude-images-fined/108-327686",
+        "byline": "The Colombo Chief Magistrate Asanga S. Bodaragama yesterday imposed a compensation order of Rs. 50,000 and a fine of Rs. 5,000 on a young girl, after she pleaded guilty to digitally altering several photographs of a young woman from the Colombo area into obscene images and circulating them on the internet.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "a41a6f6923acef9a8f43670342986d87872601976f02030530cbd49c178bf50e"
+      },
+      {
+        "title": "Over 25 nabbed with narcotics at social media organised party in Teldeniya",
+        "url": "https://www.dailymirror.lk/breaking-news/Over-25-nabbed-with-narcotics-at-social-media-organised-party-in-Teldeniya/108-327726",
+        "byline": "Twenty-six suspects, including four women, were arrested with narcotics following a police raid on a party organised through social media, Teldeniya Police said.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "0a7efe4f85a109afc841c6d42a2ed5ccc9c3e103692d49abc0ccf41fff6bde75"
+      },
+      {
+        "title": "Sri Lankan migrant in UK denies sexual assault charges",
+        "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-migrant-in-UK-denies-sexual-assault-charges/108-327725",
+        "byline": "A Sri Lankan migrant residing in a government-funded asylum hotel in the United Kingdom has denied multiple charges, including the abduction and sexual assault of a 15-year-old girl in West London.",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "56e111d9abdaa693085461516b04c41f1d9c5a08f00107f94660843119929866"
+      },
+      {
+        "title": "Wijeyadasa Rajapakshe to get top position in SLFP",
+        "url": "https://www.dailymirror.lk/breaking-news/Wijeyadasa-Rajapakshe-to-get-top-position-in-SLFP/108-327724",
+        "byline": "Former Parliamentarian and President’s Counsel Wijeyadasa Rajapakshe is due to be appointed as a Senior Deputy Chairman of the Sri Lanka Freedom Party (SLFP).",
+        "timestamp": "13 Dec 2025",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "aa18d364ca9489089d487af7cb781ee5a6c3893f922ccbbb7b976705b7fa9fe0"
+      },
+      {
+        "title": "No title",
+        "url": "https://www.dailymirror.lk/latest-news/108/30",
+        "byline": "No byline",
+        "timestamp": "No timestamp",
+        "isoTimestamp": "2025-12-14T10:41:10+05:30",
+        "baseUrl": "https://www.dailymirror.lk",
+        "checkSum": "35fd6524d80e7638ca15b931253e1148a1ac753d44fe48ad72b05b0e1c99f2c7"
+      }
+    ]
+  },
+  "tamilmirror": {
+    "success": true,
+    "data": [
+      {
+        "title": "கார் பந்தயத்தில் சில நிமிடங்களில் பழுதான அஜித் கார்",
+        "url": "https://www.tamilmirror.lk/பிரதான-விளையாட்டு/கார்-பந்தயத்தில்-சில-நிமிடங்களில்-பழுதான-அஜித்-கார்/44-369496",
+        "timestamp": "7 minute ago",
+        "byline": "ஒரு தீவிர கார்பந்தய வீரராகவும் திகழ்ந்து வருபவர் நடிகர் அஜித்குமார்...",
+        "isoTimestamp": "2025-12-14T10:35:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "50ac946fa0a0cc17cdc1cd8d912a915f060e3f4a6ba945aa12a5d69995624157"
+      },
+      {
+        "title": "கார் பந்தயத்தில் சில நிமிடங்களில் பழுதான அஜித் கார்",
+        "url": "https://www.tamilmirror.lk/பிரதான-விளையாட்டு/கார்-பந்தயத்தில்-சில-நிமிடங்களில்-பழுதான-அஜித்-கார்/44-369496",
+        "timestamp": "7 minute ago",
+        "byline": "ஒரு தீவிர கார்பந்தய வீரராகவும் திகழ்ந்து வருபவர் நடிகர் அஜித்குமார்...",
+        "isoTimestamp": "2025-12-14T10:35:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "50ac946fa0a0cc17cdc1cd8d912a915f060e3f4a6ba945aa12a5d69995624157"
+      },
+      {
+        "title": "’ஆணுறைக்கு வரி’: அரசாங்கம் அதிரடி அறிவிப்பு",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/ஆணுறைக்கு-வரி-அரசாங்கம்-அதிரடி-அறிவிப்பு/50-369495",
+        "timestamp": "11 minute ago",
+        "byline": "2026 ஆம் ஆண்டு ஜனவரி 1ஆம் திகதி முதல் அமுல்படுத்தப்படும்...",
+        "isoTimestamp": "2025-12-14T10:31:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "04d31e0ddece433006f77d60f562626e4a538a47e3662ba78f482ad94d4cb951"
+      },
+      {
+        "title": "அமெரிக்கா பல்கலைக்கழகத்தில் மர்ம நபர் துப்பாக்கி சூடு: 2 பேர் பலி; 8 பேர் காயம்",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கா-பல்கலைக்கழகத்தில்-மர்ம-நபர்-துப்பாக்கி-சூடு-2-பேர்-பலி-8-பேர்-காயம்/50-369494",
+        "timestamp": "16 minute ago",
+        "byline": "அமெரிக்கா பல்கலைக்கழகத்தில் மர்ம நபர் துப்பாக்கி சூடு: 2 பேர் பலி",
+        "isoTimestamp": "2025-12-14T10:26:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "1c38ef2b3ae6eb4fd871c80bf6f5b37221536a24fc11994810cd540698397874"
+      },
+      {
+        "title": "தோல்வியுடன் விடைபெற்றார் ஜான் சீனா",
+        "url": "https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தோல்வியுடன்-விடைபெற்றார்-ஜான்-சீனா/44-369493",
+        "timestamp": "21 minute ago",
+        "byline": "தனித்துவமான மல்யுத்த உத்திகளால் ரசிகர்களைக் கவர்ந்தவர்",
+        "isoTimestamp": "2025-12-14T10:21:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "2665905cba4dc588a770448377acaf7a0012617e439cf73be6adff29c96da36d"
+      },
+      {
+        "title": "ஹெரோயினுடன் கட்டுநாயக்கவில் ஒருவர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஹெரோயினுடன்-கட்டுநாயக்கவில்-ஒருவர்-கைது/175-369491",
+        "timestamp": "54 minute ago",
+        "byline": "ஹெரோயினுடன் கட்டுநாயக்கவில் ஒருவர் கைது....",
+        "isoTimestamp": "2025-12-14T09:48:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e3866759d1fea90ee8e493fd160e178b729cbcf14bcd74d4fd4b6f6998d9d636"
+      },
+      {
+        "title": "பாராளுமன்றம் 18ஆம் திகதி கூடுகிறது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-18ஆம்-திகதி-கூடுகிறது/175-369473",
+        "timestamp": "13 Dec 2025",
+        "byline": "பாராளுமன்றம் 18ஆம் திகதி கூடுகிறது",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "3a8acf2ae5daccfc68553f6b74c34b2117ffae6bd9c9eeed4b7d792c38be8a1d"
+      },
+      {
+        "title": "போதைப்பொருள் விருந்து: 26 பேர் தெல்தெனியவில் கைது",
+        "url": "https://www.tamilmirror.lk/மலையகம்/போதைப்பொருள்-விருந்து-26-பேர்-தெல்தெனியவில்-கைது/76-369472",
+        "timestamp": "13 Dec 2025",
+        "byline": "நான்கு பெண்கள் உட்பட இருபத்தி ஆறு சந்தேக நபர்கள்...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "de4c81984590f22b2dc74540cbd8edb90195b4542604df880d1ce94143da4125"
+      },
+      {
+        "title": "ஜனாதிபதியின் கவனத்துக்கு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-கவனத்துக்கு/175-369471",
+        "timestamp": "13 Dec 2025",
+        "byline": "அண்மையில் இடம்பெற்ற இயற்கை பேரழிவை...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "279bf13c507f50ea23a0b5cd28157f0cb552ed6092a690975ef1126192faab7e"
+      },
+      {
+        "title": "தாழமுக்கங்கள் உருவாகும்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/தாழமுக்கங்கள்-உருவாகும்/175-369470",
+        "timestamp": "13 Dec 2025",
+        "byline": "வடகிழக்கு பருவப்பெயர்ச்சி காற்று வலுவடைந்து...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "ffb5bb5a0498697cdcc2fa00707267830b7f243ac6a6e210d2a64844eecf8689"
+      },
+      {
+        "title": "அமைதி நோபல் பரிசு வென்ற நர்கெஸ் முகமதி கைது",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/அமைதி-நோபல்-பரிசு-வென்ற-நர்கெஸ்-முகமதி-கைது/50-369469",
+        "timestamp": "13 Dec 2025",
+        "byline": "2023 ஆம் ஆண்டுக்கான அமைதி நோபல்...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "d1b8d5b212b0bf4c7a05fe09d8b0848591ed44ffc45bf07db01b8458afe5ace8"
+      },
+      {
+        "title": "அசோக ரன்வல பிணையில் விடுவிப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அசோக-ரன்வல-பிணையில்-விடுவிப்பு/175-369456",
+        "timestamp": "12 Dec 2025",
+        "byline": "ஜீப் வண்டி, காருடன் நேருக்கு நேர்",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "6f7a604574973c046d5e13f337ac829a13670e4817926aded63d34e05f7326cf"
+      },
+      {
+        "title": "காணாமல் போன 193 பேருக்கு இறப்புப் பதிவுச் சான்றிதழ்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/காணாமல்-போன-193-பேருக்கு-இறப்புப்-பதிவுச்-சான்றிதழ்/175-369455",
+        "timestamp": "12 Dec 2025",
+        "byline": "ஒருவரைப் பற்றி 2 வாரங்களுக்குப்",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "e70395ff8175a236b56f921544cae67d1c1b4b1cbd62da46750e7472f24137dc"
+      },
+      {
+        "title": "25,000 ரூபாய் நிவாரணம் கிடைக்கவில்லை : மாணவன் முறைப்பாடு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/25-000-ரூபாய்-நிவாரணம்-கிடைக்கவில்லை-மாணவன்-முறைப்பாடு/175-369454",
+        "timestamp": "12 Dec 2025",
+        "byline": "இரு நாட்களுக்குள் எழுத்து மூலம்",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c94d22728e7797d0ef8064a3b5e3ab31f38aecb5ba529899f11eefeec1c6e82a"
+      },
+      {
+        "title": "முன்னாள் சபாநாயகர் கைது",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-சபாநாயகர்-கைது/175-369453",
+        "timestamp": "12 Dec 2025",
+        "byline": "முன்னாள் சபாநாயகர் கைது",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "c85ebb6af83c6bcdeeb7018d1c6b57d59ec54332f036ac6de99c9a443a11cb37"
+      },
+      {
+        "title": "நுவரெலியாவுக்கு இரவில் செல்ல வேண்டாம்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவுக்கு-இரவில்-செல்ல-வேண்டாம்/175-369452",
+        "timestamp": "12 Dec 2025",
+        "byline": "No description",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "063239be45fc318b51db701b41354404207840c5df56704536f5b82c3a73d804"
+      },
+      {
+        "title": "3 காதலிகளுக்காக திருடிய 18 வயது இளைஞன்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/3-காதலிகளுக்காக-திருடிய-18-வயது-இளைஞன்/175-369451",
+        "timestamp": "12 Dec 2025",
+        "byline": "மூன்று காதலிகளுக்கும் தொலைபேசிகள்",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "b112032b9fdc941ae0dffa2160c774e7a2a42b165a4e333d78fdecf491564bb7"
+      },
+      {
+        "title": "வடக்கு மாகாணத்திற்கு பலத்த மழை",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/வடக்கு-மாகாணத்திற்கு-பலத்த-மழை/175-369450",
+        "timestamp": "12 Dec 2025",
+        "byline": "பலத்த காற்று மற்றும் மின்னல்",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "04976988da79d3d04bf7c886957c96629aaef9c0cefa368410055826032476a1"
+      },
+      {
+        "title": "ஜப்பானில் பாரி நிலநடுக்கம் : சுனாமி எச்சரிக்கை",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/ஜப்பானில்-பாரி-நிலநடுக்கம்-சுனாமி-எச்சரிக்கை/50-369449",
+        "timestamp": "12 Dec 2025",
+        "byline": "ஜப்பானின் அமோரி மாகாணத்தின்...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "760af0b2e03b0465c5adac107e5ac2794adcc90ca13373d3a6ad370688789bf9"
+      },
+      {
+        "title": "கல்முனை  விபத்தில் 650 கோழிகள் உயிரிழப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/கல்முனை-விபத்தில்-650-கோழிகள்-உயிரிழப்பு/175-369448",
+        "timestamp": "12 Dec 2025",
+        "byline": "கல்முனை  விபத்தில் 650 கோழிகள் உயிரிழப்பு",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "322d8587f9d08b839ad15b9bb9b32189f86f699eec0911d6a261ee48785ec973"
+      },
+      {
+        "title": "ட்ரம்ப் -மோடி தொலைபேசியில் உரையாடல்",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/ட்ரம்ப்-மோடி-தொலைபேசியில்-உரையாடல்/50-369445",
+        "timestamp": "12 Dec 2025",
+        "byline": "அமெரிக்கா - இந்தியா இடையே வர்த்தக...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "ee022a47bf82f07928d24c9930df703878f5e2b76699f5d5564a9c643bccb8b0"
+      },
+      {
+        "title": "தாய்லாந்து பாராளுமன்றம் கலைப்பு",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/தாய்லாந்து-பாராளுமன்றம்-கலைப்பு/50-369447",
+        "timestamp": "12 Dec 2025",
+        "byline": "தாய்லாந்து பாராளுமன்றம் கலைப்பு",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "7663825afc8164023babd566a226ed935a8914454d8d2c418ed20e48b9a4ff03"
+      },
+      {
+        "title": "’இலங்கையர் தினம்’ தேசிய நிகழ்வு ஒத்திவைப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/இலங்கையர்-தினம்-தேசிய-நிகழ்வு-ஒத்திவைப்பு/175-369444",
+        "timestamp": "12 Dec 2025",
+        "byline": "நாடளாவிய ரீதியில் ஏற்பட்ட டித்வா சூறாவளி...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "f66483e7a1c6657a86c7a03db5815685bfe2a7f8f4adce22439c4de1fb2c9771"
+      },
+      {
+        "title": "அயலகத் தமிழர் தினவிழா 2026 சென்னையில்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அயலகத்-தமிழர்-தினவிழா-2026-சென்னையில்/175-369446",
+        "timestamp": "12 Dec 2025",
+        "byline": "அயலகத் தமிழர் தினவிழா 2026 சென்னையில்",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "599cf3ef26adc2067844f331de5504b9f9502c89c516b6061ea926e5e2b3802a"
+      },
+      {
+        "title": "அமெரிக்க உப  இராஜாங்க  செயலாளர் - ஜனாதிபதி சந்திப்பு",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/அமெரிக்க-உப-இராஜாங்க-செயலாளர்-ஜனாதிபதி-சந்திப்பு/175-369443",
+        "timestamp": "12 Dec 2025",
+        "byline": "ஜனாதிபதி அநுரகுமார திசாநாயக்கவின்...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "dbe46e2ff5adbf9128d7e454c4024d4209f052641922d7d2438e08226601267a"
+      },
+      {
+        "title": "மியான்மரில் மருத்துவமனை மீது தாக்குதல்: 34 பேர் பலி",
+        "url": "https://www.tamilmirror.lk/உலக-செய்திகள்/மியான்மரில்-மருத்துவமனை-மீது-தாக்குதல்-34-பேர்-பலி/50-369442",
+        "timestamp": "12 Dec 2025",
+        "byline": "மியான்மரில் இராணுவத்துக்கும், கிளர்ச்சி...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "21cc954f434b6beec7835496280ff8988c3a3cdfa99be19051b18bc9d299e166"
+      },
+      {
+        "title": "மனிதாபிமானத் திட்டத்தை அறிமுகப்படுத்திய ஐ.நா.",
+        "url": "https://www.tamilmirror.lk/பிரசித்த-செய்தி/மனிதாபிமானத்-திட்டத்தை-அறிமுகப்படுத்திய-ஐ-நா/150-369422",
+        "timestamp": "11 Dec 2025",
+        "byline": "மனிதாபிமானத் திட்டத்தை அறிமுகப்படுத்திய ஐ.நா...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "0596436bafd3f745e455e132747e5ebd78d74a2b36d2fbbd4d6fcf0debe15b90"
+      },
+      {
+        "title": "நிர்மலா சீதாரமனை சந்தித்தார் செந்தில் தொண்டமான்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/நிர்மலா-சீதாரமனை-சந்தித்தார்-செந்தில்-தொண்டமான்/175-369419",
+        "timestamp": "11 Dec 2025",
+        "byline": "நிர்மலா சீதாரமனை சந்தித்தார் செந்தில் தொண்டமான்...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "ccc0693fd4715bf42f512b6acaa673a2bc0905d276a4c2f9c8fa6419db43394d"
+      },
+      {
+        "title": "கண்டியில் பேரிடர் மரணங்கள் 240 ஆக உயர்ந்துள்ளது",
+        "url": "https://www.tamilmirror.lk/மலையகம்/கண்டியில்-பேரிடர்-மரணங்கள்-240-ஆக-உயர்ந்துள்ளது/76-369417",
+        "timestamp": "11 Dec 2025",
+        "byline": "கண்டியில் பேரிடர் மரணங்கள் 240 ஆக உயர்ந்துள்ளது",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "8cfc0f23b34d67a9e10a1d40aa7f6a3956ae976d7aa98acbf4c29c530d32f66f"
+      },
+      {
+        "title": "மனைவியை பலவந்தப்படுத்த முயன்ற  நபர் தாக்கியதில் கணவன் பலி",
+        "url": "https://www.tamilmirror.lk/மலையகம்/மனைவியை-பலவந்தப்படுத்த-முயன்ற-நபர்-தாக்கியதில்-கணவன்-பலி/76-369416",
+        "timestamp": "11 Dec 2025",
+        "byline": "மனைவியை பலவந்தப்படுத்த முயன்றதாகக் கூறப்படும் 37 வயதான...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "95492ffcaec27550c0483c6bdda0321fb1d05cbe108cf5df026ba2db2b4756fa"
+      },
+      {
+        "title": "முத்தையன்கட்டு  குளம் பகுதி மக்களுக்கு முக்கிய தகவல்",
+        "url": "https://www.tamilmirror.lk/செய்திகள்/முத்தையன்கட்டு-குளம்-பகுதி-மக்களுக்கு-முக்கிய-தகவல்/175-369414",
+        "timestamp": "11 Dec 2025",
+        "byline": "முத்தையன்கட்டு  அணையின் வால் கட்டு அருகில் சிறிய...",
+        "isoTimestamp": "2025-12-14T10:42:23+05:30",
+        "baseUrl": "https://www.tamilmirror.lk",
+        "checkSum": "9d9af0902533974c4501e4723087684ea83818ad264edc54f8ed4c396044d14d"
+      }
+    ]
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": false,
+    "error": {}
+  },
+  "ada": {
+    "success": false,
+    "error": {}
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Cyclone Ditwah hits 13,698 Sri Lanka businesses, hotline given",
+        "url": "https://economynext.com/cyclone-ditwah-hits-13698-sri-lanka-businesses-hotline-given-253061/",
+        "timestamp": "December 13, 2025",
+        "byline": "Businesses damaged by Ditwah urged to report on website, hotline",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "cf3643b0e2af17fe6f8b36b7e90cb4826f61db7aa0cd402b41bbe084feb67085"
+      },
+      {
+        "title": "Sri Lanka average coconut prices dip 1.5-pct, more nuts offered",
+        "url": "https://economynext.com/sri-lanka-average-coconut-prices-dip-1-5-pct-more-nuts-offered-252979/",
+        "timestamp": "December 13, 2025",
+        "byline": "The average price of 1,000 nuts dropped from 114,559.44 rupees to 112,740.72.",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ff805ad61fdfb2c2000106c4485349a5614f1789ac439d970818598eb463b918"
+      },
+      {
+        "title": "FAO ready to work with Sri Lanka government, agencies on disaster aid",
+        "url": "https://economynext.com/fao-ready-to-work-with-sri-lanka-government-agencies-on-disaster-aid-252970/",
+        "timestamp": "December 13, 2025",
+        "byline": "Ready to collaborate with government, bilateral partners, and multilateral agencies to ensure recovery",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b2ec05c901b0ffe14bb6e0f39484d234141d40f10451173f1fe5f8a0185b639f"
+      },
+      {
+        "title": "Sri Lanka private credit surges to new high of Rs246bn in October, rupee depreciated",
+        "url": "https://economynext.com/sri-lanka-private-credit-surges-to-new-high-of-rs246bn-in-october-rupee-depreciated-252984/",
+        "timestamp": "December 13, 2025",
+        "byline": "In 2025 the rupee has depreciated amid current account surpluses and deficits",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6d46ee68a799f424f2b792f7d9dc48ad39f1b499b02e108ec8cc75c321d1d354"
+      },
+      {
+        "title": "Sri Lanka central banker urges stronger research, collaboration amid global uncertainty",
+        "url": "https://economynext.com/sri-lanka-central-banker-urges-stronger-research-collaboration-amid-global-uncertainty-252941/",
+        "timestamp": "December 12, 2025",
+        "byline": "Well-grounded research enhances forecasting accuracy, informs the calibration of monetary and macroprudential tools,",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5b8b40ea3a75481f74a897c1fdb49541b5e79d25bc0821115655c42604a9ca4e"
+      },
+      {
+        "title": "Sri Lanka rupee marginally stronger, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-marginally-stronger-bond-yields-down-252953/",
+        "timestamp": "December 12, 2025",
+        "byline": "Rupee has depreciated over the week",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "98c0ef49507da28db97fca5a1ccd3f4a6511a3d8191806921389ab098a07f8c6"
+      },
+      {
+        "title": "Sri Lanka stocks close up 0.22-pct amidst volatility",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-0-22-pct-amidst-volatility-252937/",
+        "timestamp": "December 12, 2025",
+        "byline": "Market turnover was 3.02 billion rupees.",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b29e9eaa690226701007dc0d16b760bbd638f248afbd76067a155f443dafed09"
+      },
+      {
+        "title": "Sri Lanka regulator suspends Sanasa Life Insurance",
+        "url": "https://economynext.com/sri-lanka-regulator-suspends-sanasa-life-insurance-252938/",
+        "timestamp": "December 12, 2025",
+        "byline": "The registration was suspended from December 5 until December 26",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2eed63886046e19b196f70589c938760c19b7d0494da3c212626356260e77036"
+      },
+      {
+        "title": "Sri Lanka to offer concessionary loan scheme for disaster-hit MSMEs",
+        "url": "https://economynext.com/sri-lanka-to-offer-concessionary-loan-scheme-for-disaster-hit-msmes-252928/",
+        "timestamp": "December 12, 2025",
+        "byline": "Consolidation of loans schemes for MSMEs under one framework and implementation of recovery loan schemes",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9930a9f4188fe9805d86a3f5e80f80950c5af974be08c9325a705e523e6955b6"
+      },
+      {
+        "title": "Sri Lanka sells Rs120bn in 2030, 2032 and 2035 bonds",
+        "url": "https://economynext.com/sri-lanka-sells-rs120bn-in-2030-2032-and-2035-bonds-252780/",
+        "timestamp": "December 12, 2025",
+        "byline": "143 billion offered",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a3de1424188df254d2d426877a6794b304faeee5b4a6c9c4a2611a376556ab70"
+      },
+      {
+        "title": "Sri Lanka has enough seed paddy to re-cultivate cyclone damaged fields",
+        "url": "https://economynext.com/sri-lanka-has-enough-seed-paddy-to-re-cultivate-cyclone-damaged-fields-252918/",
+        "timestamp": "December 12, 2025",
+        "byline": "By the time the cyclone hit, 620,136 hectares were cultivated.",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8ab195af92892a0fa6cfa472f81d00f9c5e6b40c17fa2e55699af0e9eea61667"
+      },
+      {
+        "title": "Sri Lanka rupee marginally stronger, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-marginally-stronger-bond-yields-drop-252910/",
+        "timestamp": "December 12, 2025",
+        "byline": "The rupee has fallen from 293.10/30 to 308.15/40 over 2025 amid record current account deficits",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e771982003890059688b6e32a5d7cbe25a4ff2ae9785d6553dfe9e443db4b317"
+      },
+      {
+        "title": "Vietnam offers free trade expo space to boost Sri Lanka exports",
+        "url": "https://economynext.com/vietnam-offers-free-trade-expo-space-to-boost-sri-lanka-exports-252842/",
+        "timestamp": "December 12, 2025",
+        "byline": "Active participation of businesses of both countries is needed - Minister",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c6c5fa294fe82e3bbf5cca5abc918346c66a0c04522c13cc67c6df116691e984"
+      },
+      {
+        "title": "Sri Lanka recognizes Omega Line as exporter of the year, Akbar Brothers top forex earner",
+        "url": "https://economynext.com/sri-lanka-recognizes-omega-line-as-exporter-of-the-year-akbar-brothers-top-forex-earner-252904/",
+        "timestamp": "December 12, 2025",
+        "byline": "Emerging Exporter of the Year was Bughary Bio Spices (Private) Limited",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8071244226ff7a7c3769bbc362799a83c92dc6c79f2dba19a6d137820b94f4be"
+      },
+      {
+        "title": "UN launches $35 million appeal for Sri Lanka cyclone relief",
+        "url": "https://economynext.com/un-launches-35-million-appeal-for-sri-lanka-cyclone-relief-252824/",
+        "timestamp": "December 11, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "794465c801177e17f9b07cda91f3400c5d613bd9a65c9853951317797978df97"
+      },
+      {
+        "title": "Sri Lanka to use World Bank funds to buy vehicles for health sector",
+        "url": "https://economynext.com/sri-lanka-to-use-world-bank-funds-to-buy-vehicles-for-health-sector-252812/",
+        "timestamp": "December 11, 2025",
+        "byline": "Includes 2,891 scooters for midwives and 1,350 motorbikes for public health inspectors",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9a4d6b8bd5529e98297d26e2b8ba78aebfdffc4d3dcd34e4ebc589c37ac89909"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-down-252784/",
+        "timestamp": "December 11, 2025",
+        "byline": "Rupee weakened further",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "619f61c8d2d7701bd36313daf71a9578cd6c3cc1943dbe2ed8e81b5bc667fdfd"
+      },
+      {
+        "title": "Sri Lanka to seek US$200mn from ADB for Mahaweli water security program",
+        "url": "https://economynext.com/sri-lanka-to-seek-us200mn-from-adb-for-mahaweli-water-security-program-252794/",
+        "timestamp": "December 11, 2025",
+        "byline": "The project is estimated to cost 536.5 million US dollars.",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "81f05f61c8d162a5f3b70613dddea9cecf888e98660fcdaccaadff2b0cab7b44"
+      },
+      {
+        "title": "Colombo Dockyard, construction shares push Sri Lanka stocks higher",
+        "url": "https://economynext.com/colombo-dockyard-construction-shares-push-sri-lanka-stocks-higher-252745/",
+        "timestamp": "December 11, 2025",
+        "byline": "\"Speculative trading is happening in the market.\"",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5ee4c89415268e43699bf4a1f1474f1e3f98828b0f1975131f461ae6b0c90544"
+      },
+      {
+        "title": "Sri Lanka awards 50MW wind plants to Vidullanka, Windforce",
+        "url": "https://economynext.com/sri-lanka-awards-50mw-wind-plants-to-vidullanka-windforce-252747/",
+        "timestamp": "December 11, 2025",
+        "byline": "After international competitive tender",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4a4300f738ef33d00f5ebbbcfc5e328998bcfcee827ec47c876f81e93910ef7a"
+      },
+      {
+        "title": "Sri Lanka awards 50MW wind plants to Vidullanka, Windforce",
+        "url": "https://economynext.com/sri-lanka-awards-50mw-wind-plants-to-vidullanka-windforce-252747/",
+        "timestamp": "December 11, 2025",
+        "byline": "After international competitive tender",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4a4300f738ef33d00f5ebbbcfc5e328998bcfcee827ec47c876f81e93910ef7a"
+      },
+      {
+        "title": "Sri Lanka transfers Trincomalee land meant for vocational university to tourism project",
+        "url": "https://economynext.com/sri-lanka-transfers-trincomalee-land-meant-for-vocational-university-to-tourism-project-252755/",
+        "timestamp": "December 11, 2025",
+        "byline": "So far, 25.45 million rupees has been spent on the construction work for the college.",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "126f5c837c49bd5a910332ecddef1d53a5e94d35bc834e764d86741b40d5fe39"
+      },
+      {
+        "title": "Sri Lanka offers UDA land in Colombo for mixed development project",
+        "url": "https://economynext.com/sri-lanka-offers-uda-land-in-colombo-for-mixed-development-project-252744/",
+        "timestamp": "December 11, 2025",
+        "byline": "Land to be offered to investors on a 99-year lease basis",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f41c3df12002e4367d49d552d97a1db2ec961562a4f73ae352c5e88bfae00724"
+      },
+      {
+        "title": "Rebuilding housing post-Ditwah: Lessons from Sri Lanka’s tsunami experience",
+        "url": "https://economynext.com/rebuilding-housing-post-ditwah-lessons-from-sri-lankas-tsunami-experience-252686/",
+        "timestamp": "December 11, 2025",
+        "byline": "An Institute of Policy Studies of Sri Lanka (IPS) article draws from lessons of the post-tsunami housing programme",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5d98e5e217e3bd80ea83b3e58b980565362510232eb56a327c3d52de650e94ba"
+      },
+      {
+        "title": "Sri Lanka sells Rs43bn Treasury bills; yields flat",
+        "url": "https://economynext.com/sri-lanka-sells-rs43bn-treasury-bills-yields-flat-252403/",
+        "timestamp": "December 11, 2025",
+        "byline": "Sold more of the 6-month bill",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ef39dc43095ff6ea346262d14104857fa97828a5caf5211425e878955fc915ca"
+      },
+      {
+        "title": "Sri Lanka's Hela Apparel says banks to recast debt on Rs3-4bn capital injection",
+        "url": "https://economynext.com/sri-lankas-hela-apparel-says-banks-to-recast-debt-on-rs3-4bn-capital-injection-252566/",
+        "timestamp": "December 11, 2025",
+        "byline": "Further updates on the ongoing debt restructure exercise of the Hela group of companies",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e5f909787e9ce2862242e6e85fd0c6e68c3dd3eac83ed09b18734823dac61015"
+      },
+      {
+        "title": "Sri Lanka’s Cargills Bank to raise Rs2.5bn in rights issue",
+        "url": "https://economynext.com/sri-lankas-cargills-bank-to-raise-rs2-5bn-in-rights-issue-252546/",
+        "timestamp": "December 11, 2025",
+        "byline": "294,200,000 ordinary voting shares at a ratio of 14 new ordinary shares for every 45 existing ordinary shares",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1d443f222c0f0975a639a30beea9904c8759b1d80f1f5b42ea062c738d73491f"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-drop-252534/",
+        "timestamp": "December 11, 2025",
+        "byline": "Rupee depreciated further",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "047e118a6059f3c35a9eeec070a0a96e892e9b58a524c7ff8c3afa66a63b7bc8"
+      },
+      {
+        "title": "Vietnam sees potential in Sri Lanka for logistics and warehouse businesses",
+        "url": "https://economynext.com/vietnam-sees-potential-in-sri-lanka-for-logistics-and-warehouse-businesses-252457/",
+        "timestamp": "December 11, 2025",
+        "byline": "Logistics delegation to visit Sri Lanka",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8d6b39c09447e02e63b725e2fec6a96350dd2b9ae93dcfc716c483cfbbbade49"
+      },
+      {
+        "title": "Federal Reserve cuts rates despite above target inflation in dual mandate confusion",
+        "url": "https://economynext.com/federal-reserve-cuts-rates-despite-above-target-inflation-in-dual-mandate-confusion-252438/",
+        "timestamp": "December 11, 2025",
+        "byline": "Inflation was up 3 percent in October, 2025 with monthly inflation rising 0.3 percent",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "56c96df0f1050aebff9a7b3328c2c9f95448579c7558f27098c51d38068fff03"
+      },
+      {
+        "title": "Demand for vegetables in Sri Lanka slump in Cyclone Ditwah aftermath",
+        "url": "https://economynext.com/demand-for-vegetables-in-sri-lanka-slump-in-cyclone-ditwah-aftermath-252428/",
+        "timestamp": "December 10, 2025",
+        "byline": "Vegetable prices soared in the first day after the cyclone ended",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "03501bf2b320fd1d6910508be65606fcae9740cf71e2bbd58ced642e1519de82"
+      },
+      {
+        "title": "Sri Lanka explores ways to widen tax net with easing red tape",
+        "url": "https://economynext.com/sri-lanka-explores-ways-to-widen-tax-net-with-easing-red-tape-252400/",
+        "timestamp": "December 10, 2025",
+        "byline": "Though Sri Lanka has seen an increase in tax file registration, still the number of tax payers is low",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fc295e79b69f687ca9f299ccc24730cc2dd0b4bc651a042fec194c6bd4200561"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-steady-252408/",
+        "timestamp": "December 10, 2025",
+        "byline": "Rupee weakens",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "24ce6eea42ad3780164c30702387d82ea075a1b142d07b8f78925bea9cab3196"
+      },
+      {
+        "title": "Sri Lanka egg output down 30-pct after Ditwah kills 500,000 layers : industry",
+        "url": "https://economynext.com/sri-lanka-egg-output-down-30-pct-after-ditwah-kills-500000-layers-industry-252380/",
+        "timestamp": "December 10, 2025",
+        "byline": "Prices almost double",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c86354376aed006c8ab83c303f990acf6483954a61a52825f4c688d7d6aeb650"
+      },
+      {
+        "title": "Sri Lanka stocks close up, pushed by Colombo Dockyard",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-pushed-by-colombo-dockyard-252384/",
+        "timestamp": "December 10, 2025",
+        "byline": "This positive momentum spread to other sectors, most notably into construction and banks",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8b1c01ec676ccb1df3c117def9d93ee1948c4d208d20d3833de0c13e60892d7c"
+      },
+      {
+        "title": "Japan’s ‘shock treatment’ for Sri Lanka’s Flood Victims",
+        "url": "https://economynext.com/japans-shock-treatment-for-sri-lankas-flood-victims-252362/",
+        "timestamp": "December 10, 2025",
+        "byline": "Japanese doc stuns Sri Lanka patients by bowing to them",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "458133b891163af2c49dafde440116dc6a6e47fc5c5f06b1a1ac7b8216397e4e"
+      },
+      {
+        "title": "UK announces £1mn support for cyclone-hit Sri Lanka communities",
+        "url": "https://economynext.com/uk-announces-1mn-support-for-cyclone-hit-sri-lanka-communities-252364/",
+        "timestamp": "December 10, 2025",
+        "byline": "The funding will be delivered through humanitarian partners.",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb4e76873d083400a6844eb5c87c72d1029668a2ce2662ead7d2408a2d3aa30b"
+      },
+      {
+        "title": "Sri Lanka regulator meets insurers over Ditwah claims",
+        "url": "https://economynext.com/sri-lanka-regulator-meets-insurers-over-ditwah-claims-252358/",
+        "timestamp": "December 10, 2025",
+        "byline": "\"Compensation payments for minor property damage have already commenced.\"",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b0db5df85e8a67bec08e48e39b4b602cace92989a1c598728159f89eb075004f"
+      },
+      {
+        "title": "Cyclone Ditwah kills 35,000 cattle in Sri Lanka, 2,000 pigs",
+        "url": "https://economynext.com/cyclone-ditwah-kills-35000-cattle-in-sri-lanka-2000-pigs-252356/",
+        "timestamp": "December 10, 2025",
+        "byline": "500,000 layer chicks and 1.4 million broilers also killed",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4b56153c5c81c9d3a3fc42d0c4e35e5a697b1db8e892d4ea4f926839f4f88163"
+      },
+      {
+        "title": "Sri Lanka's Abans Finance senior debt given 'A-(EXP)(lka)' rating by Fitch",
+        "url": "https://economynext.com/sri-lankas-abans-finance-senior-debt-given-a-explka-rating-by-fitch-252352/",
+        "timestamp": "December 10, 2025",
+        "byline": "The proposed senior unsecured debentures will mature in five years and will be listed on the Colombo Stock Exchange.",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ad18f835ae2dabbcb25f49a05b9abce4f88313c33fc1350206b56c0f41370b74"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
