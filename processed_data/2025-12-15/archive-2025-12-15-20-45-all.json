@@ -1,0 +1,699 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "aruna": {
+    "success": false,
+    "error": {
+      "name": "TargetCloseError",
+      "cause": {
+        "name": "ProtocolError"
+      }
+    }
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": true,
+    "data": []
+  },
+  "dinamina": {
+    "success": true,
+    "data": []
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {}
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {}
+  },
+  "lankadeepa": {
+    "success": true
+  },
+  "island": {
+    "success": true,
+    "data": []
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "මධ්‍යම බස් නැවතුම්පොළේ නවීකරණ කටයුතු ඇමති බිමල්ගේ නිරීක්ෂණයට",
+        "url": "https://www.ada.lk/breaking_news/මධ්‍යම-බස්-නැවතුම්පොළේ-නවීකරණ-කටයුතු-ඇමති-බිමල්ගේ-නිරීක්ෂණයට/11-420252",
+        "timestamp": "15 12 2025 18:46:00",
+        "byline": "නවීකරණය කෙරෙමින් පවතින මධ්‍යම බස් නැවතුම්පලෙ හි වත්මන් කටයුතු නිරීක්ෂණය සඳහා අද ( 15 ) දින ප්‍රවාහන මහාමාර්ග සහ නාගරික සංවර්ධන අමාත්‍ය බිමල් රත්නායක අමාත්‍යවරයා එම ස්ථානයට පැමිණියේය. මෙම නවීකරණය කිරිමේ කටයුතු ලබන සිංහල හා හින්දු අලුත් අවුරුද්දට පෙර අවසන් කිරිමට සැලසුම්කර තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f5c12720d52d3a2bb5254fe71264a49a9e6373c50fa94cfd03839134882306c2"
+      },
+      {
+        "title": "ධම්මිකට ඇප, අර්ජුණ අත්අඩංගුවට ගන්නා බව කියයි",
+        "url": "https://www.ada.lk/breaking_news/ධම්මිකට-ඇප--අර්ජුණ-අත්අඩංගුවට-ගන්නා-බව-කියයි/11-420254",
+        "timestamp": "15 12 2025 17:34:00",
+        "byline": "අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ  ඛනිජ තෙල් නීතිගත සංස්ථාවේ හිටපු සභාපති ධම්මික රණතුංග මහතා ඇප මත මුදා හරින ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "008b57b2c388758fa90d94c7208de759a79625debc0919d44926adfaddf20681"
+      },
+      {
+        "title": "ආපදාව ආශ්‍රිත සමාජ මාධ්‍ය භාවිත කර සිදුකරන වංචා ඉහළට",
+        "url": "https://www.ada.lk/technology/ආපදාව-ආශ්‍රිත-සමාජ-මාධ්‍ය-භාවිත-කර-සිදුකරන-වංචා-ඉහළට/5-420251",
+        "timestamp": "15 12 2025 16:59:00",
+        "byline": "අපසුගිය සති කිහිපය පුරා සමාජ මාධ්‍ය වේදිකා හරහා මාර්ගගත වංචා සහ මුදල් වංචා කිරීමේ උත්සාහයන් වැඩිවීමක් දක්නට ලැබෙන බැවින්, අතිශයින්ම සුපරීක්ෂාකාරීව කටයුතු කරන ලෙස ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය (Sri Lanka CERT) මහජනතාවගෙන් ඉල්ලා සිටී.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "59e20b50f4dedf9ef62ba768d1de882f17404eaaa7a6185acd8a433602cb7efe"
+      },
+      {
+        "title": "ඉතිහාසයේ ඉහළම විගමණික ප්‍රේෂණ 2025 වසරේදී වාර්තා වෙයි",
+        "url": "https://www.ada.lk/breaking_news/ඉතිහාසයේ-ඉහළම-විගමණික-ප්‍රේෂණ-2025-වසරේදී-වාර්තා-වෙයි/11-420248",
+        "timestamp": "15 12 2025 16:09:00",
+        "byline": "මාස 11ට ප්‍රේෂණ ලැබීම් ඇමරිකානු ඩොලර් බිලියන 7 ඉක්මවයි...\nඉතිහාසයේ ඉහළම විගමණික ප්‍රේෂණ 2025 වසරේදී වාර්තා වෙයි",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "dbda2f04aec7a19b380d2aa5d6c4e8ab18b70c8c7f89c88a85c95e07d4e32610"
+      },
+      {
+        "title": "රන්වල වාහනයේ තිරිංග පද්ධතියේ දෝශයක්ලු",
+        "url": "https://www.ada.lk/breaking_news/රන්වල-වාහනයේ-තිරිංග-පද්ධතියේ-දෝශයක්ලු/11-420250",
+        "timestamp": "15 12 2025 15:37:00",
+        "byline": "පසුගියදා රිය අනතුරකට ලක් වූ පාර්ලිමේන්තු මන්ත්‍රී අශෝක රන්ව විසින් ල පැදවූ වාහනයේ තිරිංග පද්ධතියේ ගැටලුවක් පැවති බවට අනාවරණය වී ඇති බව පොලීසිය පවසනවා.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "25419dd449377167be16ea0f12db320d9284b605d17be8ba82448ebf96587361"
+      },
+      {
+        "title": "ගාල්ල මහ නගර සභා අයවැය පරදියි",
+        "url": "https://www.ada.lk/breaking_news/ගාල්ල-මහ-නගර-සභා-අයවැය-පරදියි/11-420247",
+        "timestamp": "15 12 2025 15:19:00",
+        "byline": "ගාල්ල මන නගර සභාවේ ලබන වසර (2026) සදහා වු මංගල අය වැය ලේඛණය ඊයේ (15) පැවැති  නගරසභා මාසික  රැස්විමේ  වැඩි ජන්ද දෙකකින් පරාජයට පත්විය.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "6ce4fe4f20005b2f35d0eb4b2fe524334cbcb10f801ce3af9f1ec42db0b7a165"
+      },
+      {
+        "title": "ධම්මික රණතුංග අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/ධම්මික-රණතුංග-අත්අඩංගුවට/11-420249",
+        "timestamp": "15 12 2025 14:46:00",
+        "byline": "ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාවේ හිටපු සභාපති ධම්මික රණතුංග මහතා අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1b02c41b6134a382d6cde9fc415d84a8dba4bc9ae65d58886fb0cefdaf685cb8"
+      },
+      {
+        "title": "මා ඔය පිටාර ගැලීමෙන් උළු කම්හල් 120ක් විනාශයි",
+        "url": "https://www.ada.lk/breaking_news/මා-ඔය-පිටාර-ගැලීමෙන්-උළු-කම්හල්-120ක්-විනාශයි/11-420246",
+        "timestamp": "15 12 2025 13:32:00",
+        "byline": "පැවැති අධික වර්ෂාවත් සමඟ මා ඔය පිටාර ගැලීම හේතුවෙන් වෙන්නප්පුව, දංකොටුව, පන්නල, කටාන යන ප්‍රාදේශීය ලේකම් කොට්ඨාශ වලට අයත් ප්‍රදේශ රැසක උළු කර්මාන්ත ශාලා 120 කට ආසන්න ප්‍රමාණයක් විනාශ වී ඇති බව එම කර්මාන්ත කරුවන් පවසති.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "78a13c3c90bc9f2cfacb10ac2f785d64bbadebffcf254663c0001a41b9f78dfb"
+      },
+      {
+        "title": "බගවන්තලාවට මල් තුහින පතිත වෙයි",
+        "url": "https://www.ada.lk/breaking_news/බගවන්තලාවට-මල්-තුහින-පතිත-වෙයි/11-420243",
+        "timestamp": "15 12 2025 12:21:00",
+        "byline": "මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවල මේ දිනවල අලුයම් කාලයේ පවතින අධික සීතල කාළගුණයත් සමග බගවන්තලාව ප්‍රදේශයට (15) දින අලුයම මල් තුහිණ පතිත වී තිබුණ අයුරු අප කැමරාවේ සටහන් විය.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b4e28189b3df70fae30d63a10fc632fda1cc28e8ef16ad1cece5d64fc8992a9a"
+      },
+      {
+        "title": "ඔස්ට්‍රේලියාවේ වෙඩි තැබීමෙන් 15ක් මරුට, වෙඩික්කරුවන් පිය පුතු දෙපළක්",
+        "url": "https://www.ada.lk/international/ඔස්ට්‍රේලියාවේ-වෙඩි-තැබීමෙන්-15ක්-මරුට--වෙඩික්කරුවන්-පිය-පුතු-දෙපළක්/3-420242",
+        "timestamp": "15 12 2025 11:29:00",
+        "byline": "යුදෙව් ජාතිකියන්ගේ සැමරුම් උත්සවයක් අතරතුර ඔස්ට්‍රේලියාවේ නිව් සවුත් වේල්ස්හි බොන්ඩි වෙරළ තීරයේ සිදුවූ වෙඩි තැබිමෙන් මියගිය සංඛ්‍යාව 15ක් බවට පත්ව තිබේ. මෙසේ ජීවිතක්ෂයට පත්වූ පිරිස වයස අවුරුදු 10 සිට 87 අතර පසුවන්නන් අතර අවුරුදු 10ක ගැහැණු දරුවෙක්ද ජීවිතක්ෂයට පත්ව තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d587feaed74af068b21679b3002b725885476f79fc6749d81b2a324ce701fd9b"
+      },
+      {
+        "title": "රඹුකේඇළ නායයෑමෙන් තවත් ජීවිත 10ක් පස් යට",
+        "url": "https://www.ada.lk/breaking_news/රඹුකේඇළ-නායයෑමෙන්-තවත්-ජීවිත-10ක්-පස්-යට/11-420241",
+        "timestamp": "15 12 2025 10:35:00",
+        "byline": "දිත්වා සුළි කුණාටුව විසින් ජීවිත 29 ක් බිලි ගත් මහනුවර දිස්ත්‍රික්කයේ විශාලතම නායයෑමක් සිදු වූ අලවතුගොඩ රඹුකේඇල නාය භූමිය අද දිස් වන අයුරුයි මේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "49d0be9be192f6746bb313264f59829f43243fe2dd0513ac3695630f1cb03e15"
+      },
+      {
+        "title": "ජනපති පාර්ලිමේන්තුවේ එකක් හා සම්බන්ධීකරණ රැස්වීමේදී තවත් එකක් කියනවා",
+        "url": "https://www.ada.lk/breaking_news/ජනපති-පාර්ලිමේන්තුවේ-එකක්-හා-සම්බන්ධීකරණ-රැස්වීමේදී-තවත්-එකක්-කියනවා/11-420240",
+        "timestamp": "15 12 2025 09:42:00",
+        "byline": "’’අපි විශ්වාස කරනවා මේ රටේ ශක්තිමත් රාජ්‍ය යාන්ත්‍රණයක් තියෙනවා. ඒ රාජ්‍ය යාන්ත්‍රණය කෙරෙහි මීට වඩා විශ්වාශය තැබිය යුතු බව’’",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "14716896dd80d92b4b41a9c3741a438832dd820fc5e942cbbe5db725c5992626"
+      },
+      {
+        "title": "ආධාර දි.ලේ.  හෝ ප්‍රා ලේ කාර්යාලයට ලබා දෙන්න",
+        "url": "https://www.ada.lk/breaking_news/ආධාර-දි-ලේ---හෝ-ප්‍රා-ලේ-කාර්යාලයට-ලබා-දෙන්න/11-420239",
+        "timestamp": "15 12 2025 08:59:00",
+        "byline": "මහනුවර දිස්ත්‍රික්කයේ ඇති වු ආපදාවන් හේතුවෙන් පීඩාවට පත් වූ ජනතාව වෙනුවෙන් වියලි ආහාර ඇතුළුව ජනතාව විසින් ලබා දෙනු ලබන සියලු ආධාර මහනුවර දිස්ත්‍රික් ලේකම් කාර්යාලය වෙත හෝ ළඟම ඇති ප්‍රාදේශීය ලේකම් කාර්යාලය වෙත ලබා දෙන ලෙස මහනුවර දිස්ත්‍රික් ආපදා කළමණාකරණ මධ්‍යස්ථානය ඉල්ලා සිටියි.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d9095e782c090b65bb568d6c7114f64c5feaa88a729d158f16998dbd9582797d"
+      },
+      {
+        "title": "ඌව පළාතේ පාසල් ප්‍රවාහන පහසුකම් විධිමත් කරයි",
+        "url": "https://www.ada.lk/breaking_news/ඌව-පළාතේ-පාසල්-ප්‍රවාහන-පහසුකම්-විධිමත්-කරයි/11-420237",
+        "timestamp": "15 12 2025 08:06:00",
+        "byline": "පාසල් හෙට 16   දින සිට  ආරම්භ වන බැවින් සහ ආපදා තත්ත්වය හේතුවෙන් ඌව පළාතේ  ගමනාගමනයට බාධා ඇති වූ බොහෝ මාර්ග මේ වනවිට පිළිසකර  කර ධාවනයට  සුදුසු තත්ත්වයට පත්කර ඇති බැවින් සියලු බස්රථ සේවා සහ සිසු සැරිය බස් රථ සේවා නිසි පරිදි ධාවනයේ යෙදවන ලෙස පළාත් ප්‍රවාහන අධිකාරිය අදාළ ප්‍රවාහන බලධාරීන්ට උපදෙස් ලබා දී තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "71d5f42371723b83e83a05ec35d276d4e70ff6b8ae8f82840e8aacb36bb29ab5"
+      },
+      {
+        "title": "හෙට සිට වැස්ස වැඩි වෙයි",
+        "url": "https://www.ada.lk/breaking_news/හෙට-සිට-වැස්ස-වැඩි-වෙයි/11-420236",
+        "timestamp": "15 12 2025 06:56:00",
+        "byline": "නැගෙනහිර තරංගාකාර සුළං ප්‍රවාහයේ බලපෑම හේතුවෙන් දිවයිනේ දැනට පවතින වැසි තත්වයේ වැඩිවීමක් (දෙසැම්බර් මාස 16) සිට බලාපොරොත්තු වන බව කාලගුණ විද්‍ය දෙපාර්තමේන්තුව කියයි.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "79057d864d3d2261ee268da41dfc9caae8f31cbeffe237d922b08ccab1d348be"
+      },
+      {
+        "title": "ආපදා අරමුදල් බෙදා හැරීම ගැන නව චක්‍රලේඛයක්",
+        "url": "https://www.ada.lk/breaking_news/ආපදා-අරමුදල්-බෙදා-හැරීම-ගැන-නව-චක්‍රලේඛයක්/11-420235",
+        "timestamp": "14 12 2025 20:02:00",
+        "byline": "ආපදාවෙන් බලපෑමට ලක් වූවන් සවිබල ගැන්වීමේ වැඩසටහන ක්‍රියාත්මක කිරිම සම්බන්ධයෙන් නිකුත්කළ චක්‍රලේකයට අදාළ මාර්ගෝපදේශ මාලාව ආරක්ෂක අමාත්‍යාංශය මගින් නිකුත් කර තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "5f531090c78885502a101dd5255f25e8ca263a65fba79b621c4c0b9cb38da386"
+      },
+      {
+        "title": "සෑම වගකීමක්ම රට ගොඩනැගීම සඳහා දක්වන දායකත්වයේ කොටසක් ලෙස සලකන්න",
+        "url": "https://www.ada.lk/breaking_news/සෑම-වගකීමක්ම-රට-ගොඩනැගීම-සඳහා-දක්වන-දායකත්වයේ-කොටසක්-ලෙස-සලකන්න/11-420234",
+        "timestamp": "14 12 2025 18:58:00",
+        "byline": "රට යළි ගොඩනගනවා යන තිර අදිටනින් යුතුව එක්ව කටයුතු කරමු\nසෑම වගකීමක්ම රට ගොඩනැගීම සඳහා දක්වන දායකත්වයේ කොටසක් ලෙස සලකන්න\nව්‍යසනය හමුවේ ජීවිත පරිත්‍යාගයෙන් නාවික හමුදාව ඉටුකළ මෙහෙවර කෘතවේදීව අගයනවා",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "caeefb11df1d438cf59649b6a2e833753a2e8680e092a69ed5b5c0dea85c72f7"
+      },
+      {
+        "title": "ඔස්ට්‍රේලියාවේ වෙඩි තැබිමකින් 12ක් මරුට",
+        "url": "https://www.ada.lk/international/ඔස්ට්‍රේලියාවේ-වෙඩි-තැබිමකින්-12ක්-මරුට/3-420233",
+        "timestamp": "14 12 2025 18:43:00",
+        "byline": "ඔස්ට්‍රේලයාවේ බොන්ඩි වෙරළේ පැවැති උත්සවයකට එල්ලවූ වෙඩි ප්‍රහාරයක් හේතුවෙන් පුද්ගලයන් 12 ක් මියගොස් ඇති බව \nජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4568d1f95eb994c17825e81545e80c6bf42d23438988ef2e8c5d10fef731dc10"
+      },
+      {
+        "title": "ඕස්ට්‍රේලියාවේ  වෙරළ තීරයක වෙඩි තැබීමක් - 11ක් මරුට",
+        "url": "https://www.ada.lk/breaking_news/ඕස්ට්‍රේලියාවේ--වෙරළ-තීරයක-වෙඩි-තැබීමක්---11ක්-මරුට/11-420232",
+        "timestamp": "14 12 2025 18:30:00",
+        "byline": "ඕස්ට්‍රේලියාවේ බොන්ඩි වෙරළ තීරයේ යුදෙව් ප්‍රජාව ඉලක්ක කර ගනිමින් සිදු වූ වෙඩි තැබීමකින්  පුද්ගලයන් 11 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "9ba65c667a814bbafd6568167f7a3021f405a6e23d1cab6c6af533b6ca1aee1d"
+      },
+      {
+        "title": "දිත්වා නිසා එකතු වූ කසළ අතර වැඩිම ප්‍රමාණය අහාර ද්‍රව්‍ය",
+        "url": "https://www.ada.lk/breaking_news/දිත්වා-නිසා-එකතු-වූ-කසළ-අතර-වැඩිම-ප්‍රමාණය-අහාර-ද්‍රව්‍ය/11-420230",
+        "timestamp": "14 12 2025 15:38:00",
+        "byline": "දිට්වා සුළි කුණාටුව නිසා ඇති වූ ආපදාවන් හේතුවෙන් මහනුවර නගරයේ සහ අවට ප්‍රදේශවල ජනනය වූ වෙන් නොකළ මිශ්‍ර  කසළ මෙට්‍රික් ටොන් 300 කට වැඩි ප්‍රමාණයක් මේ වන විට මහනුවර මහ නගර සභාවට අයත් ගොහාගොඩ තේක්කවත්ත කසල අංගණයේ ගොඩ ගසා ඇති බව මහනුවර මහ නගර සභාව පවසයි.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "926eab29cb5abd3eeb83dee3e80570854c162ee6a5138488aca88994800e1913"
+      },
+      {
+        "title": "ඉන්දු - ද.අප්‍රිකා තුන්වන විස්සයි 20 තරගය අද",
+        "url": "https://www.ada.lk/sports/ඉන්දු---ද-අප්‍රිකා-තුන්වන-විස්සයි-20-තරගය-අද/9-420231",
+        "timestamp": "14 12 2025 14:39:00",
+        "byline": "සංචාරක දකුණු අප්‍රිකා කණ්ඩායම සහ ඉන්දීය කණ්ඩායම අතර තුන්වන විස්සයි 20 තරගය අද (14දා) පැවැත්වීමට නියමිතව තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ba449e6284708f19f9214829640ef873d75794f698d21cacc05c866437f6a452"
+      },
+      {
+        "title": "මහනුවර විදුලිය සියයට 90 ක් හා ජලය සියයට 100 ක් සම්පුර්ණ්ණයි",
+        "url": "https://www.ada.lk/breaking_news/මහනුවර-විදුලිය-සියයට-90-ක්-හා-ජලය-සියයට-100-ක්-සම්පුර්ණ්ණයි/11-420229",
+        "timestamp": "14 12 2025 14:36:00",
+        "byline": "මහනුවර දිස්ත්‍රික්කයේ ජන ජිවිතය යථා තත්වයට පත් කිරීම ඇරඹෙයි\n\nවිදුලිය සියයට 90 ක් ජලය සියයට 100 ක් සම්පුර්ණයි\n\nපුද්ගල මරණ 240 ක්  අතුරුදහන් වීම් 75 ක්\n\nපවුල් 54,988 ක පුද්ගලයින් 1.89,265 ක් පීඩාවට",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7fd9c5e35c2443a299c5676dfac8171a28893b35f29629fecdd333aa4feb6f11"
+      },
+      {
+        "title": "යකා පාලමට වූ හානිය තක්සේරු කිරීම අරඹයි",
+        "url": "https://www.ada.lk/breaking_news/යකා-පාලමට-වූ-හානිය-තක්සේරු-කිරීම-අරඹයි/11-420228",
+        "timestamp": "14 12 2025 13:26:00",
+        "byline": "ආපදා තත්ත්වය හේතුවෙන් හානියට පත් සරසවි උයන සහ පේරාදෙණිය දුම්රිය ස්ථාන අතර මහවැලි ගඟට ඉහළින් ඉදිකර ඇති දුම්රිය පාලම හෙවත්  ’’යකා පාලමට ’’ සිදුව ඇති හානිය සම්බන්ධයෙන් තක්සේරු කිරිම මේ වනවිට ආරම්භ කර ඇත.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "05a395154a21ff1e6e939fa46d089a2f0fb3e9cbecfa0497dce67470ee062c63"
+      },
+      {
+        "title": "බදුල්ලේ වාරි පද්ධතිය ගොඩනැගීමට සංඝරත්නය එක්වෙති",
+        "url": "https://www.ada.lk/picture_story/බදුල්ලේ-වාරි-පද්ධතිය-ගොඩනැගීමට-සංඝරත්නය-එක්වෙති/10-420227",
+        "timestamp": "14 12 2025 12:35:00",
+        "byline": "අයහපත් කාලගුණය නිසා බදුල්ල දිස්ත්‍රික්කයේ විනාශ වූ වාරි පද්ධතිය පිළිසකර කිරීමේ ”දිට්වා පරදන ධෛර්යයේ මහා වාරි මෙහෙයුම අධිෂ්ඨානයෙ මහිම” වැඩසටහනට (13) වෙනිදා ජාතික භික්ෂු පෙරමුණේ භික්ෂූන් වහන්සේලා එක්වූහ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e50870f0b6c23b5cb2a5b881d1664bb5721f46353e01bdfd71483897ad5decfe"
+      },
+      {
+        "title": "රු. ලක්ෂ 698ක හොරොයින් සමග ගුවන් මගියෙක් අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/රු--ලක්ෂ-698ක-හොරොයින්-සමග-ගුවන්-මගියෙක්-අත්අඩංගුවට/11-420226",
+        "timestamp": "14 12 2025 11:21:00",
+        "byline": "රුපියල් හය කෝටි අනූ දෙලක්ෂ හතලිස් දහසක් වටිනා හෙරොයින් තොගයක් රැගෙන ආ ලාංකික ගුවන් මගියෙකු 12/14 දින අලුයම කටුනායක ගුවන් තොටුපොළෙන් ඒවා පිට කර ගෙන යමින් සිටියදී ගුවන් තොටුපොළ පොලිස් මත්ද්‍රව්‍ය කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a52b5bd2947f9c679dc15317c6638bdbebe48d5ced3d5317b6566f81fb95a734"
+      },
+      {
+        "title": "රිය අනතුරු පහකින් පහක් මරුට",
+        "url": "https://www.ada.lk/breaking_news/රිය-අනතුරු-පහකින්-පහක්-මරුට/11-420225",
+        "timestamp": "14 12 2025 10:30:00",
+        "byline": "දිවයිනේ ස්ථාන පහක සිදුවූ රිය අනතුරු පහකින් පුද්ගලයන් පස් දෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f2be6fda683d66cfcc82589f3eb6b5a9b7340eccf6c9221e51ba6f9d67832bb5"
+      },
+      {
+        "title": "NBRO තනතුරු රැසක් පුරප්පාඩුයි",
+        "url": "https://www.ada.lk/breaking_news/NBRO-තනතුරු-රැසක්-පුරප්පාඩුයි/11-420224",
+        "timestamp": "14 12 2025 09:29:00",
+        "byline": "ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ මට්ටමේ තනතුරු රැසක පුරප්පාඩු පැවතිම හේතුවෙන් ආයතනයේ  කාර්යක්ෂමතාවය කෙරෙහි දැඩි ලෙස බලපා ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති නවතම විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "df0f236a3c3e7a0ed046f8891ab6c43df77c3ab408d9153d9df1053303a4f0bd"
+      },
+      {
+        "title": "ආපදා මරණ 643ක් දක්වා ඉහළට",
+        "url": "https://www.ada.lk/breaking_news/ආපදා-මරණ-643ක්-දක්වා-ඉහළට/11-420223",
+        "timestamp": "14 12 2025 08:21:00",
+        "byline": "දිවයිනට බලපෑ දිත්වා සුළි කුණාටුව හේතුවෙන් මිය ගිය පිරිස 643ක් දක්වා ඉහළ ගොස් තිබේ. ආපදා කළමනාකරණ මධ්‍යස්ථානය අද පෙරවරුවේ නිකුත් කළ නවතම වාර්තාවේ මේ බව දැක්වෙයි. අතුරුදන්ව ඇති පුද්ගලයන් සංඛ්‍යාව 184කි. නිවාස පූර්ණ හානි 6164ක් හා අර්ධ හානි 112 110ක් වාර්තා වී තිබේ. සුරක්ෂිතතා මධ්‍යස්ථාන 796ක, පවුල් 23041ට අයත් පුද්ගලයන් 72 911ක් මේ වන විටත් රඳවා තිබේ.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ad9324a6dd6094ddd2f8369fe2a979f5e597151e3431f6bb6ffeafebc0487a1f"
+      },
+      {
+        "title": "අයියගේ පොලු පහරින් මල්ලි මරුට",
+        "url": "https://www.ada.lk/breaking_news/අයියගේ-පොලු-පහරින්-මල්ලි-මරුට/11-420222",
+        "timestamp": "14 12 2025 07:31:00",
+        "byline": "පමුණුගම පොලිස් වසමේ සේදවත්ත ප්‍රදේශයේදී පොල්ලකින් පහරදීම හේතුවෙන් බරපතල තුවාල ලැබූ  පුද්ගලයෙකු පමුණුගම රෝහලට ඇතුලත් කිරීමේදී මියගොස් ඇති බවට පමුණුගම පොලිස් ස්ථානය වෙත ලද පණිවිඩයක් මත විමර්ශන ආරම්භ කර ඇත. මරණකරු වයස අවුරුදු 38 ක් වූ තුඩැල්ල, කඹුරුගමුව ප්‍රදේශයේ පදිංචිකරුවෙකි.",
+        "isoTimestamp": "2025-12-15T20:44:03+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "398318eeb9abac10dfeaf2bfb76ecdfd6e16df49d28cb6d56719aa1719a5b0d7"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lanka’s Sarvodaya Development Finance to list bond on Luxembourg Exchange",
+        "url": "https://economynext.com/sri-lankas-sarvodaya-development-finance-to-list-bond-on-luxembourg-exchange-253216/",
+        "timestamp": "December 15, 2025",
+        "byline": "The bond was listed on the Colombo Stock Exchange on October 30.",
+        "isoTimestamp": "2025-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bc7887e051f9dd4ada0b24a5ea61a7798477f314056d40b794e36cd9e8a963d2"
+      },
+      {
+        "title": "Sri Lanka budget deficit halves in October, rupee depreciates",
+        "url": "https://economynext.com/sri-lanka-budget-deficit-halves-in-october-rupee-depreciates-253161/",
+        "timestamp": "December 15, 2025",
+        "byline": "Current account of the budget in surplus by Rs112billion rupees",
+        "isoTimestamp": "2025-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "d608a526db140b3ded7d0cc66863a79d7023fef4d1cfda6caf1147f0833ff59a"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-steady-253170/",
+        "timestamp": "December 15, 2025",
+        "byline": "Stocks were up",
+        "isoTimestamp": "2025-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bb91cb2faef5ef9d3810ad86a348be8b3fe02f9a82ecd38309db594851ba9e9c"
+      },
+      {
+        "title": "Pushpika Janadheera reappointed to Sri Lanka rubber body",
+        "url": "https://economynext.com/pushpika-janadheera-reappointed-to-sri-lanka-rubber-body-253159/",
+        "timestamp": "December 15, 2025",
+        "byline": "Reappointed chairman of the Sri Lanka Association of Manufacturers and Exporters of Rubber Products (SLAMERP)",
+        "isoTimestamp": "2025-12-15T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b6be4dc43da16570ffdabdf025c5379c3f039fcd0df0e2240d6adf9ca5b44d02"
+      },
+      {
+        "title": "Indian army relief team re-connects Sri Lanka optical fibre link severed by cyclone",
+        "url": "https://economynext.com/indian-army-relief-team-re-connects-sri-lanka-optical-fibre-link-severed-by-cyclone-253137/",
+        "timestamp": "December 14, 2025",
+        "byline": "The Indian relief team also operated a field hospital in the area",
+        "isoTimestamp": "2025-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "68c1ca88f3966f3ed07c5f9f20c60024e33f9e6630ffb489b2de5f35940e9195"
+      },
+      {
+        "title": "Sri Lanka November tourism revenue down 7.8-pct after survey change",
+        "url": "https://economynext.com/sri-lanka-november-tourism-revenue-down-7-8-pct-after-survey-change-253097/",
+        "timestamp": "December 14, 2025",
+        "byline": "Sri Lanka will miss its 2025 tourism revenue, arrival targets",
+        "isoTimestamp": "2025-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "892919dbd556d5ec9967dbc80a514a1afff76ecd941fe1d3f073ea7722c92f30"
+      },
+      {
+        "title": "Sri Lanka worker remittances up 27-pct to USD 673.4mn in November 2025",
+        "url": "https://economynext.com/sri-lanka-worker-remittances-up-27-pct-to-usd-673-4mn-in-november-2025-253087/",
+        "timestamp": "December 14, 2025",
+        "byline": "The country has already witnessed remittances in Jan-Nov surpassing 2017''s annual record high",
+        "isoTimestamp": "2025-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c09f2d7e85bbb87c3aa2b9deba9ef43ea52221909a294dd327aa9afff010c6f9"
+      },
+      {
+        "title": "Sri Lanka parliament to meet on Dec 18 on Ditwah recovery spending",
+        "url": "https://economynext.com/sri-lanka-parliament-to-meet-on-dec-18-on-ditwah-recovery-spending-253082/",
+        "timestamp": "December 14, 2025",
+        "byline": "The session will consider a supplementary estimate for Cyclone Ditwah related recovery work",
+        "isoTimestamp": "2025-12-14T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "367b2ca4bfd632b19855a5c8ddb4e2bf6883175d6666d12140608292fb552889"
+      },
+      {
+        "title": "Cyclone Ditwah hits 13,698 Sri Lanka businesses, hotline given",
+        "url": "https://economynext.com/cyclone-ditwah-hits-13698-sri-lanka-businesses-hotline-given-253061/",
+        "timestamp": "December 13, 2025",
+        "byline": "Businesses damaged by Ditwah urged to report on website, hotline",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "cf3643b0e2af17fe6f8b36b7e90cb4826f61db7aa0cd402b41bbe084feb67085"
+      },
+      {
+        "title": "Sri Lanka average coconut prices dip 1.5-pct, more nuts offered",
+        "url": "https://economynext.com/sri-lanka-average-coconut-prices-dip-1-5-pct-more-nuts-offered-252979/",
+        "timestamp": "December 13, 2025",
+        "byline": "The average price of 1,000 nuts dropped from 114,559.44 rupees to 112,740.72.",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ff805ad61fdfb2c2000106c4485349a5614f1789ac439d970818598eb463b918"
+      },
+      {
+        "title": "FAO ready to work with Sri Lanka government, agencies on disaster aid",
+        "url": "https://economynext.com/fao-ready-to-work-with-sri-lanka-government-agencies-on-disaster-aid-252970/",
+        "timestamp": "December 13, 2025",
+        "byline": "Ready to collaborate with government, bilateral partners, and multilateral agencies to ensure recovery",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b2ec05c901b0ffe14bb6e0f39484d234141d40f10451173f1fe5f8a0185b639f"
+      },
+      {
+        "title": "Sri Lanka private credit surges to new high of Rs246bn in October, rupee depreciated",
+        "url": "https://economynext.com/sri-lanka-private-credit-surges-to-new-high-of-rs246bn-in-october-rupee-depreciated-252984/",
+        "timestamp": "December 13, 2025",
+        "byline": "In 2025 the rupee has depreciated amid current account surpluses and deficits",
+        "isoTimestamp": "2025-12-13T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "6d46ee68a799f424f2b792f7d9dc48ad39f1b499b02e108ec8cc75c321d1d354"
+      },
+      {
+        "title": "Sri Lanka central banker urges stronger research, collaboration amid global uncertainty",
+        "url": "https://economynext.com/sri-lanka-central-banker-urges-stronger-research-collaboration-amid-global-uncertainty-252941/",
+        "timestamp": "December 12, 2025",
+        "byline": "Well-grounded research enhances forecasting accuracy, informs the calibration of monetary and macroprudential tools,",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5b8b40ea3a75481f74a897c1fdb49541b5e79d25bc0821115655c42604a9ca4e"
+      },
+      {
+        "title": "Sri Lanka rupee marginally stronger, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-marginally-stronger-bond-yields-down-252953/",
+        "timestamp": "December 12, 2025",
+        "byline": "Rupee has depreciated over the week",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "98c0ef49507da28db97fca5a1ccd3f4a6511a3d8191806921389ab098a07f8c6"
+      },
+      {
+        "title": "Sri Lanka stocks close up 0.22-pct amidst volatility",
+        "url": "https://economynext.com/sri-lanka-stocks-close-up-0-22-pct-amidst-volatility-252937/",
+        "timestamp": "December 12, 2025",
+        "byline": "Market turnover was 3.02 billion rupees.",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b29e9eaa690226701007dc0d16b760bbd638f248afbd76067a155f443dafed09"
+      },
+      {
+        "title": "Sri Lanka regulator suspends Sanasa Life Insurance",
+        "url": "https://economynext.com/sri-lanka-regulator-suspends-sanasa-life-insurance-252938/",
+        "timestamp": "December 12, 2025",
+        "byline": "The registration was suspended from December 5 until December 26",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "2eed63886046e19b196f70589c938760c19b7d0494da3c212626356260e77036"
+      },
+      {
+        "title": "Sri Lanka to offer concessionary loan scheme for disaster-hit MSMEs",
+        "url": "https://economynext.com/sri-lanka-to-offer-concessionary-loan-scheme-for-disaster-hit-msmes-252928/",
+        "timestamp": "December 12, 2025",
+        "byline": "Consolidation of loans schemes for MSMEs under one framework and implementation of recovery loan schemes",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9930a9f4188fe9805d86a3f5e80f80950c5af974be08c9325a705e523e6955b6"
+      },
+      {
+        "title": "Sri Lanka sells Rs120bn in 2030, 2032 and 2035 bonds",
+        "url": "https://economynext.com/sri-lanka-sells-rs120bn-in-2030-2032-and-2035-bonds-252780/",
+        "timestamp": "December 12, 2025",
+        "byline": "143 billion offered",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a3de1424188df254d2d426877a6794b304faeee5b4a6c9c4a2611a376556ab70"
+      },
+      {
+        "title": "Sri Lanka has enough seed paddy to re-cultivate cyclone damaged fields",
+        "url": "https://economynext.com/sri-lanka-has-enough-seed-paddy-to-re-cultivate-cyclone-damaged-fields-252918/",
+        "timestamp": "December 12, 2025",
+        "byline": "By the time the cyclone hit, 620,136 hectares were cultivated.",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8ab195af92892a0fa6cfa472f81d00f9c5e6b40c17fa2e55699af0e9eea61667"
+      },
+      {
+        "title": "Sri Lanka rupee marginally stronger, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-marginally-stronger-bond-yields-drop-252910/",
+        "timestamp": "December 12, 2025",
+        "byline": "The rupee has fallen from 293.10/30 to 308.15/40 over 2025 amid record current account deficits",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e771982003890059688b6e32a5d7cbe25a4ff2ae9785d6553dfe9e443db4b317"
+      },
+      {
+        "title": "Vietnam offers free trade expo space to boost Sri Lanka exports",
+        "url": "https://economynext.com/vietnam-offers-free-trade-expo-space-to-boost-sri-lanka-exports-252842/",
+        "timestamp": "December 12, 2025",
+        "byline": "Active participation of businesses of both countries is needed - Minister",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c6c5fa294fe82e3bbf5cca5abc918346c66a0c04522c13cc67c6df116691e984"
+      },
+      {
+        "title": "Sri Lanka recognizes Omega Line as exporter of the year, Akbar Brothers top forex earner",
+        "url": "https://economynext.com/sri-lanka-recognizes-omega-line-as-exporter-of-the-year-akbar-brothers-top-forex-earner-252904/",
+        "timestamp": "December 12, 2025",
+        "byline": "Emerging Exporter of the Year was Bughary Bio Spices (Private) Limited",
+        "isoTimestamp": "2025-12-12T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8071244226ff7a7c3769bbc362799a83c92dc6c79f2dba19a6d137820b94f4be"
+      },
+      {
+        "title": "UN launches $35 million appeal for Sri Lanka cyclone relief",
+        "url": "https://economynext.com/un-launches-35-million-appeal-for-sri-lanka-cyclone-relief-252824/",
+        "timestamp": "December 11, 2025",
+        "byline": ".",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "794465c801177e17f9b07cda91f3400c5d613bd9a65c9853951317797978df97"
+      },
+      {
+        "title": "Sri Lanka to use World Bank funds to buy vehicles for health sector",
+        "url": "https://economynext.com/sri-lanka-to-use-world-bank-funds-to-buy-vehicles-for-health-sector-252812/",
+        "timestamp": "December 11, 2025",
+        "byline": "Includes 2,891 scooters for midwives and 1,350 motorbikes for public health inspectors",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "9a4d6b8bd5529e98297d26e2b8ba78aebfdffc4d3dcd34e4ebc589c37ac89909"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields down",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-down-252784/",
+        "timestamp": "December 11, 2025",
+        "byline": "Rupee weakened further",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "619f61c8d2d7701bd36313daf71a9578cd6c3cc1943dbe2ed8e81b5bc667fdfd"
+      },
+      {
+        "title": "Sri Lanka to seek US$200mn from ADB for Mahaweli water security program",
+        "url": "https://economynext.com/sri-lanka-to-seek-us200mn-from-adb-for-mahaweli-water-security-program-252794/",
+        "timestamp": "December 11, 2025",
+        "byline": "The project is estimated to cost 536.5 million US dollars.",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "81f05f61c8d162a5f3b70613dddea9cecf888e98660fcdaccaadff2b0cab7b44"
+      },
+      {
+        "title": "Colombo Dockyard, construction shares push Sri Lanka stocks higher",
+        "url": "https://economynext.com/colombo-dockyard-construction-shares-push-sri-lanka-stocks-higher-252745/",
+        "timestamp": "December 11, 2025",
+        "byline": "\"Speculative trading is happening in the market.\"",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5ee4c89415268e43699bf4a1f1474f1e3f98828b0f1975131f461ae6b0c90544"
+      },
+      {
+        "title": "Sri Lanka awards 50MW wind plants to Vidullanka, Windforce",
+        "url": "https://economynext.com/sri-lanka-awards-50mw-wind-plants-to-vidullanka-windforce-252747/",
+        "timestamp": "December 11, 2025",
+        "byline": "After international competitive tender",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4a4300f738ef33d00f5ebbbcfc5e328998bcfcee827ec47c876f81e93910ef7a"
+      },
+      {
+        "title": "Sri Lanka transfers Trincomalee land meant for vocational university to tourism project",
+        "url": "https://economynext.com/sri-lanka-transfers-trincomalee-land-meant-for-vocational-university-to-tourism-project-252755/",
+        "timestamp": "December 11, 2025",
+        "byline": "So far, 25.45 million rupees has been spent on the construction work for the college.",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "126f5c837c49bd5a910332ecddef1d53a5e94d35bc834e764d86741b40d5fe39"
+      },
+      {
+        "title": "Sri Lanka offers UDA land in Colombo for mixed development project",
+        "url": "https://economynext.com/sri-lanka-offers-uda-land-in-colombo-for-mixed-development-project-252744/",
+        "timestamp": "December 11, 2025",
+        "byline": "Land to be offered to investors on a 99-year lease basis",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f41c3df12002e4367d49d552d97a1db2ec961562a4f73ae352c5e88bfae00724"
+      },
+      {
+        "title": "Rebuilding housing post-Ditwah: Lessons from Sri Lanka’s tsunami experience",
+        "url": "https://economynext.com/rebuilding-housing-post-ditwah-lessons-from-sri-lankas-tsunami-experience-252686/",
+        "timestamp": "December 11, 2025",
+        "byline": "An Institute of Policy Studies of Sri Lanka (IPS) article draws from lessons of the post-tsunami housing programme",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5d98e5e217e3bd80ea83b3e58b980565362510232eb56a327c3d52de650e94ba"
+      },
+      {
+        "title": "Sri Lanka sells Rs43bn Treasury bills; yields flat",
+        "url": "https://economynext.com/sri-lanka-sells-rs43bn-treasury-bills-yields-flat-252403/",
+        "timestamp": "December 11, 2025",
+        "byline": "Sold more of the 6-month bill",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "ef39dc43095ff6ea346262d14104857fa97828a5caf5211425e878955fc915ca"
+      },
+      {
+        "title": "Sri Lanka's Hela Apparel says banks to recast debt on Rs3-4bn capital injection",
+        "url": "https://economynext.com/sri-lankas-hela-apparel-says-banks-to-recast-debt-on-rs3-4bn-capital-injection-252566/",
+        "timestamp": "December 11, 2025",
+        "byline": "Further updates on the ongoing debt restructure exercise of the Hela group of companies",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e5f909787e9ce2862242e6e85fd0c6e68c3dd3eac83ed09b18734823dac61015"
+      },
+      {
+        "title": "Sri Lanka’s Cargills Bank to raise Rs2.5bn in rights issue",
+        "url": "https://economynext.com/sri-lankas-cargills-bank-to-raise-rs2-5bn-in-rights-issue-252546/",
+        "timestamp": "December 11, 2025",
+        "byline": "294,200,000 ordinary voting shares at a ratio of 14 new ordinary shares for every 45 existing ordinary shares",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1d443f222c0f0975a639a30beea9904c8759b1d80f1f5b42ea062c738d73491f"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-drop-252534/",
+        "timestamp": "December 11, 2025",
+        "byline": "Rupee depreciated further",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "047e118a6059f3c35a9eeec070a0a96e892e9b58a524c7ff8c3afa66a63b7bc8"
+      },
+      {
+        "title": "Vietnam sees potential in Sri Lanka for logistics and warehouse businesses",
+        "url": "https://economynext.com/vietnam-sees-potential-in-sri-lanka-for-logistics-and-warehouse-businesses-252457/",
+        "timestamp": "December 11, 2025",
+        "byline": "Logistics delegation to visit Sri Lanka",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "8d6b39c09447e02e63b725e2fec6a96350dd2b9ae93dcfc716c483cfbbbade49"
+      },
+      {
+        "title": "Federal Reserve cuts rates despite above target inflation in dual mandate confusion",
+        "url": "https://economynext.com/federal-reserve-cuts-rates-despite-above-target-inflation-in-dual-mandate-confusion-252438/",
+        "timestamp": "December 11, 2025",
+        "byline": "Inflation was up 3 percent in October, 2025 with monthly inflation rising 0.3 percent",
+        "isoTimestamp": "2025-12-11T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "56c96df0f1050aebff9a7b3328c2c9f95448579c7558f27098c51d38068fff03"
+      },
+      {
+        "title": "Demand for vegetables in Sri Lanka slump in Cyclone Ditwah aftermath",
+        "url": "https://economynext.com/demand-for-vegetables-in-sri-lanka-slump-in-cyclone-ditwah-aftermath-252428/",
+        "timestamp": "December 10, 2025",
+        "byline": "Vegetable prices soared in the first day after the cyclone ended",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "03501bf2b320fd1d6910508be65606fcae9740cf71e2bbd58ced642e1519de82"
+      },
+      {
+        "title": "Sri Lanka explores ways to widen tax net with easing red tape",
+        "url": "https://economynext.com/sri-lanka-explores-ways-to-widen-tax-net-with-easing-red-tape-252400/",
+        "timestamp": "December 10, 2025",
+        "byline": "Though Sri Lanka has seen an increase in tax file registration, still the number of tax payers is low",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "fc295e79b69f687ca9f299ccc24730cc2dd0b4bc651a042fec194c6bd4200561"
+      },
+      {
+        "title": "Sri Lanka rupee weaker, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-weaker-bond-yields-steady-252408/",
+        "timestamp": "December 10, 2025",
+        "byline": "Rupee weakens",
+        "isoTimestamp": "2025-12-10T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "24ce6eea42ad3780164c30702387d82ea075a1b142d07b8f78925bea9cab3196"
+      }
+    ]
+  },
+  "newswire": {
+    "success": false,
+    "error": {}
+  }
+}
