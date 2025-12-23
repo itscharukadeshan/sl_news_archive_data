@@ -1,0 +1,922 @@
+[
+  {
+    "title": "අද කාලගුණය",
+    "href": "news.php?nid=218748",
+    "byline": "ඌව සහ නැගෙනහිර පළාත්වලත් මාතලේ, නුවරඑළිය, පොළොන්නරුව සහ හම්බන්තොට දිස්ත්‍රික්කවලත් අද (23) දිනයේ වැසි ස්වල්පයක් ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "December 23, 2025  6:00 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218748",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bd52bbd8272fd9a419f3b9707465ccb747b8c2b728286645eff4d81d27ac50ad"
+  },
+  {
+    "title": "23-12-2025",
+    "href": "news.php?nid=218749",
+    "byline": "No byline",
+    "timestamp": "December 23, 2025  6:11 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218749",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1179ac07d8bd2fa421ceec76fa9c2b61624b9171d1953798b3d630261e387308"
+  },
+  {
+    "title": "ඝාතනයකින් කෙළවර වූ පුද්ගලික ආරවුල",
+    "href": "news.php?nid=218750",
+    "byline": "පුද්ගලික ආරවුලක් දුරදිගයෑමෙන් තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කර තිබේ.",
+    "timestamp": "December 23, 2025  6:40 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218750",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4855ce724c91db4286f4c334218394b2346fdb2fdbb3fac9ea0230c25fec04c8"
+  },
+  {
+    "title": "ජයිශංකර් අද ජනපති හමුවෙයි",
+    "href": "news.php?nid=218751",
+    "byline": "දිවයිනට පැමිණ සිටින ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා ජනාධිපති අනුර කුමාර දිසානායක මහතා හමුවීමට නියමිතව තිබේ.",
+    "timestamp": "December 23, 2025  6:45 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218751",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c4a24ae44eaee33babe6d6e64433b22311d4a20accb7f962c712acd42a88d01c"
+  },
+  {
+    "title": "ප්‍රවීණ කලාවේදී සතිස්චන්ද්‍ර එදිරිසිංහ අභාවප්‍රාප්ත වෙයි",
+    "href": "news.php?nid=218752",
+    "byline": "ප්‍රවීණ රංගධර, කලාසූරී සතිස්චන්ද්‍ර එදිරිසිංහ මහතා අභාවප්‍රාප්ත වී තිබේ.",
+    "timestamp": "December 23, 2025  7:04 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218752",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8a8c8b02b05a2e538a9761585648238111a19d01cae1c416449148b85926eb80"
+  },
+  {
+    "title": "මාරක අනතුරු කිහිපයක් - තිදෙනෙක් මරුට",
+    "href": "news.php?nid=218753",
+    "byline": "ප්‍රදේශ කිහිපයක සිදුවූ රිය අනතුරු තුනකින් තරුණයින් දෙදෙනක් සහ කාන්තාවක් මියගොස් තිබේ.",
+    "timestamp": "December 23, 2025  7:17 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218753",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a1e64fa7801bbedb19171d20f17ae6b7830f393cadbb38c60e5073f6ecfa71d1"
+  },
+  {
+    "title": "කැලණි විහාරය අවට රථවාහන ගමනාගමනය සීමා කිරීමක්",
+    "href": "news.php?nid=218754",
+    "byline": "කැලණිය රජමහා විහාරස්ථානය මඟින් වාර්ෂිකව පවත්වනු ලබන දුරුතු මහා උත්සවයට සමගාමීව පවත්වනු ලබන හෙලේනා බාලිකා විද්‍යාලයේ පෙරහැර හේතුවෙන් අද (23) දින පස්වරු 3 සිට රථවාහන ගමනාගමනය සීමා කර තිබේ.",
+    "timestamp": "December 23, 2025  8:11 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218754",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "233426738f155ffd33e6d55afe76f84e8a3410f0cf9ab0e03e5198c40fe9e890"
+  },
+  {
+    "title": "ස්වේච්ඡා විශ්‍රම වැටුප් ක්‍රමය ප්‍රමාද වීමෙන් ලංවිම සේවකයින් 2000කට වැඩි පිරිසක් අර්බුදයක",
+    "href": "news.php?nid=218755",
+    "byline": "ලංකා විදුලිබල මණ්ඩලය ප්‍රතිව්‍යුහගතකරණය කිරීම මගින් විදුලිබල මණ්ඩලයේ නව සමාගම්වලට අනුයුක්ත නොවන සේවකයින් විසින් සිය සේවා විශ්‍රාම ගැනීම සම්බන්ධව බලශක්ති අමාත්‍යවරයා වෙත ලිපියක් යොමු කර ඇතැයි වාර්තා වේ.",
+    "timestamp": "December 23, 2025  9:06 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218755",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "50743a4ac1ef9749b6a161f38f645bb4087b22521eb013a28cf883100670c268"
+  },
+  {
+    "title": "ගුවන්යානයක් කඩාවැටී 05 දෙනෙකු මරුට",
+    "href": "news.php?nid=218756",
+    "byline": "මෙක්සිකෝවට අයත් වෛද්‍ය සේවා ගුවන් යානයක් අමෙරිකාවේ ටෙක්සාස් හි ගැල්වෙස්ටන්ස් බොක්ක ආසන්නයේදී කඩා වැටී තිබේ.",
+    "timestamp": "December 23, 2025  9:18 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218756",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "100d4808fdeb936b05eacd5e48024c5c9a3d8cc5a77edebcb77ad0440f66cc9a"
+  },
+  {
+    "title": "රුසියාවෙන් යුක්‍රේනයට ප්‍රහාර දැඩි වෙයි",
+    "href": "news.php?nid=218757",
+    "byline": "රුසියාව, යුක්‍රේනයේ ප්‍රධාන ඔඩෙසා කලාපයට ප්‍රහාර එල්ල කිරීම තීව්‍ර කර ඇති බව විදෙස් මාධ්‍ය සඳහන් කරයි.",
+    "timestamp": "December 23, 2025  9:33 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218757",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1a3e0014d86505be60d48e72039b607ac5be4d83c1f690116dd283cb856790c8"
+  },
+  {
+    "title": "නුගේගොඩ වෙඩිතැබීමේ CCTV දර්ශන එළියට",
+    "href": "news.php?nid=218758",
+    "byline": "නුගේගොඩ ප්‍රදේශයේදී ඊයේ (22) රාත්‍රියේ ත්‍රිරෝද රථයක ගමන් කරමින් සිටි තරුණයෙකුව යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් ලුහුබැඳ යන අයුරු දැක්වෙන CCTV දර්ශන පෙළක් අද දෙරණට ලැබී තිබේ.",
+    "timestamp": "December 23, 2025  9:35 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218758",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "38dae10bdd2d244a874e38aeda3e2dab025ec5a06de7f61887f83cd0a7ec674b"
+  },
+  {
+    "title": "ශ්‍රී ලංකා - ඉන්දියා කාන්තා දෙවන විස්සයි20 ක්‍රිකට් තරගය අද",
+    "href": "news.php?nid=218759",
+    "byline": "සංචාරක ශ්‍රී ලංකා කාන්තා කණ්ඩායම සහ ඉන්දීය කාන්තා කණ්ඩායම අතර දෙවන විස්සයි20 ක්‍රිකට් තරගය අද පැවැත්වේ.",
+    "timestamp": "December 23, 2025  9:41 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218759",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "382590029f84050a9c1d5b2a4ce7e4ea6224ee635f7e8d2b929b4f1a2fb4b2ab"
+  },
+  {
+    "title": "දුම්රිය පිලී පැනීමක්",
+    "href": "news.php?nid=218760",
+    "byline": "කොළඹ කොටුව සහ මරදාන දුම්රිය ස්ථානය අතර දුම්රිය පිලී පැනීමක් සිදුව තිබේ.",
+    "timestamp": "December 23, 2025  9:51 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218760",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fc58efadca1b5bd811cd653636283a17eead120745198d0582e0de30f8145bef"
+  },
+  {
+    "title": "ආපදාවෙන් බිඳණු සිත් සුවපත් කිරීමට Healing Sri Lanka",
+    "href": "news.php?nid=218761",
+    "byline": "ආපදාවෙන් බිඳවැටුණු ගම් නගර Rebuilding Sri Lanka යටතේ ගොඩනැගෙමින් පැවතෙද්දි ආපදාවෙන් බිඳවැටුණු සිත් ගොඩනැංවීම සඳහා “Healing Sri Lanka” නම් මෙහෙයුම ආරම්භ කරන බව කාන්තා සහ ළමා කටයුතු ඇමතිනි සරෝජා පෝල්රාජ් මහත්මිය පැවසුවාය.",
+    "timestamp": "December 23, 2025  10:01 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218761",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e5313f7e07bb8b993f3b0f6ad4d7b339cb22fe34c3d60744ce58e3b8082ee031"
+  },
+  {
+    "title": "පේදුරුතුඩුවේ ලන්ච් ෂීට් භාවිතයට තහනමක්",
+    "href": "news.php?nid=218762",
+    "byline": "යාපනය - පේදුරුතුඩුව නගර සභා සීමාවට අයත් හෝටල් සහ ආහාර අලෙවිසැල් තුළ ලන්ච් ෂීට් භාවිතය  සම්පූර්ණයෙන්ම තහනම් කිරීමට තීරණය කර තිබේ.",
+    "timestamp": "December 23, 2025  10:10 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218762",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4243d520e06c0108f6af5e7204bf78eef744e287b85c10bf7b7ffa18ed7e7251"
+  },
+  {
+    "title": "රන් මිල රු 7,000කින් ඉහළට",
+    "href": "news.php?nid=218763",
+    "byline": "ලෝක වෙළෙඳපොළේ රත්‍රං මිලෙහි වැඩිවීමක් සිදුව ඇති අතර ඊට සාපේක්ෂව මෙරට රත්‍රං මිල ද ඉහළ ගොස් තිබේ.",
+    "timestamp": "December 23, 2025  10:11 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218763",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "40542f1b1de0a99553ec249c8276ac0f28fc97eceb4fefddfa8428ca05ff6ba1"
+  },
+  {
+    "title": "චීන දූත පිරිස දිවයිනට",
+    "href": "news.php?nid=218764",
+    "byline": "චීන කොමියුනිස්ට් පක්ෂයේ ප්‍රබලයින් ඇතුළු 11 දෙනෙකුගෙන් සමන්විත චීන දූත පිරිසක් අද (23) උදෑසන ශ්‍රී ලංකාවට පැමිණ තිබේ.",
+    "timestamp": "December 23, 2025  10:32 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218764",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fd473cee24480dda8f0a209f958450e7d97d6b95fc7a6d558a60e09fea0dd500"
+  },
+  {
+    "title": "ඉන්දීය විදේශ කටයුතු ඇමති සහභාගී වන විශේෂ ප්‍රවෘත්ති සාකච්ඡාව ඇරඹෙයි",
+    "href": "news.php?nid=218765",
+    "byline": "මෙරට සංචාරයක නිරත ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා සහ විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා සහභාගී වන ඒකාබද්ධ ප්‍රවෘත්ති සාකච්ඡාවක් මේ වනවිට කොළඹදී පැවැත් වේ.",
+    "timestamp": "December 23, 2025  10:33 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218765",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "249735aab540ad35f116157d08aa0e2c10de2720bfe7da89c6cc3cd3155bbd1b"
+  },
+  {
+    "title": "ජයිශංකර් ජනපති අනුර හමුවෙයි",
+    "href": "news.php?nid=218766",
+    "byline": "මෙරට සංචාරයක නිරත ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා ජනාධිපති අනුර කුමාර දිසානායක මහතාව හමුවී තිබේ.",
+    "timestamp": "December 23, 2025  10:34 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218766",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3fca2542eff8e4848d90bc1485866bde71510c6d67d3b895cb026f1096c480fb"
+  },
+  {
+    "title": "මිලියනයකට අධික පාසල් සිසුවියන්ට එළැඹෙන වසරේ සනීපාරක්ෂක තුවා බෙදා දීමට පියවර",
+    "href": "news.php?nid=218767",
+    "byline": "එළැඹෙන 2026 වසරේදීත් දිවයින පුරා මිලියනයකට අධික පාසල් සිසුවියන්ට සනීපාරක්ෂක තුවා බෙදා දීමට පියවර ගන්නා බව අධ්‍යාපන අමාත්‍යාංශය පවසයි.",
+    "timestamp": "December 23, 2025  10:44 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218767",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "65f9097edc114aaf7394ec5a1b924d64dee123a456bfe058bc15671af745c601"
+  },
+  {
+    "title": "ඉන්දියාවෙන් අමෙරිකානු ඩොලර් මිලියන 450ක ප්‍රතිසංස්කරණ පැකේජයක්",
+    "href": "news.php?nid=218768",
+    "byline": "'දිට්වා' සුළි කුණාටුවෙන් හානි වූ ප්‍රදේශ නැවත ගොඩනැගීම සඳහා ඉන්දියාව විසින් අමෙරිකානු ඩොලර් මිලියන 450ක ප්‍රතිසංස්කරණ පැකේජයක් ශ්‍රී ලංකාවට ලබාදීමට තීරණය කර තිබේ.\n\nඑයට අමෙරිකානු ඩොලර් මිලියන 350ක සහනදායී ණය සහ අමෙරිකානු ඩොලර් මිලියන 100ක ප්‍රදාන ඇතුළත් බව ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා පැවසීය.",
+    "timestamp": "December 23, 2025  10:52 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218768",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "305cffc8463e441f0379aa2d1a6a5f9814ffaf56e1c53185c1a4a38e3a4362b2"
+  },
+  {
+    "title": "දෛනික සෝදිසි මෙහෙයුමෙන් පුද්ගලයින් රැසක් අත්අඩංගුවට",
+    "href": "news.php?nid=218769",
+    "byline": "රටම එකට ජාතික මෙහෙයුම යටතේ දිවයින පුරා ක්‍රියාත්මක කළ සෝදිසි මෙහෙයුම් සම්බන්ධ දෛනික වාර්තාවක් පොලීසිය විසින් නිකුත් කර තිබේ.",
+    "timestamp": "December 23, 2025  11:42 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218769",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "776aca5babc446e8d1619d229d618a7146a4fb3222534f691d3d08434e94697a"
+  },
+  {
+    "title": "ශරීරයේ බර අඩුකරන අලුත් පෙත්තට අමෙරිකානු අනුමැතිය",
+    "href": "news.php?nid=218770",
+    "byline": "ශරීරයේ බර අඩුකිරීම සඳහා මෙතෙක් භාවිත කරන ලද එන්නතක්, පෙත්තක් ලෙස වැඩිදියුණු කර ඇති අතර, එම නව ඖෂධය සඳහා අමෙරිකානු ආහාර හා ඖෂධ පාලන අධිකාරියේ අනුමැතිය හිමිව තිබේ.",
+    "timestamp": "December 23, 2025  12:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218770",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cba270e55737637ebb038cbb4d29c9c653b0e55c511651da05f893588990bfaa"
+  },
+  {
+    "title": "අභාවප්‍රාප්ත වූ සතිස්චන්ද්‍ර එදිරිසිංහයන්ගේ අවසන් කටයුතු ගැන දැනුම්දීමක්",
+    "href": "news.php?nid=218771",
+    "byline": "අභාවප්‍රාප්ත වූ ප්‍රවීණ රංගධර, සතිස්චන්ද්‍ර එදිරිසිංහ මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු එළැඹෙන බ්‍රහස්පතින්දා බොරැල්ල පොදු සුසාන භූමියේ දී සිදුකිරීමට නියමිතය.",
+    "timestamp": "December 23, 2025  12:46 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218771",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a1a3982f8c9d9c80f2bbd75b7dc0f3a9a41ed0a5fe71cdf8f94c158f43fc68c7"
+  },
+  {
+    "title": "අර්ච්චුනාට වරෙන්තු",
+    "href": "news.php?nid=218772",
+    "byline": "පාර්ලිමේන්තු මන්ත්‍රී රාමනාදන් අර්ච්චුනා මහතාට වරෙන්තු නිතුත් කර තිබේ.",
+    "timestamp": "December 23, 2025  1:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218772",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0279d4378433661c947c2cf0ce73f47bdcb1e09b279adaed45dcb383c8873cb4"
+  },
+  {
+    "title": "ඊශ්‍රායලයේ නව රැකියා අවස්ථා මෙරටට ලබා ගැනීමට සාකච්ඡාවක්",
+    "href": "news.php?nid=218773",
+    "byline": "ඊශ්‍රායල ජනගහන හා ආගමන අධිකාරියේ බලධාරීන් සමග ඊශ්‍රායල් රැකියා සම්බන්ධයෙන් වන ප්‍රථම තාක්ෂණික ඇගයීම් හා ප්‍රගති සමාලෝචන ඒකාබද්ධ සම්බන්ධීකරණ කමිටු රැස්වීම ඊයේ (22) පවත්වා තිබේ.",
+    "timestamp": "December 23, 2025  1:40 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218773",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "049767c0f8e8ef692d7ba1e66de535b2c276600bf8fe0a1a5a2e48a486d58076"
+  },
+  {
+    "title": "නුගේගොඩ වෙඩි තැබීමේ සම්පූර්ණ කතාව",
+    "href": "news.php?nid=218774",
+    "byline": "නුගේගොඩ මංසන්ධිය හා කොහුවල මංසන්ධිය අතර මාර්ගයේ දී සිදුකළ වෙඩි තැබීම බඩෝවිට අසංක නම් අපරාධකරුගේ පාර්ශ්වය විසින් මෙහෙයවා ඇති බවට සැකකරන බව පොලීසිය සඳහන් කරයි.",
+    "timestamp": "December 23, 2025  1:48 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218774",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "70c7e5e7a21b42a3d4bdcbf168d8b5c3beb6882325f5c9ba80ec7a15665cfe4a"
+  },
+  {
+    "title": "සිරියාවේ බෝම්බ පිපිරීමක්",
+    "href": "news.php?nid=218775",
+    "byline": "සිරියාවේ ඩෙයර් එස්-සෝර් පළාතේ බෝම්බ පිපිරීමකින් පුද්ගලයෙකු මියගොස් තිබේ.",
+    "timestamp": "December 23, 2025  2:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218775",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "32820bd35a5e4b7015e57d2681219c539a6d9ba72a300378b1c2d16d22c41835"
+  },
+  {
+    "title": "ජයිශංකර් සහ අගමැති හරිනි අතර හමුවක්",
+    "href": "news.php?nid=218776",
+    "byline": "මෙරටට පැමිණි ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය සුබ්‍රමනියම් ජයශංකර් මහතා සහ අගමැතිනි ආචාර්ය හරිනි අමරසූරිය අතර හමුවක් අද (23) අරලියගහ මන්දිරයේදී පැවැත්වුණි.",
+    "timestamp": "December 23, 2025  2:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218776",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "78b6700732ca325e37c4dae9773317a622c9076321edf8809573fbe9d2be93ce"
+  },
+  {
+    "title": "නැගෙනහිර මාර්ගයේ මඩකලපුව දක්වා දුම්රිය ධාවනය හෙට සිට ඇරඹේ",
+    "href": "news.php?nid=218777",
+    "byline": "නැගෙනහිර දුම්රිය මාර්ගයේ මඩකලපුව දක්වා දුම්රිය ධාවනය හෙට (24) දින නැවත ආරම්භ වන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "December 23, 2025  2:52 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218777",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "55ea67ea00d4b6026089355b6d81949e62153bbf31b33e29ed502fecc79a066f"
+  },
+  {
+    "title": "පාසල් නිවාඩුවේ වෙනසක් - අලුත් පාසල් ආරම්භය ජනවාරි 5 වනදා",
+    "href": "news.php?nid=218778",
+    "byline": "රජයේ අනුමත සිංහල හා දෙමළ පාසල් සඳහා අද (23) සිට 2026 වසරේ ජනවාරි මස 4 වන දින දක්වා පාසල් නිවාඩු ලබාදී තිබේ.",
+    "timestamp": "December 23, 2025  2:55 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218778",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bb82ddc6e56d531d7cd4737420cf6bee8c9d25e11c829a2bfb8784f634dbca78"
+  },
+  {
+    "title": "මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට සැක ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට",
+    "href": "news.php?nid=218779",
+    "byline": "මත්ද්‍රව්‍ය ප්‍රවාහනය කළ බවට සැකකෙරෙන දේශීය බහුදින ධීවර යාත්‍රාවක් දකුණු මුහුදේදී නාවික හමුදා භාරයට ගෙන තිබේ.",
+    "timestamp": "December 23, 2025  3:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218779",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "526b0f52059167525a3b3b614256cbb0a64b292788b1ccfa79e672489b2e4ed7"
+  },
+  {
+    "title": "කැබිනට් තීරණ මෙතැනින්",
+    "href": "news.php?nid=218780",
+    "byline": "කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ආරම්භ වී තිබේ.",
+    "timestamp": "December 23, 2025  3:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218780",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3a3338c7920783cf253befad3a640db9f699c5ada47c69fd4a5a44003a0e0b8d"
+  },
+  {
+    "title": "ක්ෂේත්‍ර කිහිපයක කර්මාන්ත ශක්තිමත් කිරීමේ උපදේශක කමිටු පිහිටුවීමට කැබිනට් අනුමැතිය",
+    "href": "news.php?nid=218781",
+    "byline": "දේශීය නිෂ්පාදන කර්මාන්ත ශක්තිමත් කිරීම හා ප්‍රවර්ධනය කිරීම සඳහා උපදේශක සභා පිහිටුවීම පිණිස කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාව සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.",
+    "timestamp": "December 23, 2025  3:40 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218781",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d7a045dd47b491336d10b008d66d237f5d638c9363ecde222249ba50a47dcf6f"
+  },
+  {
+    "title": "ශ්‍රී පාද අඩවිය පරිශ්‍රයේ පොලිතීන් හා ප්ලාස්ටික් භාවිතයට එරෙහි නීති තද කරයි",
+    "href": "news.php?nid=218782",
+    "byline": "අද (23) කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව එක් වෙමින් කැබිනට් ප්‍රකාශක සෞඛ්‍ය සහ ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා ඒ බව සඳහන් ක‍‍ළේය.",
+    "timestamp": "December 23, 2025  4:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218782",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6faa3bc93ec3cda3da84f8022e7d9df6fd00a4b48395f6ef99d790ea95846060"
+  },
+  {
+    "title": "සුරක්ෂා සිසු රක්ෂණාවරණය සංශෝධනය කෙරේ",
+    "href": "news.php?nid=218783",
+    "byline": "විවිධ සෞඛ්‍ය ගැටලු හේතුවෙන් අධ්‍යාපන කටයුතුවලට බාධා මතුවන සිසුන්ට අඛණ්ඩවය සිය අධ්‍යාපන කටයුතු පවත්වාගෙන යාමට පහසුකම් සැපයීමේ අරමුණින් ක්‍රියාත්මක 'සුරක්ෂා'  සිසු රක්ෂණාවරණ වැඩසටහන සංශෝධනය කිරීමට කැබිනට් අනුමැතිය හිමිව තිබේ.",
+    "timestamp": "December 23, 2025  4:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218783",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a669fc7a507e89652a6f6436fcf045b5ddb87f51a48581bd0ab149310c9d53d3"
+  },
+  {
+    "title": "වැඩ නැවතුණු රෝහල් 8ක ඉදිකිරීම් යළි ඇරඹෙයි",
+    "href": "news.php?nid=218784",
+    "byline": "සෞඛ්‍ය සේවා ආයතනවල නැවතී තිබූ ඉදිකිරීම් කටයුතු යළි ඇරඹීමට කැබිනට් අනුමැතිය හිමිව තිබේ.",
+    "timestamp": "December 23, 2025  4:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218784",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "098a01b660d3846c70b6197a2f5d28c1d641ba8905509db9f2f5894d37589089"
+  },
+  {
+    "title": "තිරසර කෘෂි වැඩසටහන ණය යෝජනා ක්‍රමය එළැඹෙන වසරේ සිට",
+    "href": "news.php?nid=218785",
+    "byline": "\"තිරසර කෘෂි වැඩසටහන” ණය යෝජනා ක්‍රමය, 2026 වර්ෂයේ සිට වාර්ෂික වැඩසටහනක් ලෙස ක්‍රියාත්මක කිරීම  සඳහා අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමි වී තිබේ.",
+    "timestamp": "December 23, 2025  4:56 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218785",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d16ca444412db899a9b43bb057a8cd045f51d8fd946d0a76798b3f58e044ea6e"
+  },
+  {
+    "title": "නත්තල් වෙනුවෙන් කොළඹ සහ ගාලු මුවදොර ආශ්‍රිතව නව රථවාහන සැලැස්මක්",
+    "href": "news.php?nid=218786",
+    "byline": "2025 නත්තල් උත්සවය සැමරීම සඳහා හෙට (24) දින විශාල ජනතාවක් සහ රථවාහන ප්‍රමාණයක් කොළඹ නගරය වෙත විශේෂයෙන් ගාලු මුවදොර ප්‍රදේශය වෙත පැමිණිම අපේක්ෂා කරන බව පොලීසිය පවසයි.",
+    "timestamp": "December 23, 2025  5:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218786",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4073b7094146df4828208edb1effcec3a6c8fcf03a556312125557bb376ce3dc"
+  },
+  {
+    "title": "අපදාවටපත් කර්මාන්තකරුවන් 531කට මුල් අදියර යටතේ රුපියල් මිලියන 106ක්‌",
+    "href": "news.php?nid=218787",
+    "byline": "දිට්වා සුළි කුණාටුව සමඟ ඇතිවු දැඩි අයහපත් කාලගුණ තත්වය හේතුවෙන් බලපෑමට ලක්ව අකර්මන්‍යව ඇති කර්මාන්ත නැවත යථාවත් කිරීමෙහි මුලික පියවරක් ලෙස රජය විසින් ලබා දෙන රුපියල් ලක්ෂ 2ක මුදල මුල් අදියර යටතේ කර්මාන්ත 531කට ලබා දීමට මේ වන විට පියවර ගෙන ඇති බව කර්මාන්ත හා ව්‍යවසායකත්ව සංවර්ධන අමාත්‍යාංශය පවසයි.",
+    "timestamp": "December 23, 2025  5:36 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218787",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "97881c0e196f8fc1f4175872ccc3d524a2e1c820738c5bf571e8ebc0835bda4d"
+  },
+  {
+    "title": "දිවයිනට පැමිණි චීන නියෝජිත පිරිස සහ ජනපති අතර හමුවක්",
+    "href": "news.php?nid=218788",
+    "byline": "සෑම අවස්ථාවකම ශ්‍රී ලංකාවට අවශ්‍ය සහාය ලබා දීමට චීනය කටයුතු කරන බවත්, ‘Rebuilding Sri Lanka’ වැඩපිළිවෙළෙහිදී ද චීනය සතු අත්දැකීම් ශ්‍රී ලංකාව සමග බෙදා හදා ගැනීමට සුදානම් බවත් චීන කොමියුනිස්ට් පක්ෂයේ 20 වන මධ්‍යම කාරක සභාවේ සාමාජික සහ Xizang ස්වයං පාලන කලාපයේ කොමියුනිස්ට් පක්ෂ කමිටුවේ ලේකම් Wang Junzheng මහතා පැවසීය.",
+    "timestamp": "December 23, 2025  5:42 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218788",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "435787072aebef1ca267e7c887fba1e89acc710bf29cca3ba4aadb4159e6a116"
+  },
+  {
+    "title": "උත්සවය සමය නිමිත්තෙන් විධිමත් ආරක්ෂක වැඩපිළිවෙලක්",
+    "href": "news.php?nid=218789",
+    "byline": "එළඹෙන නත්තල් උත්සවය සහ 2026 නව වසර උදාවීම ඇතුළු උත්සව සමය හේතුකොට ගෙන විවිධ අවශ්‍යතාවයන් සඳහා මහජනතාව වැඩි වශයෙන් ගැවසෙන...",
+    "timestamp": "December 23, 2025  6:01 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218789",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1b1b43961f77f5a7e4436d16d487fbaffc130e89bb59e96db5a3f0fa000cda70"
+  },
+  {
+    "title": "නිල සංචාරය නිමකළ ඉන්දීය විදෙස් ඇමති ජයිශංකර් දිවයිනෙන් පිටව යයි",
+    "href": "news.php?nid=218790",
+    "byline": "ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජයිශංකර් මහතා මීට සුළු මොහොතකට පෙර ඉන්දියාව බලා දිවයිනෙන් පිටත්ව ගොස් තිබේ.",
+    "timestamp": "December 23, 2025  6:10 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218790",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "387075999e288955d24b19afa5ff62722def1f89e9dd9d3f850f2f2679fbadfc"
+  },
+  {
+    "title": "මාලිමා මන්ත්‍රී ශාන්තගේ සිද්ධියට සම්බන්ධ පොලිස් නිලධාරියාගේ වැඩතහනම්",
+    "href": "news.php?nid=218791",
+    "byline": "ජාතික ජනබලවේග රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ශාන්ත පද්මකුමාර මහතා සමග ඇති වූ පහරදීමේ සිද්ධියට අදාළ චෝදනා එල්ල වූ සූරියකන්ද පොලිස් ස්ථානයට අනුයුක්ත පොලිස් කොස්තාපල්වරයාගේ සේවය අත්හිටුවා තිබේ.",
+    "timestamp": "December 23, 2025  6:56 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218791",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6e23eafab916b50193851a0c034931f273b0272e4cbedb0d790cf8bd60e59542"
+  },
+  {
+    "title": "කඩිනමින් ස්ථීර විගණකාධිපතිවරයෙකු පත්කරන්නැයි ඉල්ලීමක්",
+    "href": "news.php?nid=218792",
+    "byline": "ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුව ස්ථීර විගණකාධිපතිවරයෙකු කඩිනමින් පත්කිරීම පියවර ගන්නා ලෙස ශ්‍රී ලංකා නීතීඥ සංගමය ජනාධිපති අනුර කුමාර දිසානායක මහතාගෙන් ඉල්ලීමක් සිදුකරයි.",
+    "timestamp": "December 23, 2025  7:33 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218792",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9aa45c5267ff2cf8478f18ce5d1c3cddbb6e4bf00af3f9c0b98fa67f333dd291"
+  },
+  {
+    "title": "සෑම සහයෝගයක්ම ලබාදෙන බවට මෝදිගෙන් ලංකාවට සහතිකයක්",
+    "href": "news.php?nid=218793",
+    "byline": "'දිට්වා'  සුළි කුණාටුවත් සමග හදිසියේ පැන නැඟුණු අභියෝගවලට මුහුණ දීමෙන් අනතුරුව ශ්‍රී ලංකාව මීළඟ අදියර කෙරෙහි අවධානය යොමු කරන බැවින්, විශ්වාසවන්ත පාර්ශ්වකරුවෙකු සහ විශ්වාසදායක මිතුරෙකු ලෙස ඉන්දියාව හැකි සෑම සහයෝගයක්ම ලබාදෙන බවට ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මහතා සහතික කරයි.",
+    "timestamp": "December 23, 2025  8:13 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218793",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "da0ecf0f867f6abde0d898fadb41fda314dacf6c868e1f31c6c913bf991e6130"
+  },
+  {
+    "title": "ඉන්දියාව සහ නවසීලන්තය අතර නිදහස් වෙළඳ ගිවිසුමක්",
+    "href": "news.php?nid=218794",
+    "byline": "ඉන්දියාව සහ නවසීලන්තය අතර නිදහස් වෙළඳ ගිවිසුමක් සඳහා අත්සන් තබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.",
+    "timestamp": "December 23, 2025  8:45 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218794",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "817ee1b479e67421c4ca0eb6b329eeb19a1ffdbc3cbacb39ba305341c54c3817"
+  },
+  {
+    "title": "අධිවේගයේ ජා-ඇල සහ කටුනායක පිටවීම් අසල දැඩි රථවාහන තදබදයක්",
+    "href": "news.php?nid=218795",
+    "byline": "කටුනායක අධිවේගී මාර්ගයේ ජා-ඇල සහ කටුනායක පිටවීමේ මාර්ග තුළ අධික රථවාහන තදබදයක් හටගෙන ඇති බව වාර්තා වෙයි.",
+    "timestamp": "December 23, 2025  9:06 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218795",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "01e0f5c5e849795b7fff448a48d2336fe88ebeaec8feacb21f61cf063adcbaec"
+  },
+  {
+    "title": "බංග්ලාදේශයට හසීනාගෙන් දොස්",
+    "href": "news.php?nid=218796",
+    "byline": "බංග්ලාදේශය තුළ වර්තමානයේ උද්ගතවී ඇති ප්‍රචණ්ඩත්වය සඳහා සම්පූර්ණයෙන්ම වගකිව යුත්තේ යූනුස් රජය බව එරට හිටපු අගමැතිනි ෂෙයික් හසීනා පවසා තිබේ.",
+    "timestamp": "December 23, 2025  9:57 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218796",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3752a6a4c2cdef2d4cf7f1a2a9afe393f416d6e499760aee48b4058423faed89"
+  },
+  {
+    "title": "උත්සව සමය වෙනුවෙන් විශේෂ අමතර බස්රථ සේවාවක්",
+    "href": "news.php?nid=218797",
+    "byline": "උත්සව සමය වෙනුවෙන් හෙට (24) සිට ලබන 27 වනදා දක්වා විශේෂ අමතර බස්රථ සේවා ක්‍රියාත්මක කරන බව ශ්‍රී ලංකා ගමනාගමන මණ්ඩලයේ සභාපති සජීව නන්දන කනකරත්න මහතා පවසයි.",
+    "timestamp": "December 23, 2025  10:05 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218797",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "041d410629a87c9ba1424b357d3076cb5e3549ba18adc49db832d0846a61a8df"
+  },
+  {
+    "title": "තන්තිරිමලය සහ මහවැලි ගඟේ ජල මට්ටම් ඉහළ අගයක පැවතියත් ගංවතුර අවදානමක් නෑ",
+    "href": "news.php?nid=218702",
+    "byline": "මහවැලි ගඟ ආශ්‍රිතව මනම්පිටිය ගඟේ ජල මට්ටම ඉහළ මට්ටමක පැවතියත් එය ගංවතුර තත්ත්වක් දක්වා වර්ධනය වීමේ ප්‍රවනතාවයක් නොමැති බව වාරිමාර්ග දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "December 22, 2025  6:59 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218702",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9e228ab918d310d508889ca4f50aaebfe4e9a3792d448089c150b501aad3b94f"
+  },
+  {
+    "title": "මාලිමා මන්ත්‍රී ශාන්තගේ පහරදීමේ සිදුවීම ගැන පොලීසියෙන් නිවේදනයක්",
+    "href": "news.php?nid=218705",
+    "byline": "ජාතික ජනබලවේග පාර්ලිමේන්තු මන්ත්‍රී ශාන්ත පද්මකුමාර මහතා ඇතුළු පිරිසක් විසින් පොලිස් නිලධාරියෙකුට කළ බව කියන පහරදීමක් සම්බන්ධව වාර්තා වන කරුණුවලට අදාළව පොලීසිය විසින් නිවේදනයක් නිකුත් කර තිබේ.",
+    "timestamp": "December 22, 2025  7:42 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218705",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "38aa37274c851f334bea17b7e54ff69f0aee273ee810f487975a817f4bf1dbbc"
+  },
+  {
+    "title": "අම්බලන්ගොඩ වෙඩි තැබීමක් - අයෙකු මරුට",
+    "href": "news.php?nid=218706",
+    "byline": "අම්බලන්ගොඩ නගරයේ පිහිටි වෙළෙඳ ආයතනයක කළමනාකරුවෙකුට අද (22) උදෑසන වෙඩි තැබීමක් සිදු කර තිබේ.",
+    "timestamp": "December 22, 2025  8:26 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218706",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "434e460598c1159179950c8deccd1d44bb1cdd8c9fbe7b4043364a2899d4e573"
+  },
+  {
+    "title": "තරුණයාට මරු කැඳවූ  දුරකතන සංවාදය",
+    "href": "news.php?nid=218707",
+    "byline": "සෙට්ටිකුලම - වීරපුරම් ප්‍රදේශයේදී පුද්ගලයෙකු තියුණු ආයුධයකින් පහරදීම හේතුවෙන් තුවාල ලබා වව්නියාව රෝහලේ ප්‍රථිකාර ලබමින් සිටියදී මිය ගොස් ඇති බවට සෙට්ටිකුලම පොලීසිය පවසයි.",
+    "timestamp": "December 22, 2025  8:38 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218707",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e30f9a125d7ca269db3d26469278d50cb3cb6af34fb1593608232dc4c140182b"
+  },
+  {
+    "title": "මැණික් තොගයක් සමග සැකකරුවන්  දෙදෙනෙක් රේගු භාරයට",
+    "href": "news.php?nid=218708",
+    "byline": "මැණික් තොගයක් ගුද මාර්ගයෙහි සහ ගමන් මල්ල තුළ සඟවාගෙන චීනය බලා රැගෙන යාමට තැත් කළ ශ්‍රී ලාංකික ගුවන් මගීන් දෙදෙනෙකු  කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "December 22, 2025  9:09 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218708",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "26d3d0575dce7f80ddb3c160e973facf2730ca5bbc897c1210779f1a937ab148"
+  },
+  {
+    "title": "අත්තනගලු ඔයේ  නාඳුනන පුද්ගල මළසිරුරක්",
+    "href": "news.php?nid=218709",
+    "byline": "අත්තනගලු ඔයේ තිබී නිරුවත් පිරිමි මළ සිරුරක් සොයා ගෙන තිබේ.",
+    "timestamp": "December 22, 2025  9:44 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218709",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "aa787e079c5f893921b2661ac73d804d99bb881d5133f09d82dd8a38a317d3d2"
+  },
+  {
+    "title": "ලොව විශාලතම න්‍යෂ්ටික බලාගාරය  නැවත ආරම්භ කිරීමට ජපානයෙන් සැලසුම්",
+    "href": "news.php?nid=218710",
+    "byline": "ජපානය ලොව විශාලතම න්‍යෂ්ටික බලාගාරය නැවත ආරම්භ කිරීමට සැලසුම් කර තිබේ.",
+    "timestamp": "December 22, 2025  10:09 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218710",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "84c1e825bcf548440c03b668dc1a10829900140193d7211ad4e6d2f44bf83e24"
+  },
+  {
+    "title": "තැන තැන සිදුවන මාරක අනතුරු",
+    "href": "news.php?nid=218711",
+    "byline": "දිවයිනේ ප්‍රදේශ කිහිපයක සිදු වූ රිය අනතුරුවලින් එකම පවුලේ මව සහ පුතා ඇතුළු පුද්ගලයින් සිව් දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.",
+    "timestamp": "December 22, 2025  10:33 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218711",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2269e9359b7804d8d94b52277c190c5876a317f0bbdd50e21d103267be33ff55"
+  },
+  {
+    "title": "වායු ගුණාත්මකභාවය ගැන අනාවරණයක්",
+    "href": "news.php?nid=218712",
+    "byline": "දිවයිනේ උතුර, උතුරු මැද, වයඹ සහ බස්නාහිර යන පළාත්වල වායු තත්ත්ව දර්ශක අගය මේ වන විට 150ත් 200ත් අතර අගයක පවතින බව මධ්‍යම පරිසර අධිකාරි‍යේ මාධ්‍ය ප්‍රකාශක ආචාර්ය අජිත් ගුණවර්ධන මහතා පවසයි.",
+    "timestamp": "December 22, 2025  11:08 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218712",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "afee047a0aae2dbf603778ab651d20f559fd5643805fe9217528a670193803d3"
+  },
+  {
+    "title": "මහනුවරට හා නුවරඑළිය  තවදුරටත් නායයෑමේ රතු නිවේදන",
+    "href": "news.php?nid=218713",
+    "byline": "මහනුවර සහ නුවරඑළිය දිස්ත්‍රික්කවල ප්‍රාදේශීය ලේකම් කොට්ඨාශ 07ක් සදහා නිකුත් කර තිබු ඉවත් වීමේ රතු නිවේදන තවදුරටත් දීර්ඝ කර ඇති බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.",
+    "timestamp": "December 22, 2025  11:54 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218713",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f922a78e50c98f0e198e199cfb5d2e75f90f447c49d0090603614e7810c68399"
+  },
+  {
+    "title": "ආපදාවට ලක් වූ නිවාස වෙනුවට නිවාස සංකීර්ණ ස්ථාපිත කිරීමට පියවර",
+    "href": "news.php?nid=218714",
+    "byline": "\"දිට්වා\" සුළි කුණාටුවෙන් විනාශ වූ නිවාස සඳහා නිවාස සංකීර්ණ ස්ථාපිත කරදීමට සැලසුම් සකස්කරමින් සිටින බව නිවාස, ඉදිකිරීම් සහ ජල සම්පාදන අමාත්‍ය සුසිල් රණසිංහ මහතා පවසයි.",
+    "timestamp": "December 22, 2025  12:00 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218714",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0b49a7cda75f829563501195fa6cc45a52491eb2fc6267bd45c07abdee5c97eb"
+  },
+  {
+    "title": "ලොව ප්‍රමුඛ පෙළේ  ආර්ථික විශේෂඥයින්ගේ යෝජනාව ගැන මෙරට ආර්ථික විශේෂඥයින්ගේ මතය",
+    "href": "news.php?nid=218715",
+    "byline": "දිට්වා සුළි කුණාටුවෙන් ඇති වූ විනාශය සැලකිල්ලට ගනිමින් යළි ණය ප්‍රතිව්‍යුහගතකරණයට යාම උචිත නොවන බව කොළඹ විශ්ව විද්‍යාලයේ ආර්ථික විද්‍යා අධ්‍යයන අංශයේ මහාචාර්ය ප්‍රියංග දුනුසිංහ මහතා පවසයි.",
+    "timestamp": "December 22, 2025  12:52 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218715",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "03b029a0a52008f43b3a929f17235884a645e9f0a415b4ab4993b99b60591005"
+  },
+  {
+    "title": "රුසියාවේ මෝටර් රථයක පිපිරීමකින් හමුදා ප්‍රධානියෙකු මරුට",
+    "href": "news.php?nid=218716",
+    "byline": "රුසියාවේ මොස්කව් නුවර සිදුවූ පිපිරීමකින් රුසියානු ජෙනරාල්වරයෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.",
+    "timestamp": "December 22, 2025  1:13 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218716",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e8caee899fc20baebeec26a3a2330f8d2e16a7a5bc01dd7778b528e1494f6c65"
+  },
+  {
+    "title": "මාලිමා මන්ත්‍රී ශාන්තගේ සිද්ධියට සම්බන්ධ පොලිස් නිලධාරියා අත්අඩංගුවට",
+    "href": "news.php?nid=218717",
+    "byline": "පාර්ලිමේන්තු මන්ත්‍රී ශාන්ත පද්මකුමාර සමග ඇති වූ පහරදීමේ සිද්ධියට අදාළ පොලිස් කොස්තාපල්වරයා ඇඹිලිපිටිය කොට්ඨාස අපරාධ අංශය විසින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "December 22, 2025  1:25 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218717",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2ae9261ec8813adecbdf0bf4bd6fed5002e7435ca26a18010b11c7606d6631fe"
+  },
+  {
+    "title": "ශ්‍රී ලංකාව ඇතුළු රටවල් 30කට  ජනවාරි මාසයෙන් පසුව  නව අමෙරිකානු තානාපතිවරුන්",
+    "href": "news.php?nid=218718",
+    "byline": "ශ්‍රී ලංකාවේ අමෙරිකානු තානාපතිවරිය ඇතුළු රටවල් කිහිපයක අමෙරිකානු තානාපතිවරුන් සහ ජ්‍යෙෂ්ඨ රාජ්‍ය තාන්ත්‍රික නිලධාරීන් 30 දෙනෙකුට ආසන්න පිරිසක් යළි කැඳවීමට ට්‍රම්ප් පරිපාලනය තීරණය කර තිබේ.",
+    "timestamp": "December 22, 2025  1:31 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218718",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6c5830d40050fffe333f91874a097ce6a6775df30b0801d4f1abc09297f06401"
+  },
+  {
+    "title": "බෙලිඅත්ත ප්‍රාදේශීය සභාවේ හිටපු සභාපතිට ඇප",
+    "href": "news.php?nid=218719",
+    "byline": "අයථා ලෙස රුපියල් ලක්ෂ 360කට අධික වත්කම් සහ දේපොළ උපයා ගැනීම සම්බන්ධයෙන් සැකපිට අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට ගනු ලැබූ බෙලිඅත්ත ප්‍රාදේශීය සභාවේ හිටපු සභාපති සිරිල් මුණසිංහ නමැත්තා ඇප මත මුදා හරින ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණයේ නියම කළේය.",
+    "timestamp": "December 22, 2025  1:45 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218719",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b2d74b60545703e96717d5496dac953b738ea72e0eb7518066e49b7989de10d7"
+  },
+  {
+    "title": "ශිල්ප යාත්‍රා වෙනුවෙන්...",
+    "href": "news.php?nid=218720",
+    "byline": "රට තුළ හට ගත් හදිසි ආපදා තත්ත්වය හේතුවෙන් පාසල් අධ්‍යාපනය ලබන දූ දරුවන්ගේ ඉදිරි අධ්‍යාපන කටයුතු සාර්ථක කරගැනීම සඳහා ඔවුන්ට අවැසි පාසල් උපකරණ සොයා 'ශිල්ප යාත්‍රා' නමින් මහා පිණ්ඩපාත චාරිකාවක් අද (22) දඹුල්ල නගරයේදී ආරම්භ කෙරුණි.\n\nඡායාරූපය - කංචන ආරියදාස",
+    "timestamp": "December 22, 2025  1:54 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218720",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e39303eeddbe21346a101ea0760bb1e21f95a0c8e6d9f07c62f249cd9c6f2376"
+  },
+  {
+    "title": "ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජයශංකර් හෙට දිවයිනට",
+    "href": "news.php?nid=218721",
+    "byline": "ඉන්දීය විදේශ කටයුතු අමාත්‍ය එස්. ජයශංකර් මහතා හෙට (23) දිනයේදී ශ්‍රී ලංකාවේ සංචාරයකට සූදානම් වන බව ඉන්දීය විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කර තිබේ.",
+    "timestamp": "December 22, 2025  2:10 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218721",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4f6e049c7ef9e8deb1cffbfcc1a4653e01705f8e94df29d06969821ea4bd1368"
+  },
+  {
+    "title": "ඉන්දුනීසියාවේ බිහිසුණු අනතුරක්  -16ක් ජීවිතක්ෂයට",
+    "href": "news.php?nid=218722",
+    "byline": "ඉන්දුනීසියාවේ ජාවා දූපත් ප්‍රදේශයේ සිදුවු බස් රථ අනතුරකින් පුද්ගලයින් 16දෙනෙකු මියගොස් තිබේ.",
+    "timestamp": "December 22, 2025  2:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218722",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "766b38eaa20bd81fd58134b67b9848f32d9c98f27bca80b03b0b6f30a93ce0bd"
+  },
+  {
+    "title": "කාගෙත් සිත් දිනාගත් ඩැල්මේෂන් කිඹුලා",
+    "href": "news.php?nid=218723",
+    "byline": "සාමාන්‍ය කිඹුල් මව්පියන්ගෙන් උපන් අතිශය දුර්ලභ සුදු සහ කළු පැහැ පුල්ලි සහිත ඩැල්මේෂන් කිඹුලෙක් මේ වනවිට කාගෙත් අවධානයට ලක්ව තිබේ.",
+    "timestamp": "December 22, 2025  2:19 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218723",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1023d9261826c3bf067c85882aa7df20429ed81e5e22e441428a63534bd75ab6"
+  },
+  {
+    "title": "ඉදිරි පැය 24 ගැන අලුත්ම කාලගුණ අනාවැකිය",
+    "href": "news.php?nid=218724",
+    "byline": "ඌව සහ නැගෙනහිර පළාත්වලත් මාතලේ, නුවරඑළිය, පොළොන්නරුව සහ හම්බන්තොට දිස්ත්‍රික්කවලත් වැසි ස්වල්පයක් ඇති විය හැකිය.",
+    "timestamp": "December 22, 2025  2:21 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218724",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "80aac903654265b0a72f37f8a032f478dd8313a5012612347351c06310808ee8"
+  },
+  {
+    "title": "අල්ලස් චෝදනා මත රිමාන්ඩ් භාරයේ පසුවූ  හිටපු අතිරේක රස පරීක්ෂකට ඇප",
+    "href": "news.php?nid=218725",
+    "byline": "දූෂණ චෝදනාවක් සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින රජයේ රස පරීක්ෂක දෙපාර්තමේන්තුවේ හිටපු අතිරේක රස පරීක්ෂකවරයෙක් වන එච්.එල්. ඩබ්ලිව් ජයමාන්න සහ පුද්ගලික රක්ෂණ සමාගමක උප සභාපතිවරයෙකු ඇපමත මුදා හරින ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම ක‍ර තිබේ.",
+    "timestamp": "December 22, 2025  2:28 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218725",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "587c989b0618c7fafda5aeb1f1791f934276131af27e78c0cee7280c344a5250"
+  },
+  {
+    "title": "අස්වැසුම පළමු අදියරේ තොරතුරු යථාවත් කිරීම දෙසැම්බර් 31න් අවසන්",
+    "href": "news.php?nid=218726",
+    "byline": "අස්වැසුම සුබසාධන ප්‍රතිලාභ වැඩසටහනේ පළමු අදියර යටතේ තොරතුරු යථාවත් කිරීම දෙසැම්බර් 31 වනදායින් අවසන් වේ.",
+    "timestamp": "December 22, 2025  2:49 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218726",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "60933d590c1fbabcb3c540801629c25c23f00ef1fbc14611e87fcdef1c4563a0"
+  },
+  {
+    "title": "2025 මාස 11ක දී ඩොලර් බිලියන 15.77ක  අපනයන ආදායමක්",
+    "href": "news.php?nid=218728",
+    "byline": "2025 ජනවාරි සිට නොවැම්බර් දක්වා කාලය තුළ ශ්‍රී ලංකාවේ අපනයන අංශය 5.8%ක වාර්ෂික වර්ධනයක් වාර්තා කර ඇත.",
+    "timestamp": "December 22, 2025  3:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218728",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a5b2471e5912a135ef0c4736aef8445761fb34be4f6386730c808dbf25d922a0"
+  },
+  {
+    "title": "ගුරු වෘත්තීය සමිතිවලින් රතු එළියක්",
+    "href": "news.php?nid=218729",
+    "byline": "පාසල් කාලය වෙනස් කිරීම සම්බන්ධයෙන් නිසි පිළිතුරක් ජනවාරි මස 5 වන දිනට පෙර ලබානොදුනහොත් වෘත්තිය ක්‍රියාමාර්ගයක නිරත වන බව ගුරු වෘත්තිය සමිති පවසයි.",
+    "timestamp": "December 22, 2025  3:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218729",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "75d8e0eeede91e149117cdd8c8d2f784039da79e31f71cbad7e392c9c82fa03b"
+  },
+  {
+    "title": "නොවැම්බරයේ උද්ධමනය පහළට",
+    "href": "news.php?nid=218730",
+    "byline": "2025 නොවැම්බර් මාසය සඳහා ශ්‍රී ලංකාවේ ජාතික පාරිභෝගික මිල දර්ශකයට අනුව උද්ධමනය ප්‍රකාශයට පත්කර තිබේ.",
+    "timestamp": "December 22, 2025  3:48 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218730",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a0e62ed5a45471c749e4fb5c434b8aecb08fb36852c4fd78d6e1af4e936ae123"
+  },
+  {
+    "title": "යාල්දේවී නැවතත් - උතුරු දුම්රිය මාර්ගය සම්පූර්ණයෙන් විවෘතයි",
+    "href": "news.php?nid=218731",
+    "byline": "උතුරු දුම්රිය මාර්ගය සම්පූර්ණයෙන්ම දුම්රිය ධාවනයට විවෘත කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කරයි.",
+    "timestamp": "December 22, 2025  3:58 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218731",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d415596eac9d90f97c248a5b8edd5aacf27c9ba6c0caecc345811b3396e09088"
+  },
+  {
+    "title": "ඇල්ල රත්කළ වීඩියෝව  - පොලීසියේ දෙදෙනෙකුට තැන් මාරු",
+    "href": "news.php?nid=218732",
+    "byline": "ඇල්ල සංචාරක කලාපයට පිටස්තරව පැමිණෙ‍න කුලී රථ රියදුරන් සහ එම ප්‍රදේශයේ රැකියාවේ නිරත කුලී රථ රියදුරන් අතර ඇති වූ නොසන්සුන්තාවයක් දැක්වෙන වීඩියෝ පටය සම්බන්ධයෙන් පොලීසිය විසින් පරීක්ෂණයක් ආරම්භ කර තිබේ.",
+    "timestamp": "December 22, 2025  4:27 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218732",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "34a830022469fe0ea598e6f6b9a2a2ca59f8846943f7be02fbc7875fa215cfeb"
+  },
+  {
+    "title": "ආපදා සහන සංශෝධිත අයවැය චක්‍රලේඛය නිකුත් කෙරේ",
+    "href": "news.php?nid=218733",
+    "byline": "ආපදාවෙන් බලපෑමට ලක්වූවන් සවිබල ගැන්වීමේ වැඩසටහන අනුව 2025-12-05 දිනැති අයවැය චක්‍රලේඛ අංක 08/2025 මඟින් යෝජිත සවිබල ගැන්වීමේ වැඩසටහන වඩාත් කාර්යක්ෂමව හා ඵලදායීව ක්‍රියාත්මක කිරීමට නව එකතු කිරීම් පැහැදිලි කිරීම් හා සංශෝධන ඇතුළත් කිරීමට මෙම චක්‍රලේඛය නිකුත් කර ඇත.",
+    "timestamp": "December 22, 2025  4:45 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218733",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "25722a70e6192389cf1d84a8b6b48c82f8b97ddd143ad04e995c69228f5e7a36"
+  },
+  {
+    "title": "මාලිමා මන්ත්‍රී ශාන්තගේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගත් පොලිස් නිලධාරියාට ඇප",
+    "href": "news.php?nid=218734",
+    "byline": "පාර්ලිමේන්තු මන්ත්‍රී ශාන්ත පද්මකුමාර සමග ඇති වූ පහරදීමේ සිද්ධියට අදාළව අත්අඩංගුවට පොලිස් කොස්තාපල්වරයාට ඇඹිලිපිටිය මහෙස්ත්‍රාත් අධිකරණයෙන් ඇප නිය කර තිබේ.",
+    "timestamp": "December 22, 2025  4:59 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218734",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2b1557af8f23d6433911e9fa9ad55576e7b02a24937a7972745cc48f5ed46760"
+  },
+  {
+    "title": "දේශීය ආදායම් දෙපාර්තමේන්තුවෙන් ඉතිහාසගත ආදායමක්",
+    "href": "news.php?nid=218735",
+    "byline": "2025 වසර සඳහා රජය විසින් ලබාදුන් රු බි 2,203ක වාර්ෂික ආදායම් ඉලක්කය සපුරාලීමට දේශීය ආදායම් දෙපාර්තමේන්තුව සමත්ව තිබේ.",
+    "timestamp": "December 22, 2025  5:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218735",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1880e86995062c67967b371a11fe83c9f7ba3b95c43e9b98482741bfaa5f737a"
+  },
+  {
+    "title": "පාසල් කාලය විනාඩි 30කින් දීර්ඝ කිරීම ගැන අගමැතිගෙන් ප්‍රකාශයක්",
+    "href": "news.php?nid=218736",
+    "byline": "නව අධ්‍යාපන ප්‍රතිසංස්කරණවලට අදාළව පාසල් කාලය විනාඩි 30කින් දීර්ඝ කිරීම පරිවර්තනීය අධ්‍යාපන ක්‍රියාවලියට අදාළව ජාතික අධ්‍යාපන ආයතනය, අධ්‍යාපන කොමිෂන් සභාව සහ අධ්‍යාපන අමාත්‍යාංශය එක්ව ගත් සාමූහික තීරණයක් බව අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍ය, අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.",
+    "timestamp": "December 22, 2025  5:52 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218736",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ff741e4c1dbb7a16a85e4efc93b5717bb41b8609f74d9d29f31b8f4614b58fd1"
+  },
+  {
+    "title": "ඉන්දීය විදේශ ඇමති දිවයිනට",
+    "href": "news.php?nid=218737",
+    "byline": "ඉන්දීය විදේශ කටයුතු අමාත්‍ය ආචාර්ය එස්. ජයිශංකර් මහතා නිල සංචාරයක් සඳහා දිවයිනට පැමිණ තිබේ.",
+    "timestamp": "December 22, 2025  5:58 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218737",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "66dd8b163221c315583ca631c25a65cb3502ff735e839f7d103cf856560685e5"
+  },
+  {
+    "title": "NIRDC යටතේ පළමු කාර්තුවේ තෝරාගත් ව්‍යාපෘති 9කට සහතික පත් පිරිනැමේ",
+    "href": "news.php?nid=218738",
+    "byline": "පර්යේෂණ සහ සංවර්ධන වාණිජකරණ ජාතික ප්‍රවේශය (NIRDC) යටතේ මේ වසරේ පළමු මාස 03 තුළ ඉදිරිපත් කළ යෝජනා අතරින් තෝරාගත් ව්‍යාපෘති 09ක් සඳහා...",
+    "timestamp": "December 22, 2025  6:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218738",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0c6d64c35fd32efec9aaa8c9819c91dccbeee5075c197260f85129b4b596e553"
+  },
+  {
+    "title": "නායයෑම් අනතුරු ඇඟවීම් යාවත්කාලීන කෙරේ",
+    "href": "news.php?nid=218739",
+    "byline": "දිස්ත්‍රික්ක කිහිපයක් සඳහා නිකුත් කර ඇති නායයෑමේ අනතුරු ඇඟවීමේ නිවේදනය තවදුරටත් බලපැවැත්වෙන බව ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පවසයි.",
+    "timestamp": "December 22, 2025  6:55 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218739",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8245fb7efe56bdc0fae0eaa44eaaf4aaf6a646bd5c420a9f95a5bda225222caa"
+  },
+  {
+    "title": "අම්බලන්ගොඩ වෙඩිතැබීමේ සම්පූර්ණ කතාව",
+    "href": "news.php?nid=218740",
+    "byline": "අම්බලන්ගොඩ නගරයේ වෙළෙඳ ආයතනයක කළමනාකරුවෙකු අද (22) පෙරවරුවේ වෙඩි තබා ඝාතනය කෙරුණි.",
+    "timestamp": "December 22, 2025  7:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218740",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0df7559bd621ab73e0982dc91ea67f396adbe24f08f215aa4588484d22b9ef70"
+  },
+  {
+    "title": "රතු නිවේදන දුන්නත් විසඳුම් නොදුන් බවට උඩපලාතේ වැසියන්ගෙන් රජයට චෝදනා",
+    "href": "news.php?nid=218741",
+    "byline": "ගම්පොළ, උඩපළාත ප්‍රාදේශීය ලේකම් කොට්ඨාශයට අයත් උඩගම, ඉහළගම දුනුකේඋල්ල ඇතුළු ග්‍රාම නිලධාරි වසම් අටක ජීවත් වන 15,000ක පමණ ජනතාවට නායයාමේ රතු නිවේදන පමණක් ලබාදී නාය යෑමට හසු වූ පවුල්වලට නිසි විසඳුම් ලබා නොදීම හේතුවෙන් ඔවුහු මහත් අසිරුතාවට පත්ව සිටියි.",
+    "timestamp": "December 22, 2025  7:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218741",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "263d4826ebf696e020009524ffc45e6d15dc976454360778196501f5241057e7"
+  },
+  {
+    "title": "දිට්වා සුළිකුණාටුවෙන් ශ්‍රී ලංකාවට සිදු වූ හානිය ඩොලර් බිලියන 4.1ක් - ලෝක බැංකුව කියයි",
+    "href": "news.php?nid=218742",
+    "byline": "පසුගිය නොවැම්බර් මාසය අගභාගයේ දී ශ්‍රී ලංකාවට බලපෑ 'දිට්වා' සුළි කුණාටුව හේතුවෙන්  මෙරට ගොඩනැගිලි හා ඒවායේ  අන්තර්ගතයන්, කෘෂිකර්මාන්තය හා තීරණාත්මක යටිතලපහසුකම්වලට සිදුකර ඇති භෞතික හානිය අමෙරිකානු ඩොලර් බිලියන 4.1ක් බවට ඇස්තමේන්තු කර ඇති බව ලෝක බැංකුව පවසයි.",
+    "timestamp": "December 22, 2025  7:41 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218742",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "447467f58f9927f24856448e65d7e2890ebf56d8eff28c4e8443c71f57a3c455"
+  },
+  {
+    "title": "පන්විල බය කළ කොල්ල කල්ලියක් මාට්ටු",
+    "href": "news.php?nid=218743",
+    "byline": "පන්විල පොලිස් වසමේ හුළුඟඟ ප්‍රදේශයේ රන් ආභරණ වෙළෙඳසැලක් කොල්ලකෑම සඳහා පැමිණ ප්‍රදේශයේ නිවාඩු නිකේතනයක නවාතැන් ගෙන සිටි මංකොල්ල කල්ලියක තිදෙනෙක් අත්අඩංගුවට පත්ව තිබේ.",
+    "timestamp": "December 22, 2025  8:33 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218743",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f60899d7aa7ab02ea333fd455fe843b1c3f3e88b1e57fc15f6f23f96ff6b313c"
+  },
+  {
+    "title": "නුගේගොඩ වෙඩි තැබීමක්",
+    "href": "news.php?nid=218745",
+    "byline": "නුගේගොඩ මංසන්ධියේ කොහුවල දෙසට මාර්ගයේ දී ත්‍රීරෝද රථයක ගමන් කරමින් සිටි පුද්ගලයෙකු ඉලක්ක කර වෙඩිතැබීමක් සිදුව තිබේ.",
+    "timestamp": "December 22, 2025  8:57 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218745",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b782bedeef04e3ba693b31c03e2abca10a7891b548621931fc1eaa6b382ecbf0"
+  },
+  {
+    "title": "කොළඹ මහ නගර සභාවේ අයවැය මාලිමාව පරදී",
+    "href": "news.php?nid=218746",
+    "byline": "ජාතික ජන බලවේගයට බලය හිමි වූ කොළඹ මහ නගර සභාවේ 2026 මංගල අයවැය අද (22) පරාජයට පත්වුණි.",
+    "timestamp": "December 22, 2025  9:28 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218746",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4290ad028af3161e5fc5f1e6497b8998c9f3e10dff7ce75d302af43c06166ec8"
+  },
+  {
+    "title": "කෘෂිකර්ම නියෝජ්‍ය ඇමතිගෙන් සහතිකයක්",
+    "href": "news.php?nid=218747",
+    "byline": "ඉදිරියේ දී රට තුළ කිසිසේත් ආහාර හිඟයක් ඇති වීමට ඉඩ නොතබන බව කෘෂිකර්ම නියෝජ්‍ය අමාත්‍ය නාමල් කරුණාරත්න මහතා පවසයි.",
+    "timestamp": "December 22, 2025  10:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=218747",
+    "isoTimestamp": "2025-12-23T23:12:42+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "83ed0ddb2eb5408ec583393d4ba40894c700dcf5b5288af0cf3852c6b1924552"
+  }
+]
