@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "title": "කැලණි පෙරහැරට රථ වාහන ගමනාගමනය සීමා කිරීමක්",
+    "href": "news.php?nid=219405",
+    "byline": "කැලණිය රජමහා විහාරස්ථානයේ දුරුතු පෙරහැර හේතුවෙන් රථවාහන ගමනාගමනය සීමා කිරීමක් සිදුකර තිබේ.",
+    "timestamp": "January 7, 2026  7:19 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219405",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a8199de19cc2ac106c11932f8bdaf64b68f7c30932cdbc51405ed868c020aa24"
+  },
+  {
+    "title": "6 පොතෙන් මතභේදයට තුඩු දුන් පාඩම ඉවත් කිරීමට අනුමැතිය",
+    "href": "news.php?nid=219414",
+    "byline": "මතභේදයට තුඩු දුන් 6 ශ්‍රේණිය ඉංග්‍රීසි මොඩියුලයේ එම පාඩම ඉවත් කිරීමට ජාතික අධ්‍යාපන ආයතනයේ අධ්‍යයන උපදේශක මණ්ඩලය අනුමැතිය ලබාදී තිබේ.",
+    "timestamp": "January 7, 2026  10:23 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219414",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "85e60ac0e96ff5cff5306ecb2bc6ec92b53fdd0621b84337849549a601502e22"
+  },
+  {
+    "title": "නායයෑම් රතු නිවේදන තවදුරටත් - බොහෝ තැන්වල නායයෑම් පූර්ව ලක්ෂණ මතුවෙලා",
+    "href": "news.php?nid=219413",
+    "byline": "මධ්‍යම පළාතේ දිස්ත්‍රික්ක 2ක ප්‍රාදේශීය ලේකම් කොට්ඨාස 3කට මේ වනවිට නිකුත් කර තිබූ නායයෑම් ඉවත්වීමේ රතු නිවේදන තවදුරටත් දීර්ඝ කළ බව ජාතික ගොඩනැඟිලි පර්යේෂණ සංවිධානය පවසයි.",
+    "timestamp": "January 7, 2026  10:09 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219413",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8519adc08c0fce76f98dfeca34b2510fbcf5630d12a2d9a32310a4ebc2de8907"
+  },
+  {
+    "title": "පිලිපීනයේ ප්‍රබල භූකම්පනයක්",
+    "href": "news.php?nid=219412",
+    "byline": "පිලිපීනයේ ප්‍රබල භූකම්පනයක් සිදුව තිබේ.",
+    "timestamp": "January 7, 2026  9:48 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219412",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "461fd32e726855463ba6464fe59561dd344f94ba3f72aa9e021bb7f664a8db74"
+  },
+  {
+    "title": "අඩු පීඩන කලාපය මඩකලපුවට කිලෝමීටර් 700ක් දුරින්",
+    "href": "news.php?nid=219411",
+    "byline": "දිවයිනට ගිනිකොණ දෙසින් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ස්ථාපිතව පවතින අඩු පීඩන කලාපය මේ වනවිට මඩකලපුවට කිලෝමීටර් 700ක් දුරින් ස්ථානගතව පවතී.\n\nකාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ අනාවැකි අංශයේ අධ්‍යක්ෂ මෙරිල් මෙන්ඩිස් මහතා පවසා සිටියේ මෙම පද්ධතිය ඉදිරි පැය කිහිපය තුළ පීඩන අවපාතයක් දක්වා වර්ධනය වී හෙට (08) දිනයේ ශ්‍රී ලංකාවේ නැගෙනහිර වෙරළ ආසන්නයට පැමිණිය හැකි බවය.",
+    "timestamp": "January 7, 2026  9:47 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219411",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "88540c0157a5b9492168998f91af4dbf1b5e0a9917bccd80e5c05d06fb610ca8"
+  },
+  {
+    "title": "පාර්ලිමේන්තු සභාවාරය ඇරඹෙයි",
+    "href": "news.php?nid=219410",
+    "byline": "අද (07) දිනට නියමිත පාර්ලිමේන්තු සභා වාරයේ කටයුතු පෙරවරු 9:30ට ආරම්භ කෙරුණි.",
+    "timestamp": "January 7, 2026  9:31 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219410",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "24222c606cec3a78e8b2caf37dba422067719efdfa08dbc9c110c632b116dc7f"
+  },
+  {
+    "title": "T20 ලෝක කුසලානයේ බංග්ලාදේශ තරග පැවැත්වෙන තැන් ගැන ICCයෙන් දැනුම්දීමක්",
+    "href": "news.php?nid=219409",
+    "byline": "බංග්ලාදේශ කණ්ඩායමේ විස්සයි20 ලෝක කුසලාන තරග පැවැත්වෙන ස්ථාන සම්බන්ධයෙන් මේ වනවිට කිසිදු වෙනසක් සිදුකර නොමැති බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පවසයි.",
+    "timestamp": "January 7, 2026  9:30 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219409",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6844182f54241977f77dee57231b02c0e80f2231fc99b0a41072cdebb7a383af"
+  },
+  {
+    "title": "වීථි ලාම්පු සඳහා වැයවන මුදල ප්‍රදේශයේ ජනතාවගේ විදුලි බිලට ?",
+    "href": "news.php?nid=219408",
+    "byline": "යෝජිත නව විදුලි ප්‍රතිපත්තිය මඟින් තම ප්‍රදේශයේ ඇති වීථි ලාම්පු සඳහා වැයවන මුදල එම ප්‍රදේශයේ ජනතාවගේ විදුලි බිලෙන් අයකිරීමට යෝජනා කර ඇති බව විදුලිය පාවිච්චිකරනන්ගේ සංගමය පවසයි.",
+    "timestamp": "January 7, 2026  8:36 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219408",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e1aee8e2c54f407ac6f730a415652ae58db5c9a1033ae4ea61f865c2e4925752"
+  },
+  {
+    "title": "ශ්‍රී ලංකා - පාකිස්තාන පළමු විස්සයි20 තරගය අද",
+    "href": "news.php?nid=219407",
+    "byline": "තරග 3කින් සමන්විත ශ්‍රී ලංකා - පාකිස්තාන විස්සයි20 තරගාවලිය දඹුල්ලේදී අද ආරම්භ වෙයි.",
+    "timestamp": "January 7, 2026  7:55 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219407",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1dd7f1441ac4cf88bfa64f209e1c4a67a4242775efcde7e549f055f406a3c344"
+  },
+  {
+    "title": "වෙනිසියුලාව සතු බොර තෙල් අමෙරිකාවට භාරදෙයි",
+    "href": "news.php?nid=219406",
+    "byline": "අමෙරිකා එක්සත් ජනපද වෙළෙඳපොළ සඳහා වෙනිසියුලා රජය විසින් බොර තෙල් බැරල් මිලියන 30 සිට 50 දක්වා ප්‍රමාණයක් අලෙවි කිරීමට එකඟ වී ඇති බව ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් පවසයි.",
+    "timestamp": "January 7, 2026  7:39 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219406",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7c3416ae45c3cad4273a9c573906d1e5fe575ad8d1d8a8aebbc176cb97311b89"
+  },
+  {
+    "title": "නීතිවිරෝධීව අලෙවි කිරීමට උත්සාහ කළ බෙහෙත් පෙති තොගයක් සමඟ 4ක් යාපනයේ දී මාට්ටු",
+    "href": "news.php?nid=219404",
+    "byline": "නීතිවිරෝධි ලෙස අලෙවි කිරීමට උත්සාහ කළ ඖෂධ පෙති තොගයක් සමඟ සැකකරුවන් සිව්දෙනෙකු යාපනයේදී අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "January 7, 2026  7:18 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219404",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "216cff60dfc3bc3e393052e18aa7126bc6d20f9df6d084448b9e69e10677c94e"
+  },
+  {
+    "title": "අල්ලස් නිලධාරීන්ට තර්ජනය කිරීමේ සිද්ධියේ වෛද්‍ය මහේෂිගේ දියණියට එරෙහිව චෝදනා ගොනු කෙරේ",
+    "href": "news.php?nid=219403",
+    "byline": "අල්ලස්  කොමිසමේ නිලධාරීන් දෙදෙනෙකුට මරණීය තර්ජනය කළේ කියන චෝදනාව මත ශ්‍රී ජයවර්ධනපුර රෝහලේ ස්නායු ශල්‍ය වෛද්‍ය මහේෂි විජේරත්න මහත්මියගේ දියණියට එරෙහිව අල්ලස් කොමිසම විසින් කොළඹ මහෙස්ත්‍රාත් අධිකරණය හමුවේ චෝදනා ගොනුකර තිබේ.",
+    "timestamp": "January 7, 2026  6:47 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219403",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4a0084d278d91e11cc3deb924b27f090c5f0f5262fd11ed0d80c52ba67951f9e"
+  },
+  {
+    "title": "කොහුවල වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ තවත් සැකකරුවෙක් අත්අඩංගුවට",
+    "href": "news.php?nid=219402",
+    "byline": "කොහුවල, බෝධියවත්ත ප්‍රදේශයේ සිදුකළ වෙඩිතැබීමකින් තරුණියකට තුවාල සිදුකර මනුෂ්‍ය ඝාතනයට තැත් කිරීමේ සිද්ධියට සම්බන්ධ පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "January 7, 2026  6:40 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219402",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "eda9df4da9bea7b9c5ca7124f533e2ec34da83636c62dd99b948c545ebe78a37"
+  },
+  {
+    "title": "07-01-2026",
+    "href": "news.php?nid=219401",
+    "byline": "No byline",
+    "timestamp": "January 7, 2026  6:33 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219401",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "90952f6bf3185cd78854390ab8f2434948c84a63f6a7576a84274c41d1ce9226"
+  },
+  {
+    "title": "අඩු පීඩන කලාපය ඉදිරි පැය 12 තුළදී පීඩන අවපාතයක් දක්වා",
+    "href": "news.php?nid=219400",
+    "byline": "දිවයිනට ගිනිකොණ දෙසින් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ස්ථාපිතව පැවති අඩු පීඩන කලාපය ඉදිරි පැය 12 තුළදී පීඩන අවපාතයක් දක්වා වර්ධනය විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි. \n\nඑම පද්ධතිය බටහිරට බරව වයඹ දෙසට ගමන් කරමින් දිවයිනේ නැගෙනහිර වෙරළ දෙසට ළඟාවනු ඇතැයි අපේක්ෂ කරන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.",
+    "timestamp": "January 7, 2026  6:00 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219400",
+    "isoTimestamp": "2026-01-07T10:31:20+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ca108cf94ad34e2280775697471d1ed967a0604d7576f5d651ef95dfe8ca2f7e"
+  },
+  {
+    "title": "සෝමාවතිය මාර්ගය ජලයෙන් යටවෙයි - රථවාහන ධාවනයත් අත්හිටුවයි",
+    "href": "news.php?nid=219420",
+    "byline": "මහවැලි ගඟ පිටාර ගැලීමෙන් ඓතිහාසික සෝමාවතිය පුදබිමට ගමන් ගන්නා මාර්ගය ජලයෙන් යටවීම නිසා රථවාහන ධාවනය අත්හිටුවා තිබේ.",
+    "timestamp": "January 7, 2026  11:32 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219420",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d83f61841dac634d670201f8b95c50d66504409c11598d05907e50ed91bb553a"
+  },
+  {
+    "title": "ලංකාවෙන් නික්මයෑමට සූදානම් වෙන ජුලි චන්ග්",
+    "href": "news.php?nid=219415",
+    "byline": "ශ්‍රී ලංකාවේ අමෙරිකානු තානාපතිනී ලෙස කටයුතු කරමින් සිටින ජුලි චන්ග් මහත්මිය, ජනවාරි 16 වන දින ශ්‍රී ලංකාවෙන් පිටත්ව යාමට නියමිත බව ශ්‍රී ලංකාවේ එක්සත් ජනපද තානාපති කාර්යාලය පවසයි.",
+    "timestamp": "January 7, 2026  10:34 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219415",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7900074c1ac596114066e7d4efea379765ef4df5093e6950e50d3afd71f195f5"
+  },
+  {
+    "title": "දිට්වා නිසා නායගිය මහගිරිදඹ යුද හමුදා දෑතින් ප්‍රතිසංස්කරණය කර අවසන්",
+    "href": "news.php?nid=219416",
+    "byline": "දිට්වා සුලි කුණාටුවෙන් නායයෑමට ලක් වූ මහගිරිදඹ ප්‍රදේශය යුද හමුදාව විසින් සම්පුර්ණයෙන්ම ප්‍රතිසංස්කරණ කටයුතු අවසන් කර තිබේ.",
+    "timestamp": "January 7, 2026  10:41 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219416",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3ce61b4ee93c02cbc5e5c36418b0261289e2d9c719e694b8d34de862ad533a63"
+  },
+  {
+    "title": "කොළඹ කොටස් වෙළෙඳපොළ දෛනික ගනුදෙනු ඇනහිටී",
+    "href": "news.php?nid=219417",
+    "byline": "කොළඹ කොටස් වෙළෙඳපොළ දෛනික ගනුදෙනු අද (07) උදෑසන 9.53ට අත්හිටුවා තිබේ.",
+    "timestamp": "January 7, 2026  10:54 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219417",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0c11b719e8860ae24e144622934639f81157927ac83537b8fe95059c5d23dd29"
+  },
+  {
+    "title": "ඉන්දීය හමුදාපති දිවයිනට",
+    "href": "news.php?nid=219418",
+    "byline": "ඉන්දු - ශ්‍රී ලංකා ද්විපාර්ශ්වික ආරක්ෂක සහයෝගීතාව ශක්තිමත් කිරීමේ අරමුණින් ඉන්දියානු යුද්ධ හමුදාධිපති ජෙනරල් උපේන්ද්‍ර ද්විවේදි ජ්‍යෙෂ්ඨ නිලධාරි නිල සංචාරයක් සඳහා දිවයිනට පැමිණ තිබේ.",
+    "timestamp": "January 7, 2026  11:01 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219418",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "de335f56db950b5f9ed233e4906602d4e455c975fb1637b7703bd537779f8263"
+  },
+  {
+    "title": "අධ්‍යාපන ඇමතිට එරෙහි විශ්වාසභංගය ගැන විපක්ෂ නායකගේ ප්‍රධානත්වයෙන් සාකච්ඡාවක්",
+    "href": "news.php?nid=219419",
+    "byline": "අධ්‍යාපන අමාත්‍ය හරිනි අමරසූරිය මහත්මියට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒමට අදාළ සාකච්ඡාවක් පාර්ලිමේන්තුවේ පිහිටි විපක්ෂ නායක කාර්යාලයේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතාගේ මූලිකත්වයෙන් පවත්වා තිබේ.",
+    "timestamp": "January 7, 2026  11:21 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219419",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8062bb4b6adf6be5d71927dd15cc2469816e3eb85604b3249fca6d9a21e3171c"
+  },
+  {
+    "title": "ශ්‍රී ලංකා වරාය අධිකාරියෙන් රජයේ ඒකාබද්ධ අරමුදලට රුපියල් බිලියන 5ක්",
+    "href": "news.php?nid=219421",
+    "byline": "ශ්‍රී ලංකා වරාය අධිකාරිය විසින් රජයේ ඒකාබද්ධ අරමුදලට රුපියල් බිලියන පහක මුදලක් ප්‍රධානය කර තිබේ.",
+    "timestamp": "January 7, 2026  11:33 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219421",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "594907ab1f66e40d30a65ad45295754440ec60aa205aaefc0e693bc935f02afe"
+  },
+  {
+    "title": "පාර්ලිමේන්තු විශ්‍රාම වැටුප් ඉවත් කිරීමේ පනත් කෙටුම්පත මැතිසබයට",
+    "href": "news.php?nid=219422",
+    "byline": "ජාතික රාජ්‍ය සභාවේ 1977 අංක 1 දරන පාර්ලිමේන්තු විශ්‍රාම වැටුප් පනත ඉවත් කිරීම පිණිස වූ පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබේ.",
+    "timestamp": "January 7, 2026  12:01 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219422",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "19ff2fa0abc0b470935f39ef9ab502f94d4050e20a56653e45be6cad3d14460a"
+  },
+  {
+    "title": "අධ්‍යාපන අමාත්‍යවරියට එරෙහි විශ්වාසභංගයට විපක්ෂය අත්සන් තබයි",
+    "href": "news.php?nid=219423",
+    "byline": "අධ්‍යාපන අමාත්‍යවරිය වන හරිනි අමරසූරිය මහත්මියට එරෙහිව විශ්වාසභංග යෝජනාව අත්සන් කිරීම විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා, දිලිත් ජයවීර මහතා ඇතුළු විපක්ෂයේ මන්ත්‍රීවරුන් විසින් සිදුකරනු ලැබීය.",
+    "timestamp": "January 7, 2026  12:24 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219423",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a396a310f865601d9d3d23ece8d9aa94787107cdb3f32bd9833da5cc96d3ee1e"
+  },
+  {
+    "title": "ග්‍රෙගරි වැවේ ගුවන් අනතුරක්",
+    "href": "news.php?nid=219424",
+    "byline": "නුවරඑළිය, ග්‍රෙගරිවැවේ ගොඩබැස්වීමට සුදානම් වූ සී ප්ලේන් එකක් අද (07) දින දහවල් 12.30ට පමණ කඩා වැටී තිබේ.\n\nඅද දෙරණ වාර්තාකරු පැවසුවේ ගුවන් යානය කඩා වැටීමෙන් එහි සිටි ගුවන් නියමුවන් දෙදෙනා තුවාල ලබා නුවරඑළිය දිස්ත්‍රික් රෝහලට ඇතුළත් කළ බවය.",
+    "timestamp": "January 7, 2026  12:47 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219424",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "fe2a37bc20a8814a714e3ee93cb68bb02ad82f36c7742a4fc471b8b0b0185238"
+  },
+  {
+    "title": "වික්‍රම් රතෝර් ශ්‍රී ලංකා පිතිකරණ පුහුණුකරු ලෙස පත් කිරීමට තීරණයක්",
+    "href": "news.php?nid=219425",
+    "byline": "T20 ලෝක කුසලානය වෙනුවෙන් හිටපු ඉන්දීය පිතිකරු වික්‍රම් රතෝර් ශ්‍රී ලංකාව විස්සයි 20 පිතිකරණ පුහුණුකරු ලෙස පත් කිරීමට නියමිත බව වාර්තා වෙයි.",
+    "timestamp": "January 7, 2026  1:05 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219425",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "dcf5427691456985462037f93ccada75feed1d2bbbf7e530e30cbefbf3c9fbb7"
+  },
+  {
+    "title": "ශ්‍රී ලංකාව ජර්මනිය සමඟ ණය ප්‍රතිව්‍යුහගත කිරීමේ ගිවිසුමකට",
+    "href": "news.php?nid=219427",
+    "byline": "විදේශ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියට අදාළව, ජර්මානු ෆෙඩරල් ජනරජය සහ ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය අතර ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ ද්විපාර්ශ්වික ගිවිසුමකට එළැඹ තිබේ.",
+    "timestamp": "January 7, 2026  1:25 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219427",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cd038f8cabe4e765aaca73f64143737a10d4f246fe4088908e2a645026e843bf"
+  },
+  {
+    "title": "කෝටි 7ක කුෂ් සමඟ ව්‍යාපාරිකයෙක් කටුනායක ගුවන් තොටේ දී මාට්ටු",
+    "href": "news.php?nid=219428",
+    "byline": "රුපියල් කෝටි හතක් පමණ වටිනාකමින් යුත් 'කුෂ්' මත්ද්‍රව්‍ය තොගයක් රැගෙන කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි ශ්‍රී ලාංකික ගුවන් මගියෙකු අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "January 7, 2026  1:28 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219428",
+    "isoTimestamp": "2026-01-07T13:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e4461436f1e08c1fe04ecf22d70c0f68ed6e0ae7e9f7a4fd83cf81205f2cf76c"
+  },
+  {
+    "title": "වෙනිසියුලාව ගැන ඉන්දියාවෙන් ප්‍රකාශයක්",
+    "href": "news.php?nid=219426",
+    "byline": "වෙනිසියුලාවේ ජනතාවගේ යහපැවැත්ම සහ ආරක්ෂාව සඳහා ප්‍රමුඛත්වය ලබාදෙන ලෙස ඉන්දියාව ඊට සම්බන්ධ සියලු පාර්ශ්වයන්ගෙන් ඉල්ලා තිබේ.",
+    "timestamp": "January 7, 2026  1:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219426",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3e5113d14c41218928f4145323cc9db14603d5ed45d71bd62fda21d88703214f"
+  },
+  {
+    "title": "ගණේමුල්ල සංජීව ඝාතනයේ සැකකරුවන් දෙදෙනෙකු රිමාන්ඩ්",
+    "href": "news.php?nid=219429",
+    "byline": "ඉෂාරා සෙව්වන්දි නැමැත්තියට ආධාර අනුබලදීම සහ නවාතැන් පහසුකම් සැපයීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රැඳවුම් භාරයේ සිටි නන්ද කුමාර් තක්ෂි සහ තවත් සැකකරුවෙකු ජනවාරි මස 09 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.",
+    "timestamp": "January 7, 2026  1:33 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219429",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b1991e6cf56cb6b470c7efcd5da6b9e499fbcb99fd5a4fc3524e47829cf30da5"
+  },
+  {
+    "title": "ශ්‍රී ලංකාව සහ යුරෝපා සංගමය අතර යුරෝ මිලියන 8ක ප්‍රදාන ගිවිසුමක්",
+    "href": "news.php?nid=219430",
+    "byline": "ශ්‍රී ලංකා රජය සහ යුරෝපා සංගමයඅතර යුරෝ මිලියන 8ක ප්‍රදාන ගිවිසුමක් අත්සන් කර තිබේ.",
+    "timestamp": "January 7, 2026  1:55 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219430",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d73e3c9fd3dcaddb817ff6bdef91faf42b7132926b7945f4cffd496516da179d"
+  },
+  {
+    "title": "වසර දෙකකට ආසන්න කාලයකට පසුව ඩොලරය රු. 310 පනී",
+    "href": "news.php?nid=219431",
+    "byline": "ශ්‍රී ලංකා මහ බැංකුවට අනුව අද (07) දිනයේ දී එක්සත් ජනපද ඩොලරයක නිරූපිත එතැන් විනිමය අනුපාතිකය රු. 310.02ක් ලෙස වාර්තා වී තිබේ.",
+    "timestamp": "January 7, 2026  1:55 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219431",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6c3088c42caa8216329a5691ceef7056bd09ec3acb2ca5c03f203731d1fd2a0c"
+  },
+  {
+    "title": "දිට්වා නිසා පීඩාවට පත් පවුල් සඳහා කොරියානු රජයෙන් ඇ.ඩො. 500,000ක ආධාරයක්",
+    "href": "news.php?nid=219432",
+    "byline": "ශ්‍රී ලංකාවේ දිට්වා සුළි කුණාටුවෙන් පීඩාවට පත් පවුල් සඳහා සහාය දක්වන ලෝක ආහාර වැඩපිළිවෙලහි හදිසි ප‍්‍රතිචාර වැඩසටහන ඉහළ නැංවීමට කොරියානු ජනරජයේ සහාය ලබා දී තිබේ.",
+    "timestamp": "January 7, 2026  2:43 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219432",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "eb9505c198f8426ef2d49b0d0337cad8662c49c5de89b3a1a51900237302cf28"
+  },
+  {
+    "title": "ශ්‍රී ලංකා පොලීසියේ නිලධාරීන්ගේ දිනක වැටුප Rebuilding Sri Lanka අරමුදලට",
+    "href": "news.php?nid=219433",
+    "byline": "ශ්‍රී ලංකා පොලීසියේ නිලධාරීන් තම දිනක වැටුප වශයෙන් රුපියල් මිලියන 50ක මුදලක් දිට්වා සුළි කුණාටුවෙන් විපතට පත් ජනතාවගේ ජන ජීවිතය සහ ආපදාවට ලක් වූ රට යළි ගොඩනැඟීම  සඳහා අරඹන ලද  ‘Rebuilding Sri Lanka’ අරමුදලට පරිත්‍යාග කර තිබේ.",
+    "timestamp": "January 7, 2026  3:12 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219433",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "23bcf3fb867f10733c53ca932335665b171691473261adc44720dba69c051bde"
+  },
+  {
+    "title": "විෂයමාලා, පෙළපොත් සහ සමාලෝචනය සිදුකරන නිලධාරීන්ට මාර්ගෝපදේශන සංග්‍රහයක්",
+    "href": "news.php?nid=219434",
+    "byline": "විෂයමාලා, පෙළපොත් සකස් කරන සහ සමාලෝචනය සිදුකරන නිලධාරීන් සඳහා සයිබර් ආරක්ෂණය වෙනුවෙන් මාර්ගෝපදේශන සංග්‍රහයක් සකස් කිරීමට පියවර ගෙන ඇත.",
+    "timestamp": "January 7, 2026  3:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219434",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "74468efe298798c8f626513bd952c4e0821f855740d5e16b59237e8a70641977"
+  },
+  {
+    "title": "විදේශ රැකියා වංචනිකයින්ට එරෙහිව පැවරූ නඩුවලින් රු.ල. 3,743ක් යළි වින්දිතයින්ට",
+    "href": "news.php?nid=219435",
+    "byline": "2025 වර්ෂය තුළ විදේශ රැකියා වංචනික ක්‍රියාවල නිරත වූ පුද්ගලයින් හා බලපත්‍ර රහිත රැකියා නියෝජිත ආයතනවලට එරෙහිව නඩු පවරන ලද වින්දිතයින්ට රුපියල් ලක්ෂ 3,743කට අධික මුදලක් යළි අයකරදීමට කටයුතු කළ බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.",
+    "timestamp": "January 7, 2026  3:56 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219435",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c365e4ba6dedeef458d691bc0e8c89b7c86dde30ffe5517c372dba1486ab4292"
+  },
+  {
+    "title": "මහාචාර්ය චරිත හේරත් සමගි ජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලයට",
+    "href": "news.php?nid=219436",
+    "byline": "මහාචාර්ය චරිත හේරත් මහතා සමගි ජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලයට පත් කර තිබේ.",
+    "timestamp": "January 7, 2026  4:06 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219436",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c5d87be6ef655f7928c6796eec268f9ac1f487c2595704baa609220954a1cbc6"
+  },
+  {
+    "title": "හෙට දිස්ත්‍රික්ක කිහිපයකට මි.මී. 100ට වැඩි තද වැසි",
+    "href": "news.php?nid=219437",
+    "byline": "නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට හෙට (08) දිනයේ මි.මී. 100ට වැඩි තද වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "January 7, 2026  4:16 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219437",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0bb2ef15ef33adf127079719d1c071aef86d81de4c103a4c3c18bf1310185075"
+  },
+  {
+    "title": "ජපානයේ වෙන්දේසියකදී මත්ස්‍යයෙකු වාර්තාගත මුදලකට අලෙවි වෙයි",
+    "href": "news.php?nid=219438",
+    "byline": "ජපානයේ ටොයෝසු මත්ස්‍ය වෙළෙඳපොළේ වාර්ෂිකව පැවැත්වෙන මත්ස්‍ය වෙන්දේසියේ දී 'බ්ලූෆින්' වර්ගයේ ටූනා මත්ස්‍යයෙකු යෙන් මිලියන 510කට (අ.ඩො. මිලියන 3.2) අලෙවි වී තිබේ.",
+    "timestamp": "January 7, 2026  4:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219438",
+    "isoTimestamp": "2026-01-07T16:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f0d5e2fa3829f9ebe3292dc3469c72f2ac550f7a77db5fe4b7d7ee75c56fb78b"
+  },
+  {
+    "title": "විදේශ රැකියා වංචනිකයින්ට එරෙහිව පැවරූ නඩුවලින් රු. ලක්ෂ 3,743ක් යළි වින්දිතයින්ට",
+    "href": "news.php?nid=219435",
+    "byline": "2025 වර්ෂය තුළ විදේශ රැකියා වංචනික ක්‍රියාවල නිරත වූ පුද්ගලයින් හා බලපත්‍ර රහිත රැකියා නියෝජිත ආයතනවලට එරෙහිව නඩු පවරන ලද වින්දිතයින්ට රුපියල් ලක්ෂ 3,743කට අධික මුදලක් යළි අයකරදීමට කටයුතු කළ බව ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය පවසයි.",
+    "timestamp": "January 7, 2026  3:56 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219435",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5d7d0fac03afe1aa696c129a8fbd51e4e79a8a650d3f2641a042d299fd7aa61b"
+  },
+  {
+    "title": "මහාචාර්ය චරිත හේරත් සජබ කෘත්‍යාධිකාරී මණ්ඩලයට",
+    "href": "news.php?nid=219436",
+    "byline": "මහාචාර්ය චරිත හේරත් මහතා සමගි ජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලයට පත් කර තිබේ.",
+    "timestamp": "January 7, 2026  4:06 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219436",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "151abba3459be1e4aefe0f37f4b68f52104c0eeeaf52b933b3ad981bffaec3db"
+  },
+  {
+    "title": "කොළඹ වරාය නගරය ආර්ථික කොමිෂන් සභාව සංශෝධන පනත් කෙටුම්පත සම්මත වෙයි",
+    "href": "news.php?nid=219439",
+    "byline": "කොළඹ වරාය නගරය ආර්ථික කොමිෂන් සභාව සංශෝධන පනත් කෙටුම්පත තෙවන වර කියවීමෙන් අනතුරුව සංශෝධන රහිතව අද (7) පාර්ලිමේන්තුවේ දී සම්මත විය.",
+    "timestamp": "January 7, 2026  5:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219439",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "51b7588aa3fabe926eec1df51862b28b7b7a31368de635d3b3a3f10daf3c1151"
+  },
+  {
+    "title": "පනත් කෙටුම්පත සම්මත වූ පසු මන්ත්‍රීවරුන්ට විශ්‍රාම වැටුප් ලැබෙන්නේ නෑ - ඇමති හර්ෂණ",
+    "href": "news.php?nid=219441",
+    "byline": "පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ විශ්‍රාම වැටුප් අහෝසි කිරීමේ පනත් කෙටුම්පත සම්මතවීමෙන් පසු කිසිදු මන්ත්‍රීවරයෙකුට විශ්‍රාම වැටුප් හිමි නොවන බව අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය නීතිඥ හර්ෂණ නානායක්කාර මහතා පවසයි.",
+    "timestamp": "January 7, 2026  5:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219441",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0458c63adbbac6969ad5d2fb54939b35a83f58694d91f50136d2f2ffd840ee6b"
+  },
+  {
+    "title": "ආපදා දීමනා ගෙවීම සඳහා මාර්ගෝපදේශ නිකුත් කරයි",
+    "href": "news.php?nid=219442",
+    "byline": "ආපදා බලපෑම හේතුවෙන් හානි වූ නිවාස ඉදිකිරීම සහ නායයෑම් අධි අවධානම් නිවාස වෙනුවෙන් දීමනා ගෙවීම සඳහා මාර්ගෝපදේශ නිකුත් කර තිබේ.",
+    "timestamp": "January 7, 2026  6:15 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219442",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "49c1002c1a2ba3b9b901eed8a352d65a570e0c011440650ca3e0f02ad77f6fb4"
+  },
+  {
+    "title": "එජාප - සජබ ඉදිරි සාකච්ඡා ගැන එජාප කෘත්‍යාධිකාරී මණ්ඩලයේදී විශේෂ තීරණයක්",
+    "href": "news.php?nid=219443",
+    "byline": "එක්සත් ජාතික පක්ෂය සහ සමගි ජන බලවේගය අතර ඉදිරියේදී පැවැත්වීමට නියමිත දේශපාලනික සාකච්ඡා දෙපාර්ශ්වයේ කෘත්‍යාධිකාරී මණ්ඩල සමග සාකච්ඡා කිරීමට තීරණය වී තිබේ.",
+    "timestamp": "January 7, 2026  6:21 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219443",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cfa6dd4fc659846ba1463f78938b7a0dec9833be84e35aac76f33440758c8947"
+  },
+  {
+    "title": "තෙල් නැවක් පසුපස අමෙරිකානු හමුදා ලුහුබඳියි",
+    "href": "news.php?nid=219444",
+    "byline": "අත්ලාන්තික් සාගරය හරහා ගමන්ගන්නා තෙල් නැවක් පසුපස අමෙරිකානු හමුදා විසින් ලුහුබඳිමින් සිටින බවත්, එම නැව ආරක්ෂා කිරීම සඳහා රුසියාවෙන් සබ්මැරීනයක් සහ යාත්‍රා කිහිපයක් යොදවා ඇති බව විදෙස් වාර්තා සඳහන් කරයි.",
+    "timestamp": "January 7, 2026  6:28 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219444",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "dc91f6fbe53703ca2109f4545188ad41fe32b8a2f358bd9e2093024e058683d2"
+  },
+  {
+    "title": "කාසියේ වාසිය පාකිස්තානයට",
+    "href": "news.php?nid=219445",
+    "byline": "ශ්‍රී ලංකාව හා සංචාරක පාකිස්තානය අතර තරග 3කින් යුත් විස්සයි20 ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් අද (7) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනාගැනීමට පාකිස්තාන නායක සල්මාන් අගා සමත් විය.",
+    "timestamp": "January 7, 2026  6:38 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219445",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b2b7b23ffc85f0e3285e9657c228031a055a11ec791497f2f91ede21901d0a06"
+  },
+  {
+    "title": "රුසියානු ධජය සහිත තෙල් නැව අමෙරිකානු හමුදා අල්ලා ගනී",
+    "href": "news.php?nid=219446",
+    "byline": "අමෙරිකානු හමුදා විසින් ලුහුබැඳගිය රුසියානු ධජය සහිත ඉන්ධන නෞකාව සිය භාරයට ගත් බව අමෙරිකාව මෙරට වේලාවෙන් අද (7) පස්වරුවේ නිල වශයෙන් තහවුරු කර තිබේ.",
+    "timestamp": "January 7, 2026  7:55 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219446",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3ff6e2ca2c95fc6d5d3020c6ce2533ae33de104096814e8fa5d77d9e43303361"
+  },
+  {
+    "title": "ඉන්දීය යුද හමුදාධිපති යුද හමුදා මූලස්ථානයේ නිල සංචාරයක",
+    "href": "news.php?nid=219448",
+    "byline": "දිවයිනට පැමිණ සිටින ඉන්දීය යුද හමුදාධිපති ජෙනරල් උපේන්ද්‍ර ද්විවේදි ඇතුළු දූත පිරිස අද (7) ශ්‍රී ලංකා යුද හමුදා මූලස්ථානයේ නිල සංචාරයක නිරත වූහ.",
+    "timestamp": "January 7, 2026  8:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219448",
+    "isoTimestamp": "2026-01-07T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6fbe16e6b4420d25deca08ad1b2d2e5c9c38c1bfb59f042cc63c20742adb7966"
+  },
+  {
+    "title": "වන්දි ප්‍රදානය සහ නව නිවාස ඉදිකිරීමේ වැඩපිළිවෙළ ජනවාරි 09වන දා සිට",
+    "href": "news.php?nid=219447",
+    "byline": "ආපදාවෙන් පූර්ණ වශයෙන් හානියට පත් නිවාස වෙනුවෙන් වන්දි ප්‍රදානය සහ නව නිවාස ඉදිකිරීමේ වැඩපිළිවෙළ මෙම ජනවාරි 09 වන දා අනුරාධපුරයෙන් සහ කුරුණෑගලින් ආරම්භ කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.",
+    "timestamp": "January 7, 2026  8:24 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219447",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "55747b9bbb6d29a166f7882e47d9529ed999834a362f3457cef13144a1310e96"
+  },
+  {
+    "title": "පාකිස්තානයට ලකුණු 129ක ඉලක්කයක්",
+    "href": "news.php?nid=219449",
+    "byline": "සංචාරක පාකිස්තාන කණ්ඩායමට එරෙහි විස්සයි20 ක්‍රිකට් තරගාවලිය ආරම්භ කරමින් අද (7) පැවැත්වෙන තරගයේ පළමුවෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකාවට පන්දුවාර 19.2කදී සියල්ලන් දැවී රැස්කිරීමට හැකිවූයේ ලකුණු 128ක් පමණි.",
+    "timestamp": "January 7, 2026  8:39 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219449",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7b94ee1282ef906c834c91e3915d19b4b62b8261a6b82fe1a34170fc3ea1dfe0"
+  },
+  {
+    "title": "සැමියාගේ මවගේ නමට ගත් දේපොළ තහනම් කෙරේ",
+    "href": "news.php?nid=219450",
+    "byline": "සෞම්‍යා ප්‍රනාන්දු හෙවත් 'මොරටුවැල්ලේ බට්ටිගේ' සැමියාගේ මවට අයත් රුපියල් කෝටි දෙකකට අධික වටිනාකමකින් යුත් දේපොළ තහනම් කර ඇත.",
+    "timestamp": "January 7, 2026  9:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219450",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "9d593f387ebc4638f0444d9b27ed6a8675fd4fdff02575106b58a95e4ede17aa"
+  },
+  {
+    "title": "මුල් ළමාවියේ සිටින දරුවන්ගේ සෞඛ්‍ය ප්‍රවර්ධනයට අලුත් වැඩක්",
+    "href": "news.php?nid=219451",
+    "byline": "ශ්‍රී ලංකාව පුරාම සිටින දරුවන් සඳහා එකම ප්‍රමිතියකින් යුතු මුල් ළමාවිය සංවර්ධන වැඩපිළිවෙලක් ක්‍රියාත්මක කිරීමට අවශ්‍ය පියවර ගන්නා බව කාන්තා සහ ළමා කටයුතු අමාත්‍ය සරෝජා සාවිත්‍රි පෝල්රාජ් මහතමිය පවසයි.",
+    "timestamp": "January 7, 2026  10:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219451",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "09beaba539bb3f8cdcd063a3dfaf9891ca9407706494765c2d82054b17b708ea"
+  },
+  {
+    "title": "ශ්‍රී ලංකාවට කඩුලු 6ක පරාජයක්",
+    "href": "news.php?nid=219452",
+    "byline": "සංචාරක පාකිස්තාන කණ්ඩායමට එරෙහි පළමු විස්සයි20 ක්‍රිකට් තරගාවලියෙන් කඩුලු 6ක පරාජයක් භාරගැනීමට සත්කාරක ශ්‍රී ලංකා කණ්ඩායමට අද (7) සිදුවිය.",
+    "timestamp": "January 7, 2026  10:25 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219452",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4b733f8bfea3403949bea926e863f7ffe0db436d87392300922628c3bce00094"
+  },
+  {
+    "title": "කාලගුණයෙන් රතු නිවේදනයක්",
+    "href": "news.php?nid=219453",
+    "byline": "ශ්‍රී ලංකාවට ගිනිකොණ දෙසින් බෙංගාල බොක්ක මුහුදු ප්‍රදේශයේ ස්ථාපිතව පවතින පීඩන අවපාතය අද (07) සවස 05.30 වන විට පොතුවිල් සිට 570 km ක් ගිනිකොණ දෙසින්, අක්ෂාංශ 5.0°N සහ දේශාංශ 86.8°E ආසන්නයේ කේන්ද්‍රගතව පැවතුන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "January 7, 2026  10:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219453",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "13961ab1b54943d62ba169c224c0566d2b87b06c6cd6c21091f8e5421b61ad58"
+  },
+  {
+    "title": "මහ බැංකුවේ විදෙස් සංචිතය ඩොලර් බිලියන 6.82ක් දක්වා ඉහළට",
+    "href": "news.php?nid=219454",
+    "byline": "ශ්‍රී ලංකා මහ බැංකුව සතු නිල සංචිත වත්කම් වටිනාකම පසුගිය 2025 දෙසැම්බර් මාසය අවසන් වනවිට එක්සත් ජනපද ඩොලර් මිලියන 6,825ක් දක්වා ඉහළ ගොස් ඇති බව නවතම මහ බැංකු දත්ත වාර්තාතා පෙන්වා දේ.",
+    "timestamp": "January 7, 2026  11:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=219454",
+    "isoTimestamp": "2026-01-07T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "52f854644443b22b83f911cd32612ba2eec373c780c72f738730c4d487e5973a"
+  }
+]
