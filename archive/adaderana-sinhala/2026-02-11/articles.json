@@ -88,5 +88,385 @@
     "isoTimestamp": "2026-02-11T07:30:08+05:30",
     "baseUrl": "https://sinhala.adaderana.lk",
     "checkSum": "5aaf47b58de85c5ab42ca3205f84d399a71860ea0b2e6a17ea5cb30d0ba2c299"
+  },
+  {
+    "title": "කැනඩාවේ පාසලක වෙඩි තැබීමක් - හත් දෙනෙකු මරුට",
+    "href": "news.php?nid=221157",
+    "byline": "කැනඩාවේ බ්‍රිටිෂ් කොලම්බියා ප්‍රාන්තයේ පාසලක සිදුකළ වෙඩි තැබීමකින් හත් දෙනෙකු පමණ මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.",
+    "timestamp": "February 11, 2026  8:17 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221157",
+    "isoTimestamp": "2026-02-11T10:31:04+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "feb1c7b2fefe7df72e80fefaf96f2324545266ffe3e777703b04d53ea9e351b6"
+  },
+  {
+    "title": "සජබ අපේක්ෂකයෙකු ඝාතන තැත - සැකකරුවන් තිදෙනෙකු සහ සැකකාරියෙකු අත්අඩංගුවට",
+    "href": "news.php?nid=221158",
+    "byline": "කළුතර සමගි ජන බලවේගයේ නාගරික මන්ත්‍රී අපේක්ෂක බන්දුල ප්‍රසන්න මහතාට වෙඩි තබා ඝාතනය කිරීමට උත්සාහ කිරීම සම්බන්ධයෙන් අවශ්‍ය කර සිට සැකකරුවන් තිදෙනෙකු හා සැකකාරියක් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "February 11, 2026  9:11 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221158",
+    "isoTimestamp": "2026-02-11T10:31:04+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "92f82549060f567e9fcbabbc6550d2dcebabc298ba091896184b9a876a0cb349"
+  },
+  {
+    "title": "කස්සප හිමි ඇතුළු පිරිස අධිකරණය වෙත රැගෙන එයි",
+    "href": "news.php?nid=221159",
+    "byline": "ත්‍රිකුණාමලය බුදුපිළිම සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගත කර සිටින පූජ්‍ය බලංගොඩ කස්සප හිමියන් ඇතුළු පිරිස අද (11) යළි අධිකරණයට ඉදිරිපත් කළේය.",
+    "timestamp": "February 11, 2026  9:14 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221159",
+    "isoTimestamp": "2026-02-11T10:31:04+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d53800fc255f38584da51c8d85693524de2d11913d5cb5114e90599cc6520f57"
+  },
+  {
+    "title": "ඇෆ්ගන් පාලනය පාකිස්තාන ඖෂධ එපා කියයි",
+    "href": "news.php?nid=221160",
+    "byline": "පාකිස්තානයෙන් ඖෂධ ආනයනය සඳහා පනවා තිබූ තහනම ඇෆ්ගනිස්තානයේ තලේබාන් පාලනය විසින් බලාත්මක කර තිබේ.",
+    "timestamp": "February 11, 2026  9:48 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221160",
+    "isoTimestamp": "2026-02-11T10:31:04+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "14b3ab72f8fe4478f6671539d505da91d49105cdc99313a5c2df50441573db05"
+  },
+  {
+    "title": "සෝමාලියානු මගී ගුවන් යානයක් කඩා වැටෙයි",
+    "href": "news.php?nid=221161",
+    "byline": "තාක්ෂණික දෝෂයකට ලක් වූ සෝමාලියානු මගී ගුවන් යානයක් අගනුවර ජාත්‍යන්තර ගුවන්තොටුපොළ අසල වෙරළ තීරයට කඩා වැටී තිබේ.",
+    "timestamp": "February 11, 2026  9:58 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221161",
+    "isoTimestamp": "2026-02-11T10:31:04+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "aa099124ffb5ffd685e8b4557e416e642de8943d4650318b56eb48948cfafcb9"
+  },
+  {
+    "title": "අමරකීර්ති අතුකෝරළ ඝාතන නඩුවේ සැකකරුවන් අධිකරණ වෙත රැගෙන එයි",
+    "href": "news.php?nid=221162",
+    "byline": "හිටපු පාර්ලිමේන්තු මන්ත්‍රී අමරකීර්ති අතුකෝරළ සහ ඔහුගේ ආරක්ෂක නිලධාරියා පහරදී ඝාතනය කිරීමේ සිද්ධියට අදාළ සැකකරුවන් ගම්පහ ස්ථිර ත්‍රිපුද්ගල මහාධිකරණය හමුවට ඉදිරිපත් කිරීම සඳහා රැගෙන ආ බව \"අද දෙරණ\" වාර්තාකරු පැවසීය.",
+    "timestamp": "February 11, 2026  10:16 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221162",
+    "isoTimestamp": "2026-02-11T10:31:04+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bd91e2697e21cfe15661631f244967fc3ab75a1e94755581eb22d3e506473f09"
+  },
+  {
+    "title": "අමරකීර්ති අතුකෝරළ ඝාතන නඩුවේ සැකකරුවන් අධිකරණය වෙත රැගෙන එයි",
+    "href": "news.php?nid=221162",
+    "byline": "හිටපු පාර්ලිමේන්තු මන්ත්‍රී අමරකීර්ති අතුකෝරළ සහ ඔහුගේ ආරක්ෂක නිලධාරියා පහරදී ඝාතනය කිරීමේ සිද්ධියට අදාළ සැකකරුවන් ගම්පහ ස්ථිර ත්‍රිපුද්ගල මහාධිකරණය හමුවට ඉදිරිපත් කිරීම සඳහා රැගෙන ආ බව \"අද දෙරණ\" වාර්තාකරු පැවසීය.",
+    "timestamp": "February 11, 2026  10:16 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221162",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f8ff1fe0aa368cd04c9030d0f2aa12dd24ac44bf84d4e780c7cf3678ef2bb131"
+  },
+  {
+    "title": "කාසියේ වාසිය ඇෆ්ගනිස්තානයට",
+    "href": "news.php?nid=221163",
+    "byline": "විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ දකුණු අප්‍රිකානු කණ්ඩායම සහ ඇෆ්ගනිස්තාන කණ්ඩායම අතර අද (11) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනාගැනීමට ඇෆ්ගනිස්තාන කණ්ඩායම සමත්විය.",
+    "timestamp": "February 11, 2026  10:39 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221163",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3bb1bc60f4847b6c794ad09914c81217a2234e7b3bffc094721fa288b578aa05"
+  },
+  {
+    "title": "වෘත්තිමය රාජ්‍ය සේවයක බිඳවැටීමක් ගැන චන්ද්‍රිකා රජයට අනතුරු අඟවයි",
+    "href": "news.php?nid=221164",
+    "byline": "වත්මන් රජය රටේ ඉතිරිව පවතින රාජ්‍ය සේවය ද විනාශ කරමින්, සුදුසුකම් හා පළපුරුද්දක් නොමැති පක්ෂයේ හිතවතුන් ඒ සඳහා පත් කරමින් සිටින බවට හිටපු ජනාධිපතිනි චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග පැවසීය.",
+    "timestamp": "February 11, 2026  10:56 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221164",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "54a5793aee615b49a8ddfe225172875177d204306ccd802257cdb3806494eb39"
+  },
+  {
+    "title": "ජනපති අනුරට වතු සේවකයින්ගෙන් ලැබුණු උණුසුම් පිළිගැනීම",
+    "href": "news.php?nid=221165",
+    "byline": "ජනාධිපති අනුර කුමාර දිසානායක මහතා අද (11) උදෑසන නානුඔය රදැල්ල කෙටි මාර්ගයේදී අවට වතුයායන්හි වතු සේවකයින් පිරිසක් හමුවී ඔවුන් සමඟ සාකච්ඡාවක නිරත විය.\n\nජනාධිපතිවරයා එම ස්ථානයට පැමිණි අවස්ථාවේ වතු සේවකයින් විසින් ජනාධිපතිවරයාව උණුසුම් අයුරින් පිළිගත් අතර, තමන්ගේ වැටුප් වැඩි කිරීම සම්බන්ධයෙන් ස්තූතිය ද පළ කර ඇත.",
+    "timestamp": "February 11, 2026  11:17 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221165",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "469c8f6a94e320f6596a6de625c713a875641d553f0b680aaa1f639ad7d102b7"
+  },
+  {
+    "title": "ඉන්දු - බ්‍රිතාන්‍ය සමාජ ආරක්ෂණ ගිවිසුමක්",
+    "href": "news.php?nid=221166",
+    "byline": "ඉන්දියාව සහ එක්සත් රාජධානිය ප්‍රධාන සමාජ ආරක්ෂණ ගිවිසුමකට අත්සන් තබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.",
+    "timestamp": "February 11, 2026  11:19 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221166",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6674f21aacf1dc4c204ae7a2786676d4f920046c3c5bb666ad3a93817fdf68f8"
+  },
+  {
+    "title": "කථානායකගේ පෞද්ගලික ලේකම්ට එරෙහිව සජබ මන්ත්‍රීවරුන් අල්ලස් කොමිසමට",
+    "href": "news.php?nid=221167",
+    "byline": "කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාට එරෙහිව අල්ලස් කොමිසමට ඉදිරිපත් කර ඇති පැමිණිල්ලේ විමර්ශනවලට බාධා වන අයුරින් ඔහුගේ පෞද්ගලික ලේකම්වරයා කටයුතු කරමින් සිටින බවට චෝදනා කරමින් සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී කණ්ඩායමක් අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව හමුවේ අද (11) පැමිණිල්ලක් ගොනු කළේය.",
+    "timestamp": "February 11, 2026  12:17 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221167",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e9b673d238f05e7335e97b5acfa2b822236d511bff0cb34ca57eda18459d82a9"
+  },
+  {
+    "title": "අමරකීර්ති ඝාතන නඩුවේ 12කට මරණ දඬුවම",
+    "href": "news.php?nid=221169",
+    "byline": "පොළොන්නරුව දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී අමරකීර්ති අතුකෝරළට සහ ඔහුගේ ආරක්ෂක නිලධාරියාට පහරදී ඝාතනය කළ බවට වූ චෝදනාවට වරදකරු වූ 12 දෙනෙකුට මරණ දඬුවම නියම කෙරුණි.\n\nඅදාළ නඩුවේ තීන්දුව ප්‍රකාශයට පත්කරමින් ගම්පහ ස්ථිර ත්‍රිපුද්ගල මහාධිකරණය අද (11) මෙම නියෝගය ලබා දුනි.",
+    "timestamp": "February 11, 2026  12:48 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221169",
+    "isoTimestamp": "2026-02-11T13:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4d078cb0c3a3ba362e72bca437d24761051bab0f7e479d3088c696752f08c7d2"
+  },
+  {
+    "title": "ශ්‍රී ලංකාව සඳහා වන ADB  නව අධ්‍යක්ෂවරිය අගමැතිනිය හමුවෙයි",
+    "href": "news.php?nid=221168",
+    "byline": "ශ්‍රී ලංකාව සඳහා වන ආසියානු සංවර්ධන බැංකුවේ නව අධ්‍යක්ෂවරිය වන Shannon Cowlin මහත්මිය ඇතුළු දූත පිරිස අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය හමුවිය.",
+    "timestamp": "February 11, 2026  12:34 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221168",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "454cbb21e74f58c781bdd9a9aa44869c0dcb7ac52b517ccada5e178a2e1ce2d5"
+  },
+  {
+    "title": "2026 ඡන්ද හිමි නාමලේඛනය ප්‍රතිශෝධනය ඇරඹෙයි",
+    "href": "news.php?nid=221171",
+    "byline": "2026 වර්ෂයට අදාළව ඡන්දහිමි නාමලේඛනය සඳහා ගණන් ගැනීමේ කටයුතු මේ වන විට ආරම්භ කර ඇති බව මැතිවරණ කොමිෂන් සභාවේ කොමසාරිස් ජනරාල් රසික පීරිස් මහතා පවසයි.",
+    "timestamp": "February 11, 2026  2:01 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221171",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6572f379a7d1ddc0edcd69fd070133c90cc427a403699636f912d9da2e2091bd"
+  },
+  {
+    "title": "ආණ්ඩුව සියලු බලවේග අමනාප කරගෙන - දිලිත්",
+    "href": "news.php?nid=221172",
+    "byline": "ආණ්ඩුව සඟ, වෙද, ගුරු, ගොවි, කම්කරු යන සියලු බලවේග මේ වනවිට අමනාප කරගෙන ඇතැයි සර්වජන බලය නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසයි.",
+    "timestamp": "February 11, 2026  2:14 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221172",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a57715e91a73cb196ec3deb6d0058fd93398bee9973053fe987789d858d2a155"
+  },
+  {
+    "title": "නිල්වලා ගඟේ ලවණ බාධකය නිසා සිදු වූ හානිවලට ගොවීන්ට වන්දි",
+    "href": "news.php?nid=221173",
+    "byline": "නිල්වලා ගඟ හරහා ලවණ බාධකයක් ඉදිකිරීම හේතුවෙන් ගොවියන්ට සිදුවූ වගා හානි සඳහා වන්දි ගෙවීමට අදාළ කටයුතු යොදා ඇති බව කෘෂිකාර්මික හා ගොවි ජන රක්ෂණ මණ්ඩලය පවසයි.",
+    "timestamp": "February 11, 2026  2:30 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221173",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "624acba74764b3f4a763a270527b283ee83225172d328b79b5790b756aad4fe8"
+  },
+  {
+    "title": "කැනඩාවේ පාසලක සිදුකළ වෙඩි තැබීමෙන් මියගිය ගණන ඉහළට",
+    "href": "news.php?nid=221174",
+    "byline": "කැනඩාවේ බ්‍රිටිෂ් කොලම්බියා ප්‍රාන්තයේ පාසලක සිදුකර තිබූ  වෙඩි තැබීමෙන් මියගිය ගණන සැකකරු ඇතුළුව 10 දෙනෙකු දක්වා ඉහළ ගොස් තිබේ.",
+    "timestamp": "February 11, 2026  2:31 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221174",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5e38ce5ec57314141331ddabe258a69c2ab02838f05ba41ee6205f693ee4518a"
+  },
+  {
+    "title": "ඇෆ්ගන් - දකුණු අප්‍රිකා සටනේ ලකුණු සමවෙයි",
+    "href": "news.php?nid=221176",
+    "byline": "ඇෆ්ගනිස්තානය හා දකුණු අප්‍රිකාව අතර අද (11) පෙරවරුවේ ආරම්භ වූ තරගයේ ලකුණු සමවූ අතර, ඒ් හේතුවෙන් ජයග්‍රාහකයා තෝරාගැනීමට සඳහා සුපිරි පන්දුවාරය දක්වා තරගය ඇදී ගියේය.",
+    "timestamp": "February 11, 2026  2:45 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221176",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5f28fd97bffd25b8d05ce9ffcb5a8bc2babaf630af21e7a1640d1ea4bc9e49e2"
+  },
+  {
+    "title": "හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක තවදුරටත් රිමාන්ඩ්",
+    "href": "news.php?nid=221177",
+    "byline": "හිටපු ජනාධිපති ලේකම් සමන් ඒකනායක මහතා පෙබරවාරි මස 18 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කරන ලෙස  කොටුව මහේස්ත්‍රාත් අධිකරණය අද (11) නියෝග කළේය.",
+    "timestamp": "February 11, 2026  3:16 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221177",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "28934a7b4bdb12fafe0f7bc600936b8f60876c64544b5361ce460442e92b7bbc"
+  },
+  {
+    "title": "කස්සප හිමි ඇතුළු පිරිසට ඇප",
+    "href": "news.php?nid=221178",
+    "byline": "ත්‍රිකුණාමලය බුදුපිළිම සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාරගත කර සිටි පූජ්‍ය බලංගොඩ කස්සප හිමියන් ඇතුළු සැකකරුවන් පිරිසට ඇප ලබාදීමට ත්‍රිකුණාමලය මහාධිකරණය අද (11) නියම කළේය.",
+    "timestamp": "February 11, 2026  3:21 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221178",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2043ae9a2bc41d99fe1d39998dd33a5983948af2d27517bc7934c72bcf067621"
+  },
+  {
+    "title": "නව ත්‍රස්ත විරෝධි පනත් කෙටුම්පත සම්බන්ධයෙන් EU නියෝජිතයින් අතර සාකච්ඡාවක්",
+    "href": "news.php?nid=221179",
+    "byline": "නව ත්‍රස්ත විරෝධි පනත් කෙටුම්පත සම්බන්ධයෙන් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍ය, නීතිඥ හර්ෂණ නානායක්කාර මහතා සහ යුරෝපා සංගමයේ නියෝජිතයින් අතර සාකච්ඡාවක් අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේදී පවත්වා තිබේ.",
+    "timestamp": "February 11, 2026  3:39 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221179",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cdba50b3a79dc992b704dcb7b5a06522e5e2cac1c19bb6d0ac122df30e0ed1f7"
+  },
+  {
+    "title": "සුපිරි පන්දුවාර දෙකකට පසු දකුණු අප්‍රිකාවට තියුණු ජයක්",
+    "href": "news.php?nid=221180",
+    "byline": "විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අද (11) පැවති ඇෆ්ගන් - දකුණු අප්‍රිකා තරගය සුපිරි පන්දුවාර දෙකක් දක්වා දිගහැරුණු අතර, එහිදී තියුණු ජයක් ලැබීමට දකුණු අප්‍රිකාව සමත් විය.",
+    "timestamp": "February 11, 2026  3:51 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221180",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3fd334d3f40aaa9aa7ed4cef55335825044e67428a83f4618b03c564513344bd"
+  },
+  {
+    "title": "කාන්තාවක් රවටා මුදල් වංචා කළ  දෙදෙනෙකු අත්අඩංගුවට",
+    "href": "news.php?nid=221181",
+    "byline": "අන්තර්ජාල ව්‍යාපාරයක් මගින් මුදල් උපයා ගත හැකි බව පවසා කාන්තාවක් රවටා මුදල් වංචා කිරීමක් සම්බන්ධයෙන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "February 11, 2026  4:29 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221181",
+    "isoTimestamp": "2026-02-11T16:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "37061bcf7f3e432bf130dcc7e00c026075680d5e3ef10ba4a9b89d7fb89e1ae2"
+  },
+  {
+    "title": "UNහිදී ලබාදුන් නොපැකිලි සහයෝගයට පලස්තීන රජයේ විශේෂ ස්තුතිය",
+    "href": "news.php?nid=221175",
+    "byline": "පලස්තීන ජනතාව මුහුණ දෙන අර්බුද හමුවේ ශ්‍රී ලංකා රජය දක්වන අඛණ්ඩ සහයෝගය වෙනුවෙන් කෘතඥතාව පළ කිරීම සඳහා ශ්‍රී ලංකාවේ පලස්තීන තානාපති ඉහාබ් අයි. එම්. කලීල් මහතා විදේශ අමාත්‍ය විජිත හේරත් මහතා විදේශ අමාත්‍යාංශයේදී මුණ ගැසී තිබේ.",
+    "timestamp": "February 11, 2026  2:43 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221175",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f5415cd84050026f06c4a7fede641f83e31f93968307c243a96d90990bd619d6"
+  },
+  {
+    "title": "වැටුප් සහ දීමනා ගැන රාජ්‍ය සේවකයාට ජනපතිගෙන් සුබ පණිවුඩයක්",
+    "href": "news.php?nid=221182",
+    "byline": "රාජ්‍ය සේවයේ දීමනා සම්බන්ධයෙන් ගැටලු පවතින බැවින් ඒ සම්බන්ධයෙන් සාමාලෝචනයක් සිදු කරමින් පවතින බවත් එම ගැටලු විසදීමට කෙටි කාලයක් ලබා දෙන ලෙසත් ජනාධිපති අනුර කුමාර දිසානායක මහතා රාජ්‍ය සේවකයින්ගෙන් ඉල්ලා සිටියේය.",
+    "timestamp": "February 11, 2026  4:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221182",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "cfa75b75dae90b6274284a95b08aa766643b88a05a8887baf05c61a24a04f7e8"
+  },
+  {
+    "title": "ඔස්ට්‍රේලියාවෙන් අයර්ලන්තයට ලකුණු 183ක ඉලක්කයක්",
+    "href": "news.php?nid=221183",
+    "byline": "විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අද (11) දහවල් පැවැත්වෙන අයර්ලන්තයට එරෙහි තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ඔස්ට්‍රේලියාව පන්දුවාර 20 තුළදී කඩුලු 6ක් දැවී ලකුණු 182ක් රැස්කිරීමට සමත් විය.",
+    "timestamp": "February 11, 2026  4:57 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221183",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b77ba721314b61b63c1fc1bbc14e90f93c9ff29f61493ef4ec9916ba1a5d6cf1"
+  },
+  {
+    "title": "දීගල සමන්ට අයත් කෝටි ගණනක නිවසක් තහනම් කරයි",
+    "href": "news.php?nid=221184",
+    "byline": "මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් මේවන විට බන්ධනාගාරගතව සිටින අජිත් පෙරේරා හෙවත් 'දීගල සමන්' නැමැත්තාගේ සුඛෝපභෝගී නිවසක් නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් තහනම් කර තිබේ.",
+    "timestamp": "February 11, 2026  5:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221184",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3a34da07189a7d66ffda9c954c2df4e910cd8a3ef85b48222ba36bdf3f4e376c"
+  },
+  {
+    "title": "2026 ජාත්‍යන්තර කාන්තා දින ජාතික සැමරුම මාතර දී",
+    "href": "news.php?nid=221185",
+    "byline": "2026 ජාත්‍යන්තර කාන්තා දිනය සුපුරුදු ලෙස මෙම වර්ෂයේ දී ද මාර්තු 08 වන දිනට යෙදී තිබේ.",
+    "timestamp": "February 11, 2026  5:50 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221185",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a637c9381ef25cabca44549c6c8fe8a6fc89b020b9a4c2cd40a16d03a05d94e1"
+  },
+  {
+    "title": "මසකට වරක් සෑම රෝහලකම ඖෂධ සමාලෝචන රැස්වීම්",
+    "href": "news.php?nid=221187",
+    "byline": "රෝහල් තුළ අඛණ්ඩ ඖෂධ සැපයුමක් පවත්වා ගෙන යාම සඳහා සෑම රෝහලකම මසකට වරක් ඖෂධ සමාලෝචන රැස්වීම් පැවැත්වීමට පියවර ගත යුතු බව සෞඛ්‍ය නියෝජ්‍ය අමාත්‍ය වෛද්‍ය හංසක විජේමුණි මහතා පවසයි.",
+    "timestamp": "February 11, 2026  6:21 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221187",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "794911fff77dffbf927492ced04b01776c387391c81d159dd94fea61c4da38ad"
+  },
+  {
+    "title": "එංගලන්ත - බ.ඉ. කොදෙව් සටනේ  කාසියේ වාසිය එංගලන්තයට",
+    "href": "news.php?nid=221188",
+    "byline": "විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ බ.ඉ. කොදෙව් හා එංගලන්තය අතර අද (11) පැවැත්වෙන තරගයේ කාසියේ වාසිය දිනාගැනීමට එංගලන්තය සමත් විය.",
+    "timestamp": "February 11, 2026  6:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221188",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8b6dfd3bb02669ac50f7a26dcc5d86d7e5eb639debf58c1223eacee0470f8e1c"
+  },
+  {
+    "title": "ඔස්ට්‍රේලියාවට ලකුණු 67ක ජයක්",
+    "href": "news.php?nid=221189",
+    "byline": "විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඕස්ට්‍රේලියාව සහ අයර්ලන්තය අතර අද (11) පැවති තරගයෙන් ලකුණු 67ක ජයක් වාර්තා කිරීමට ඔස්ට්‍රේලියාව සමත්විය.",
+    "timestamp": "February 11, 2026  6:49 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221189",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1ef877c0f39e19e26acbb2d9ac0168e0ebe4b50757abacfab23417bc89016b05"
+  },
+  {
+    "title": "අද උපරිම උෂ්ණත්වය හම්බන්තොට ට",
+    "href": "news.php?nid=221190",
+    "byline": "අද (11) දින දිවයිනේ උපරිම උෂ්ණත්වය සෙල්සියස් අංශක 34.8 ක් ලෙස හම්බන්තොට කාලගුණ මධ්‍යස්ථානයෙන් වාර්තා වී ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "February 11, 2026  6:52 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221190",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f10dd8467379edf81410d04c67e722dbe6c3ae04ba8efdbe3343fc2a517b8744"
+  },
+  {
+    "title": "බෞද්ධයන් වෙනුවෙන් පෙනී සිටිනවා සේම අනෙකුත් සංස්කෘතීන් ආරක්ෂා කරනවා - නාමල්",
+    "href": "news.php?nid=221191",
+    "byline": "බෞද්ධාගම, මහා සංඝරත්නය වෙනුවෙන් පෙනී සිටීම ජාතිවාදය නොවන බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක, පා.ම. නාමල් රාජපක්ෂ මහතා පවසයි.",
+    "timestamp": "February 11, 2026  7:33 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221191",
+    "isoTimestamp": "2026-02-11T20:30:12+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "466a85c3fde9b0a8d25ba55c1c38382a81acc95f73c42189b2e913f28e1b000f"
+  },
+  {
+    "title": "කිව්ව දේ කරන්න බෑ, මිනිස්සුන්ට ඇත්ත කියන්න ඕන - දිලිත් කියයි",
+    "href": "news.php?nid=221192",
+    "byline": "රටේ ජනතාවට ධනය ලැබීමේ ක්‍රම නිර්මාණය කළ යුතු බවත්, ඒ සඳහා ඇති විසඳුම ව්‍යවසායකත්ව රාජ්‍යය සංකල්පය බවත් සර්වජන බලය නායක පාර්ලිමේන්තු මන්ත්‍රී දිලිත් ජයවීර මහතා පවසයි.",
+    "timestamp": "February 11, 2026  8:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221192",
+    "isoTimestamp": "2026-02-11T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "75c4bc1eae1883fb2e36b197025cf6f6fceb9a1096decb94d5d48d06777422cd"
+  },
+  {
+    "title": "කොදෙව්වන්ගෙන් එංගලන්තයට ලකුණු 197ක ඉලක්කයක්",
+    "href": "news.php?nid=221193",
+    "byline": "එංගලන්තයට එරෙහි තරගයේ පළමුව පන්දුවට පහරදුන් බ.ඉ. කොදෙව් කණ්ඩායම පන්දුවාර 20 තුළදී කඩුලු 6ක් දැවී ලකුණු 196ක් රැස්කිරීමට සමත් විය.",
+    "timestamp": "February 11, 2026  8:47 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221193",
+    "isoTimestamp": "2026-02-11T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d6be039660ec215f69041ea0019023e424afd9a6a7b0319ec838c00981cf240a"
+  },
+  {
+    "title": "වර්ණ ගැන්වූ සත්ත්ව හම් තොගයක් කටුනායකදී අත්අඩංගුවට",
+    "href": "news.php?nid=221194",
+    "byline": "වියළා, වර්ණ ගන්වා සකස්කර නීතිවිරෝධී ලෙස මෙරටට රැගෙන ආ සත්ත්ව හම් තොගයක් සමග පුද්ගලයෙකු කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේදී අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "February 11, 2026  9:29 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221194",
+    "isoTimestamp": "2026-02-11T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e313a5456dc331a5b15893930dadb0b6c0f88e89ef8ad8f0bd85c64c1528a881"
+  },
+  {
+    "title": "එංගලන්තයට එරෙහිව කොදෙව්වන්ට පහසු ජයක්",
+    "href": "news.php?nid=221197",
+    "byline": "විස්සයි20 ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ අද (11) රාත්‍රියේ අවසන් වූ තරගයෙන් එංගලන්තය ලකුණු 30කින් පරාජය කිරීමට බ.ඉ. කොදෙව් කණ්ඩායම සමත් විය.",
+    "timestamp": "February 11, 2026  10:45 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=221197",
+    "isoTimestamp": "2026-02-11T23:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7e6695bfba453423cfc41e842ad4d0f952ebdb04f11c102a70c9f21c1e7af7a8"
   }
 ]
