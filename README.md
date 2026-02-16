@@ -2,26 +2,26 @@
 
 ## News Archive Summary
 
-Summary Report as of Fri Feb 13 14:34:43 +0000 2026
+Summary Report as of Mon Feb 16 12:22:41 +0000 2026
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
-| ada               | 15          | 8089        |
-| adaderana-sinhala               | 42          | 18545        |
+| ada               | 11          | 8119        |
+| adaderana-sinhala               | 32          | 18674        |
 | adaderana-tamil               | 0          | 5098        |
-| adaderana               | 4          | 15018        |
-| aruna               | 26          | 14727        |
-| dailymirror               | 34          | 13233        |
-| dinamina               | 10          | 25762        |
-| economynext               | 9          | 5043        |
-| island               | 50          | 6923        |
-| lankadeepa               | 16          | 31386        |
-| newswire               | 41          | 9486        |
-| tamilmirror               | 31          | 13748        |
-| thamilan               | 15          | 14937        |
-| themorning               | 41          | 16277        |
-| thinakaran               | 0          | 18250        |
-| **Total**          | **334**      | **216522** |
+| adaderana               | 33          | 15159        |
+| aruna               | 25          | 14820        |
+| dailymirror               | 23          | 13305        |
+| dinamina               | 13          | 25814        |
+| economynext               | 0          | 5053        |
+| island               | 0          | 6923        |
+| lankadeepa               | 28          | 31564        |
+| newswire               | 35          | 9556        |
+| tamilmirror               | 18          | 13804        |
+| thamilan               | 20          | 15016        |
+| themorning               | 37          | 16345        |
+| thinakaran               | 20          | 18299        |
+| **Total**          | **295**      | **217549** |
 
 ### Interactive Chart Preview
 🔗 [View Interactive Chart](https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html)
