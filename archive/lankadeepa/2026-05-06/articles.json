@@ -1,0 +1,802 @@
+[
+  {
+    "title": "හොර දොස්තරයෙක් පොලොන්නරුවේදී මාට්ටු",
+    "href": "",
+    "byline": "අපරාධ රැසකට සම්බන්ධ කියන හොර වෛද්‍යවරයකු පොළොන්නරුවේදී අත්අඩංගුවට ගත් බව පොළොන්නරුව කොට්ඨාස අපරාධ විමර්ශන අංශය පවසයි.",
+    "timestamp": "34 minutes ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%84%E0%B6%BB-%E0%B6%AF%E0%B7%83%E0%B6%AD%E0%B6%BB%E0%B6%BA%E0%B6%9A-%E0%B6%B4%E0%B6%BD%E0%B6%B1%E0%B6%B1%E0%B6%BB%E0%B7%80%E0%B6%AF-%E0%B6%B8%E0%B6%A7%E0%B6%A7/1-691744",
+    "isoTimestamp": "2026-05-06T13:02:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "09ccf06044ffac2497a548b6a97a987c7002cd9f7fb26811d7823b16d1393c6f"
+  },
+  {
+    "title": "ආණ්ඩුවේ හැසිරීම අපට සැකයි",
+    "href": "",
+    "byline": "භාණ්ඩාගාරයේ මුදල් අතුරුදන් වීමේ සිද්ධිය ගැන විපක්ෂය විවාදයක් ඉල්ලූ විට ආණ්ඩුව එය නොදී කර ඇරීම සැක සහිත බව කොළඹ දිස්ත්‍රික් මන්ත්‍රී මුජිබුර් රහුමාන් මහතා:-(ස.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%86%E0%B6%AB%E0%B6%A9%E0%B7%80-%E0%B7%84%E0%B7%83%E0%B6%BB%E0%B6%B8-%E0%B6%85%E0%B6%B4%E0%B6%A7-%E0%B7%83%E0%B6%9A%E0%B6%BA/101-691743",
+    "isoTimestamp": "2026-05-06T13:35:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "3229dc10425df183fa24ea13d940402f0d293ba313f028c2a0615050c03358b8"
+  },
+  {
+    "title": "රුමේනියා රජය බිඳ වැටේ",
+    "href": "",
+    "byline": "රුමේනියා රජය බිඳ වැටුණි. ඒ, එරට අග්‍රාමාත්‍ය ඉලී බොපෝජන් ප්‍රමුඛ යුරෝපා හිතවාදී රජය විශ්වාසභංගයකින් පරාජය වීමෙනි. රුමේනියාව යුරෝපා රාජ්‍යයකි.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/world_news/%E0%B6%BB%E0%B6%B8%E0%B6%B1%E0%B6%BA-%E0%B6%BB%E0%B6%A2%E0%B6%BA-%E0%B6%B6%E0%B6%B3-%E0%B7%80%E0%B6%A7/14-691738",
+    "isoTimestamp": "2026-05-06T13:35:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "06c6682df3487de5ea1a6a45833e9a05fa5e3beabeaa0b53da6832276578ef4a"
+  },
+  {
+    "title": "ඉරාන විදේශ ඇමැති චීනයේ නිල සංචාරයක",
+    "href": "",
+    "byline": "ඉරානයේ විදේශ අමාත්‍ය අබ්බාස් අරාග්චි චීනයේ නිල සංචාරයක නියැලෙයි. විදෙස් මාධ්‍ය වාර්තා කළේ ඉරාන විදේශ අමාත්‍යවරයා බෙයිජීං අගනුවර බලා පැමිණි බවය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/world_news/%E0%B6%89%E0%B6%BB%E0%B6%B1-%E0%B7%80%E0%B6%AF%E0%B7%81-%E0%B6%87%E0%B6%B8%E0%B6%AD-%E0%B6%A0%E0%B6%B1%E0%B6%BA-%E0%B6%B1%E0%B6%BD-%E0%B7%83%E0%B6%A0%E0%B6%BB%E0%B6%BA%E0%B6%9A/14-691735",
+    "isoTimestamp": "2026-05-06T13:35:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "d56030183e736081dc876d4d4b893ad90f9c21c0abea31b3007ffa8d88b94b9a"
+  },
+  {
+    "title": "ට්‍රම්ප් ‘ප්‍රොජෙක්ට් ෆ්‍රීඩම්’ තාවකාලිකව හකුලා ගනී",
+    "href": "",
+    "byline": "ඉරානය සමඟ ඇති කර ගැනීමට අපේක්ෂිත එකඟතාවයකට අවස්ථාවක් ලබා දීම සඳහා හෝමූස් සමුද්‍ර සන්ධිය යළි විවෘත කිරීමේ අරමුණින් දියත් කළ ‘ප්‍රොජෙක්ට් ෆ්‍රීඩම්’ මෙහෙයුම තාවකාලිකව අත්හිටුවීමට ඇමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් තීරණය කර ඇත.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/world_news/%E0%B6%A7%E0%B6%BB%E0%B6%B8%E0%B6%B4-%E0%B6%B4%E0%B6%BB%E0%B6%A2%E0%B6%9A%E0%B6%A7-%E0%B7%86%E0%B6%BB%E0%B6%A9%E0%B6%B8-%E0%B6%AD%E0%B7%80%E0%B6%9A%E0%B6%BD%E0%B6%9A%E0%B7%80-%E0%B7%84%E0%B6%9A%E0%B6%BD-%E0%B6%9C%E0%B6%B1/14-691730",
+    "isoTimestamp": "2026-05-06T13:35:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "e48d6eec497116d7977f3a02580f1fc360801418b3a33e5d772ae8e4fb1f7673"
+  },
+  {
+    "title": "මාලදිවයින ජනපති පිටත්ව යයි",
+    "href": "",
+    "byline": "මාලදිවයින ජනාධිපති මොහොමඩ් මුයිෂු  මහතා  සිය සිව් දින ශ්‍රී ලංකා නිල සංචාරය නිමා කර අද(06)  උදෑසන කටුනායක ගුවන් තොටුපොළෙන් මාළදිවයින මාළේ නුවර බලා පිටත්ව ගියේය .",
+    "timestamp": "2 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%B8%E0%B6%BD%E0%B6%AF%E0%B7%80%E0%B6%BA%E0%B6%B1-%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B6%B4%E0%B6%A7%E0%B6%AD%E0%B7%80-%E0%B6%BA%E0%B6%BA/101-691713",
+    "isoTimestamp": "2026-05-06T13:34:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "0ca9ec1f6663b86fca3153b0b5276d1fcce97cb9744ae5f759a5d22618c341fa"
+  },
+  {
+    "title": "යකඩ කපන ග්‍රයින්ඩරයට අයෙක් බිලි",
+    "href": "",
+    "byline": "යකඩ කපන ග්‍රයින්ඩරයකට බෙල්ල තුවාල වී සිදු වූ අනතුරකින්  කටුගස්තොට , මාවිල්මඩට ප්‍රදේශයේ 66 හැවිරිදි පුද්ගලයකු මියගොස් ඇති බව පොලිසිය කියයි.",
+    "timestamp": "3 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BA%E0%B6%9A%E0%B6%A9-%E0%B6%9A%E0%B6%B4%E0%B6%B1-%E0%B6%9C%E0%B6%BB%E0%B6%BA%E0%B6%B1%E0%B6%A9%E0%B6%BB%E0%B6%BA%E0%B6%A7-%E0%B6%85%E0%B6%BA%E0%B6%9A-%E0%B6%B6%E0%B6%BD/101-691711",
+    "isoTimestamp": "2026-05-06T13:33:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "3021e2bbbb556c43184af461b991f39e9232ab532764463ca889914b401b8cf0"
+  },
+  {
+    "title": "අලුත් විගණන නිලධාරීහු රහස් දිවුරුම දෙති",
+    "href": "",
+    "byline": "විගණන සේවා කොමිෂන් සභාවට පත් කරන ලද නව සාමාජිකයෝ සිවු දෙනෙක්   කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා ඉදිරියේ පාර්ලිමේන්තුවේදී  රහස්‍යතාව පිළිබඳ දිවුරුම ලබා දුන්හ.",
+    "timestamp": "3 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%85%E0%B6%BD%E0%B6%AD-%E0%B7%80%E0%B6%9C%E0%B6%AB%E0%B6%B1-%E0%B6%B1%E0%B6%BD%E0%B6%B0%E0%B6%BB%E0%B7%84-%E0%B6%BB%E0%B7%84%E0%B7%83-%E0%B6%AF%E0%B7%80%E0%B6%BB%E0%B6%B8-%E0%B6%AF%E0%B6%AD/101-691710",
+    "isoTimestamp": "2026-05-06T13:33:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "578f4f7efedfe2e1b2b7035a7105b1f567558bea1532e7d74b57779a026342b9"
+  },
+  {
+    "title": "පාසල් බස්-වෑන් ප්‍රවාහන ගාස්තු වැඩි වෙයි",
+    "href": "",
+    "byline": "ඉන්ධන මිල ඉහළයාමත් සමඟ පාසල් ළමයින් ප්‍රවාහනය කරන බස් සහ වෑන් ඇතුලු වාහන වල ගාස්තු මැයි මාසයේ සිට 12%කින් වැඩි කිරිමට තීරණය කළ බව සමස්ත ලංකා අන්තර් දිස්ත්‍රික් පාසල් ළමුන් ප්‍රවාහන සේවා සංගමය නිවේදනයක් නිකුත් කරමින් කියා සිටී.",
+    "timestamp": "3 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%B4%E0%B7%83%E0%B6%BD-%E0%B6%B6%E0%B7%83-%E0%B7%80%E0%B6%B1-%E0%B6%B4%E0%B6%BB%E0%B7%80%E0%B7%84%E0%B6%B1-%E0%B6%9C%E0%B7%83%E0%B6%AD-%E0%B7%80%E0%B6%A9-%E0%B7%80%E0%B6%BA/101-691709",
+    "isoTimestamp": "2026-05-06T13:33:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "a67365885757499005ce30e2afdb24c743ca84219a3ef86d880ec380d25aeb30"
+  },
+  {
+    "title": "රාජකාරි වැඩියි කියා පොතේ ලියා පීසී ගෙදර ගිහින්",
+    "href": "",
+    "byline": "රාජකාරි බහුල බැවින් මානසික පීඩනයකට පත්ව ඇති බවට ලිපියක් ලියා තබා පයාගල පොලිස් ස්ථානයේ කොස්තාපල් වරයෙකු පිටවගොස් ඇති බව පයාගල පොලිසියෙන් වාර්තාවේ.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BB%E0%B6%A2%E0%B6%9A%E0%B6%BB-%E0%B7%80%E0%B6%A9%E0%B6%BA-%E0%B6%9A%E0%B6%BA-%E0%B6%B4%E0%B6%AD-%E0%B6%BD%E0%B6%BA-%E0%B6%B4%E0%B7%83-%E0%B6%9C%E0%B6%AF%E0%B6%BB-%E0%B6%9C%E0%B7%84%E0%B6%B1/101-691708",
+    "isoTimestamp": "2026-05-06T13:32:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "522836459e84480be94239ac866d66e8eda70c2730ab81a8f556653e01cd89c8"
+  },
+  {
+    "title": "අද වැස්ස වැඩි වේ",
+    "href": "",
+    "byline": "අන්තර් නිවර්තන අභිසාරි කලාපයේ බලපෑම සහ ඒ ආශ්‍රිත දිවයින ආසන්නයේ පහළ වායු ගෝලය කැලඹිල් ස්වභාවයක් වර්ධන විය හැකියාවක් පවතින බැවැන් අද සිට ඉදිරි දින කීපයේ දිවයිනේ වැසි තත්වයේ වැඩි විමක් බලා පොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.",
+    "timestamp": "7 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%85%E0%B6%AF-%E0%B7%80%E0%B7%83%E0%B7%83-%E0%B7%80%E0%B6%A9-%E0%B7%80/101-691701",
+    "isoTimestamp": "2026-05-06T13:29:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "bdf8a0fd3a3aa8c0072fab9e4766f3050a1c88eaf57c52d317442a98b679515c"
+  },
+  {
+    "title": "නව රේගු අධ්‍යක්ෂ ජනරාල් විමල් ලියනගේ",
+    "href": "",
+    "byline": "ශ්‍රී ලංකා රේගු අධ්‍යක්ෂ ජනරාල් ලෙස ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරියකු වන විමල් එස්. කේ. ලියනගම මහතා පත් කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමි විය.",
+    "timestamp": "7 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%B1%E0%B7%80-%E0%B6%BB%E0%B6%9C-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%9A%E0%B7%82-%E0%B6%A2%E0%B6%B1%E0%B6%BB%E0%B6%BD-%E0%B7%80%E0%B6%B8%E0%B6%BD-%E0%B6%BD%E0%B6%BA%E0%B6%B1%E0%B6%9C/101-691700",
+    "isoTimestamp": "2026-05-06T13:29:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "6c0d682164cad57e1f3e8eb7b43cb5120f807dc68894ffdbcd06c5d336707390"
+  },
+  {
+    "title": "බෙංගාල මහ ඇමැති පරාජය බාර ගන්නේ නෑ",
+    "href": "",
+    "byline": "බටහිර බෙංගාල ප්‍රාන්ත සභා මැතිවරණයෙන් පරාජයට පත් මහ ඇමැතිනී මමතා බැනර්ජි සිය ධුරයෙන් ඉල්ලා අස්වීම ප්‍රතික්ෂේප කර ඇත. මමතා බැනර්ජි නායකත්වය දෙන්නේ තෘණමූල කොංග්‍රස් පක්ෂයටය. සිවුවතාවක් අඛණ්ඩව බලයේ සිටි තෘණමූල කොංග්‍රස් පක්ෂය මෙවර භාරතීය ජනතා පක්ෂය හමුවේ පරාජය විය.",
+    "timestamp": "8 hours ago",
+    "url": "https://www.lankadeepa.lk/world_news/%E0%B6%B6%E0%B6%9C%E0%B6%BD-%E0%B6%B8%E0%B7%84-%E0%B6%87%E0%B6%B8%E0%B6%AD-%E0%B6%B4%E0%B6%BB%E0%B6%A2%E0%B6%BA-%E0%B6%B6%E0%B6%BB-%E0%B6%9C%E0%B6%B1%E0%B6%B1-%E0%B6%B1/14-691699",
+    "isoTimestamp": "2026-05-06T13:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "ccaa2bd0292df22b8312e1dc4caa91f1c2e31158fa6c66c0293f6e2ea7347bb6"
+  },
+  {
+    "title": "විජේගෙන් කොංග්‍රස් පක්ෂයට ඇරයුමක්",
+    "href": "",
+    "byline": "තමිල්නාඩු ප්‍රාන්ත සභා මැතිවරණයෙන් විශිෂ්ට ජයක් හිමි කරගත් තමිළග වෙට්ට්‍රි කසාගම් පක්ෂය සහ එහි නායක ජනප්‍රිය රංගන ශිල්පී තලපති විජේ රජයක් පිහිටුවීමට තමිල්නාඩු කොංග්‍රස් පක්ෂයේ සහාය ඉල්ලා ඇත.",
+    "timestamp": "8 hours ago",
+    "url": "https://www.lankadeepa.lk/world_news/%E0%B7%80%E0%B6%A2%E0%B6%9C%E0%B6%B1-%E0%B6%9A%E0%B6%9C%E0%B6%BB%E0%B7%83-%E0%B6%B4%E0%B6%9A%E0%B7%82%E0%B6%BA%E0%B6%A7-%E0%B6%87%E0%B6%BB%E0%B6%BA%E0%B6%B8%E0%B6%9A/14-691698",
+    "isoTimestamp": "2026-05-06T13:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "2f5bbd22e123ca1106a853c754e2ce29df11703f934301285dadef29ac2e28fb"
+  },
+  {
+    "title": "ATM දෙකක් කඩන්න හැදූ අයෙකු අල්ලන්න මහජන සහය පතයි",
+    "href": "",
+    "byline": "හැටන් නගරයේ පිහිටි පෞද්ගලික බැංකුවක ස්වයංක්‍රිය මුදල් යන්ත්‍ර (ATM) දෙක කඩා මුදල් සොරා ගැනිමට උත්සහ කල සැකකරු අත්අඩංගුවට ගැනීම සදහා හැටන් පොලිසියේ අපරාධ විමර්ෂණ අංශයේ නිළධාරින් මහජන සහය ඉල්ලා සිටියි.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/videos/ATM-%E0%B6%AF%E0%B6%9A%E0%B6%9A-%E0%B6%9A%E0%B6%A9%E0%B6%B1%E0%B6%B1-%E0%B7%84%E0%B6%AF-%E0%B6%85%E0%B6%BA%E0%B6%9A-%E0%B6%85%E0%B6%BD%E0%B6%BD%E0%B6%B1%E0%B6%B1-%E0%B6%B8%E0%B7%84%E0%B6%A2%E0%B6%B1-%E0%B7%83%E0%B7%84%E0%B6%BA-%E0%B6%B4%E0%B6%AD%E0%B6%BA/12-691685",
+    "isoTimestamp": "2026-05-06T13:36:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "0cc51e26c089d8fb5ae1859e3db5ea939f5303e7ed74d7e2a031c39f4494b21f"
+  },
+  {
+    "title": "වෑන් රිය පෙරැළි සිසුන් 13ක්  රෝහලේ",
+    "href": "",
+    "byline": "නාවලපිටිය කැටබුලාවේ සිට නාවලපිටිය හරංගල දක්වා පාසල් ළමුන් ප්‍රවාහනය කළ වෑන් රථයක් නාවලපිටිය තිස්පණේ හන්දිය ප්‍රදේශයේදීඅද(05) මාර්ගයෙන් ඉවතට පැන සිදු වු අනතුරෙන් සිසුන් 13ක් නාවල පිටිය දිස්ත්‍රික් මහ රෝහලට ඇතුලත් කර ඇතැයි කියයි.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/videos/%E0%B7%80%E0%B6%B1-%E0%B6%BB%E0%B6%BA-%E0%B6%B4%E0%B6%BB%E0%B7%85-%E0%B7%83%E0%B7%83%E0%B6%B1-13%E0%B6%9A-%E0%B6%BB%E0%B7%84%E0%B6%BD/12-691680",
+    "isoTimestamp": "2026-05-06T13:36:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "2c111d49a4d0f80bac8e5fc0e2da034b7115fb493806976cd98db655defcf341"
+  },
+  {
+    "title": "ජනපති වෙනුවෙන් මැතිසබයට ලොක්කෙක්",
+    "href": "",
+    "byline": "ජනාධිපති අතිරේක ලේකම්වරයකු වන කේ.එන්.එම් කුමාරසිංහ මහතා ජනාධිපතිවරයාගේ පාර්ලිමේන්තු කටයුතු සම්බන්ධීකරණ නිලධාරි ලෙස පත් කරනු ලැබ සිටී.",
+    "timestamp": "7 minutes ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B7%80%E0%B6%B1%E0%B7%80%E0%B6%B1-%E0%B6%B8%E0%B6%AD%E0%B7%83%E0%B6%B6%E0%B6%BA%E0%B6%A7-%E0%B6%BD%E0%B6%9A%E0%B6%9A%E0%B6%9A/1-691754",
+    "isoTimestamp": "2026-05-06T16:25:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "edf833326145338746c72387c029f0516b19d472b012b31d16bec2a6020508fe"
+  },
+  {
+    "title": "ජනපති අරමුදලට තවත් ලොකු සවියක් ලැබෙයි",
+    "href": "",
+    "byline": "වයස අවුරදු 18ට අඩු දරුවන්ට ලැබෙන සෞඛ්‍ය පහසුකම් පුළුල් කිරීමේ අරමුණින් ජනාධිපති අරමුදල සහ ජනශක්ති පදනම සුවිශේෂී සහයෝගීතාවකට එළැඹීම අද (06) සිදු විය.",
+    "timestamp": "15 minutes ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B6%85%E0%B6%BB%E0%B6%B8%E0%B6%AF%E0%B6%BD%E0%B6%A7-%E0%B6%AD%E0%B7%80%E0%B6%AD-%E0%B6%BD%E0%B6%9A-%E0%B7%83%E0%B7%80%E0%B6%BA%E0%B6%9A-%E0%B6%BD%E0%B6%B6%E0%B6%BA/1-691753",
+    "isoTimestamp": "2026-05-06T16:17:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "231d8ed4aadffc218521001ec16ed208a9a015ffff40c7946e0810ef16cc495f"
+  },
+  {
+    "title": "ලිට්‍රෝ ගෑස් මිල වෙනස් නොවේ",
+    "href": "",
+    "byline": "ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල මෙම මස (මැයි) සංශෝධනය නොකරන බව ලිට්‍රෝ ගෑස් සමාගමේ සභාපති චන්න ගුණවර්ධන මහතා පැවසීය.",
+    "timestamp": "21 minutes ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BD%E0%B6%A7%E0%B6%BB-%E0%B6%9C%E0%B7%83-%E0%B6%B8%E0%B6%BD-%E0%B7%80%E0%B6%B1%E0%B7%83-%E0%B6%B1%E0%B7%80/1-691752",
+    "isoTimestamp": "2026-05-06T16:11:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "a5fa37a2cc4388fa90ddb31b669c5436783a8e20209f979518d0f1f5b0bcfe96"
+  },
+  {
+    "title": "‘‘හොන්ඩියස්’‘ නෞකාවට හන්තා වයිරසය බෝ කළේ මීයන්?",
+    "href": "",
+    "byline": "හන්තා වයිරස් (Hantavirus) ව්‍යාප්තියක් හේතුවෙන් ආසාදිතයන් වාර්තා වී ඇති ‘එම්වී හොන්ඩියස්’ (MV Hondius) සුඛෝපභෝගී නෞකාවට ස්පාඤ්ඤයට අයත් කැනරි දූපත් වෙත ඇතුළු වීමට ඉඩ ලබා නොදෙන බව එම කලාපයේ සභාපති ප්‍රනාන්දු ක්ලැවිජෝ (Fernando Clavijo) පසුගිය බදාදා තහවුරු කළේය.",
+    "timestamp": "35 minutes ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%84%E0%B6%B1%E0%B6%A9%E0%B6%BA%E0%B7%83-%E0%B6%B1%E0%B6%9A%E0%B7%80%E0%B6%A7-%E0%B7%84%E0%B6%B1%E0%B6%AD-%E0%B7%80%E0%B6%BA%E0%B6%BB%E0%B7%83%E0%B6%BA-%E0%B6%B6-%E0%B6%9A%E0%B7%85-%E0%B6%B8%E0%B6%BA%E0%B6%B1/1-691751",
+    "isoTimestamp": "2026-05-06T15:57:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "897d760e39cde8dc9bab6cc0dd0f6635bbece2ae6e7c50c7a6dffb9c6d0b2691"
+  },
+  {
+    "title": "උඩරට දුම්රිය මාර්ගයේ වැඩ අවසන් අධියරේ",
+    "href": "",
+    "byline": "දිට්වා සුළි කුණාටුවත් සමග ඇති වූ ගංවතුරින් හානි වූ උඩරට දුම්රිය මාර්ගයේ ස්ථාන 97න් 92ක් මේ වනවිට යථා තත්වයට  කර ඇතැයි ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%8B%E0%B6%A9%E0%B6%BB%E0%B6%A7-%E0%B6%AF%E0%B6%B8%E0%B6%BB%E0%B6%BA-%E0%B6%B8%E0%B6%BB%E0%B6%9C%E0%B6%BA-%E0%B7%80%E0%B6%A9-%E0%B6%85%E0%B7%80%E0%B7%83%E0%B6%B1-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%BB/1-691750",
+    "isoTimestamp": "2026-05-06T16:31:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "47f654431c5d1ad1500869566d0a3b2641ca9485d54d55cee380873199884f8f"
+  },
+  {
+    "title": "විපක්ෂයේ ඇතැම් පක්ෂ පුනරුත්ථාපනය කරන්න වෙලා",
+    "href": "",
+    "byline": "විපක්ෂයේ සමහර පක්ෂත් අද පුනරුත්ථාපනය කරන මට්ටමකට ඇද වැටී තිබෙන බව ක්‍රීඩා හා තරුණ කටයුතු අමාත්‍ය සුනිල් කුමාර ගමගේ මහතා පාර්ලිමේන්තුවේදී පැවසීය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%80%E0%B6%B4%E0%B6%9A%E0%B7%82%E0%B6%BA-%E0%B6%87%E0%B6%AD%E0%B6%B8-%E0%B6%B4%E0%B6%9A%E0%B7%82-%E0%B6%B4%E0%B6%B1%E0%B6%BB%E0%B6%AD%E0%B6%AE%E0%B6%B4%E0%B6%B1%E0%B6%BA-%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B6%B1-%E0%B7%80%E0%B6%BD/1-691749",
+    "isoTimestamp": "2026-05-06T16:31:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "f2de3fd0c9407d7dcb63ef7823313a2851bc5d652abd7fd53dd06649ab93be72"
+  },
+  {
+    "title": "12 සිසුවකුට නරක වැඩක් කළ සිසුන් දෙදෙනකු අල්ලයි",
+    "href": "",
+    "byline": "නව ගත්තේගම මහමැද්දාව වැව මංකඩහි දිය නාමින් සිටි 12 හැවිරිදි සිසුවකුගේ ගුද මාර්ගයට බලහත්කාරයෙන් පාසි හා නෙළුම් දණ්ඩක් ඇතුළු කළ බව කියන සිසුන් දෙදෙනකු  අත්අඩංගුවට ගත් බව නවගත්තේගම පොලිසිය පවසයි.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/latest_news/12-%E0%B7%83%E0%B7%83%E0%B7%80%E0%B6%9A%E0%B6%A7-%E0%B6%B1%E0%B6%BB%E0%B6%9A-%E0%B7%80%E0%B6%A9%E0%B6%9A-%E0%B6%9A%E0%B7%85-%E0%B7%83%E0%B7%83%E0%B6%B1-%E0%B6%AF%E0%B6%AF%E0%B6%B1%E0%B6%9A-%E0%B6%85%E0%B6%BD%E0%B6%BD%E0%B6%BA/1-691748",
+    "isoTimestamp": "2026-05-06T16:31:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "d187c4405687ba9daac83dc8c57f973a0ad9177f3679213d460c3eb6513ee765"
+  },
+  {
+    "title": "‘‘රංගගේ මරණය සැකයි කීවේ සාක්කි ඇතිවයි‘‘",
+    "href": "",
+    "byline": "මරණයට පත්වූ මහා භාණ්ඩාගාරයේ හිටපු නිලධාරී රංග රාජපක්‍ෂ මහතාගේ මරණ සැක සහිත යැයි ඔහුගේ බිරිඳ පවසා ඇතැයි ප්‍රකාශ කළේ සෞඛ්‍ය අධ්‍යක්‍ෂ ජනරාල්වරයාගේ ලිපියක් පදනම් කරගෙන බවත් ඒ පිළිබඳව ප්‍රකාශයක් දීමට සක්‍ෂි සහිතව කුලියාපිටිය පොලිසියට ලබන 9 වැනි දා යන බවත් පිවිතුරු හෙළඋරුමය පක්‍ෂයේ නායක, හිටපු අමාත්‍ය නීතිඥ උදය ගම්මන්පිල මහතා අද (6) පැවසීය.",
+    "timestamp": "2 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BB%E0%B6%9C%E0%B6%9C-%E0%B6%B8%E0%B6%BB%E0%B6%AB%E0%B6%BA-%E0%B7%83%E0%B6%9A%E0%B6%BA-%E0%B6%9A%E0%B7%80-%E0%B7%83%E0%B6%9A%E0%B6%9A-%E0%B6%87%E0%B6%AD%E0%B7%80%E0%B6%BA/1-691747",
+    "isoTimestamp": "2026-05-06T16:30:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "1de6ffef8834cee940c4f02f3df198459f75f275a5b4e0f588c9661a06e28ebc"
+  },
+  {
+    "title": "රංගගේ මරණය: පරීක්ෂණ ස්කෝට්ලන්ඩියාඩ් පොලිසියට?",
+    "href": "",
+    "byline": "No summary available",
+    "timestamp": "2 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BB%E0%B6%9C%E0%B6%9C-%E0%B6%B8%E0%B6%BB%E0%B6%AB%E0%B6%BA-%E0%B6%B4%E0%B6%BB%E0%B6%9A%E0%B7%82%E0%B6%AB-%E0%B7%83%E0%B6%9A%E0%B6%A7%E0%B6%BD%E0%B6%B1%E0%B6%A9%E0%B6%BA%E0%B6%A9-%E0%B6%B4%E0%B6%BD%E0%B7%83%E0%B6%BA%E0%B6%A7/1-691746",
+    "isoTimestamp": "2026-05-06T16:30:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "262be666c4252c5bff94492fdc3b2bde7eb8757ca5c927692d82637736dc1e2a"
+  },
+  {
+    "title": "පොලිසිය බාරයේ තිබූ යතුරු පැදිය දෙන්න කතකගෙන් 4000ක අල්ලසක් අරන්",
+    "href": "",
+    "byline": "කුරුණෑගල පොලිසිය භාරයේ තිබූ යතුරු පැදියක් නිදහස් කර ගැනීිමට පැමිණි කාන්තාවකගෙන් රුපියල් 4000 මුදලක් ලබා ගත් බව කියන කුරුණෑගල පොලිසියේ සංචාරක අංශයේ රාජකාරි කරනු ලබන පොලිස් සැරයන්වරයකු  අත්අඩංගුවට ගත් බව කුරුණෑගල පොලිසිය පවසයි.",
+    "timestamp": "2 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B4%E0%B6%BD%E0%B7%83%E0%B6%BA-%E0%B6%B6%E0%B6%BB%E0%B6%BA-%E0%B6%AD%E0%B6%B6-%E0%B6%BA%E0%B6%AD%E0%B6%BB-%E0%B6%B4%E0%B6%AF%E0%B6%BA-%E0%B6%AF%E0%B6%B1%E0%B6%B1-%E0%B6%9A%E0%B6%AD%E0%B6%9A%E0%B6%9C%E0%B6%B1-4000%E0%B6%9A-%E0%B6%85%E0%B6%BD%E0%B6%BD%E0%B7%83%E0%B6%9A-%E0%B6%85%E0%B6%BB%E0%B6%B1/1-691745",
+    "isoTimestamp": "2026-05-06T16:30:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "3b9246fa0ee97d083cf60112c18d8808d76d720e92a8a61527b256cb5f50ac09"
+  },
+  {
+    "title": "ආණ්ඩුවේ හැසිරීම අපට සැකයි",
+    "href": "",
+    "byline": "භාණ්ඩාගාරයේ මුදල් අතුරුදන් වීමේ සිද්ධිය ගැන විපක්ෂය විවාදයක් ඉල්ලූ විට ආණ්ඩුව එය නොදී කර ඇරීම සැක සහිත බව කොළඹ දිස්ත්‍රික් මන්ත්‍රී මුජිබුර් රහුමාන් මහතා:-(ස.ජ.බ) පාර්ලිමේන්තුවේදී පැවසීය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%86%E0%B6%AB%E0%B6%A9%E0%B7%80-%E0%B7%84%E0%B7%83%E0%B6%BB%E0%B6%B8-%E0%B6%85%E0%B6%B4%E0%B6%A7-%E0%B7%83%E0%B6%9A%E0%B6%BA/1-691743",
+    "isoTimestamp": "2026-05-06T16:28:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "75f3b10b652a3a5429bc613886cb15045e8a8674867ca6a947ab42fc06f3ec0f"
+  },
+  {
+    "title": "රුමේනියා රජය බිඳ වැටේ",
+    "href": "",
+    "byline": "රුමේනියා රජය බිඳ වැටුණි. ඒ, එරට අග්‍රාමාත්‍ය ඉලී බොපෝජන් ප්‍රමුඛ යුරෝපා හිතවාදී රජය විශ්වාසභංගයකින් පරාජය වීමෙනි. රුමේනියාව යුරෝපා රාජ්‍යයකි.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BB%E0%B6%B8%E0%B6%B1%E0%B6%BA-%E0%B6%BB%E0%B6%A2%E0%B6%BA-%E0%B6%B6%E0%B6%B3-%E0%B7%80%E0%B6%A7/1-691738",
+    "isoTimestamp": "2026-05-06T16:28:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "3c606f6db906e9012201c84fd4dc0ed97491abd128a1052d5fea94dfef622800"
+  },
+  {
+    "title": "ඉරාන විදේශ ඇමැති චීනයේ නිල සංචාරයක",
+    "href": "",
+    "byline": "ඉරානයේ විදේශ අමාත්‍ය අබ්බාස් අරාග්චි චීනයේ නිල සංචාරයක නියැලෙයි. විදෙස් මාධ්‍ය වාර්තා කළේ ඉරාන විදේශ අමාත්‍යවරයා බෙයිජීං අගනුවර බලා පැමිණි බවය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%89%E0%B6%BB%E0%B6%B1-%E0%B7%80%E0%B6%AF%E0%B7%81-%E0%B6%87%E0%B6%B8%E0%B6%AD-%E0%B6%A0%E0%B6%B1%E0%B6%BA-%E0%B6%B1%E0%B6%BD-%E0%B7%83%E0%B6%A0%E0%B6%BB%E0%B6%BA%E0%B6%9A/1-691735",
+    "isoTimestamp": "2026-05-06T16:28:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "90cba3c823fc559894c488fd21440764a9dff23cda7599dc49f1c35eeb797d01"
+  },
+  {
+    "title": "ට්‍රම්ප් ‘ප්‍රොජෙක්ට් ෆ්‍රීඩම්’ තාවකාලිකව හකුලා ගනී",
+    "href": "",
+    "byline": "ඉරානය සමඟ ඇති කර ගැනීමට අපේක්ෂිත එකඟතාවයකට අවස්ථාවක් ලබා දීම සඳහා හෝමූස් සමුද්‍ර සන්ධිය යළි විවෘත කිරීමේ අරමුණින් දියත් කළ ‘ප්‍රොජෙක්ට් ෆ්‍රීඩම්’ මෙහෙයුම තාවකාලිකව අත්හිටුවීමට ඇමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් තීරණය කර ඇත.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%A7%E0%B6%BB%E0%B6%B8%E0%B6%B4-%E0%B6%B4%E0%B6%BB%E0%B6%A2%E0%B6%9A%E0%B6%A7-%E0%B7%86%E0%B6%BB%E0%B6%A9%E0%B6%B8-%E0%B6%AD%E0%B7%80%E0%B6%9A%E0%B6%BD%E0%B6%9A%E0%B7%80-%E0%B7%84%E0%B6%9A%E0%B6%BD-%E0%B6%9C%E0%B6%B1/1-691730",
+    "isoTimestamp": "2026-05-06T16:28:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "c205b1ae0e8679df5229dd77e34fd71534019ca931dfc6441c4560e5fec62239"
+  },
+  {
+    "title": "මාලදිවයින ජනපති පිටත්ව යයි",
+    "href": "",
+    "byline": "මාලදිවයින ජනාධිපති මොහොමඩ් මුයිෂු  මහතා  සිය සිව් දින ශ්‍රී ලංකා නිල සංචාරය නිමා කර අද(06)  උදෑසන කටුනායක ගුවන් තොටුපොළෙන් මාළදිවයින මාළේ නුවර බලා පිටත්ව ගියේය .",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B8%E0%B6%BD%E0%B6%AF%E0%B7%80%E0%B6%BA%E0%B6%B1-%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B6%B4%E0%B6%A7%E0%B6%AD%E0%B7%80-%E0%B6%BA%E0%B6%BA/1-691713",
+    "isoTimestamp": "2026-05-06T16:27:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "cd41e7af47dd7900842a4685e18860e4ed686773efbbc377fd4fd792ba6c7e41"
+  },
+  {
+    "title": "යකඩ කපන ග්‍රයින්ඩරයට අයෙක් බිලි",
+    "href": "",
+    "byline": "යකඩ කපන ග්‍රයින්ඩරයකට බෙල්ල තුවාල වී සිදු වූ අනතුරකින්  කටුගස්තොට , මාවිල්මඩට ප්‍රදේශයේ 66 හැවිරිදි පුද්ගලයකු මියගොස් ඇති බව පොලිසිය කියයි.",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BA%E0%B6%9A%E0%B6%A9-%E0%B6%9A%E0%B6%B4%E0%B6%B1-%E0%B6%9C%E0%B6%BB%E0%B6%BA%E0%B6%B1%E0%B6%A9%E0%B6%BB%E0%B6%BA%E0%B6%A7-%E0%B6%85%E0%B6%BA%E0%B6%9A-%E0%B6%B6%E0%B6%BD/1-691711",
+    "isoTimestamp": "2026-05-06T16:27:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "b7641c97aff9abe1e8ee600d5819d2a76e7622f4f140e0c1d71aea69bc98302f"
+  },
+  {
+    "title": "අලුත් විගණන නිලධාරීහු රහස් දිවුරුම දෙති",
+    "href": "",
+    "byline": "විගණන සේවා කොමිෂන් සභාවට පත් කරන ලද නව සාමාජිකයෝ සිවු දෙනෙක්   කථානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතා ඉදිරියේ පාර්ලිමේන්තුවේදී  රහස්‍යතාව පිළිබඳ දිවුරුම ලබා දුන්හ.",
+    "timestamp": "6 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%85%E0%B6%BD%E0%B6%AD-%E0%B7%80%E0%B6%9C%E0%B6%AB%E0%B6%B1-%E0%B6%B1%E0%B6%BD%E0%B6%B0%E0%B6%BB%E0%B7%84-%E0%B6%BB%E0%B7%84%E0%B7%83-%E0%B6%AF%E0%B7%80%E0%B6%BB%E0%B6%B8-%E0%B6%AF%E0%B6%AD/1-691710",
+    "isoTimestamp": "2026-05-06T16:26:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "7c74577c363cee245c31e82b8447385b3adea6f78b9b12b7989fe5fc1e2ffb43"
+  },
+  {
+    "title": "පාසල් බස්-වෑන් ප්‍රවාහන ගාස්තු වැඩි වෙයි",
+    "href": "",
+    "byline": "ඉන්ධන මිල ඉහළයාමත් සමඟ පාසල් ළමයින් ප්‍රවාහනය කරන බස් සහ වෑන් ඇතුලු වාහන වල ගාස්තු මැයි මාසයේ සිට 12%කින් වැඩි කිරිමට තීරණය කළ බව සමස්ත ලංකා අන්තර් දිස්ත්‍රික් පාසල් ළමුන් ප්‍රවාහන සේවා සංගමය නිවේදනයක් නිකුත් කරමින් කියා සිටී.",
+    "timestamp": "6 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B4%E0%B7%83%E0%B6%BD-%E0%B6%B6%E0%B7%83-%E0%B7%80%E0%B6%B1-%E0%B6%B4%E0%B6%BB%E0%B7%80%E0%B7%84%E0%B6%B1-%E0%B6%9C%E0%B7%83%E0%B6%AD-%E0%B7%80%E0%B6%A9-%E0%B7%80%E0%B6%BA/1-691709",
+    "isoTimestamp": "2026-05-06T16:26:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "62f8dcee47f12f69b6d6a4f2292643db88eb35dda79f874593d0aa38ed209dfb"
+  },
+  {
+    "title": "රාජකාරි වැඩියි කියා පොතේ ලියා පීසී ගෙදර ගිහින්",
+    "href": "",
+    "byline": "රාජකාරි බහුල බැවින් මානසික පීඩනයකට පත්ව ඇති බවට ලිපියක් ලියා තබා පයාගල පොලිස් ස්ථානයේ කොස්තාපල් වරයෙකු පිටවගොස් ඇති බව පයාගල පොලිසියෙන් වාර්තාවේ.",
+    "timestamp": "7 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BB%E0%B6%A2%E0%B6%9A%E0%B6%BB-%E0%B7%80%E0%B6%A9%E0%B6%BA-%E0%B6%9A%E0%B6%BA-%E0%B6%B4%E0%B6%AD-%E0%B6%BD%E0%B6%BA-%E0%B6%B4%E0%B7%83-%E0%B6%9C%E0%B6%AF%E0%B6%BB-%E0%B6%9C%E0%B7%84%E0%B6%B1/1-691708",
+    "isoTimestamp": "2026-05-06T16:25:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "1dfc2bfa8bcbbd2b3c47af8a0ae7cca5bc33ef3f896f3188e0dcff15d2029ba3"
+  },
+  {
+    "title": "අද වැස්ස වැඩි වේ",
+    "href": "",
+    "byline": "අන්තර් නිවර්තන අභිසාරි කලාපයේ බලපෑම සහ ඒ ආශ්‍රිත දිවයින ආසන්නයේ පහළ වායු ගෝලය කැලඹිල් ස්වභාවයක් වර්ධන විය හැකියාවක් පවතින බැවැන් අද සිට ඉදිරි දින කීපයේ දිවයිනේ වැසි තත්වයේ වැඩි විමක් බලා පොරොත්තු වන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.",
+    "timestamp": "10 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%85%E0%B6%AF-%E0%B7%80%E0%B7%83%E0%B7%83-%E0%B7%80%E0%B6%A9-%E0%B7%80/1-691701",
+    "isoTimestamp": "2026-05-06T16:22:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "001be5ef950eaf21bb50f411ca152546d4fb9a7957cac4a2bf396531013d79d2"
+  },
+  {
+    "title": "නව රේගු අධ්‍යක්ෂ ජනරාල් විමල් ලියනගේ",
+    "href": "",
+    "byline": "ශ්‍රී ලංකා රේගු අධ්‍යක්ෂ ජනරාල් ලෙස ශ්‍රී ලංකා පරිපාලන සේවයේ විශේෂ ශ්‍රේණියේ නිලධාරියකු වන විමල් එස්. කේ. ලියනගම මහතා පත් කිරීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමි විය.",
+    "timestamp": "10 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B1%E0%B7%80-%E0%B6%BB%E0%B6%9C-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%9A%E0%B7%82-%E0%B6%A2%E0%B6%B1%E0%B6%BB%E0%B6%BD-%E0%B7%80%E0%B6%B8%E0%B6%BD-%E0%B6%BD%E0%B6%BA%E0%B6%B1%E0%B6%9C/1-691700",
+    "isoTimestamp": "2026-05-06T16:22:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "89bf1fc7ad04647f9cd2b76e9b0ecb44e10efbe4d3571efdea00a1874fe79789"
+  },
+  {
+    "title": "බෙංගාල මහ ඇමැති පරාජය බාර ගන්නේ නෑ",
+    "href": "",
+    "byline": "බටහිර බෙංගාල ප්‍රාන්ත සභා මැතිවරණයෙන් පරාජයට පත් මහ ඇමැතිනී මමතා බැනර්ජි සිය ධුරයෙන් ඉල්ලා අස්වීම ප්‍රතික්ෂේප කර ඇත. මමතා බැනර්ජි නායකත්වය දෙන්නේ තෘණමූල කොංග්‍රස් පක්ෂයටය. සිවුවතාවක් අඛණ්ඩව බලයේ සිටි තෘණමූල කොංග්‍රස් පක්ෂය මෙවර භාරතීය ජනතා පක්ෂය හමුවේ පරාජය විය.",
+    "timestamp": "11 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B6%E0%B6%9C%E0%B6%BD-%E0%B6%B8%E0%B7%84-%E0%B6%87%E0%B6%B8%E0%B6%AD-%E0%B6%B4%E0%B6%BB%E0%B6%A2%E0%B6%BA-%E0%B6%B6%E0%B6%BB-%E0%B6%9C%E0%B6%B1%E0%B6%B1-%E0%B6%B1/1-691699",
+    "isoTimestamp": "2026-05-06T16:21:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "f66c24b15da5973d3379e2943fd1bd9ab2acea2270ded17bfdc14c5265a18bcc"
+  },
+  {
+    "title": "විජේගෙන් කොංග්‍රස් පක්ෂයට ඇරයුමක්",
+    "href": "",
+    "byline": "තමිල්නාඩු ප්‍රාන්ත සභා මැතිවරණයෙන් විශිෂ්ට ජයක් හිමි කරගත් තමිළග වෙට්ට්‍රි කසාගම් පක්ෂය සහ එහි නායක ජනප්‍රිය රංගන ශිල්පී තලපති විජේ රජයක් පිහිටුවීමට තමිල්නාඩු කොංග්‍රස් පක්ෂයේ සහාය ඉල්ලා ඇත.",
+    "timestamp": "11 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%80%E0%B6%A2%E0%B6%9C%E0%B6%B1-%E0%B6%9A%E0%B6%9C%E0%B6%BB%E0%B7%83-%E0%B6%B4%E0%B6%9A%E0%B7%82%E0%B6%BA%E0%B6%A7-%E0%B6%87%E0%B6%BB%E0%B6%BA%E0%B6%B8%E0%B6%9A/1-691698",
+    "isoTimestamp": "2026-05-06T16:21:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "c1159afeb0f1d81e437204be7a6a27bc361e8689b973e329aab36f6d11bed6d9"
+  },
+  {
+    "title": "‘‘2027 හය වසරටත් නව අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාත්මක කරනවා‘‘",
+    "href": "",
+    "byline": "2026 වසරේ පළමු ශ්‍රේණියට ආරම්භ කළ අධ්‍යාපන ප්‍රතිසංස්කරණ සාර්ථකව ක්‍රියාත්මක කරමින් පවතින බවත්, 2027 වසරේ 6 වන ශ්‍රේණියට ද එය හඳුන්වා දෙන බවත් අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසුවාය.",
+    "timestamp": "18 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/2027-%E0%B7%84%E0%B6%BA-%E0%B7%80%E0%B7%83%E0%B6%BB%E0%B6%A7%E0%B6%AD-%E0%B6%B1%E0%B7%80-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%B4%E0%B6%B1-%E0%B6%B4%E0%B6%BB%E0%B6%AD%E0%B7%83%E0%B7%83%E0%B6%9A%E0%B6%BB%E0%B6%AB-%E0%B6%9A%E0%B6%BB%E0%B6%BA%E0%B6%AD%E0%B6%B8%E0%B6%9A-%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B7%80/1-691697",
+    "isoTimestamp": "2026-05-06T16:14:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "e617222a48836edd3b33e37683de4f2c96beffe452a2f53278c640312e862713"
+  },
+  {
+    "title": "හිටපු නි.පොලිස්පතිගේ ඉඩමෙන් ගිනි අවි-පතුරොම් මතුවෙයි",
+    "href": "",
+    "byline": "පුත්තලම හිටපු නියෝජ්‍ය පොලිස්පතිවරයකුට අයත් යැයි පැවසෙන අට්ටවිල්ලුව ප්‍රදේශයෙ ඉඩමක තිබී  ගිනි අවි පතොරම් හා දිවියකුගේ සමකින් සකසන අනුරුවක් හා තිත් මුව සමක් ඇතුළු දේ අත් අඩංගුවට ගත් බව පොලීසිය කියයි.",
+    "timestamp": "21 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%84%E0%B6%A7%E0%B6%B4-%E0%B6%B1-%E0%B6%B4%E0%B6%BD%E0%B7%83%E0%B6%B4%E0%B6%AD%E0%B6%9C-%E0%B6%89%E0%B6%A9%E0%B6%B8%E0%B6%B1-%E0%B6%9C%E0%B6%B1-%E0%B6%85%E0%B7%80-%E0%B6%B4%E0%B6%AD%E0%B6%BB%E0%B6%B8-%E0%B6%B8%E0%B6%AD%E0%B7%80%E0%B6%BA/1-691693",
+    "isoTimestamp": "2026-05-06T16:11:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "98ce9b62756ff8c68cb42f39ee790f23336ea90e83c384e67ddd10419d9dd404"
+  },
+  {
+    "title": "තිදරු පියාගේ සිරුර පාළු තැනකින් හමුවෙයි",
+    "href": "",
+    "byline": "අභිරහස් ලෙස මරණයට පත්වු තිදරු පියකුගේ සිරුරක් පුත්තලම කිවුල ප්‍රදේශයේ පාළු මංසන්දියක තිබි හමුවු බව පුත්තලම මුලස්ථාන පොලිසිය පැවසිය.",
+    "timestamp": "22 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%AD%E0%B6%AF%E0%B6%BB-%E0%B6%B4%E0%B6%BA%E0%B6%9C-%E0%B7%83%E0%B6%BB%E0%B6%BB-%E0%B6%B4%E0%B7%85-%E0%B6%AD%E0%B6%B1%E0%B6%9A%E0%B6%B1-%E0%B7%84%E0%B6%B8%E0%B7%80%E0%B6%BA/1-691692",
+    "isoTimestamp": "2026-05-06T16:10:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "5413513a47a2d9bd7d4f634c23a6e714f216d7e18e7a2585357ef18fa42e74db"
+  },
+  {
+    "title": "කුඩාවැල්ල ධීවර වරායේ වෙඩි තැබීමක්",
+    "href": "",
+    "byline": "කුඩා වැල්ල ධීවර වරාය තුළදී  අද (5)  දහවල් වෙඩි තැබීමක් සිදුව ඇතැයි පොලීසිය කියයි.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%9A%E0%B6%A9%E0%B7%80%E0%B6%BD%E0%B6%BD-%E0%B6%B0%E0%B7%80%E0%B6%BB-%E0%B7%80%E0%B6%BB%E0%B6%BA-%E0%B7%80%E0%B6%A9-%E0%B6%AD%E0%B6%B6%E0%B6%B8%E0%B6%9A/1-691686",
+    "isoTimestamp": "2026-05-06T16:32:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "5290f6b1ef3f01ac7ff711ae35f61e05970f8a1f92530d568a03562ee4ecc26a"
+  },
+  {
+    "title": "පිළිස්සුණු  කාන්තා සිරුරක් නොච්චියාගම කැලයක",
+    "href": "",
+    "byline": "ඝාතනයකොට පුළුස්සා දමන ලදැයි සැක නාදුනන කාන්තාවකගේ මළ සිරුරක් රනෝරාව ප්‍රදේශයේ තිබියදි සොයාගත් බව නොච්චියාගම පොලිසිය කියයි.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B4%E0%B7%85%E0%B7%83%E0%B7%83%E0%B6%AB-%E0%B6%9A%E0%B6%B1%E0%B6%AD-%E0%B7%83%E0%B6%BB%E0%B6%BB%E0%B6%9A-%E0%B6%B1%E0%B6%A0%E0%B6%A0%E0%B6%BA%E0%B6%9C%E0%B6%B8-%E0%B6%9A%E0%B6%BD%E0%B6%BA%E0%B6%9A/1-691682",
+    "isoTimestamp": "2026-05-06T16:32:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "83376f41d534ec2d6bb44218db74d972c12b8faa5f39868a2d7b1a02421e0332"
+  },
+  {
+    "title": "පියා⁣ගේ පහරින් දියණිය මරුට",
+    "href": "",
+    "byline": "කොස් ගෙඩියක් කැඩුවැයි ඇතිවූ කතාබහකින් පසු  දුවට යකඩ පොල්ලකින් පහරදී ඝාතනය කල පියා අත්අඩංගුවට ගත්බව කළුතර උතුර පොලිසිය පවසයි .",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B4%E0%B6%BA%E0%B6%9C-%E0%B6%B4%E0%B7%84%E0%B6%BB%E0%B6%B1-%E0%B6%AF%E0%B6%BA%E0%B6%AB%E0%B6%BA-%E0%B6%B8%E0%B6%BB%E0%B6%A7/1-691679",
+    "isoTimestamp": "2026-05-06T16:32:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "bbe7f55536791dad29a2b4c694ae135e7aba870f97854d3a480e754cc1b6baa7"
+  },
+  {
+    "title": "හෙට සිට වැස්සේ ලොකු වෙනසක්",
+    "href": "",
+    "byline": "අන්තර් නිවර්තන අභිසාරි කලාපය (උතුරු අර්ධ ගෝලයේ සහ දකුණු අර්ධ  ගෝලයේ  සිට පැමිණෙන සුළං අභිසාරිවන කලාපය) දිවයිනේ කාලගුණයට බලපෑම් ඇති කරමින් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%84%E0%B6%A7-%E0%B7%83%E0%B6%A7-%E0%B7%80%E0%B7%83%E0%B7%83-%E0%B6%BD%E0%B6%9A-%E0%B7%80%E0%B6%B1%E0%B7%83%E0%B6%9A/1-691670",
+    "isoTimestamp": "2026-05-06T16:32:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "cfe8de258b3d2c1d49ad4bd79edabeee43196caf8e6e32b9d8b17c76721d91bc"
+  },
+  {
+    "title": "චීන්නු 37ක් පිටුවහල් කෙරෙති",
+    "href": "",
+    "byline": "මෙරට ආගමන විගමන දෙපාර්තමේන්තු නීතිරීති උල්ලංඝනය කරමින් ,අනීතික ලෙස ශ්‍රී ලංකාව තුළ රැදී සිටිමින් , නීතිවිරෝධී කටයුතු වල නිරත වී සිටියදී , මෙරට ආරක්ෂක අංශ මගින් අත් අඩංගුවට ගෙන , වැළිසර රැදවුම් මධ්‍යස්ථානයේ රදවා තබා සිටි , චීන ජාතිකයන් 37 දෙනෙකු මෙරටින් පිටුවහල් කිරීමට කටයුතු කර ඇත.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%A0%E0%B6%B1%E0%B6%B1-37%E0%B6%9A-%E0%B6%B4%E0%B6%A7%E0%B7%80%E0%B7%84%E0%B6%BD-%E0%B6%9A%E0%B6%BB%E0%B6%AD/1-691669",
+    "isoTimestamp": "2026-05-06T16:32:41+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "3a90aaae2a3ac20241f57c6bc19c2556d3f033f4f5606292e1448e960729dd89"
+  },
+  {
+    "title": "රන් කිලෝ පහකට පොලු තිබ්බැයි අයියා - මල්ලී රිමාන්ඩ්",
+    "href": "",
+    "byline": "රත්තරන් කිලෝ 5 ක් ලබා දෙන බවට පවසා රුපියල් ලක්ෂ 1800 ක් වංචා කළේ යැයි අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ ගලේවෙල පදිංචි අයියා සහ මල්ලී ලබන 12 දින දක්වා රිමාන්ඩ් බාරයේ තබන්නැයි කොළඹ අතිරේක මහේස්ත්‍රාත් ලහිරු සිල්වා මහතා අද (6) නියෝග කළේය.",
+    "timestamp": "7 minutes ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BB%E0%B6%B1-%E0%B6%9A%E0%B6%BD-%E0%B6%B4%E0%B7%84%E0%B6%9A%E0%B6%A7-%E0%B6%B4%E0%B6%BD-%E0%B6%AD%E0%B6%B6%E0%B6%B6%E0%B6%BA-%E0%B6%85%E0%B6%BA%E0%B6%BA-%E0%B6%B8%E0%B6%BD%E0%B6%BD-%E0%B6%BB%E0%B6%B8%E0%B6%B1%E0%B6%A9/101-691766",
+    "isoTimestamp": "2026-05-06T20:25:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "a8e0df51fd237d550841610cf525cdfd4228f4f715535aee0b57a91316cdabb2"
+  },
+  {
+    "title": "ජීවන්ගෙන් තලපති විජේට  සුබ පැතුම්",
+    "href": "",
+    "byline": "ලංකා කම්කරු කොංග්‍රසයේ මහලේකම් ජීවන් තොන්ඩමන් මහතා   තමිල්නාඩුවේ නව මහඇමති ලෙසින් දිවුරුම්දීමට නියමිත සුපිරි නළු තලපති විජේට  සිය සුබ පැතුම් එක් කළේය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%A2%E0%B7%80%E0%B6%B1%E0%B6%9C%E0%B6%B1-%E0%B6%AD%E0%B6%BD%E0%B6%B4%E0%B6%AD-%E0%B7%80%E0%B6%A2%E0%B6%A7-%E0%B7%83%E0%B6%B6-%E0%B6%B4%E0%B6%AD%E0%B6%B8/101-691764",
+    "isoTimestamp": "2026-05-06T20:31:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "64fa677576dfd052056fae724e8f5e4dce553e92e9db62ef5488ca57bc82de34"
+  },
+  {
+    "title": "ලෝක බැංකු නියෝජිතයෝ ජනපති කාර්යාලයට",
+    "href": "",
+    "byline": "ලෝක බැංකුවේ මෙරට කළමනාකරු Gevorg Sargsyan මහතා ඇතුළු නියෝජිත කණ්ඩායමක් ජනාධිපති ලේකම් කාර්යාලයේදී අද (06)  ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමු විය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BD%E0%B6%9A-%E0%B6%B6%E0%B6%9A-%E0%B6%B1%E0%B6%BA%E0%B6%A2%E0%B6%AD%E0%B6%BA-%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B6%9A%E0%B6%BB%E0%B6%BA%E0%B6%BD%E0%B6%BA%E0%B6%A7/101-691763",
+    "isoTimestamp": "2026-05-06T20:31:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "ee2c2573ea62b09699352d8a0414ff46577572789105f5ba68ba84e34ae4d9f6"
+  },
+  {
+    "title": "ඇමෙරිකා තැපැල් සේවයට ගෙවූ ඩොලර් ලක්ෂ 6ක් වෙනත් පාර්ශවයක බැරවෙලා",
+    "href": "",
+    "byline": "ඇමෙරිකා තැපැල් සේවයට ගෙවිය යුතු ඩොලර් ලක්ෂ හයකට අධික මුදලක් තෙවන පාර්ශවයකට බැරවීමේ සිද්ධිය සම්බන්ධයෙන් තැපැල් දෙපාර්තමේන්තුවේ ස්ථානීය පරීක්‍ෂණයක් කිරීමට කොටුව මහේස්ත්‍රාත් පසන් අමරසේන මහතා නියම කළේය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%87%E0%B6%B8%E0%B6%BB%E0%B6%9A-%E0%B6%AD%E0%B6%B4%E0%B6%BD-%E0%B7%83%E0%B7%80%E0%B6%BA%E0%B6%A7-%E0%B6%9C%E0%B7%80-%E0%B6%A9%E0%B6%BD%E0%B6%BB-%E0%B6%BD%E0%B6%9A%E0%B7%82-6%E0%B6%9A-%E0%B7%80%E0%B6%B1%E0%B6%AD-%E0%B6%B4%E0%B6%BB%E0%B7%81%E0%B7%80%E0%B6%BA%E0%B6%9A-%E0%B6%B6%E0%B6%BB%E0%B7%80%E0%B6%BD/101-691761",
+    "isoTimestamp": "2026-05-06T20:31:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "e98f419798784492b15f6cf5b090fa77b429b0dbacb974d27938ca0c6a2e1785"
+  },
+  {
+    "title": "නායක හතරක් මැයි රැලියට නෑ",
+    "href": "",
+    "byline": "කොළඹදී පැවැති සමගි ජන බලවේගයේ මැයි රැලියට හවුල්කාර දේශපාලන පක්ෂ රැසක නායකයන් සහභාගි නොවීමෙන් පක්ෂයේ කිසියම් මත භේදාත්මක තත්වයක් නිර්මාණයවී තිබෙන බව වාර්තාවේ.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%B1%E0%B6%BA%E0%B6%9A-%E0%B7%84%E0%B6%AD%E0%B6%BB%E0%B6%9A-%E0%B6%B8%E0%B6%BA-%E0%B6%BB%E0%B6%BD%E0%B6%BA%E0%B6%A7-%E0%B6%B1/101-691760",
+    "isoTimestamp": "2026-05-06T20:31:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "fa5a0dab62f761a864024ca645273855ef715d57c3eb7d56bc8bf76e6c3341ff"
+  },
+  {
+    "title": "ආණ්ඩුවට පේන්න බැරි රාජ්‍ය සේවක කොටසක් ගැන හෙළිදරව්වක්",
+    "href": "",
+    "byline": "රාජ්‍යයට හානි කරන, දූෂණ කරන, උනන්දුවෙන් වැඩ නොකරන රාජ්‍ය සේවකයන් ආරක්ෂා කරන්න ආණ්ඩුවට උවමනාවක් නැතැයි කර්මාන්ත හා ව්‍යවසාය සංවර්ධන නියෝජ්‍ය අමාත්‍ය චතුරංග අබේසිංහ මහතා පාර්ලිමේන්තුවේදී පැවසීය.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%86%E0%B6%AB%E0%B6%A9%E0%B7%80%E0%B6%A7-%E0%B6%B4%E0%B6%B1%E0%B6%B1-%E0%B6%B6%E0%B6%BB-%E0%B6%BB%E0%B6%A2%E0%B6%BA-%E0%B7%83%E0%B7%80%E0%B6%9A-%E0%B6%9A%E0%B6%A7%E0%B7%83%E0%B6%9A-%E0%B6%9C%E0%B6%B1-%E0%B7%84%E0%B7%85%E0%B6%AF%E0%B6%BB%E0%B7%80%E0%B7%80%E0%B6%9A/101-691759",
+    "isoTimestamp": "2026-05-06T20:31:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "00fcb3149c17334452d3ca66efb41c2d74d2d5b589db0da8921f7f7bd14df372"
+  },
+  {
+    "title": "ග්‍රීසි බැඳුම්කර සිද්ධියට හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ්ට යළි නඩු දමයි",
+    "href": "",
+    "byline": "ග්‍රීසිය දැඩි ආර්ථික අර්බුදයකට ලක්ව සිටින බව දැන දැනම ග්‍රීක බැඳුම්කර මිලදී ගැනීමෙන් ශ්‍රී ලංකා රජයට රුපියල් කෝටි 184 කට අධික පාඩුවක් කළ බවට හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතාට එරෙහිව අල්ලස් කොමිෂම යළිත් වරක් කොළඹ මහාධිකරණයේ නඩු පවරා ඇත.",
+    "timestamp": "1 hour ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%9C%E0%B6%BB%E0%B7%83-%E0%B6%B6%E0%B6%B3%E0%B6%B8%E0%B6%9A%E0%B6%BB-%E0%B7%83%E0%B6%AF%E0%B6%B0%E0%B6%BA%E0%B6%A7-%E0%B7%84%E0%B6%A7%E0%B6%B4-%E0%B6%B8%E0%B7%84-%E0%B6%B6%E0%B6%9A-%E0%B6%85%E0%B6%B0%E0%B6%B4%E0%B6%AD-%E0%B6%85%E0%B6%A2%E0%B6%AD-%E0%B6%B1%E0%B7%80%E0%B6%A9%E0%B6%A7-%E0%B6%BA%E0%B7%85-%E0%B6%B1%E0%B6%A9-%E0%B6%AF%E0%B6%B8%E0%B6%BA/101-691762",
+    "isoTimestamp": "2026-05-06T20:31:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "ce511dac3a8d7c28e9aecf5d377b475997b470836707e84c4d5750af3386d40c"
+  },
+  {
+    "title": "විද්‍යාගේ ඝාතකයන් හතරකට මරණ දඬුවම තහවුරුයි",
+    "href": "",
+    "byline": "සිවුලෝගනාදන් විද්‍යා නමැති යාපනයේ පාසල් සිසුවිය පැහැරගෙන ගොස් සමූහ දූෂණය කර ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් මරණ දඬුවම වූ සුවිස් කුමාර ඇතුළු සිව්දෙනෙකුගේ මරණ දඬුවම තහවුරු කළ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉතිරි විත්තිකරුවන් දෙදෙනා නිදොස් කොට නිදහස් කිරීමට තීන්දු කළේය.",
+    "timestamp": "2 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B7%80%E0%B6%AF%E0%B6%BA%E0%B6%9C-%E0%B6%9D%E0%B6%AD%E0%B6%9A%E0%B6%BA%E0%B6%B1-%E0%B7%84%E0%B6%AD%E0%B6%BB%E0%B6%9A%E0%B6%A7-%E0%B6%B8%E0%B6%BB%E0%B6%AB-%E0%B6%AF%E0%B6%AC%E0%B7%80%E0%B6%B8-%E0%B6%AD%E0%B7%84%E0%B7%80%E0%B6%BB%E0%B6%BA/101-691758",
+    "isoTimestamp": "2026-05-06T20:30:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "c1f5b888904a08a5125e5bb24041135e22f3c4a91c64aca329861b3e0a8a6986"
+  },
+  {
+    "title": "සජබෙන් කතානායකට යෝජනාවක්",
+    "href": "",
+    "byline": "විධායකය අධිකරණයට කරනු ලබන බව කියන අතපෙවීම් හෙළා දැකීම සදහා සභාව කල් තබන අවස්ථාවේ විවාදයක් ඉල්ලා යෝජනාවක් සමගි ජන බලවේගයේ මන්ත්‍රීවරු පිරිසක් කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාට කතානායක කාර්යාලයේදී අද (6) බාර දුන්හ.",
+    "timestamp": "2 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B7%83%E0%B6%A2%E0%B6%B6%E0%B6%B1-%E0%B6%9A%E0%B6%AD%E0%B6%B1%E0%B6%BA%E0%B6%9A%E0%B6%A7-%E0%B6%BA%E0%B6%A2%E0%B6%B1%E0%B7%80%E0%B6%9A/101-691757",
+    "isoTimestamp": "2026-05-06T20:30:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "7eb04e4ac546a828a51f0327ff2eb3dd5c628d2c9a49543e6c1c2d3abe4a2588"
+  },
+  {
+    "title": "උසස් අධ්‍යාපනයටත් දැවැන්ත වෙනසක්",
+    "href": "",
+    "byline": "ප්‍රාථමික හා ද්විතීයික අධ්‍යාපන ක්ෂේත්‍ර වල සිදුවන නව ප්‍රතිසංස්කරණ වලට අනුගත වෙමින් උසස් අධ්‍යාපන ක්ෂේත්‍රයේ ද අදාල වෙනස්කම් සිදු කිරීමට රජය සැලසුම් කර ඇති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පාර්ලිමේන්තුවේදී අද(6) ප්‍රකාශ කළාය.",
+    "timestamp": "3 hours ago",
+    "url": "https://www.lankadeepa.lk/politics/%E0%B6%8B%E0%B7%83%E0%B7%83-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%B4%E0%B6%B1%E0%B6%BA%E0%B6%A7%E0%B6%AD-%E0%B6%AF%E0%B7%80%E0%B6%B1%E0%B6%AD-%E0%B7%80%E0%B6%B1%E0%B7%83%E0%B6%9A/13-691756",
+    "isoTimestamp": "2026-05-06T20:29:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "f1acd76342ae6aad389a701a2a7c726dfc373a0abce82bea40c7149c933e6187"
+  },
+  {
+    "title": "කොත්මලේ ජලාශයේ මඩ සොරොව්ව අරී",
+    "href": "",
+    "byline": "කොත්මලේ ගාමිණි දිසානායක ජලාශයේ මඩ සොරොව්ව විනාඩි 30ක පමණ කාලයක් විවෘත කළ බව එම ජලාශ කාර්යභාර ඉංජිනේරුවරයා පැවසීය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%9A%E0%B6%AD%E0%B6%B8%E0%B6%BD-%E0%B6%A2%E0%B6%BD%E0%B7%81%E0%B6%BA-%E0%B6%B8%E0%B6%A9-%E0%B7%83%E0%B6%BB%E0%B7%80%E0%B7%80-%E0%B6%85%E0%B6%BB/101-691755",
+    "isoTimestamp": "2026-05-06T20:28:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "f0ea677df7e5f116abebe478ef9613ed8eb5e2504a603d9b17ba353f8a1cd7d2"
+  },
+  {
+    "title": "ජනපති වෙනුවෙන් මැතිසබයට ලොක්කෙක්",
+    "href": "",
+    "byline": "ජනාධිපති අතිරේක ලේකම්වරයකු වන කේ.එන්.එම් කුමාරසිංහ මහතා ජනාධිපතිවරයාගේ පාර්ලිමේන්තු කටයුතු සම්බන්ධීකරණ නිලධාරි ලෙස පත් කරනු ලැබ සිටී.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B7%80%E0%B6%B1%E0%B7%80%E0%B6%B1-%E0%B6%B8%E0%B6%AD%E0%B7%83%E0%B6%B6%E0%B6%BA%E0%B6%A7-%E0%B6%BD%E0%B6%9A%E0%B6%9A%E0%B6%9A/101-691754",
+    "isoTimestamp": "2026-05-06T20:28:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "06e3c1150e0084a0cfd25b0f833bba8e2674c952e52941bccdf21a300f1368c2"
+  },
+  {
+    "title": "ජනපති අරමුදලට තවත් ලොකු සවියක් ලැබෙයි",
+    "href": "",
+    "byline": "වයස අවුරදු 18ට අඩු දරුවන්ට ලැබෙන සෞඛ්‍ය පහසුකම් පුළුල් කිරීමේ අරමුණින් ජනාධිපති අරමුදල සහ ජනශක්ති පදනම සුවිශේෂී සහයෝගීතාවකට එළැඹීම අද (06) සිදු විය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B6%85%E0%B6%BB%E0%B6%B8%E0%B6%AF%E0%B6%BD%E0%B6%A7-%E0%B6%AD%E0%B7%80%E0%B6%AD-%E0%B6%BD%E0%B6%9A-%E0%B7%83%E0%B7%80%E0%B6%BA%E0%B6%9A-%E0%B6%BD%E0%B6%B6%E0%B6%BA/101-691753",
+    "isoTimestamp": "2026-05-06T20:28:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "1ff778ee4293cc0b5ac0f166ea94577fc2361ced13ad396fda155bab0af6eab0"
+  },
+  {
+    "title": "ලිට්‍රෝ ගෑස් මිල වෙනස් නොවේ",
+    "href": "",
+    "byline": "ලිට්‍රෝ ගෘහස්ථ ගෑස් මිල මෙම මස (මැයි) සංශෝධනය නොකරන බව ලිට්‍රෝ ගෑස් සමාගමේ සභාපති චන්න ගුණවර්ධන මහතා පැවසීය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BD%E0%B6%A7%E0%B6%BB-%E0%B6%9C%E0%B7%83-%E0%B6%B8%E0%B6%BD-%E0%B7%80%E0%B6%B1%E0%B7%83-%E0%B6%B1%E0%B7%80/101-691752",
+    "isoTimestamp": "2026-05-06T20:28:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "dc5bf5f6c9b958cd29fd358c6e40989b329020511fe45ab4e205ad1c452eb8f0"
+  },
+  {
+    "title": "‘‘හොන්ඩියස්’‘ නෞකාවට හන්තා වයිරසය බෝ කළේ මීයන්?",
+    "href": "",
+    "byline": "හන්තා වයිරස් (Hantavirus) ව්‍යාප්තියක් හේතුවෙන් ආසාදිතයන් වාර්තා වී ඇති ‘එම්වී හොන්ඩියස්’ (MV Hondius) සුඛෝපභෝගී නෞකාවට ස්පාඤ්ඤයට අයත් කැනරි දූපත් වෙත ඇතුළු වීමට ඉඩ ලබා නොදෙන බව එම කලාපයේ සභාපති ප්‍රනාන්දු ක්ලැවිජෝ (Fernando Clavijo) පසුගිය බදාදා තහවුරු කළේය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B7%84%E0%B6%B1%E0%B6%A9%E0%B6%BA%E0%B7%83-%E0%B6%B1%E0%B6%9A%E0%B7%80%E0%B6%A7-%E0%B7%84%E0%B6%B1%E0%B6%AD-%E0%B7%80%E0%B6%BA%E0%B6%BB%E0%B7%83%E0%B6%BA-%E0%B6%B6-%E0%B6%9A%E0%B7%85-%E0%B6%B8%E0%B6%BA%E0%B6%B1/101-691751",
+    "isoTimestamp": "2026-05-06T20:28:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "87d810c1d1227a0dabd02b0520a85e55c7bbfa480271ce067d38a2b5b9d3e402"
+  },
+  {
+    "title": "උඩරට දුම්රිය මාර්ගයේ වැඩ අවසන් අධියරේ",
+    "href": "",
+    "byline": "දිට්වා සුළි කුණාටුවත් සමග ඇති වූ ගංවතුරින් හානි වූ උඩරට දුම්රිය මාර්ගයේ ස්ථාන 97න් 92ක් මේ වනවිට යථා තත්වයට  කර ඇතැයි ප්‍රවාහන නියෝජ්‍ය අමාත්‍ය ප්‍රසන්න ගුණසේන මහතා පවසයි.",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%8B%E0%B6%A9%E0%B6%BB%E0%B6%A7-%E0%B6%AF%E0%B6%B8%E0%B6%BB%E0%B6%BA-%E0%B6%B8%E0%B6%BB%E0%B6%9C%E0%B6%BA-%E0%B7%80%E0%B6%A9-%E0%B6%85%E0%B7%80%E0%B7%83%E0%B6%B1-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%BB/101-691750",
+    "isoTimestamp": "2026-05-06T20:27:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "43623b98aa06e5dbcb7045644dcc12bf5bb248a42360bf4f8d071eabfdbc35b5"
+  },
+  {
+    "title": "විපක්ෂයේ ඇතැම් පක්ෂ පුනරුත්ථාපනය කරන්න වෙලා",
+    "href": "",
+    "byline": "විපක්ෂයේ සමහර පක්ෂත් අද පුනරුත්ථාපනය කරන මට්ටමකට ඇද වැටී තිබෙන බව ක්‍රීඩා හා තරුණ කටයුතු අමාත්‍ය සුනිල් කුමාර ගමගේ මහතා පාර්ලිමේන්තුවේදී පැවසීය.",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B7%80%E0%B6%B4%E0%B6%9A%E0%B7%82%E0%B6%BA-%E0%B6%87%E0%B6%AD%E0%B6%B8-%E0%B6%B4%E0%B6%9A%E0%B7%82-%E0%B6%B4%E0%B6%B1%E0%B6%BB%E0%B6%AD%E0%B6%AE%E0%B6%B4%E0%B6%B1%E0%B6%BA-%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B6%B1-%E0%B7%80%E0%B6%BD/101-691749",
+    "isoTimestamp": "2026-05-06T20:27:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "152eb879a148e76c4c8b83b60b3a2f35c1b003af18eb1f7ccf2477e5abe98bc7"
+  },
+  {
+    "title": "12 සිසුවකුට නරක වැඩක් කළ සිසුන් දෙදෙනකු අල්ලයි",
+    "href": "",
+    "byline": "නව ගත්තේගම මහමැද්දාව වැව මංකඩහි දිය නාමින් සිටි 12 හැවිරිදි සිසුවකුගේ ගුද මාර්ගයට බලහත්කාරයෙන් පාසි හා නෙළුම් දණ්ඩක් ඇතුළු කළ බව කියන සිසුන් දෙදෙනකු  අත්අඩංගුවට ගත් බව නවගත්තේගම පොලිසිය පවසයි.",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/news/12-%E0%B7%83%E0%B7%83%E0%B7%80%E0%B6%9A%E0%B6%A7-%E0%B6%B1%E0%B6%BB%E0%B6%9A-%E0%B7%80%E0%B6%A9%E0%B6%9A-%E0%B6%9A%E0%B7%85-%E0%B7%83%E0%B7%83%E0%B6%B1-%E0%B6%AF%E0%B6%AF%E0%B6%B1%E0%B6%9A-%E0%B6%85%E0%B6%BD%E0%B6%BD%E0%B6%BA/101-691748",
+    "isoTimestamp": "2026-05-06T20:27:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "a9cb0cd198e2677808e60f18d71829b8d051e0357f2a01ecd09f33cfcd612472"
+  },
+  {
+    "title": "‘‘රංගගේ මරණය සැකයි කීවේ සාක්කි ඇතිවයි‘‘",
+    "href": "",
+    "byline": "මරණයට පත්වූ මහා භාණ්ඩාගාරයේ හිටපු නිලධාරී රංග රාජපක්‍ෂ මහතාගේ මරණ සැක සහිත යැයි ඔහුගේ බිරිඳ පවසා ඇතැයි ප්‍රකාශ කළේ සෞඛ්‍ය අධ්‍යක්‍ෂ ජනරාල්වරයාගේ ලිපියක් පදනම් කරගෙන බවත් ඒ පිළිබඳව ප්‍රකාශයක් දීමට සක්‍ෂි සහිතව කුලියාපිටිය පොලිසියට ලබන 9 වැනි දා යන බවත් පිවිතුරු හෙළඋරුමය පක්‍ෂයේ නායක, හිටපු අමාත්‍ය නීතිඥ උදය ගම්මන්පිල මහතා අද (6) පැවසීය.",
+    "timestamp": "6 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BB%E0%B6%9C%E0%B6%9C-%E0%B6%B8%E0%B6%BB%E0%B6%AB%E0%B6%BA-%E0%B7%83%E0%B6%9A%E0%B6%BA-%E0%B6%9A%E0%B7%80-%E0%B7%83%E0%B6%9A%E0%B6%9A-%E0%B6%87%E0%B6%AD%E0%B7%80%E0%B6%BA/101-691747",
+    "isoTimestamp": "2026-05-06T20:26:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "40af3a002a24f79b80d60f100c2a640517c22089f733a8af86463d7109ca2d07"
+  },
+  {
+    "title": "රංගගේ මරණය: පරීක්ෂණ ස්කෝට්ලන්ඩියාඩ් පොලිසියට?",
+    "href": "",
+    "byline": "No summary available",
+    "timestamp": "6 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%BB%E0%B6%9C%E0%B6%9C-%E0%B6%B8%E0%B6%BB%E0%B6%AB%E0%B6%BA-%E0%B6%B4%E0%B6%BB%E0%B6%9A%E0%B7%82%E0%B6%AB-%E0%B7%83%E0%B6%9A%E0%B6%A7%E0%B6%BD%E0%B6%B1%E0%B6%A9%E0%B6%BA%E0%B6%A9-%E0%B6%B4%E0%B6%BD%E0%B7%83%E0%B6%BA%E0%B6%A7/101-691746",
+    "isoTimestamp": "2026-05-06T20:26:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "9749e2fc26970ef3e46cc9b73b475228126fb2746916a7b8858266776d9ce9bf"
+  },
+  {
+    "title": "පොලිසිය බාරයේ තිබූ යතුරු පැදිය දෙන්න කතකගෙන් 4000ක අල්ලසක් අරන්",
+    "href": "",
+    "byline": "කුරුණෑගල පොලිසිය භාරයේ තිබූ යතුරු පැදියක් නිදහස් කර ගැනීිමට පැමිණි කාන්තාවකගෙන් රුපියල් 4000 මුදලක් ලබා ගත් බව කියන කුරුණෑගල පොලිසියේ සංචාරක අංශයේ රාජකාරි කරනු ලබන පොලිස් සැරයන්වරයකු  අත්අඩංගුවට ගත් බව කුරුණෑගල පොලිසිය පවසයි.",
+    "timestamp": "6 hours ago",
+    "url": "https://www.lankadeepa.lk/news/%E0%B6%B4%E0%B6%BD%E0%B7%83%E0%B6%BA-%E0%B6%B6%E0%B6%BB%E0%B6%BA-%E0%B6%AD%E0%B6%B6-%E0%B6%BA%E0%B6%AD%E0%B6%BB-%E0%B6%B4%E0%B6%AF%E0%B6%BA-%E0%B6%AF%E0%B6%B1%E0%B6%B1-%E0%B6%9A%E0%B6%AD%E0%B6%9A%E0%B6%9C%E0%B6%B1-4000%E0%B6%9A-%E0%B6%85%E0%B6%BD%E0%B6%BD%E0%B7%83%E0%B6%9A-%E0%B6%85%E0%B6%BB%E0%B6%B1/101-691745",
+    "isoTimestamp": "2026-05-06T20:26:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "3b09ca22212af3f5cb0fa7d200021eab9c8dfd5175879ead7ed31fba848f92d3"
+  },
+  {
+    "title": "විජේ දිනුම්: රජයක් පිහිටුවන්න සූදානම්",
+    "href": "",
+    "byline": "ඉන්දියාවේ තමිල්නාඩු ප්‍රාන්ත සභා මැතිවරණයෙන්, විශිෂ්ට ජයක් හිමි කර ගැනීමට සුපිරි නළු තලපති විජේගේ  ’තමිලග වෙට්රි කලගම්’ (TVK) සමත් විය. ඒ, ආසන 108 ක් දිනා ගනිමිනි. ආසන 100 කට වැඩි ගණනක් දිනූ තනි පක්ෂය වන්නේ ද  ’තමිලග වෙට්රි කලගම්’ පක්ෂයයි.",
+    "timestamp": "05 May 2026",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%80%E0%B6%A2-%E0%B6%AF%E0%B6%B1%E0%B6%B8-%E0%B6%BB%E0%B6%A2%E0%B6%BA%E0%B6%9A-%E0%B6%B4%E0%B7%84%E0%B6%A7%E0%B7%80%E0%B6%B1%E0%B6%B1-%E0%B7%83%E0%B6%AF%E0%B6%B1%E0%B6%B8/1-691677",
+    "isoTimestamp": "2026-05-06T20:32:42+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "da302b3f07a498c20c52b56675fd099ff3c7fc1e34908037d8b72bb3571e6ab8"
+  },
+  {
+    "title": "මහා භාණ්ඩාගාර හැකර් සිද්ධියට රිමාන්ඩ් චීන්නු 120ක් ගැන විශේෂ විමර්ශන",
+    "href": "",
+    "byline": "මහා භාණ්ඩාගාරයේ ඇමරිකානු ඩොලර් මිලියන 2.5 මුදලක් හැකරුන් විසින් වංචා කළ මොහොතක මෙරටට පැමිණ අන්තර්ජාල මුදල් වංචාවේ නිරත වී යැයි රක්ෂිත බන්ධනාගාරගත විදෙස් ජාතිකයන් 120 පිළිබඳව පුළුල් විමර්ශනයක් ආරම්භ කළ බව කොළඹ අතිරේක මහේස්ත්‍රාත් නුවන් කෞෂල්‍ය මහතා ඉදිරියේ කරුණු දක්වමින් වැලිකඩ පොලිසිය  කියා සිටියේය.",
+    "timestamp": "3 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%B8%E0%B7%84-%E0%B6%B7%E0%B6%AB%E0%B6%A9%E0%B6%9C%E0%B6%BB-%E0%B7%84%E0%B6%9A%E0%B6%BB-%E0%B7%83%E0%B6%AF%E0%B6%B0%E0%B6%BA%E0%B6%A7-%E0%B6%BB%E0%B6%B8%E0%B6%B1%E0%B6%A9-%E0%B6%A0%E0%B6%B1%E0%B6%B1-120%E0%B6%9A-%E0%B6%9C%E0%B6%B1-%E0%B7%80%E0%B7%81%E0%B7%82-%E0%B7%80%E0%B6%B8%E0%B6%BB%E0%B7%81%E0%B6%B1/1-691767",
+    "isoTimestamp": "2026-05-06T23:29:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "892372e02da204c69348b15ec851c019f618c20f908650cde165a5b149eff8c8"
+  },
+  {
+    "title": "රන් කිලෝ පහකට පොලු තිබ්බැයි අයියා - මල්ලී රිමාන්ඩ්",
+    "href": "",
+    "byline": "රත්තරන් කිලෝ 5 ක් ලබා දෙන බවට පවසා රුපියල් ලක්ෂ 1800 ක් වංචා කළේ යැයි අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කළ ගලේවෙල පදිංචි අයියා සහ මල්ලී ලබන 12 දින දක්වා රිමාන්ඩ් බාරයේ තබන්නැයි කොළඹ අතිරේක මහේස්ත්‍රාත් ලහිරු සිල්වා මහතා අද (6) නියෝග කළේය.",
+    "timestamp": "3 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BB%E0%B6%B1-%E0%B6%9A%E0%B6%BD-%E0%B6%B4%E0%B7%84%E0%B6%9A%E0%B6%A7-%E0%B6%B4%E0%B6%BD-%E0%B6%AD%E0%B6%B6%E0%B6%B6%E0%B6%BA-%E0%B6%85%E0%B6%BA%E0%B6%BA-%E0%B6%B8%E0%B6%BD%E0%B6%BD-%E0%B6%BB%E0%B6%B8%E0%B6%B1%E0%B6%A9/1-691766",
+    "isoTimestamp": "2026-05-06T23:29:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "8ec7908b7af630daacb33ac42ae71089c5e2bfa02e5f3e71e6b0f3355aeaf9f8"
+  },
+  {
+    "title": "ජීවන්ගෙන් තලපති විජේට  සුබ පැතුම්",
+    "href": "",
+    "byline": "ලංකා කම්කරු කොංග්‍රසයේ මහලේකම් ජීවන් තොන්ඩමන් මහතා   තමිල්නාඩුවේ නව මහඇමති ලෙසින් දිවුරුම්දීමට නියමිත සුපිරි නළු තලපති විජේට  සිය සුබ පැතුම් එක් කළේය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%A2%E0%B7%80%E0%B6%B1%E0%B6%9C%E0%B6%B1-%E0%B6%AD%E0%B6%BD%E0%B6%B4%E0%B6%AD-%E0%B7%80%E0%B6%A2%E0%B6%A7-%E0%B7%83%E0%B6%B6-%E0%B6%B4%E0%B6%AD%E0%B6%B8/1-691764",
+    "isoTimestamp": "2026-05-06T23:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "1bc4e1f54781524959c988e4dec2fe07d943ce54180444d17739a4a85d7b9b38"
+  },
+  {
+    "title": "ලෝක බැංකු නියෝජිතයෝ ජනපති කාර්යාලයට",
+    "href": "",
+    "byline": "ලෝක බැංකුවේ මෙරට කළමනාකරු Gevorg Sargsyan මහතා ඇතුළු නියෝජිත කණ්ඩායමක් ජනාධිපති ලේකම් කාර්යාලයේදී අද (06)  ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා හමු විය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%BD%E0%B6%9A-%E0%B6%B6%E0%B6%9A-%E0%B6%B1%E0%B6%BA%E0%B6%A2%E0%B6%AD%E0%B6%BA-%E0%B6%A2%E0%B6%B1%E0%B6%B4%E0%B6%AD-%E0%B6%9A%E0%B6%BB%E0%B6%BA%E0%B6%BD%E0%B6%BA%E0%B6%A7/1-691763",
+    "isoTimestamp": "2026-05-06T23:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "b20bd48c9f582ad7478dede8eae069f938c98306d567108cee6bfc9e42eb6959"
+  },
+  {
+    "title": "ඇමෙරිකා තැපැල් සේවයට ගෙවූ ඩොලර් ලක්ෂ 6ක් වෙනත් පාර්ශවයක බැරවෙලා",
+    "href": "",
+    "byline": "ඇමෙරිකා තැපැල් සේවයට ගෙවිය යුතු ඩොලර් ලක්ෂ හයකට අධික මුදලක් තෙවන පාර්ශවයකට බැරවීමේ සිද්ධිය සම්බන්ධයෙන් තැපැල් දෙපාර්තමේන්තුවේ ස්ථානීය පරීක්‍ෂණයක් කිරීමට කොටුව මහේස්ත්‍රාත් පසන් අමරසේන මහතා නියම කළේය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%87%E0%B6%B8%E0%B6%BB%E0%B6%9A-%E0%B6%AD%E0%B6%B4%E0%B6%BD-%E0%B7%83%E0%B7%80%E0%B6%BA%E0%B6%A7-%E0%B6%9C%E0%B7%80-%E0%B6%A9%E0%B6%BD%E0%B6%BB-%E0%B6%BD%E0%B6%9A%E0%B7%82-6%E0%B6%9A-%E0%B7%80%E0%B6%B1%E0%B6%AD-%E0%B6%B4%E0%B6%BB%E0%B7%81%E0%B7%80%E0%B6%BA%E0%B6%9A-%E0%B6%B6%E0%B6%BB%E0%B7%80%E0%B6%BD/1-691761",
+    "isoTimestamp": "2026-05-06T23:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "d7e410672a668f1b3cf900e815bec262bea4f197cdaf3c44ea61f78f80e993be"
+  },
+  {
+    "title": "ආණ්ඩුවට පේන්න බැරි රාජ්‍ය සේවක කොටසක් ගැන හෙළිදරව්වක්",
+    "href": "",
+    "byline": "රාජ්‍යයට හානි කරන, දූෂණ කරන, උනන්දුවෙන් වැඩ නොකරන රාජ්‍ය සේවකයන් ආරක්ෂා කරන්න ආණ්ඩුවට උවමනාවක් නැතැයි කර්මාන්ත හා ව්‍යවසාය සංවර්ධන නියෝජ්‍ය අමාත්‍ය චතුරංග අබේසිංහ මහතා පාර්ලිමේන්තුවේදී පැවසීය.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%86%E0%B6%AB%E0%B6%A9%E0%B7%80%E0%B6%A7-%E0%B6%B4%E0%B6%B1%E0%B6%B1-%E0%B6%B6%E0%B6%BB-%E0%B6%BB%E0%B6%A2%E0%B6%BA-%E0%B7%83%E0%B7%80%E0%B6%9A-%E0%B6%9A%E0%B6%A7%E0%B7%83%E0%B6%9A-%E0%B6%9C%E0%B6%B1-%E0%B7%84%E0%B7%85%E0%B6%AF%E0%B6%BB%E0%B7%80%E0%B7%80%E0%B6%9A/1-691759",
+    "isoTimestamp": "2026-05-06T23:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "f625bc5dec16c7052370a3efc76b29b9bce6478fcfd85232dcfdb6bbac340b04"
+  },
+  {
+    "title": "ග්‍රීසි බැඳුම්කර සිද්ධියට හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ්ට යළි නඩු දමයි",
+    "href": "",
+    "byline": "ග්‍රීසිය දැඩි ආර්ථික අර්බුදයකට ලක්ව සිටින බව දැන දැනම ග්‍රීක බැඳුම්කර මිලදී ගැනීමෙන් ශ්‍රී ලංකා රජයට රුපියල් කෝටි 184 කට අධික පාඩුවක් කළ බවට හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතාට එරෙහිව අල්ලස් කොමිෂම යළිත් වරක් කොළඹ මහාධිකරණයේ නඩු පවරා ඇත.",
+    "timestamp": "4 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%9C%E0%B6%BB%E0%B7%83-%E0%B6%B6%E0%B6%B3%E0%B6%B8%E0%B6%9A%E0%B6%BB-%E0%B7%83%E0%B6%AF%E0%B6%B0%E0%B6%BA%E0%B6%A7-%E0%B7%84%E0%B6%A7%E0%B6%B4-%E0%B6%B8%E0%B7%84-%E0%B6%B6%E0%B6%9A-%E0%B6%85%E0%B6%B0%E0%B6%B4%E0%B6%AD-%E0%B6%85%E0%B6%A2%E0%B6%AD-%E0%B6%B1%E0%B7%80%E0%B6%A9%E0%B6%A7-%E0%B6%BA%E0%B7%85-%E0%B6%B1%E0%B6%A9-%E0%B6%AF%E0%B6%B8%E0%B6%BA/1-691762",
+    "isoTimestamp": "2026-05-06T23:28:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "de72e7bf2c21af6c209df6dad915c8a50b1e942544c3861a603c32b8f4cc5ef6"
+  },
+  {
+    "title": "විද්‍යාගේ ඝාතකයන් හතරකට මරණ දඬුවම තහවුරුයි",
+    "href": "",
+    "byline": "සිවුලෝගනාදන් විද්‍යා නමැති යාපනයේ පාසල් සිසුවිය පැහැරගෙන ගොස් සමූහ දූෂණය කර ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් මරණ දඬුවම වූ සුවිස් කුමාර ඇතුළු සිව්දෙනෙකුගේ මරණ දඬුවම තහවුරු කළ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉතිරි විත්තිකරුවන් දෙදෙනා නිදොස් කොට නිදහස් කිරීමට තීන්දු කළේය.",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%80%E0%B6%AF%E0%B6%BA%E0%B6%9C-%E0%B6%9D%E0%B6%AD%E0%B6%9A%E0%B6%BA%E0%B6%B1-%E0%B7%84%E0%B6%AD%E0%B6%BB%E0%B6%9A%E0%B6%A7-%E0%B6%B8%E0%B6%BB%E0%B6%AB-%E0%B6%AF%E0%B6%AC%E0%B7%80%E0%B6%B8-%E0%B6%AD%E0%B7%84%E0%B7%80%E0%B6%BB%E0%B6%BA/1-691758",
+    "isoTimestamp": "2026-05-06T23:27:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "1b939fe455b9a15d29d13c23cb984395af26c835842080295c41fd3a6712b4a9"
+  },
+  {
+    "title": "සජබෙන් කතානායකට යෝජනාවක්",
+    "href": "",
+    "byline": "විධායකය අධිකරණයට කරනු ලබන බව කියන අතපෙවීම් හෙළා දැකීම සදහා සභාව කල් තබන අවස්ථාවේ විවාදයක් ඉල්ලා යෝජනාවක් සමගි ජන බලවේගයේ මන්ත්‍රීවරු පිරිසක් කතානායක වෛද්‍ය ජගත් වික්‍රමරත්න මහතාට කතානායක කාර්යාලයේදී අද (6) බාර දුන්හ.",
+    "timestamp": "5 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B7%83%E0%B6%A2%E0%B6%B6%E0%B6%B1-%E0%B6%9A%E0%B6%AD%E0%B6%B1%E0%B6%BA%E0%B6%9A%E0%B6%A7-%E0%B6%BA%E0%B6%A2%E0%B6%B1%E0%B7%80%E0%B6%9A/1-691757",
+    "isoTimestamp": "2026-05-06T23:27:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "8b3e5dbb7bdf12a37d5d29634f0abc90cdf856b3b31658d697fe1a6725da7ce9"
+  },
+  {
+    "title": "උසස් අධ්‍යාපනයටත් දැවැන්ත වෙනසක්",
+    "href": "",
+    "byline": "ප්‍රාථමික හා ද්විතීයික අධ්‍යාපන ක්ෂේත්‍ර වල සිදුවන නව ප්‍රතිසංස්කරණ වලට අනුගත වෙමින් උසස් අධ්‍යාපන ක්ෂේත්‍රයේ ද අදාල වෙනස්කම් සිදු කිරීමට රජය සැලසුම් කර ඇති බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පාර්ලිමේන්තුවේදී අද(6) ප්‍රකාශ කළාය.",
+    "timestamp": "6 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%8B%E0%B7%83%E0%B7%83-%E0%B6%85%E0%B6%B0%E0%B6%BA%E0%B6%B4%E0%B6%B1%E0%B6%BA%E0%B6%A7%E0%B6%AD-%E0%B6%AF%E0%B7%80%E0%B6%B1%E0%B6%AD-%E0%B7%80%E0%B6%B1%E0%B7%83%E0%B6%9A/1-691756",
+    "isoTimestamp": "2026-05-06T23:26:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "0d262f50bd0bb4fa52417db5cfb8fb5d56b7acc84693a594f549af9e6decdccc"
+  },
+  {
+    "title": "කොත්මලේ ජලාශයේ මඩ සොරොව්ව අරී",
+    "href": "",
+    "byline": "කොත්මලේ ගාමිණි දිසානායක ජලාශයේ මඩ සොරොව්ව විනාඩි 30ක පමණ කාලයක් විවෘත කළ බව එම ජලාශ කාර්යභාර ඉංජිනේරුවරයා පැවසීය.",
+    "timestamp": "7 hours ago",
+    "url": "https://www.lankadeepa.lk/latest_news/%E0%B6%9A%E0%B6%AD%E0%B6%B8%E0%B6%BD-%E0%B6%A2%E0%B6%BD%E0%B7%81%E0%B6%BA-%E0%B6%B8%E0%B6%A9-%E0%B7%83%E0%B6%BB%E0%B7%80%E0%B7%80-%E0%B6%85%E0%B6%BB/1-691755",
+    "isoTimestamp": "2026-05-06T23:25:55+05:30",
+    "baseUrl": "https://www.lankadeepa.lk/latest-news/1",
+    "checkSum": "14f6251218456fbcc21a491700c64b20c97befdff429bc41926402ab78108228"
+  }
+]
