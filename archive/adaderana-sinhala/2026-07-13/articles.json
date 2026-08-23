@@ -1,0 +1,632 @@
+[
+  {
+    "title": "අමෙරිකාවෙන් ඉරානයේ මිලිටරි සහ සිවිල් ඉලක්ක වෙත ප්‍රහාර",
+    "href": "news.php?nid=228485",
+    "byline": "ඉරානය සතු මිලිටරි සහ සිවිල් යටිතල පහසුකම් ඉලක්ක කරගනිමින් අමෙරිකානු ආරක්ෂක බලකායන් විසින් එල්ල කරන ලද දැවැන්ත ප්‍රහාර මාලාවක් හේතුවෙන්, දෙරට අතර පැවැති තාවකාලික සටන් විරාමය බිඳ වැටී යළිත් මහා පරිමාණ යුද්ධයක් ආරම්භ වීමේ දැඩි අවදානමක් මතුව ඇත.",
+    "timestamp": "July 13, 2026  12:36 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228485",
+    "isoTimestamp": "2026-07-13T02:30:08+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a374f09fcb436a6830f79901b7058fe143c469da23018c9fef180ca61f3c25f0"
+  },
+  {
+    "title": "අමෙරිකාව සහ ඉරානය අතර ප්‍රහාර උග්‍ර අතට",
+    "href": "news.php?nid=228486",
+    "byline": "අමෙරිකාව සහ ඉරාන හමුදා අතර දැවැන්ත මිසයිල සහ ඩ්‍රෝන ප්‍රහාර හුවමාරුවක් සිදුව ඇති අතර, ඉරානය විසින් පසුගිය ඉරිදා ගල්ෆ් කලාපයේ රටවල් පුරා පිහිටි අමෙරිකානු මධ්‍යස්ථාන ඉලක්ක කර ප්‍රහාර එල්ල කර තිබේ.",
+    "timestamp": "July 13, 2026  5:17 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228486",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "1ed1506e6bd160d310c44e077f1076c440fbce31acff825346e727e23ce9d53b"
+  },
+  {
+    "title": "2026-07-13",
+    "href": "news.php?nid=228487",
+    "byline": "No byline",
+    "timestamp": "July 13, 2026  5:33 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228487",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c1ecd910fcf0f5a1cbdd55031d7c050b411cc14a58c4009b6da0783751183f83"
+  },
+  {
+    "title": "ප්‍රදේශ කිහිපයකට වැසි - සෙසු ප්‍රදේශවලට වියළි කාලගුණයක්",
+    "href": "news.php?nid=228488",
+    "byline": "සබරගමුව පළාතෙත් මහනුවර, නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් වැසි වාර කිහිපයක් ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+    "timestamp": "July 13, 2026  5:34 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228488",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0a1574b28e02c7376109dcda21fdc746f8044f74c2370fbe9ffe0e9e11f35e68"
+  },
+  {
+    "title": "තායිලන්තයේ බැංකොක් නුවර අවන්හලක ඇති වූ ගින්නක් 27ක් මරුට",
+    "href": "news.php?nid=228489",
+    "byline": "තායිලන්තයේ බැංකොක් නුවර අවන්හලක හටගත් ගින්නකින් පුද්ගලයන් 27දෙනෙකු මියගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.",
+    "timestamp": "July 13, 2026  5:47 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228489",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f51a0fab2e912e2832cac1da0c37fb773d2be372d3fa756f18d11e804ce81e5d"
+  },
+  {
+    "title": "වනජීවි නිලධාරීන් සේවයෙන් ඉවත්වී අසනීප නිවාඩු වාර්තා කරයි",
+    "href": "news.php?nid=228490",
+    "byline": "සිවිල් ආරක්ෂක නිලධාරීන් වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුව සඳහා අන්තර්ග්‍රහණය කිරීමට රජය ගෙන ඇති පියවරට විරෝධය පළ කරමින් වනජීවී දෙපාර්තමේන්තුවේ සියලුම වෘත්තීය සමිති සාමාජිකයින් අද (13) අසනීප නිවාඩු වාර්තා කරමින් වෘත්තීය ක්‍රියාමාර්ගයකට අවතීර්ණ වී තිබේ.",
+    "timestamp": "July 13, 2026  6:24 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228490",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "5cbba1e347e6aadcc14f7eed29dc4d27597cc4038bccd9c82b1e64eec66b000f"
+  },
+  {
+    "title": "වී මිලදී ගැනීම් අද සිට ඇරඹෙයි",
+    "href": "news.php?nid=228491",
+    "byline": "මෙවර යල කන්නයේ වී මිලදී ගැනීම් අද (13) සිට ආරම්භ කිරීමට නියමිතව තිබේ.\n\nඒ අනුව මේ දිනවල වැඩිම වී අස්වනු නෙලන ප්‍රදේශ ආශ්‍රිතව වී ගබඩා විවෘත කරමින් වී මිලදී ගැනීම් ආරම්භ කරන බව වී අලෙවි මණ්ඩලයේ සභාපති මංජුල පින්නලන්ද මහතා සඳහන් කළේය.",
+    "timestamp": "July 13, 2026  6:36 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228491",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2f77a4af8d7fb6b1d1b4c2bda78847d570919573adb24ce7b84108c65b857658"
+  },
+  {
+    "title": "ඩෙංගු නිසා වසා දැමුණු සෞන්දර්ය සරසවියේ අධ්‍යයන කටයුතු යළි ඇරඹේ",
+    "href": "news.php?nid=228492",
+    "byline": "ඩෙංගු ව්‍යාප්තිය හේතුවෙන් තාවකාලිකව වසා දැමුණු කොළඹ සෞන්දර්ය කලා විශ්ව විද්‍යාලයේ අධ්‍යයන කටයුතු අද (13) සිට යළි ආරම්භ වේ.",
+    "timestamp": "July 13, 2026  6:51 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228492",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "a4e215c4384f8f614f4e56491db30434f17093342dde0070679a6478b203b1c5"
+  },
+  {
+    "title": "මහරගමදී ගිනිඅවියක් සමග අයෙකු අත්අඩංගුවට",
+    "href": "news.php?nid=228494",
+    "byline": "රිවෝල්වර වර්ගයේ ගිනිඅවියකට සමාන ගිනි අවියක් සමග සැකකරුවෙකු බස්නාහිර පළාත දකුණු අපරාධ විමර්ශන කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "July 13, 2026  7:26 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228494",
+    "isoTimestamp": "2026-07-13T07:30:07+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d3630e1b749d19ad9db6e6228afa83c4881b1013d7cbf81822278f6080aec8cd"
+  },
+  {
+    "title": "විම්බල්ඩන් ටෙනිස් ශුරතාව මෙවරත් යානික් සිනර්ට",
+    "href": "news.php?nid=228493",
+    "byline": "විම්බල්ඩන් ටෙනිස් තරගාවලියේ කේවල පිරිමි ශුරතාවය දිනාගැනීමට ලොව අංක එකේ ටෙනිස් ක්‍රීඩක යානික් සිනර් සමත් විය.",
+    "timestamp": "July 13, 2026  7:17 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228493",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3ddb0511cbb0b66b331700ad5b5d027166edd1f4afa6b3cf2dff3e8cc2f2d8b8"
+  },
+  {
+    "title": "යුද ගැටුම් හමුවේ ලෝක වෙළෙඳපොලේ බොරතෙල් මිල යළි ඉහළට",
+    "href": "news.php?nid=228495",
+    "byline": "ඉරානය විසින් ගල්ෆ් කලාපයේ රටවලට එල්ල කරන ප්‍රහාර පුළුල් කිරීමත් සමඟ, හෝමූස් සමුද්‍ර සන්ධිය හරහා සිදුවන බලශක්ති ප්‍රවාහනයට තර්ජන එල්ල වීම හේතුවෙන් ලෝක වෙළෙඳපොලේ බොරතෙල් මිල යළි ඉහළ ගොස් තිබේ.",
+    "timestamp": "July 13, 2026  7:40 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228495",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ecc397b64870a5a440deb9c0caca93d11925900f9c2141e89520fd2caf5cbfc7"
+  },
+  {
+    "title": "ඉල්ලීම් ලැබුණොත් විශ්‍රාම වයස වෙනස් කරන්න රජය සැරසෙයි",
+    "href": "news.php?nid=228496",
+    "byline": "විශ්‍රාම වයස වෙනස් කිරීම සම්බන්ධයෙන් මේ වන විට විවිධ පාර්ශ්වයන්ගෙන් ඉල්ලීම් ලැබෙන බවත් මෙම ඉල්ලීම් සම්බන්ධව රජය සලකා බලමින් සිටින බව සෞඛ්‍ය හා ජනමාධ්‍ය අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතා පවසයි.",
+    "timestamp": "July 13, 2026  8:10 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228496",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "be5c63b682075a349ca0ca74b00f4a36b9f93c78d59e7c05cfdcdff46d1c95c4"
+  },
+  {
+    "title": "දකුණු චීන මුහුදේ ගැටලුව පිළිබඳ විනිශ්චයන් දීමට ජපානයට කිසිදු අයිතියක් නොමැති බව චීනය අවධාරණය කරයි",
+    "href": "news.php?nid=228497",
+    "byline": "දකුණු චීන මුහුද හා සම්බන්ධ ගැටලුව පිළිබඳ විනිශ්චයන් ලබා දීමට ජපානයට කිසිදු අයිතියක් නොමැති බව චීනය දැඩිව අවධාරණය කර සිටී.",
+    "timestamp": "July 13, 2026  8:22 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228497",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "87e021ae95cd49961f3e9d468764b4a6bc77ed09c87d9faadd88b94dbfd8415b"
+  },
+  {
+    "title": "ජෝර්දානයේ ප්‍රින්ස් හසාන් ගුවන් හමුදා කඳවුරට ඉරානයෙන් ප්‍රහාර",
+    "href": "news.php?nid=228498",
+    "byline": "ජෝර්දානයේ පිහිටි ප්‍රින්ස් හසාන් ගුවන් හමුදා කඳවුර ඉලක්ක කර ගනිමින් මිසයිල සහ ඩ්‍රෝන ප්‍රහාර එල්ල කළ බව ඉරානය තහවුරු කර තිබේ.",
+    "timestamp": "July 13, 2026  8:34 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228498",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "50214556d0188160c98d3344ee37224ef4ad6b523b70457e3ce5851862634306"
+  },
+  {
+    "title": "ජූලි මාසයේ ගතවූ දින කිහිපය තුළ ඩෙංගු රෝගීන් 13,292ක්",
+    "href": "news.php?nid=228499",
+    "byline": "වසරේ ගතවූ කාලය තුළ වාර්තා වූ ඩෙංගු රෝගීන් සංඛ්‍යාව තවදුරටත් ඉහළ යමින් පවතින බව ජාතික ඩෙංගු මර්දන ඒකකය පවසයි.",
+    "timestamp": "July 13, 2026  9:14 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228499",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4eb04731f87cb8fb2a478c019d1921c585fddaf0b367a4ffb2dbcbeba66da8df"
+  },
+  {
+    "title": "ප්‍රදේශ කිහිපයක මාරක අනතුරු",
+    "href": "news.php?nid=228501",
+    "byline": "දිවයිනේ ප්‍රදේශ කිහිපයක සිදු වූ රිය අනතුරුවලින් තරුණයින් තිදෙනෙකු ඇතුළු පුද්ගලයින් කිහිපදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.",
+    "timestamp": "July 13, 2026  9:32 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228501",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bb2df855e3e39b19950a28bfc9be83afb267bcca9f1d0f010009f3b35e1aeade"
+  },
+  {
+    "title": "කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ බිම් මහලේ ගින්නක්",
+    "href": "news.php?nid=228502",
+    "byline": "කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ බිම් මහලේ පිහිටි විදුලි පද්ධතියක අද (13) උදෑසන හදිසි ගින්නක් හටගෙන තිබේ.",
+    "timestamp": "July 13, 2026  9:39 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228502",
+    "isoTimestamp": "2026-07-13T10:31:19+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "000ea9f36da770dde8a6870253a9dacea4f891563e4052ed3b581b06413ea365"
+  },
+  {
+    "title": "ඊශ්‍රායල ප්‍රහාරවලින් ගාසාහි 06දෙනෙකු මරුට",
+    "href": "news.php?nid=228504",
+    "byline": "ඊශ්‍රායලය විසින් ගාසා තීරය වෙත එල්ල කළ ඩ්‍රෝන ප්‍රහාරවලින් කුඩා ළමුන් ඇතුළු පුද්ගලයින් 06දෙනෙකු මියගොස් තිබේ.",
+    "timestamp": "July 13, 2026  10:19 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228504",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "761a8d2d76a5d83be706d619ae648e83c6b2f3ac47bf550c99474735b5e7d7c4"
+  },
+  {
+    "title": "සැප රියෙන් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ තරුණ යුවළ කොටුවෙයි",
+    "href": "news.php?nid=228505",
+    "byline": "සුඛෝපභෝගී මෝටර් රථයකින් අයිස් මත්ද්‍රව්‍ය ප්‍රවාහනය කළ තරුණ යුවළක් පොළොන්නරුව, 28 කණුව ප්‍රදේශයේදී පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "July 13, 2026  10:47 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228505",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bdfb2856c122f21c851e58bd98482236c982ef2269d702ba0f889003daa20cff"
+  },
+  {
+    "title": "එංගලන්ත ටෙස්ට් පුහුණුකාරිත්වය යළිත් ඇන්ඩි ෆ්ලවර්ට?",
+    "href": "news.php?nid=228506",
+    "byline": "නවසීලන්තය හමුවේ එංගලන්ත ටෙස්ට් කණ්ඩායම ලැබූ දරුණු පරාජයත් සමග බ්‍රෙන්ඩන් මැකලම්ව ටෙස්ට් පුහුණුකරු තනතුරෙන් ඉවත් කිරීමට එංගලන්ත ක්‍රිකට් ආයතනය පියවර ගෙන තිබේ.",
+    "timestamp": "July 13, 2026  11:05 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228506",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7d5b0833a0e8e6b5113f3de769ae0fbdff838cbd0732f450fd6480f6d88d9adf"
+  },
+  {
+    "title": "පෙර පාසල් දරුවන්ටත් අත්පා ආවරණය වන ඇඳුම් අන්දවන්න",
+    "href": "news.php?nid=228507",
+    "byline": "මදුරු දෂ්ඨනයෙන් ආරක්ෂා වීම සඳහා පෙර පාසල් දරුවන්ටද අත්පා ආවරණය වන පරිදි සුදුසු ඇඳුමකින් සරසවා පෙර පාසල් සඳහා යොමු කරන ලෙස දෙමව්පියන්ගෙන් ඉල්ලීමක් කරන බව කාන්තා හා ළමා කටයුතු අමාත්‍ය සරෝජා පෝල්රාජ් මහත්මිය පවසයි.",
+    "timestamp": "July 13, 2026  11:20 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228507",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "dd25cc0602c165b265963a4d769eae12080e3ace40bee61118a56ea3a44ce139"
+  },
+  {
+    "title": "විමල්ගේ නඩුව කල්යයි",
+    "href": "news.php?nid=228508",
+    "byline": "2016 වසරේ කොළඹ එක්සත් ජාතීන්ගේ කාර්යාලය ඉදිරිපිට මාර්ගය අවහිර කරමින් උද්ඝෝෂණය කිරීම තුළින් මහජන පීඩාවක් සිදු කළේ යැයි චෝදනා කරමින් හිටපු අමාත්‍ය විමල් වීරවංශ ඇතුලු සැකකරුවන් 06දෙනෙකුට එරෙහිව ගොනු ඇති නඩුවේ වැඩිදුර විභාගය සැප්තැම්බර් මස 21වනදා කැඳවන ලෙස කොළඹ මහේස්ත්‍රාත් අධිකරණය නියම කළේය.",
+    "timestamp": "July 13, 2026  11:38 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228508",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "abdb8998a6d90ebcde09dc57329d28e84b82264708f2acf3db0e91d582f967a7"
+  },
+  {
+    "title": "ජුරාසික් පාර්ක් චිත්‍රපට තරුව සෑම් නීල් අභාවප්‍රාප්ත වෙයි",
+    "href": "news.php?nid=228509",
+    "byline": "නවසීලන්ත ජාතික ප්‍රවීණ රංගන ශිල්පී සෑම් නීල් අභාවප්‍රාප්ත වී තිබේ.",
+    "timestamp": "July 13, 2026  12:02 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228509",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "989311d3d0f373bedcf25c88522f674e85407c5eef91410460820b73a355af0a"
+  },
+  {
+    "title": "විශේෂ අවශ්‍යතා සහිත දරුවන්ටත් සම අවස්ථාව",
+    "href": "news.php?nid=228510",
+    "byline": "විශේෂ අවශ්‍යතා සහිත දරුවන්ට සාමාන්‍ය පෙර පාසල් දරුවන් සමගම එක්ව ඉගෙනීමට අවස්ථාව සලසා දීමේ විශේෂ වැඩපිළිවෙලක් රජය විසින් ආරම්භ කර තිබේ.",
+    "timestamp": "July 13, 2026  12:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228510",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b7039b2406e48555f8cd4c878cb48332713352bf205c254b45d473449bf62573"
+  },
+  {
+    "title": "කාලගුණයෙන් අවවාදාත්මක නිවේදනයක්",
+    "href": "news.php?nid=228511",
+    "byline": "තද සුළං සහ රළු මුහුදු ප්‍රදේශ පිළිබඳව අවවාදාත්මක නිවේදනයක් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කර තිබේ.",
+    "timestamp": "July 13, 2026  1:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228511",
+    "isoTimestamp": "2026-07-13T13:30:05+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "c1db11085423082af4afc7deca30fa0727cb2d05dbce5b5e01bdf3b164ab34b9"
+  },
+  {
+    "title": "මරියසෙල් ගුණතිලකට අවසන් ගෞරව දැක්වීමට ජනපති එක්වෙයි",
+    "href": "news.php?nid=228503",
+    "byline": "අභාවප්‍රාප්ත ප්‍රවීණ ගායන ශිල්පිනී මරියසෙල් ගුණතිලක මහත්මියට අවසන් ගෞරව දැක්වීව සඳහා ජනාධිපති අනුර කුමාර දිසානායක මහතා එක්විය.",
+    "timestamp": "July 13, 2026  9:54 am",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228503",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "68c5cea19d19f83a5a403e14fb85c4d73f230d0bc333a1978f5c960a6d6fa090"
+  },
+  {
+    "title": "ලංකාවේ වයස්ගතම කාන්තාව දිවි සැරිය නිමා කරයි",
+    "href": "news.php?nid=228512",
+    "byline": "දිවයිනේ වයස්ගතම කාන්තාව ලෙස නම් දරා සිටි රැඹෑව, සංගිලිකනදරාව ප්‍රදේශයේ පදිංචිව සිටි පුංචාගේ කලුමැණිකා මහත්මිය අභාවප්‍රාප්ත වී තිබේ.",
+    "timestamp": "July 13, 2026  1:35 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228512",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "31fd53d525efde0ed4ffd9738613085351306df2f758845e4398089bee25c382"
+  },
+  {
+    "title": "‍මරියසෙල් ගුණතිලකට අවසන් ගෞරව දැක්වීමට රනිල් සහ සජිත් එක්වෙයි",
+    "href": "news.php?nid=228514",
+    "byline": "අභාවප්‍රාප්ත ප්‍රවීණ ගායන ශිල්පිනී මරියසෙල් ගුණතිලක මහත්මියගේ දේහයට ගෞරව දැක්වීමට හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එක්විය.",
+    "timestamp": "July 13, 2026  2:06 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228514",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8d09199cb216b87959c33a8973ccf7d9243410edfcfccf0b32de4ec467e08ca3"
+  },
+  {
+    "title": "පිල්ලෙයාන් ජූලි 24 දක්වා යළි රිමාන්ඩ්",
+    "href": "news.php?nid=228515",
+    "byline": "ත්‍රස්තවාදය වැළැක්වීමේ පනත යටතේ අත්අඩංගුවට ගෙන සිටින හිටපු රාජ්‍ය අමාත්‍ය සිවනේසතුරෙයි චන්ද්‍රකාන්තන් හෙවත් 'පිල්ලෙයාන්' ලබන ජූලි 24 වන දින දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට මඩකලපුව මහෙස්ත්‍රාත් අධිකරණය අද (13) නියෝග කළේය.",
+    "timestamp": "July 13, 2026  2:24 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228515",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "2c79813e6463bcd73141126592f3b9a706ff3d3d5f9ad931df0d295d7245004b"
+  },
+  {
+    "title": "මෙරට HIV වෛරසය ගැන භයානක හෙළිදරව්වක්",
+    "href": "news.php?nid=228516",
+    "byline": "මෙරටින් HIV වෛරසය වැළඳුණු රෝගීන් වාර්තා වීම වසරින් වසර වැඩි අගයක් ගන්නා බව ලිංගාශ්‍රිත රෝග පිළිබඳ ප්‍රජා විශේෂඥ වෛද්‍ය සත්‍යා හේරත් මහත්මිය පවසයි.",
+    "timestamp": "July 13, 2026  2:36 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228516",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "383dcf48ae2c74967ecdd6c77462c17cbf8e48dffc9f1ba64a5645b7caeb1630"
+  },
+  {
+    "title": "අයිස් මත්ද්‍රව්‍ය කිලෝ 8ක් සහ ජීව පතොරම් සමගින් අයෙකු අත්අඩංගුවට",
+    "href": "news.php?nid=228517",
+    "byline": "දොම්පේ ප්‍රදේශයේදී විශේෂ කාර්ය බළකාය කළ වැටලීමකදී අයිස් මත්ද්‍රව්‍ය කිලෝ 8ක් සමගින් පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "July 13, 2026  3:13 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228517",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "10ad77e12418dfad37b2c09181b542a77c6ca366341af8661f3cd863de62a6c6"
+  },
+  {
+    "title": "මීගමු ඛේදවාචකයෙන් මියගිය අය සිහිපත් කර මතක බණක්",
+    "href": "news.php?nid=228518",
+    "byline": "මීගමුව බන්ධනාගාරයේ ඇති වු සිද්ධියෙන් මියගිය නිලධාරීන් සහ රැඳවියන් සිහිපත් කර ඔවුන්ට පිං අනුමෝදන් කිරීමේ මතක බණ ධර්ම දේශනයක් පුජ්‍ය මීගොඩ සුඛිත ස්වාමීන් වහන්සේගේ වැඩමවීමෙන් අද (13) පෙරවරුවේ අධිකරණ සහ ජාතික ඒකාබද්ධතා අමාත්‍යාංශයේදී පවත්වා තිබේ.",
+    "timestamp": "July 13, 2026  3:33 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228518",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7edda9e640162699f457070d7a5a5a844fc914e68e1ec39396a0b944c077e8db"
+  },
+  {
+    "title": "ණයවල පැටලෙන ගොවියෝ වෙනුවෙන් ළඟදීම බැංකුවක්",
+    "href": "news.php?nid=228520",
+    "byline": "ගොවිතැන් කටයුතු පවත්වාගෙන යාම සඳහා ඉහළ පොලියට ණය ගැනීමට සිදුවන ගොවීන්ට සහන සැලසීම සඳහා බැංකුවක් ආරම්භ කිරීමට රජය තීරණයක් ගෙන තිබේ.",
+    "timestamp": "July 13, 2026  3:49 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228520",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ee8ef24e93c9187739133fea999e86283154f355eb627acbdd3b608ce6ade3f0"
+  },
+  {
+    "title": "ස්ටීවන් ෆ්ලෙමින්, චෙන්නායි සුපර් කිංග්ස් ප්‍රධාන පුහුණුකරු ධුරයෙන් සමුගනී",
+    "href": "news.php?nid=228521",
+    "byline": "චෙන්නෛ සුපර් කිංග්ස් කණ්ඩායමේ ප්‍රධාන පුහුණුකාර ධුරයෙන් ඉවත්වීමට ස්ටීවන් ෆ්ලෙමින් තීරණය කර තිබේ.",
+    "timestamp": "July 13, 2026  4:03 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228521",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "044f2cfe5d1ed0983e113f85d96c3e504a5fa0eb9333d08a251dbe3e782f7b32"
+  },
+  {
+    "title": "ගිනිඅවියක් සමඟ අත්අඩංගුවටගත් සජබ ප්‍රා.ස මන්ත්‍රී යළි රිමාන්ඩ්",
+    "href": "news.php?nid=228522",
+    "byline": "ගිනිඅවියක් සමඟ අත්අඩංගුවට ගත් සමගි ජනබලවේගය නියෝජනය කරන අම්බලන්ගොඩ ප්‍රාදේශීය සභා මන්ත්‍රී ජුලි 24 දක්වා රක්ෂිත බන්ධනාගාර ගතකර තිබේ.",
+    "timestamp": "July 13, 2026  4:19 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228522",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ba2754a3628cdcf3cb087f7e220902e9770d45c30ea2ec286b5dc902d766d11e"
+  },
+  {
+    "title": "බිරිඳ විසින් ජංගම දුරකථනයෙන් දමා ගැසූ පහරින් සැමියා මරුට",
+    "href": "news.php?nid=228523",
+    "byline": "පවුල් ආරවුලක් දුරදිග යාමෙන් බිරිඳ විසින් ජංගම දුරකථනය දමා ගසා කළ පහරකින් අවාසනාවන්ත ලෙස සැමියා මියගිය පුවතක් ඉන්දියාවෙන් වාර්තා වේ.",
+    "timestamp": "July 13, 2026  4:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228523",
+    "isoTimestamp": "2026-07-13T16:30:15+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "309bbaee70b4670f0a9992f72c7461e1f09af35a90a3da5e7571de069615897a"
+  },
+  {
+    "title": "පාසල් ළමුන්ගේ ලිපිද්‍රව්‍ය දීමනා සම්බන්ධයෙන් දැනුම්දීමක්",
+    "href": "news.php?nid=228519",
+    "byline": "පාසල් වයසේ පසුවන දරුවන් සඳහා ලිපිද්‍රව්‍ය මිලදී ගැනීමට දීමනා ලබාදීමේ 2026 වැඩසටහනට අදාළව, ප්‍රතිලාභී තොරතුරු ඇතුළත් කිරීම ඇතුළු අත්‍යවශ්‍ය කටයුතු අවසන් වන දින වකවානු අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය විසින් නිවේදනය කර තිබේ.",
+    "timestamp": "July 13, 2026  3:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228519",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "399d6b4ebe32aa5b9f8cceb22d90077d6c9fb61fd89fa3fdb566d2aec0b29e4f"
+  },
+  {
+    "title": "සැමියාට මරු කැඳවු බිරිඳගේ ෆෝන් පහර",
+    "href": "news.php?nid=228523",
+    "byline": "පවුල් ආරවුලක් දුරදිග යාමෙන් බිරිඳ විසින් ජංගම දුරකථනය දමා ගසා කළ පහරකින් අවාසනාවන්ත ලෙස සැමියා මියගිය පුවතක් ඉන්දියාවෙන් වාර්තා වේ.",
+    "timestamp": "July 13, 2026  4:23 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228523",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "d0ec6afb972954e50173c6fab2fcd641e8f03b248951f110ca3b14a898858faa"
+  },
+  {
+    "title": "පොදු ප්‍රවාහනයේ ගුණාත්මක වෙනසකට ජනාධිපතිගෙන් උපදෙස්",
+    "href": "news.php?nid=228524",
+    "byline": "සෑම පුරවැසියෙකුටම ප්‍රතිලාභ සැලසෙන, ගුණාත්මක මෙන්ම පහසුකම් සහිත පොදු ප්‍රවාහන ක්ෂේත්‍රයක් රට තුළ ගොඩනැගිය යුතු බව ජනාධිපති අනුර කුමාර දිසානායක මහතා අවධාරණය කරයි.",
+    "timestamp": "July 13, 2026  4:47 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228524",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "bd6e5f2927b5252c93c40ae4a925c50ffc1e35838743937efd16b587a07b8e17"
+  },
+  {
+    "title": "ජලය අරපිරිමැස්මෙන් භාවිත කරන්නැයි වාරිමාර්ග දෙපාර්තමේන්තුවෙන් ඉල්ලීමක්",
+    "href": "news.php?nid=228525",
+    "byline": "වාරිමාර්ග දෙපාර්තමේන්තුව යටතේ පාලනය වන ජලාශ 80ක සියයට 48ක ජල ධාරිතාවක් පවතින බව වාරිමාර්ග අධ්‍යක්ෂ ජල කළමනාකරණ ඉංජිනේරු H.M.P.S.D හේරත් මහතා පවසයි.",
+    "timestamp": "July 13, 2026  4:55 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228525",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "710f5340986769a5d59bc9134d6f50205330132ca426d53cf1caba47e389486a"
+  },
+  {
+    "title": "කැලෑවේ රහසිගතව කසිප්පු පෙරූ තිත්පොළක් වටලයි",
+    "href": "news.php?nid=228526",
+    "byline": "තලාතුඔය පොලිස්බල ප්‍රදේශයට අයත් බව්ලාන ගම්මානයේ කැලෑවක් ආශ්‍රිතව කලක් තිස්සේ ඉතා රහසිගතව පවත්වාගෙන ගිය නීති විරෝධී මත්පැන් නිෂ්පාදනය කරන ස්ථානයක් පොලීසිය විසින් වටලා තිබේ.",
+    "timestamp": "July 13, 2026  5:06 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228526",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "93be0aa0b48f5cda3f988448ecacccd74d7ba244d7e21d998db8a5c97c4dc501"
+  },
+  {
+    "title": "දිට්වා තාවකාලික නිවාස කුලී දීමනාව තවත් මාස 3කින් දීර්ඝ කෙරේ",
+    "href": "news.php?nid=228527",
+    "byline": "දිට්වා ආපදා තත්ත්වයෙන් නායයෑම් හා ගංවතුර හේතුවෙන් නිවාස අහිමි වූ ජනතාව වෙනුවෙන් රජය මඟින් ලබාදෙන මාසික තාවකාලික නිවාස කුලී දීමනාව තවත් මාස 3 කින් දීර්ඝ කිරීමට අමාත්‍ය මණ්ඩලය තීරණය කර ඇත.",
+    "timestamp": "July 13, 2026  5:11 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228527",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "61b496c06b5931f26dd34376ddfb8cd733ad4a9c6b90dcabcd82cf35d72576e2"
+  },
+  {
+    "title": "පාසල් ගුරුවරයෙකුට මරු කැඳවූ රිය අනතුර",
+    "href": "news.php?nid=228528",
+    "byline": "ඉපලෝගම කලාවැව මාර්ගයේ සිදු වූ යතුරුපැදි අනතුරකින් පාසල් ගුරුවරයකු ජීවිතක්ෂයට පත්ව තිබේ.",
+    "timestamp": "July 13, 2026  5:18 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228528",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8dfb689e9bf25ea3cbc26d300d0a1b811b51d3573cb10c8db26c29655f693e2f"
+  },
+  {
+    "title": "පළාත් සභා මැතිවරණය පවත්වන ලෙසට දෙමළ පක්ෂ 6ක් රජයෙන් ඉල්ලයි",
+    "href": "news.php?nid=228529",
+    "byline": "ප්‍රමාදයකින් තොරව පළාත් සභා මැතිවරණය පවත්වන ලෙසට රජයෙන් ඉල්ලීමක් සිදු කරන බවට දෙමළ භාෂිත දේශපාලන පක්ෂ හයක් ඒකාබද්ධව රජයෙන් ඉල්ලීමක් සිදු කර තිබේ.",
+    "timestamp": "July 13, 2026  5:22 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228529",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "07d54b637766f0996dfa061a3bf4c67e6503c9ed5a9378c57edeb7c1fe9edca1"
+  },
+  {
+    "title": "හෙටත් ප්‍රදේශ කිහිපයකට උණුසුම් කාලගුණයක්",
+    "href": "news.php?nid=228530",
+    "byline": "මුලතිව්, වවුනියාව, මඩකලපුව, අම්පාර, ත්‍රිකුණාමලය සහ මොනරාගල දිස්ත්‍රික්ක සඳහා උණුසුම් කාලගුණ තත්ත්වය පිළිබඳ අවවාදාත්මක නිවේදනයක් නිකුත් කර තිබේ.‍",
+    "timestamp": "July 13, 2026  5:38 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228530",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "e7ae07c60cae045336bc6598f4ab4e6cab459a22418e6f542f79b1877fc422df"
+  },
+  {
+    "title": "ඉන්දීය කාන්තා ක්‍රිකට් ලෝඩ්ස් පිටියේ රන් අකුරින් ලියවෙයි",
+    "href": "news.php?nid=228531",
+    "byline": "ඓතිහාසික ලෝඩ්ස් ක්‍රීඩාංගණයේ දී සත්කාරක එංගලන්ත කාන්තා කණ්ඩායම පරාජය කර ගෞරවනීය ටෙස්ට් ජයක් වාර්තා කිරීමට ඉන්දීය කණ්ඩායම අද (13) සමත් විය.",
+    "timestamp": "July 13, 2026  5:38 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228531",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "0330505b2fdfc75c793d66b28ff9cb57a9735d91ee476cdf6ee144b5f40fbbcc"
+  },
+  {
+    "title": "වැටලීමකට ගිය STF සාජන් මහවැලි ගඟේ ගිලී මරුට",
+    "href": "news.php?nid=228532",
+    "byline": "මුතුර්හි චිත්තන්තෙට්ටි ප්‍රදේශයේ නීති විරෝධි ලෙස වැලිගොඩ දමමින් සිටි පිරිසක් වැටලීමට ⁣ගිය පොලිස් විශේෂ කාර්ය බළකා සාජන්වරයෙකු මහවැලි ගඟට වැටී ජීවිතක්ෂයට පත්ව තිබේ.",
+    "timestamp": "July 13, 2026  5:43 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228532",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "34d6e47ddc76017a9adcc3f9b47289f75454a2a8d0119c72ddd01450714b5af3"
+  },
+  {
+    "title": "ළමුන්ගේ සමාජ මාධ්‍ය භාවිතය සීමා කිරීමට යුරෝපා සංගමයෙන් යෝජනා",
+    "href": "news.php?nid=228533",
+    "byline": "ළමුන් සඳහා සමාජ භාවිතය සීමා කිරීම සඳහා වන නීති සම්පාදන කටයුතුවලට අදාළ යෝජනා සැප්තැම්බර් මාසයේදී ඉදිරිපත් කරන බව යුරෝපා සංගමය පවසයි.",
+    "timestamp": "July 13, 2026  5:54 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228533",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "b909811fd3cfa4a22c0466094de78d66bdb38fca231cf1af7d6ce7ca2cf7117e"
+  },
+  {
+    "title": "අලි තිබහක්...",
+    "href": "news.php?nid=228534",
+    "byline": "හබරණ, ත්‍රිකුණාමලය මාර්ගයේ තලපත්කන්ද නඩත්තු දුම්රිය අංගනය අසල අතහැර දමා තිබෙන නල ළිඳකින් තරගෙට වතුර බොන වනඅලි රංචුවක් සෆාරි ජිප් රථ රියදුරෙකු විසින් සිය ජංගම දුරකථනයෙන් පටිගත කර තිබුණි. \n\nඡායාරූප - රසංග නිරෝෂන්",
+    "timestamp": "July 13, 2026  6:12 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228534",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "35eb3e36de290c89ab78539c36f60ffc4ca24d795a6b5516306eb36ecd2253ea"
+  },
+  {
+    "title": "අමෙරිකාව හෝමුස් සමුද්‍ර සන්ධියේ භාරකරු වේවී - ජනපති ට්‍රම්ප්",
+    "href": "news.php?nid=228535",
+    "byline": "ලෝකයේ අතිශය වැදගත් සහ සංවේදී මුහුදු මාර්ගයක් වන 'හෝමුස් සමුද්‍ර සන්ධියේ' පාලනය අමෙරිකාව සතු කර ගැනීමට ඉඩ ඇති බවත්, එම වැදගත් ජල මාර්ගය ආරක්ෂා කිරීම සහ පාලනය කිරීම වෙනුවෙන්, ප්‍රතිලාභ ලබන රටවල් විසින් අමෙරිකාවට මුදල් ගෙවිය යුතු බවත් අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කරයි.",
+    "timestamp": "July 13, 2026  6:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228535",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "7705d32d839c7532b86036d19b3fb6126860717edb29b7ab15a7c0f8dbaeb010"
+  },
+  {
+    "title": "රාජ්‍ය සේවකයන්ට අග්‍රහාර දත්ත පද්ධතිය යාවත්කාලීන කිරීමට දුන් කාලය ජුලි 31න් අවසන්",
+    "href": "news.php?nid=228536",
+    "byline": "සියලුම රාජ්‍ය සේවකයන්ට අග්‍රහාර දත්ත පද්ධතිය යාවත්කාලීන කිරීම සඳහා ලබා දුන් කාලය ජූලි 31 වෙනිදායින් අවසන්වීමට නියමිතව තිබේ.",
+    "timestamp": "July 13, 2026  6:37 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228536",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "4bbc92951493676bffbf17051590d5992ed8fb5b8c39b5a71861a5e42b1d7f58"
+  },
+  {
+    "title": "මරියසෙල් ගුණතිලකගේ අවසන් කටයුතු සිදුකෙරේ",
+    "href": "news.php?nid=228537",
+    "byline": "අභාවප්‍රාප්ත ගායන ශිල්පණී මරියසෙල් ගුණතිලක මහත්මියගේ අවසන් කටයුතු අද (13) පස්වරුවේ බොරැල්ල පොදු සුසාන භූමියේදී සිදු කෙරිණි.",
+    "timestamp": "July 13, 2026  6:44 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228537",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f40a46f304de5672b99f597cace7cbf551b1929b9039b4d1c963d32c1248d8ad"
+  },
+  {
+    "title": "පසුගිය දශකය තුළ මෙරට සජීවී දරු උපත් සංඛ්‍යාව ශීඝ්‍රයෙන් පහළට",
+    "href": "news.php?nid=228538",
+    "byline": "2025 වසර දක්වා වූ පසුගිය දශකය තුළ මෙරට සජීවී දරු උපත් ප්‍රමාණය එක්ලක්ෂ විසිදහසකින් පමණ පහළ ගොස් තිබේ.",
+    "timestamp": "July 13, 2026  7:19 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228538",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "3bbaa6af1e0dc4c6b4c14ec23aaf1dcf5251da8aeb0066d218a02249a69217df"
+  },
+  {
+    "title": "2030 දී ජල භීතිකාව මෙරටින් තුරන් කිරීමට සැලසුමක්",
+    "href": "news.php?nid=228539",
+    "byline": "2030 වන විට ජල භීතිකා රෝගය ලංකාවෙන් තුරන් කිරීමට සැලසුමක් ක්‍රියාත්මක කරන බව සත්ත්ව නිෂ්පාදන සහ සෞඛ්‍ය දෙපාර්තමේන්තුවේ අධ්‍යක්ෂ ජනරාල් වෛද්‍ය සංජක පෙරේරා මහතා පවසයි.",
+    "timestamp": "July 13, 2026  7:43 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228539",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "f89e931eac947c53010480feb694bf9af7c6488333f1d946bb439500fc0d7794"
+  },
+  {
+    "title": "නායක කමේනිගේ මරණයට යුක්තිය ඉටුකර ගැනීම රජයේ ප්‍රධානතම යුතුකමයි – ඉරානය",
+    "href": "news.php?nid=228540",
+    "byline": "ඊශ්‍රායල - අමෙරිකා ප්‍රහාරයකින් මියගිය හිටපු ආධ්‍යාත්මික නායක අයතුල්ලා අලි කමේනිගේ මරණය සම්බන්ධයෙන් යුක්තිය ඉටුකරගැනීම ඉරාන රජයේ ප්‍රධානතම යුතුකමක් වී ඇති බව ඉරාන විදෙස් අමාත්‍යංශ ප්‍රකාශකයා පවසයි.",
+    "timestamp": "July 13, 2026  7:52 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228540",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "22f7a536dc5e3e758caf4e3c2a85fd83056fe2387f3eda902e5e1590af775781"
+  },
+  {
+    "title": "හෝමුස් හරහා යන නැව්වලින් සියයට 20ක බද්දක් අයකරන බව ට්‍රම්ප්ගෙන් ප්‍රකාශයක්",
+    "href": "news.php?nid=228541",
+    "byline": "ඉරාන වරායන් වෙත පනවා තිබූ නාවික අවහිරතා නැවතත් බලාත්මක කිරීමට අමෙරිකාව පියවර ගන්නා බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නිවේදනය කර තිබේ.",
+    "timestamp": "July 13, 2026  8:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228541",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "27fb173679226308361be58851e98c8f625edfaeea3b1715f1d8fb9271327109"
+  },
+  {
+    "title": "අම්පාරේ කොහු මෝලක ගින්නක්‍",
+    "href": "news.php?nid=228542",
+    "byline": "අම්පාර නවගම්පුර ප්‍රදේශයේ පවත්වාගෙන යන කොහු මෝලක් තුළ මේ වන විට ගින්නක් හටගෙන තිබේ.",
+    "timestamp": "July 13, 2026  8:26 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228542",
+    "isoTimestamp": "2026-07-13T20:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "952ae01f91033e3fff986eaab2bfb76f0637a22e2f58092f4d7152e6657c73f5"
+  },
+  {
+    "title": "හෝමුස් හරහා යන නැව්වලින් සියයට 20ක ගාස්තුවක් අයකිරීමට ට්‍රම්ප් සැරසෙයි",
+    "href": "news.php?nid=228541",
+    "byline": "ඉරාන වරායන් වෙත පනවා තිබූ නාවික අවහිරතා නැවතත් බලාත්මක කිරීමට අමෙරිකාව පියවර ගන්නා බව අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් නිවේදනය කර තිබේ.",
+    "timestamp": "July 13, 2026  8:20 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228541",
+    "isoTimestamp": "2026-07-13T23:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ecc36f2a62a4203fd9d288429af9b72b0524213e5dfa7328d0e2ce760d8669d5"
+  },
+  {
+    "title": "අයිස් ජාවාරමෙන් කෝටි ගණනක් ඉපැයූ පුද්ගලයෙක් වලපනේ දී අත්අඩංගුවට",
+    "href": "news.php?nid=228543",
+    "byline": "මත්ද්‍රව්‍ය ජාවාරමෙන් උපයාගත් රුපියල් 24,900,000ට අධික මුදලක් මුදල් විශුද්ධිකරණ පනත උල්ලංඝනය කරමින් සංසරණය කිරීමේ සිද්ධියකට අදාළව, ක්ෂණික මුදල් හුවමාරු කිරීමේ ක්‍රම ජාලය මෙහෙයවූ 24 හැවිරිදි ප්‍රධාන සැකකරුවෙකු බස්නාහිර පළාත දකුණ දිසා අපරාධ කොට්ඨාසය මඟින් අත්අඩංගුවට ගෙන තිබේ.",
+    "timestamp": "July 13, 2026  9:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228543",
+    "isoTimestamp": "2026-07-13T23:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "ba462be289a5ef697b4288ea522811a2f9b2e6637856607a4ac18f123ea09176"
+  },
+  {
+    "title": "යේමනයේ සියලුම ගුවන්තොටුපළවල් වසා දැමීමට නියෝග",
+    "href": "news.php?nid=228544",
+    "byline": "යේමනයේ සානා අගනුවර පිහිටි ගුවන්තොටුපළ ඉලක්ක කර ගනිමින් එල්ල වූ බෝම්බ ප්‍රහාරයකින් අනතුරුව, නැවත දැනුම් දෙන තුරු රට තුළ ඇති සියලුම ගුවන්තොටුපළවල් ගුවන් ගමනාගමනය සඳහා වසා දැමීමට යේමන සිවිල් ගුවන් සේවා අධිකාරිය නියෝග කර තිබේ.",
+    "timestamp": "July 13, 2026  9:31 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228544",
+    "isoTimestamp": "2026-07-13T23:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "25073dbfd1213a0cfa135daef558d6bac1da68856a77b6fc802e82d1bdee0e68"
+  },
+  {
+    "title": "KKS නගරාන්තර සීඝ්‍රගාමී දුම්රිය හෙට සිට නැවතත් සාමාන්‍ය පරිදි ධාවනයට",
+    "href": "news.php?nid=228545",
+    "byline": "කොළඹ සිට කන්කසන්තුරය බලා ධාවනය වන නගරාන්තර සීඝ්‍රගාමී දුම්රිය සතියකට දින හතරකට පමණක් සීමා කිරීමට දුම්රිය පාලනාධිකාරිය මීට පෙර ගෙන තිබූ තීරණය වෙනස් කරමින්, හෙට (14) සිට එය සාමාන්‍ය පරිදි ධාවනය කිරීමට පියවර ගෙන ඇත.",
+    "timestamp": "July 13, 2026  10:04 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228545",
+    "isoTimestamp": "2026-07-13T23:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "8977841f07a0e5a593941443bd0e7a05313785544f28315c4f063b3ecee148a9"
+  },
+  {
+    "title": "කොළඹ නාගරික මන්ත්‍රී දීපා එදිරිසිංහ ඉල්ලා අස්වෙයි",
+    "href": "news.php?nid=228546",
+    "byline": "කොළඹ මහනගර සභාවේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ මන්ත්‍රිනී දීපා එදිරිසිංහ මහත්මිය සිය ධුරයෙන් ඉල්ලා අස්වී තිබේ.",
+    "timestamp": "July 13, 2026  10:05 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228546",
+    "isoTimestamp": "2026-07-13T23:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "6fff211e704193b35012b9d6231031d57f06d5aca82bc3f48f9f7060ede5430e"
+  },
+  {
+    "title": "විනිසුරු විශ්‍රාම වයස දීර්ඝ කිරීමේ යෝජනාව අනතුරුදායකයි - ජී.එල්. පීරිස්",
+    "href": "news.php?nid=228547",
+    "byline": "මෙරට උපරිමාධිකරණ විනිසුරුවන්ගේ විශ්‍රාම වයස දීර්ඝ කිරීමේ යෝජනාව මෑත යුගයේ ඉදිරිපත් වූ අනතුරුදායකම ව්‍යවස්ථාමය අත්හදාබැලීමක් බව මහාචාර්ය ජී.එල්. පීරිස් මහතා අධ්‍යයන වාර්තාවක් මගින් පෙන්වා දී තිබේ.",
+    "timestamp": "July 13, 2026  10:41 pm",
+    "url": "https://sinhala.adaderana.lk/news.php?nid=228547",
+    "isoTimestamp": "2026-07-13T23:30:06+05:30",
+    "baseUrl": "https://sinhala.adaderana.lk",
+    "checkSum": "dd617bcbade129fcb10125d112e77f8c8819a8a8282ee8c10209bcee1399da3e"
+  }
+]
