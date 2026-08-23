@@ -2,7 +2,7 @@
 
 ## News Archive Summary
 
-Summary Report as of Sun Aug 23 05:22:48 +0530 2026
+Summary Report as of Sun Aug 23 08:57:59 +0530 2026
 
 | News paper         | Today's Articles | Total Articles |
 |--------------------|------------------|----------------|
@@ -21,8 +21,10 @@ Summary Report as of Sun Aug 23 05:22:48 +0530 2026
 | thamilan               | 0          | 20097        |
 | themorning               | 0          | 21968        |
 | thinakaran               | 0          | 21835        |
-| **Total**          | **0**      | **284194** |
+| **Total** | **0** | **284194** |
 
-### Interactive Chart Preview
+### Links & Previews
+🌐 [Live Demo Web App](https://lovely-frangipane-97c43f.netlify.app/)
+
 🔗 [View Interactive Chart](https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html)
 

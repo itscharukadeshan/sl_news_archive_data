@@ -5,6 +5,7 @@ README_FILE="../README.md"
 CURRENT_DATE=$(date +"%a %b %d %T %z %Y")
 
 PREVIEW_URL="https://itscharukadeshan.github.io/sl_news_archive_data/news_chart_by_newspaper.html"
+LIVE_DEMO_URL="https://lovely-frangipane-97c43f.netlify.app/"
 
 # Summary table first
 SUMMARY_CONTENT="## News Archive Summary\n\n"
@@ -36,19 +37,20 @@ for key_dir in "$ARCHIVE_DIR"/*/; do
   SUMMARY_CONTENT+="| $key               | $today_count          | $total_count        |\n"
 done
 
-SUMMARY_CONTENT+="| **Total**          | **$total_today**      | **$total_articles** |\n\n"
+SUMMARY_CONTENT+="| **Total** | **$total_today** | **$total_articles** |\n\n"
 
-# Now add the preview URL section AFTER the summary table
-SUMMARY_CONTENT+="### Interactive Chart Preview\n"
+# Add the interactive chart and Live Demo sections at the bottom
+SUMMARY_CONTENT+="### Links & Previews\n"
+SUMMARY_CONTENT+="🌐 [Live Demo Web App]($LIVE_DEMO_URL)\n\n"
 SUMMARY_CONTENT+="🔗 [View Interactive Chart]($PREVIEW_URL)\n"
 
 if [[ -f "$README_FILE" ]]; then
   # Remove existing News Archive Summary section and everything after it
   sed -i "/## News Archive Summary/,\$d" "$README_FILE"
-  # Append updated summary + preview URL at the bottom
+  # Append updated summary + URLs at the bottom
   echo -e "$SUMMARY_CONTENT" >> "$README_FILE"
 else
   echo -e "$SUMMARY_CONTENT" > "$README_FILE"
 fi
 
-echo "README.md updated with News Archive Summary and preview URL at the bottom."
+echo "README.md updated with News Archive Summary, Live Demo, and preview URL at the bottom."
