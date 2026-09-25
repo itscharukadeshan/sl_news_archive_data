@@ -56,8 +56,15 @@ for file in "$DATA_DIR"/*.json; do
                 isoTimestamp=$(echo "$item" | jq -r '.isoTimestamp // empty')
                 byline=$(echo "$item" | jq -r '.byline // empty')
                 baseUrl=$(echo "$item" | jq -r '.baseUrl // empty')
-                # Extract date from isoTimestamp to create date-based folder
-                date=$(echo "$isoTimestamp" | cut -d'T' -f1)
+                # Extract date from isoTimestamp to create date-based folder.
+                # isoTimestamp can be null/empty now (API returns null for
+                # unparseable dates) — fall back to today so the article is
+                # still filed instead of landing in a "" directory.
+                if [ -z "$isoTimestamp" ]; then
+                    date="$current_date"
+                else
+                    date=$(echo "$isoTimestamp" | cut -d'T' -f1)
+                fi
                 date_key_dir="$key_dir/$date"
                 mkdir -p "$date_key_dir"
                 # Output file for articles on specific dates
