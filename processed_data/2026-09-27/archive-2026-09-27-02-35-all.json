@@ -1,0 +1,1288 @@
+{
+  "adaderana-sinhala": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana-tamil": {
+    "success": false,
+    "error": {}
+  },
+  "adaderana": {
+    "success": false,
+    "error": {}
+  },
+  "aruna": {
+    "success": false,
+    "error": {}
+  },
+  "themorning": {
+    "success": false,
+    "error": {}
+  },
+  "thamilan": {
+    "success": false,
+    "error": {}
+  },
+  "thinakaran": {
+    "success": false,
+    "error": {}
+  },
+  "dinamina": {
+    "success": false,
+    "error": {}
+  },
+  "dailymirror": {
+    "success": false,
+    "error": {
+      "name": "TimeoutError"
+    }
+  },
+  "tamilmirror": {
+    "success": false,
+    "error": {
+      "name": "TimeoutError"
+    }
+  },
+  "lankadeepa": {
+    "success": false,
+    "error": {
+      "name": "TimeoutError"
+    }
+  },
+  "island": {
+    "success": false,
+    "error": {
+      "name": "TimeoutError"
+    }
+  },
+  "ada": {
+    "success": true,
+    "data": [
+      {
+        "title": "සතියක් තුළ හෝමූස් විවෘත කරන්න ඉරානයෙන් ඇමෙරිකාවට යෝජනාවක්",
+        "url": "https://www.ada.lk/breaking_news/සතියක්-තුළ-හෝමූස්-විවෘත-කරන්න-ඉරානයෙන්-ඇමෙරිකාවට-යෝජනාවක්/11-424386",
+        "timestamp": "26 09 2026 17:13:00",
+        "byline": "හෝර්මුස් සමුද්‍ර සන්ධිය සතියක් ඇතුළත නැවත විවෘත කිරීමට හැකි වන පරිදි ඇමරිකාවට යෝජනාවක් ඉදිරිපත් කර ඇති බව ඉරාන විදේශ අමාත්‍ය අබ්බාස් අරග්චි පවසයි.",
+        "isoTimestamp": "2026-09-17T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "055af95c86ebea0a86c2e3d43abed1d5ca7f86b03e09247b6f91ae45c5dc0322"
+      },
+      {
+        "title": "එජා සමුළුවට මෙවර විජිතගේ නායකත්වයෙන් යුත් කණ්ඩායමක්",
+        "url": "https://www.ada.lk/breaking_news/එජා-සමුළුවට-මෙවර-විජිතගේ-නායකත්වයෙන්-යුත්-කණ්ඩායමක්/11-424385",
+        "timestamp": "26 09 2026 12:29:00",
+        "byline": "විදේශ අමාත්‍ය විජිත හේරත්, 81 වැනි එක්සත් ජාතීන්ගේ මහා මණ්ඩල සැසිවාරයේදී ශ්‍රී ලංකා දූත පිරිසට නායකත්වය ලබා දෙයි.",
+        "isoTimestamp": "2026-09-12T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d85112070935fe4b1b59fb6a3f53f62e724d673b164b7f28d9f20893a5bd6cb3"
+      },
+      {
+        "title": "මුහුදු රළ ගොඩබිමට ආ හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව කියයි",
+        "url": "https://www.ada.lk/breaking_news/මුහුදු-රළ-ගොඩබිමට-ආ-හැකි-බව-කාලගුණ-විද්‍යා-දෙපාර්තමේන්තුව-කියයි/11-424383",
+        "timestamp": "26 09 2026 11:31:00",
+        "byline": "මේ හේතුවෙන් බේරුවල සිට ගාල්ල හරහා මාතර දක්වා වෙරළබට ප්‍ර දේශවල මුහදු රළ ගොඩබිමට පැමිණීමේ හැකියාවක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.",
+        "isoTimestamp": "2026-09-11T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0045c2180feeb77711af05b5b36523a098cce641a3b03ef2211c22e9b6561f7b"
+      },
+      {
+        "title": "සාපෙළ නැවත සමීක්ෂණ ප්‍රතිඵල නිකුත් කරයි",
+        "url": "https://www.ada.lk/breaking_news/සාපෙළ-නැවත-සමීක්ෂණ-ප්‍රතිඵල-නිකුත්-කරයි/11-424384",
+        "timestamp": "26 09 2026 10:39:00",
+        "byline": "2025 සාමාන්‍ය පෙළ විභාගයේ නැවත සමීක්ෂණ ප්‍රතිඵල අද  නිකුත් කළ බව විභාග දෙපාර්තමේන්තුව පවසයි.",
+        "isoTimestamp": "2026-09-10T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ed809a5f275279d5c227b68734a321a9c7a9939701ebb2ad35931d9da8fb60ef"
+      },
+      {
+        "title": "අත්බෝම්බයක් එල්ල කර දරුවන් දෙදෙනෙක් ඝාතනය කිරිමට තවත් දෙන්නෙක් අල්ලයි",
+        "url": "https://www.ada.lk/breaking_news/අත්බෝම්බයක්-එල්ල-කර-දරුවන්-දෙදෙනෙක්-ඝාතනය-කිරිමට-තවත්-දෙන්නෙක්-අල්ලයි/11-424381",
+        "timestamp": "26 09 2026 08:26:00",
+        "byline": "අත්බෝම්බයක් එල්ල කර ද්විත්ව මනුෂ්‍ය ඝාතනයක් සිදු කිරීමේ අපරාධයට ආධාර අනුබල දුන් සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට - බස්නාහිර පළාත දකුණ දිසා අපරාධ විමර්ශන කොට්ඨාසය.",
+        "isoTimestamp": "2026-09-08T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3a16fe3fff80a886fcd5b6b7930636d2417dd28d709760860bf8ea957b13d9e0"
+      },
+      {
+        "title": "පොලොන්නරුව වකුගඩු රෝහලේ ගෑස් සිලින්ඩරයක් පිපිරි හතක් රෝහලට",
+        "url": "https://www.ada.lk/breaking_news/පොලොන්නරුව-වකුගඩු-රෝහලේ-ගෑස්-සිලින්ඩරයක්-පිපිරි-හතක්-රෝහලට/11-424380",
+        "timestamp": "26 09 2026 07:17:00",
+        "byline": "පොළොන්නරුව වකුගඩු රෝහලේ රෝහලේ මුළුතැන්ගෙය තුළ ගෑස් සිලින්ඩරයක් පුපුරායාමෙන් සිදුවූ අනතුරකින් එහි සේවට කළ පුද්ගලයින් 7 දෙනෙකු තුවාල ලබා තිබේ. අනතුරින් තුවාල ලැබූ වකුගඩු රෝහලේ සේවකයින් ප්‍රතිකාර සඳහා පොළොන්නරුව රෝහලට ඇතුළත් කර ඇත. පිපිරීමෙන් රෝහල් ගොඩනැගිල්ලට දැඩි අලාභහානි සිදුවී ඇති බවද වාර්තා වෙයි. අද (26) අලුයම 4ට පමණ මෙම පිපිරීම සිදුවී තිබේ.",
+        "isoTimestamp": "2026-09-07T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a2c97da39ce615afe62541de4ac8c80d8c8844c87c4f925b7dec624a4e436de9"
+      },
+      {
+        "title": "22ට කථානායක සහතිකය, අද සිටම බලාත්මකයි",
+        "url": "https://www.ada.lk/breaking_news/22ට-කථානායක-සහතිකය--අද-සිටම-බලාත්මකයි/11-424379",
+        "timestamp": "25 09 2026 21:14:00",
+        "byline": "• අධිකරණ සංවිධාන (සංශෝධන) පනත් කෙටුම්පතට ද කථානායකවරයා සිය සහතිකය සටහන් කරයි",
+        "isoTimestamp": "2026-09-21T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "1ab2ba0f87cdb5df0164338fe8356d5f5f60bd448925f866ecf484a8db0e0659"
+      },
+      {
+        "title": "22  විශේෂ බහුතර ඡන්දයෙන්  සම්මත කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/22--විශේෂ-බහුතර-ඡන්දයෙන්--සම්මත-කෙරේ/11-424378",
+        "timestamp": "25 09 2026 21:05:00",
+        "byline": "අධිකරණ සංවිධාන (සංශෝධන) පනත් කෙටුම්පත ද වැඩි ජන්දයෙන් සම්මතයි",
+        "isoTimestamp": "2026-09-21T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "c19672ee091f5f5612ac0940fcef83e94debb63aa5498f1d8c86362a547bac2e"
+      },
+      {
+        "title": "තවත් වනාන්තර 20ක් රක්ෂිත ලෙස ගැසට් කරයි",
+        "url": "https://www.ada.lk/breaking_news/තවත්-වනාන්තර-20ක්-රක්ෂිත-ලෙස-ගැසට්-කරයි/11-424377",
+        "timestamp": "25 09 2026 19:36:00",
+        "byline": "“වනස්පති” ජාතික වැඩසටහනට සමගාමිව තවත් වනාන්තර 20ක් රක්ෂිත ලෙස ගැසට් මගින් ප්‍රකාශයට පත් කිරීම පරිසර අමාත්‍ය වෛද්‍ය දම්මික පටබැඳි මහතාගේ සහභාගීත්වයෙන් නුවරඑළිය සදතැන්න වන විද්‍යාලයේදී හෙට (26) සිදු කිරීමට නියමිතය.",
+        "isoTimestamp": "2026-09-19T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "4204af035a7d968f0b49c9f5389dc2909ae25f32156123034f5da067e452b35b"
+      },
+      {
+        "title": "නොවැම්බර් 01 දා සිට ටින් අංකයක් අනිවාර්ය වන කටයුතු",
+        "url": "https://www.ada.lk/breaking_news/නොවැම්බර්-01-දා-සිට-ටින්-අංකයක්-අනිවාර්ය-වන-කටයුතු/11-424376",
+        "timestamp": "25 09 2026 18:23:00",
+        "byline": "නිශ්චිත කාර්යයන් කිහිපයක් සිදු කිරීමේදී 2026 නොවැම්බර් 01 වනදා සිට වලංගු බදු ගෙවන්නා හඳුනාගැනීමේ අංකය හෙවත් TIN අංකය ඉදිරිපත් කිරීම අනිවාර්ය බව දේශීය ආදායම් දෙපාර්තමේන්තුව පවසයි.",
+        "isoTimestamp": "2026-09-18T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "7ba2461a39656f1b3ff5b46a53d31404c079dea9d820db4b42a15cba932a9b39"
+      },
+      {
+        "title": "2025න් අවසන් මූල්‍ය වර්ෂයේ ශ්‍රී ලන්කන් අලාභය රු.බි. 7.6",
+        "url": "https://www.ada.lk/breaking_news/2025න්-අවසන්-මූල්‍ය-වර්ෂයේ-ශ්‍රී-ලන්කන්-අලාභය-රු-බි--7-6/11-424375",
+        "timestamp": "25 09 2026 17:23:00",
+        "byline": "ශ්‍රිලංකන් ගුවන්සේවය  2024/2025  මුල්‍ය වර්ෂය තුලදි  රුපියල්  බිලියන 7.6ක  ශුද්ධ අලාභයක් වාර්තාකොට  ඇති බව  ලංකන් එයාර්ලයින්ස්  ගුවන්සේවය   සම්බන්දයෙන් 2024/2025  වර්ෂයට අදාළව නිකුත්කොට ඇති  වාර්ෂික කාර්යසාධන වාර්තාවේ සදහන් වේ.",
+        "isoTimestamp": "2026-09-17T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "38a08f1de04bd2eda976deaf1a0c8b5c268665135dc3a63822fed50b7a03efc4"
+      },
+      {
+        "title": "මාවුස්සාකැලේ වාන් දොරටු තුනම විවෘත කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-වාන්-දොරටු-තුනම-විවෘත-කෙරේ/11-424372",
+        "timestamp": "25 09 2026 16:19:00",
+        "byline": "මාවුස්සාකැලේ ජල පෝෂක ප්‍රදේශවලට (24) දින ඇදහැලුණු අධික වර්ෂාවත් සමග මාවුස්සාකැලේජලාශයේ වාන් දොරටු තුනම අගල් 4 බැගින් විවෘත කල බව එම ජලාශ භාර ඉංජිනේරුවරයා පැවසීය.",
+        "isoTimestamp": "2026-09-16T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "84dbe7c92d59f590de7c5fc4a07da3d8da966c005e8388ea0ccc68d446273fc6"
+      },
+      {
+        "title": "ඇමෙරිකාව කැනඩාවට පහරදෙයිද?",
+        "url": "https://www.ada.lk/breaking_news/ඇමෙරිකාව-කැනඩාවට-පහරදෙයිද-/11-424371",
+        "timestamp": "25 09 2026 15:19:00",
+        "byline": "කැනඩාවට එරෙහිව එක්සත් ජනපද මිලිටරි ක්‍රියාමාර්ගයක දුරස්ථ හැකියාවක් පවතින බව කැනේඩියානු අගමැති  මාර්ක් කාර්නි, නිව් යෝර්ක් ටයිම්ස් සමඟ පැවැති සාච්ඡාවකදි පවසා තිබේ.",
+        "isoTimestamp": "2026-09-15T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "074760b3dfddaa13e883e75d2a3ce876d366a26ba789198278b726038f035eb5"
+      },
+      {
+        "title": "හිටපු නියෝජ්‍ය ඇමති සරණ ගුණවර්ධනගේ බිරිඳ අත්අඩංගුවට",
+        "url": "https://www.ada.lk/breaking_news/හිටපු-නියෝජ්‍ය-ඇමති-සරණ-ගුණවර්ධනගේ-බිරිඳ-අත්අඩංගුවට/11-424374",
+        "timestamp": "25 09 2026 15:06:00",
+        "byline": "හිටපු නියෝජ්‍ය අමාත්‍ය සරණ ගුණවර්ධනට එරෙහිව පවතින නඩුවකට අදාළව විනිසුරුවරයා ලවා අත්හිටවූ සිරදඬුවමක් ලබාදෙන ලෙස අධිකරණ කාර්යාලයේ කාර්ය සහායකයෙකුට රුපියල් 50,000ක අල්ලස් මුදලක් ලබාදීමේ චෝදනාවකට හිටපු නියෝජ්‍ය අමාත්‍ය සරණ ගුණවර්ධන මහතාගේ බිරිඳ වන චිනාරි ලක්මන්ති හෙට්ටිආරච්චි යන අය අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් අත්අඩංගුවට ගෙන තිබේ. සැකකාරිය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.",
+        "isoTimestamp": "2026-09-15T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "f810d8a92174fa51c5066324b4c12154a19f8ab70058b3e97daded31ba7b1cb5"
+      },
+      {
+        "title": "22ට ආණ්ඩුවට සුළු බෙදීමක් තිබෙනවා",
+        "url": "https://www.ada.lk/breaking_news/22ට-ආණ්ඩුවට-සුළු-බෙදීමක්-තිබෙනවා/11-424373",
+        "timestamp": "25 09 2026 14:46:00",
+        "byline": "’’22 ගැන සමාජයේ මොකක්වත් නෑ. නිකන් බොරුවක් පස්සේ ඔබතුමන්ලා විශාල බිල්ලෙක් මවලා තියෙනවා. ඔබතුමන්ලා බැලුවා\nමෙකෙන් සමාජය පොඩ්ඩක් දෙකට බෙදෙනවා වගේ ඒකෙන් දේශපාලන වාසියක් ගන්න විපක්ෂය කටයුතු කිරිම අපිට පේනවා.\nඅපි  ආණ්ඩුවක් ලෙස දෙකට බෙදිලා වැඩ කළේ නෑ මෙතෙක් කල්. මෙකෙන් තමයි චූටි හරි බෙදීමක් වුණේ. ඒක අපි දන්නවා. ඒක\nනොදැන නෙමෙයි. අපිට ගණනයක් තිබෙනවා. ’’",
+        "isoTimestamp": "2026-09-14T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "a71a734e4850060df60518cc728a51cc45129e708cc5622d2151f0bce40309c3"
+      },
+      {
+        "title": "10 හැවැරිදි දරුවා යතුරුපැදියට බිලි",
+        "url": "https://www.ada.lk/breaking_news/10-හැවැරිදි-දරුවා-යතුරුපැදියට-බිලි/11-424370",
+        "timestamp": "25 09 2026 14:21:00",
+        "byline": "යතුරුපැදියක ගැටී ළමයෙකු ජීවිතක්ෂයට - කිලිනොච්චිය පොලිස් වසම.",
+        "isoTimestamp": "2026-09-14T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "80a943fe7559fedf4100ce746e9b039036c8a40523045e14088df1818f63312c"
+      },
+      {
+        "title": "බස්වලට සවිකළ ජීපීඑස් පද්ධති සියයට 56ක්ම අක්‍රීයයි",
+        "url": "https://www.ada.lk/breaking_news/බස්වලට-සවිකළ-ජීපීඑස්-පද්ධති-සියයට-56ක්ම-අක්‍රීයයි/11-424369",
+        "timestamp": "25 09 2026 13:21:00",
+        "byline": "අන්තර්පළාත් බස්රථවල  ජි.පි.එස් (G P S)  පද්ධති 2834ක් ඉකුත් වර්ෂය තුල (2025)  ජාතික ගමනාගමන කොමිෂන් සභාව විසින් සවිකොට තිබුණද  මෙම වර්ෂයේ ජනවාරි මස වනවිට එම පද්ධති 1613 ක් එනම් සියයට 56ක්  ක්‍රියාවිරහිතව පැවති බව ජාතික විගණන කාර්යාලය මගින් නිකුත්කොට ඇති විගණන වාර්තාවක් මගින් අනාවරණය වි ඇත.",
+        "isoTimestamp": "2026-09-13T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "0f24cf386488344ff0ee523b31ecd078aa874b1fb2daf62542ec68e07a2e9a30"
+      },
+      {
+        "title": "මාවුස්සාකැලේ වාන් දෙකක් විවෘත කරයි",
+        "url": "https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-වාන්-දෙකක්-විවෘත-කරයි/11-424368",
+        "timestamp": "25 09 2026 12:39:00",
+        "byline": "මාවුස්සාකැලේ ජලාශයේ වාන් දොරටු දෙකක් විවෘත කෙරේ. කාසල්රි ජලාශයේත් ජල මට්ටම පිටාර මට්ටමට ආසන්න වේ.",
+        "isoTimestamp": "2026-09-12T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d61b1696f50ce6fe10d9a936cd3640f57f14c35dc42c51fe6cb45ae52fd0fc8f"
+      },
+      {
+        "title": "’’ආයුබෝ’’ දිනපතා ලොතරැයිය ජනගත කෙරේ",
+        "url": "https://www.ada.lk/breaking_news/’’ආයුබෝ’’-දිනපතා-ලොතරැයිය-ජනගත-කෙරේ/11-424367",
+        "timestamp": "25 09 2026 11:42:00",
+        "byline": "මෙරට ජාතික සෞඛ්‍ය සංවර්ධන අරමුදලට ප්‍රතිපාදන සැපයෙන, ජීවිතයට වාසනාව කැන්දන ’’ආයුබෝ’’ දිනපතා ලොතරැයිය ජනගත කෙරේ.",
+        "isoTimestamp": "2026-09-11T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "aa1a1b0c1b307265015b4866462c36f932d9067bf82df9d54baab052f28b35d7"
+      },
+      {
+        "title": "ඉන්දියාවේ පාසල් අවට ක්ෂණික ආහාර අලෙවියට තහනමක්",
+        "url": "https://www.ada.lk/breaking_news/ඉන්දියාවේ-පාසල්-අවට-ක්ෂණික-ආහාර-අලෙවියට-තහනමක්/11-424365",
+        "timestamp": "25 09 2026 10:41:00",
+        "byline": "ළමුන් වඩාත් සෞඛ්‍ය සම්පන්න ආහාර රටාවකට යොමු කිරීමේ අරමුණින්, පාසල් තුළ සහ ඒ ආසන්නයේ ’ජන්ක් ෆුඩ්’ (පෝෂණ ගුණයෙන් අඩු, අධික මේදය හා සීනි සහිත ක්ෂණික ආහාර) තහනම් කිරීමට ඉන්දියාව පියවර ගනිමින් සිටී.",
+        "isoTimestamp": "2026-09-10T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "fea83b5e55ecb6335365e8dde38d13eed5564d45a9101f966a8c7f3b7194054a"
+      },
+      {
+        "title": "ළමයින්ට සිදු කරන ශාරීරික දණ්ඩනය තහනම් කිරීමට නීතිමය සංශෝධන",
+        "url": "https://www.ada.lk/breaking_news/ළමයින්ට-සිදු-කරන-ශාරීරික-දණ්ඩනය-තහනම්-කිරීමට-නීතිමය-සංශෝධන/11-424364",
+        "timestamp": "25 09 2026 09:56:00",
+        "byline": "ළමයින් සම්බන්ධ පුවත් වාර්තා කිරීමේදී මාධ්‍ය ආචාරධර්ම ආරක්ෂා කිරීමට ජාතික මාර්ගෝපදේශ සංග්‍රහයක්",
+        "isoTimestamp": "2026-09-09T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "2e7b3004239fec45eac85d007c6b1583f54cf32127b2c3c6534c307b78efd56e"
+      },
+      {
+        "title": "විදේශ සේවා කාර්යාංශයේ නමින් තොරතුරු එකතු කරන ව්‍යාජ වෙබ් අඩවියක්",
+        "url": "https://www.ada.lk/breaking_news/විදේශ-සේවා-කාර්යාංශයේ-නමින්-තොරතුරු-එකතු-කරන-ව්‍යාජ-වෙබ්-අඩවියක්/11-424363",
+        "timestamp": "25 09 2026 09:01:00",
+        "byline": "තොරතුරු ලබාදීමට රැවටෙන්න එපා!\n\nඔබේ පෞද්ගලික තොරතුරු දැඩි අවදානමක...\n\nඔබේ පෞද්ගලික තොරතුරු ඔබේ වටිනාම ආරක්ෂාවයි.\nසැකසහිත සබැඳිවලට තොරතුරු ලබා නොදෙන්න.",
+        "isoTimestamp": "2026-09-09T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ad9b0d08a365c24a4a4c3388b620df34a65aa991eec877b30200e89199a71b91"
+      },
+      {
+        "title": "ඉතාලියේ පාසල් තුළ ඉතාලි භාෂාව කථා නොකරන සිසුන් සංඛ්‍යාවකට සිමාවක්",
+        "url": "https://www.ada.lk/breaking_news/ඉතාලියේ-පාසල්-තුළ-ඉතාලි-භාෂාව-කථා-නොකරන-සිසුන්-සංඛ්‍යාවකට-සිමාවක්/11-424362",
+        "timestamp": "25 09 2026 08:05:00",
+        "byline": "ඉතාලි පාසල් තුළ බුර්කාව (burqa) සහ නිකාබය (niqab) පැළඳීම තහනම් කිරීමටත්, ඉතාලි භාෂා දැනුම අඩු සිසුන් සංඛ්‍යාව එක් පන්තියක් තුළ සීමා කිරීමටත් ඉතාලි රජය අනුමැතිය ලබා දී ඇත.",
+        "isoTimestamp": "2026-09-08T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b0f152c94c5da1dfb926c418eab3f2352c7b3eda4ff0335fc7e2fb74dd2391c3"
+      },
+      {
+        "title": "රාවණා ඇල්ලෙන් වැටී නෙදර්ලන්ත තරුණියක් මරුට",
+        "url": "https://www.ada.lk/breaking_news/රාවණා-ඇල්ලෙන්-වැටී-නෙදර්ලන්ත-තරුණියක්-මරුට/11-424359",
+        "timestamp": "24 09 2026 19:19:00",
+        "byline": "ඇල්ල කිතල් ඇල්ල ප්‍රදේශයට සංචාරය සඳහා පැමිණ සිටි නෙදර්ලන්ත  ජාතික තරුණියක් අද 24 දහවල්  රාවණා ඇල්ල දිය ඇල්ලේ ඉහළ කොටස නැරඹීමට යාමේදී ඉන් ඇද වැටි ජීවිතක්ෂයට පත්වී ඇති බව ඇල්ල සංචාරක පොලීසිය පැවසීය.",
+        "isoTimestamp": "2026-09-19T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "e484d7e4c6891b8906ee84bf03b9f238ccf49e753825cb0510222372884ea383"
+      },
+      {
+        "title": "හෙට නුවරඑළියේ පාසල් පැවැත්වීමේ තීරණය විදුහල්පතිවරුන්ට",
+        "url": "https://www.ada.lk/breaking_news/හෙට-නුවරඑළියේ-පාසල්-පැවැත්වීමේ-තීරණය-විදුහල්පතිවරුන්ට/11-424358",
+        "timestamp": "24 09 2026 18:26:00",
+        "byline": "නුවරඑළිය දිස්ත්‍රික්කයේතැම් ප්‍රදේශවල පවතින දැඩි අයහපත් කාලගුණ තත්වයත් සමග (25) දින නුවරඑළිය කලාප අධ්‍යාපන කාර්යාලය යටතේ පාලනය වන පාසල් 6ක් (25) දින නිවාඩු ලබා දීමටත් සෙසු පාසල් පවතින අයහපත් කාලගුණයත් සමග විවෘත කරනවාද නැද්ද යන්න් පිලිබද තීරණයක් ගෙන ඒ පිලිබද තම කාර්යාලය වෙත දැනුම් දෙන ලෙස විදුහල්පතිවරුන්ට උපදෙස් ලබා දුන් බව නුවරඑළීය කලාප අධ්‍යාපන අධ්‍යක්ෂක ඩී.එම්.එස්.බී. දිසානායක මහතා මහතා පැවසිය.",
+        "isoTimestamp": "2026-09-18T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "bbeb5498f5c671ad4635d7f642747c4897c5dd57c054fe2195c73ef7bb2a457c"
+      },
+      {
+        "title": "කාවන්තිස්සට ප්‍රතිකාර අරඹයි",
+        "url": "https://www.ada.lk/breaking_news/කාවන්තිස්සට-ප්‍රතිකාර-අරඹයි/11-424357",
+        "timestamp": "24 09 2026 17:31:00",
+        "byline": "වෙඩි වැදීමක් හේතුවෙන් තුවාල ලබා ඇතැයි සැලකෙන කාවන්තිස්ස ඇතාට ප්‍රතිකාර ආරම්භ කර තිබේ. ඇතාගේ පාදයක ඇතිව තිබෙන තුවාලයට අද(24) උදෑසන සිට නිකවැරටිය පශු වෛද්‍ය පුබුදු මහත්මිය ප්‍රමුඛ වනජීවී සංරක්ෂණ දෙපාර්තමේන්තුවේ විශේෂ කණ්ඩායමක් විසින් කාවන්තිස්ස ඇතා සැරිසරන උස්ගල සියබලාන්ගමුව වැව ආශ්‍රිතව සිදු කළ මෙහෙයුමක ප්‍රතිඵලයක් ලෙස  ප්‍රතිකාර කිරීම ආරම්භ කර ඇත.",
+        "isoTimestamp": "2026-09-17T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "d9b3e700a5840a02c6142e9de950a44e3b6120b21d4747a8d51fd182ed88abd5"
+      },
+      {
+        "title": "නුවරඑළියට අධික වැසි, ග්‍රෙගරි වැවේ සොරොව්ව විවෘත කරයි",
+        "url": "https://www.ada.lk/breaking_news/නුවරඑළියට-අධික-වැසි--ග්‍රෙගරි-වැවේ-සොරොව්ව-විවෘත-කරයි/11-424356",
+        "timestamp": "24 09 2026 16:43:00",
+        "byline": "නුවරඑළිය ප්‍රදේශයට ඇදහැලෙන අධික වර්සාවත් සමග ග්‍රෙගරිවැවේ ජල මට්ටම ඉහළ යෑමත් සමග එම වැවේ සොරොව්ව (24) දින විවෘත කිරිම හේතුවෙන් කොත්මලේ ජලාශයට ජලය ගලා බසිනා නානුඔය ඇළේ ජල මට්ටම ඉහළ ගොස් ඇත.",
+        "isoTimestamp": "2026-09-16T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "3a63060f0f3b502c93b9dcbecabd888d097d254b99563262d90c2fb718869720"
+      },
+      {
+        "title": "නාමල්ට රු.මි. 70ක් අල්ලස් දුන්නැයි ජානකි සිරිවර්ධන රිමාන්ඩ්",
+        "url": "https://www.ada.lk/breaking_news/නාමල්ට-රු-මි--70ක්-අල්ලස්-දුන්නැයි-ජානකි-සිරිවර්ධන-රිමාන්ඩ්/11-424354",
+        "timestamp": "24 09 2026 16:29:00",
+        "byline": "පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ මහතාට රුපියල් මිලියන 70ක මුදලක් අල්ලස් ලෙස ලබාදුන්චෝ දනාවට  අල්ලස් කොමිසම විසින් අත්අඩංගුවට ගත් ක්‍රිෂ් සමාගමේ හිටපු අධ්‍යක්ෂිකා ජානකී සිරිවර්ධන ඔක්තෝබර් 6 දක්වා රිමාන්ඩ් ගත කිරීමට කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය. අද (24) පෙරවරුවේ අල්ලස් කොමිසම විසින් ප්‍රකාශයක් සටහන් කර ගැනීමෙන් අනතුරුව මෙම සැකකාරිය අත් අඩංගුවට ගෙන තිබුණි.",
+        "isoTimestamp": "2026-09-16T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "b654319a41e6e282b0d7d2ac6a1cde9cd3a1b75636ba034a2394ca1632fec35e"
+      },
+      {
+        "title": "ජපන් සහ රුමේනියා  රැකියා අපේක්ෂිතයන් සඳහා නව නීතියක්",
+        "url": "https://www.ada.lk/breaking_news/ජපන්-සහ-රුමේනියා--රැකියා-අපේක්ෂිතයන්-සඳහා-නව-නීතියක්/11-424353",
+        "timestamp": "24 09 2026 16:24:00",
+        "byline": "ජපන් සහ රුමේනියා  රැකියා අපේක්ෂිතයන් සඳහා නව නීතියක්\n\nප්‍රථමවරට විදේශගත වන රැකියා අපේක්ෂිතයන් සඳහා පමණයි.\n\nසැප් 15 සිට කාර්යාංශ ලියාපදිංචියේ දි  අනිවාර්ය වේ",
+        "isoTimestamp": "2026-09-16T00:00:00+05:30",
+        "baseUrl": "https://www.ada.lk",
+        "checkSum": "ece4ef88cf9a7d7998678ad553e24f09831197371d4fdbccd64b99e40dcdf15d"
+      }
+    ]
+  },
+  "economynext": {
+    "success": true,
+    "data": [
+      {
+        "title": "Deloitte forum explores fraud resilience, financial reporting and AI-led finance",
+        "url": "https://economynext.com/deloitte-forum-explores-fraud-resilience-financial-reporting-and-ai-led-finance-284659/",
+        "timestamp": "September 26, 2026",
+        "byline": "No byline",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5838846e54d6e7e19df78185ba89634e8cef8fa1436e2bf34b7138247aa2addb"
+      },
+      {
+        "title": "The new wave of Sri Lankan writing: Inside the launch of Channels 2026",
+        "url": "https://economynext.com/the-new-wave-of-sri-lankan-writing-inside-the-launch-of-channels-2026-284593/",
+        "timestamp": "September 26, 2026",
+        "byline": "The English Writers Collective of Sri Lanka celebrates contemporary creative talent",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "59e9b655fa32d5e939eb241f333ad79e4baa0a92745871f9a99cd626176d5624"
+      },
+      {
+        "title": "Sri Lanka stocks close down on low turnover; ASPI drops 0.14-pct",
+        "url": "https://economynext.com/sri-lanka-stocks-close-down-on-low-turnover-aspi-drops-0-14-pct-284680/",
+        "timestamp": "September 25, 2026",
+        "byline": "No byline",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3d5dffe77e3d91c1cc13d4e64f280c482914ff89cf779f281a1e4dd426385958"
+      },
+      {
+        "title": "Sri Lanka’s WindForce submits winning bids for 28MW battery storage projects",
+        "url": "https://economynext.com/sri-lankas-windforce-submits-winning-bids-for-28mw-battery-storage-projects-284664/",
+        "timestamp": "September 25, 2026",
+        "byline": "Diya Janani, Kebitigollewa Solar Power, Vydexa, Solar Universe, Sooryashakthi, and Solar One Ceylon",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3037da6c383b0fa9cbfdfc59210d652aa785186a32ba1baab6196359bb3d90da"
+      },
+      {
+        "title": "Vietjet signs deal with Starlink to offer free high-speed Wi-Fi",
+        "url": "https://economynext.com/vietjet-signs-deal-with-starlink-to-offer-free-high-speed-wi-fi-284650/",
+        "timestamp": "September 25, 2026",
+        "byline": "No byline",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a6af8af24bccd570b09c4bc6a9c5e259455df5527348e45f9a61ac0705641b4a"
+      },
+      {
+        "title": "Sri Lanka’s Pan Asia Bank to raise up to Rs5bn with debenture sale",
+        "url": "https://economynext.com/sri-lankas-pan-asia-bank-to-raise-up-to-rs5bn-with-debenture-sale-284631/",
+        "timestamp": "September 25, 2026",
+        "byline": "No byline",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1245c6e5853729e3baf6bc920ae8ef21349672adaa4798ffdc4dfb44553159fe"
+      },
+      {
+        "title": "Sri Lanka stocks open up, ASPI gains 0.18-pct",
+        "url": "https://economynext.com/sri-lanka-stocks-open-up-aspi-gains-0-18-pct-284635/",
+        "timestamp": "September 25, 2026",
+        "byline": "No byline",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "38f3cd744e1c66b7c5c3b047e0e76b254d043377b5376c8027d26c8ffe36962a"
+      },
+      {
+        "title": "Sri Lanka rupee at 330.15/30 to US dollar spot, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-at-330-15-30-to-us-dollar-spot-bond-yields-steady-284607/",
+        "timestamp": "September 25, 2026",
+        "byline": "Bond yields were broadly steady, dealers said.",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "985ecdd0ff8bef912bc1d3dc6c0d762f56efe6ee5ba4c6efb5630665f07e191e"
+      },
+      {
+        "title": "Sri Lanka services exports rise 13.97-pct in Aug 2026, despite financial services, construction dip",
+        "url": "https://economynext.com/sri-lanka-services-exports-rise-13-97-pct-in-aug-2026-despite-financial-services-construction-dip-284622/",
+        "timestamp": "September 25, 2026",
+        "byline": "Financial services fell 62.16 percent to 1.65 million dollars.",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f2cdfe3d67274658eee1e8e02cb13ddfcc81d45e8a14ab0d70f2790426594d18"
+      },
+      {
+        "title": "Sri Lanka goods exports fall 1-pct in August, dragged by apparel, tea, coconut",
+        "url": "https://economynext.com/sri-lanka-goods-exports-fall-1-pct-in-august-dragged-by-apparel-tea-coconut-284611/",
+        "timestamp": "September 25, 2026",
+        "byline": "The decline was observed across major export destinations, with shipments to the United States decreasing by 13.43 perce",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b345a9d94d57293eb1f0827d7c1633b4680c7f2aae09f0f176fca13a5554af89"
+      },
+      {
+        "title": "World growth holds up, but real interest rates rise",
+        "url": "https://economynext.com/world-growth-holds-up-but-real-interest-rates-rise-284598/",
+        "timestamp": "September 25, 2026",
+        "byline": "Fitch has raised its forecast for global GDP growth in 2026 by 0.2pp to 2.6%, down only marginally from 2025",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "a3f4191cd3d2d49421e9cbeefb8b26dc324d645be5c81a71c110adc7b41fbb35"
+      },
+      {
+        "title": "Sri Lanka sells extra Rs6bn Treasury bills after auction",
+        "url": "https://economynext.com/sri-lanka-sells-extra-rs6bn-treasury-bills-after-auction-284584/",
+        "timestamp": "September 24, 2026",
+        "byline": "Bringing the total of bills sold this week to 66 billion rupees.",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "19db19d54dfadebf3b58cceed4765c8bcc57cf5a12acfa46b0abaf49ec60ad78"
+      },
+      {
+        "title": "Sri Lanka rupee closes at 330.30/55 to US dollar spot, bond yields steady",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-at-330-30-55-to-us-dollar-spot-bond-yields-steady-284572/",
+        "timestamp": "September 24, 2026",
+        "byline": "Bond yields closed steady to higher, dealers said.",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "5041751d5f6968971eed137646e3ba9e2e0952974ac76bdb8361c8c7bdb75492"
+      },
+      {
+        "title": "Sri Lanka stocks close down on cautious trading; turnover at Rs1.3bn",
+        "url": "https://economynext.com/sri-lanka-stocks-close-down-on-cautious-trading-turnover-at-rs1-3bn-284560/",
+        "timestamp": "September 24, 2026",
+        "byline": "The market remained fairly neutral as yesterday’s gains held, with investors displaying caution due to global developm...",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1d58fdb6f829fc35d5d9a28c653f3a5999c9b316c9bb7953f017621472d060a1"
+      },
+      {
+        "title": "Fitch affirms Sri Lanka's Ceat Kelani at 'AA+(lka)'; Outlook Stable",
+        "url": "https://economynext.com/fitch-affirms-sri-lankas-ceat-kelani-at-aalka-outlook-stable-284554/",
+        "timestamp": "September 24, 2026",
+        "byline": "The Stable Outlook reflects Fitch's expectation that CKH will maintain its market position amid rising input costs and i",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0f14622d5c4f24b4dfd3b4de3550c6b1d68b1ae35d7f45b6cbba7d0cf0aa08ea"
+      },
+      {
+        "title": "Sri Lanka can unlock export growth through agribusiness: IPS study",
+        "url": "https://economynext.com/sri-lanka-can-unlock-export-growth-through-agribusiness-ips-study-284533/",
+        "timestamp": "September 24, 2026",
+        "byline": "High value and export-oriented agribusiness: Unlocking agrifood sector potential in Sri Lanka - New IPS publication",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "496fa62f4ccf15e5ab5f4ccf798332177e25f710e5d5913c0167e929e82273bf"
+      },
+      {
+        "title": "GS1 Lanka drives Sri Lanka’s shift to 2D barcodes",
+        "url": "https://economynext.com/gs1-lanka-drives-sri-lankas-shift-to-2d-barcodes-284527/",
+        "timestamp": "September 24, 2026",
+        "byline": "Unlike a conventional barcode used at checkout, a GS1 QR code can connect consumers to a wider range of product info",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4da583eb725d729970b7a20dfeb76a023d1c81fa25ee865a288b004d2ff4ee27"
+      },
+      {
+        "title": "Sri Lanka chamber welcomes Fitch upgrade, urges focus on reforms",
+        "url": "https://economynext.com/sri-lanka-chamber-welcomes-fitch-upgrade-urges-focus-on-reforms-284518/",
+        "timestamp": "September 24, 2026",
+        "byline": "\"The priority now must be to preserve this stability and build on it through implementation of reforms related to trade",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "891a2b107cd6de8738f17efb58ac16ef9a6ac458adfe9d0f20b55dee78723708"
+      },
+      {
+        "title": "Sri Lanka stocks open higher; materials lead turnover",
+        "url": "https://economynext.com/sri-lanka-stocks-open-higher-materials-lead-turnover-284504/",
+        "timestamp": "September 24, 2026",
+        "byline": "People’s Leasing & Finance announced that its debenture issue to raise up to 10 billion rupees was oversubscribed",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "040930320f9d604ddc4adde14f5142537d7705a5332cbc9916c0eb5d2eb20300"
+      },
+      {
+        "title": "Sri Lanka rupee at 330.00/80 to US dollar spot, bond yields edge up",
+        "url": "https://economynext.com/sri-lanka-rupee-at-330-00-80-to-us-dollar-spot-bond-yields-edge-up-284511/",
+        "timestamp": "September 24, 2026",
+        "byline": "Bond yields edged up slightly, dealers said.",
+        "isoTimestamp": "2026-09-24T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e168df6c220859667fa6c214f296773f6efbdeea52589170cfc828cf476dca44"
+      },
+      {
+        "title": "IMF urges Sri Lanka to streamline business regulations, rethink tax concessions to boost FDI",
+        "url": "https://economynext.com/imf-urges-sri-lanka-to-streamline-business-regulations-rethink-tax-concessions-to-boost-fdi-284442/",
+        "timestamp": "September 23, 2026",
+        "byline": "\"Tax concession needs to be very very carefully brought and also uh to be thought of correctly",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "96285e3d33ef57102a919dc3707d2f805f9efa2c0c231e16a7b75658e7a921ec"
+      },
+      {
+        "title": "Sri Lanka rupee closes at 329.50/75 to US dollar spot, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-at-329-50-75-to-us-dollar-spot-bond-yields-drop-284491/",
+        "timestamp": "September 23, 2026",
+        "byline": "Bond yields closed lower, dealers said.",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "82c7259ae1589fe9d8e518a4735e0ff81f8dda85054b2a524c0a9f1848b8a80c"
+      },
+      {
+        "title": "Sri Lanka’s ASPI closes up on positive sentiment after rating hike",
+        "url": "https://economynext.com/sri-lankas-aspi-closes-up-on-positive-sentiment-after-rating-hike-284479/",
+        "timestamp": "September 23, 2026",
+        "byline": "Brokers said the day's movement was a continuation of the previous session's momentum.",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "67048ca63016f71dbfea92471ff59d27e979fab8d1263e4c5f21cdf862ae3979"
+      },
+      {
+        "title": "Sri Lanka appoints 3 new high court judges",
+        "url": "https://economynext.com/sri-lanka-appoints-3-new-high-court-judges-284466/",
+        "timestamp": "September 23, 2026",
+        "byline": "Perumal Sivakumar, Anandi Kanagaratnam, and Gnanesa Lalith Kannangara",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "e872c6126d6b1841ee2b641a46c5bc0f0a7933dead969315058429c9ee640e8c"
+      },
+      {
+        "title": "Proposed amendments weaken Sri Lanka’s anti-corruption safeguards: IMF",
+        "url": "https://economynext.com/proposed-amendments-weaken-sri-lankas-anti-corruption-safeguards-imf-284440/",
+        "timestamp": "September 23, 2026",
+        "byline": "Clauses in proposed amendments to Sri Lanka's anti-corruption framework could weaken key governance elements established",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "c9622c964228b98fa1a4ad5fa8dfc30396e0b48e59bdbd86bac739ed74794342"
+      },
+      {
+        "title": "Sri Lanka Treasury bill yields rise across maturities, Rs60bn sold",
+        "url": "https://economynext.com/sri-lanka-treasury-bill-yields-rise-across-maturities-rs60bn-sold-284423/",
+        "timestamp": "September 23, 2026",
+        "byline": "The 6 and 12 month bills are available on tap.",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0670f70098f3e66a9e279d9154665dda9be195590c6f5e38126e626240aa1c0d"
+      },
+      {
+        "title": "Beyond the crisis: Sectoral paths to Sri Lanka's durable growth",
+        "url": "https://economynext.com/beyond-the-crisis-sectoral-paths-to-sri-lankas-durable-growth-284411/",
+        "timestamp": "September 23, 2026",
+        "byline": "Institute of Policy Studies of Sri Lanka (IPS) recommendations for the upcoming national budget",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3103f3b97c6e117e8ea8dce745648bca4bd4c8d7d036f1fa98e7752f19228048"
+      },
+      {
+        "title": "Inside the SEC: A Disputed Settlement, Naming and Shaming, and Persuading Companies to Remain Listed",
+        "url": "https://economynext.com/inside-the-sec-a-disputed-settlement-naming-and-shaming-and-persuading-companies-to-remain-listed-284157/",
+        "timestamp": "September 23, 2026",
+        "byline": "No byline",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "b70cd7270abf65aeece9b8d864a51a7e271f218d499a156841e2b4cb2ddaa0d3"
+      },
+      {
+        "title": "Sri Lanka on track for international capital market access by 2027, IMF says",
+        "url": "https://economynext.com/sri-lanka-on-track-for-international-capital-market-access-by-2027-imf-says-284425/",
+        "timestamp": "September 23, 2026",
+        "byline": "Papageorgiou highlighted a recent credit rating upgrade by Fitch as a step in the right direction",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f069a4550fd3c0fc85a779ba9ad181a1e1c59bc3365952b7cbf2a41ccdd19989"
+      },
+      {
+        "title": "Sri Lanka tables new anti-terror bill to replace PTA with court oversight, detention limits",
+        "url": "https://economynext.com/sri-lanka-tables-new-anti-terror-bill-to-replace-pta-with-court-oversight-detention-limits-284407/",
+        "timestamp": "September 23, 2026",
+        "byline": "Arrested suspects must be produced before a magistrate within 48 hours, unlike under the PTA.",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "93e3a3bcd39f4f82632d7579166fb2e910399d6fc02aaddcfa11c87fd11455e6"
+      },
+      {
+        "title": "IMF: Sri Lanka shows resilience, but downside risk remains",
+        "url": "https://economynext.com/imf-sri-lanka-shows-resilience-but-downside-risk-remains-284385/",
+        "timestamp": "September 23, 2026",
+        "byline": "Says an agreement on the 7th review is not reached yet",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "29900e44c3c14137144d39ce1f95f2bad9e168d8bcf6691316d95fb7a1b6582f"
+      },
+      {
+        "title": "Sri Lanka rupee at 329.05/20 to US dollar spot, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-at-329-05-20-to-us-dollar-spot-bond-yields-drop-284374/",
+        "timestamp": "September 23, 2026",
+        "byline": "Bond yields dropped drastically, dealers said.",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "f00fe07450892a15d282e5ff02c870c908b5a1fb38013e0a0c3b70f78d379c9c"
+      },
+      {
+        "title": "IMF says talks ongoing to reach staff-level deal on Sri Lanka review",
+        "url": "https://economynext.com/imf-says-talks-ongoing-to-reach-staff-level-deal-on-sri-lanka-review-284378/",
+        "timestamp": "September 23, 2026",
+        "byline": "IMF team concludes visit to Sri Lanka",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "01ceac6f73ac06a1c2a5244cb978ea6689d5fbdf54864e93af0a50f666bf663a"
+      },
+      {
+        "title": "Sri Lanka stocks rise at midday as materials lead turnover",
+        "url": "https://economynext.com/sri-lanka-stocks-rise-at-midday-as-materials-lead-turnover-284380/",
+        "timestamp": "September 23, 2026",
+        "byline": "Positive contributors to the ASPI were Dialog Axiata, Commercial Bank, Hemas Holdings, Hatton National Bank",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "3d5059d64aa9827aca2c5579065053a7bc0cf7408b839ce8c29f135317d689b8"
+      },
+      {
+        "title": "Sri Lanka Land Development Corporation to procure Rs1.2bn machinery for flood mitigation",
+        "url": "https://economynext.com/sri-lanka-land-development-corporation-to-procure-rs1-2bn-machinery-for-flood-mitigation-284346/",
+        "timestamp": "September 23, 2026",
+        "byline": "Small-scale machinery valued at an estimated 1.23 billion rupees to clear urban canals",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "11dc1c87203ded797c0ab4d7bc1ef0a8ab7f0a02b5bbf3c77a78b05c9ccc0466"
+      },
+      {
+        "title": "Sri Lanka court sentences Easter Sunday Bombers for 220 year imprisonment",
+        "url": "https://economynext.com/sri-lanka-court-sentences-easter-sunday-bombers-for-220-year-imprisonment-284369/",
+        "timestamp": "September 23, 2026",
+        "byline": "Nine acquitted from the accusations",
+        "isoTimestamp": "2026-09-23T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "98f546029523233b50d5d040f3b4acd2452dad8c4cf2334488651e1757e4e3fa"
+      },
+      {
+        "title": "EXPLAINER: Sri Lanka’s 22nd Amendment to proceed without referendum",
+        "url": "https://economynext.com/explainer-sri-lankas-22nd-amendment-to-proceed-without-referendum-284367/",
+        "timestamp": "September 22, 2026",
+        "byline": "No referendum needed, Supreme Court determines, despite international criticism",
+        "isoTimestamp": "2026-09-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "0687b075ef34b7ae4fad2189d39037a1c0ee80bca84797811101bb3f873f8bd8"
+      },
+      {
+        "title": "Sri Lanka court extends CBSL asset freeze on six firms",
+        "url": "https://economynext.com/sri-lanka-court-extends-cbsl-asset-freeze-on-six-firms-284360/",
+        "timestamp": "September 22, 2026",
+        "byline": "Kasagala, Ceylon Green Life Plantation, Singhe Capital Investment, Pro Shop Advertising, Athens International, Eyon Lank",
+        "isoTimestamp": "2026-09-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "bdc401dd71d2f658760b853096ece8d99e016d5cd304950dcd4daf84dc878b00"
+      },
+      {
+        "title": "Sri Lanka rupee closes at 329.30/60 to US dollar spot, bond yields drop",
+        "url": "https://economynext.com/sri-lanka-rupee-closes-at-329-30-60-to-us-dollar-spot-bond-yields-drop-284350/",
+        "timestamp": "September 22, 2026",
+        "byline": "Bond yields closed lower, dealers said.",
+        "isoTimestamp": "2026-09-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "1a744ee479069cdebd92dd7bb0f08bc0405323125179e7a23f71edc5cc494a5e"
+      },
+      {
+        "title": "Sri Lanka stocks beat early slump after sovereign rating upgrade",
+        "url": "https://economynext.com/sri-lanka-stocks-beat-early-slump-after-sovereign-rating-upgrade-284332/",
+        "timestamp": "September 22, 2026",
+        "byline": "Positive contributors to the ASPI were Access Engineering, Overseas Realty, Dialog Axiata and HNB",
+        "isoTimestamp": "2026-09-22T00:00:00+05:30",
+        "baseUrl": "https://economynext.com",
+        "checkSum": "4717e79f9f7efaff157099afca4534468fe26e0edbedb07334ae9803f685c996"
+      }
+    ]
+  },
+  "newswire": {
+    "success": true,
+    "data": [
+      {
+        "title": "Sri Lankan teenager killed in London road accident",
+        "url": "https://www.newswire.lk/2026/09/27/sri-lankan-teenager-killed-in-london-road-accident/",
+        "timestamp": "2026-09-27T00:24:37+05:30",
+        "readableTime": "September 27, 2026",
+        "byline": "A 16-year-old girl of Sri Lankan origin has died after being struck by a car while on her way toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/skynews-melissa-premaratne_7361308.jpg",
+        "isoTimestamp": "2026-09-27T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "575eda0f19e377c67dca04b001305a7a32982569fc60dceeb9c23a2b9f40e010"
+      },
+      {
+        "title": "Sri Lanka explores possibility of hosting Miss Universe pageant",
+        "url": "https://www.newswire.lk/2026/09/27/sri-lanka-explores-possibility-of-hosting-miss-universe-pageant/",
+        "timestamp": "2026-09-27T00:14:31+05:30",
+        "readableTime": "September 27, 2026",
+        "byline": "Foreign Minister Vijitha Herath has held discussions on the possibility of hosting the Miss Universe pageant in Sri Lanka, aContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/FB_IMG_1790448147207.jpg",
+        "isoTimestamp": "2026-09-27T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "2b88f7e27b65159c9ef06affaa25688979159fee8f5e4a142b8714a4ce130139"
+      },
+      {
+        "title": "Hundreds gather in Jaffna as Thileepan commemorations conclude",
+        "url": "https://www.newswire.lk/2026/09/26/hundreds-gather-in-jaffna-as-thileepan-commemorations-conclude/",
+        "timestamp": "2026-09-26T23:16:41+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Hundreds of people gathered in Nallur, Jaffna, on Saturday to mark the 39th anniversary of the death of Rasaiah Parthipan,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/IMG-20260926-WA0065.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "915d029547df798096bf3b5820300d50fd233f7877117c9c6ad3ced4f67d9e11"
+      },
+      {
+        "title": "Can leasing companies seize your vehicle? Police clarify the law",
+        "url": "https://www.newswire.lk/2026/09/26/can-leasing-companies-seize-your-vehicle-police-clarify-the-law/",
+        "timestamp": "2026-09-26T19:10:09+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "The Sri Lanka Police have clarified the procedures governing the repossession of vehicles and other equipment by leasing and financeContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260926_190846_ChatGPT.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "ae740de31652d0e6cdf217888131bcaf6f645fe8fc7f0254bde8f3d0b7030695"
+      },
+      {
+        "title": "57 kg of drugs destined for Sri Lanka seized at Toronto airport",
+        "url": "https://www.newswire.lk/2026/09/26/57-kg-of-drugs-destined-for-sri-lanka-seized-at-toronto-airport/",
+        "timestamp": "2026-09-26T19:01:30+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Canadian authorities have seized 44 kg of hashish and 13 kg of cocaine from a traveller’s luggage at Toronto PearsonContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/CBSA.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "ae96f5a8614aa51787ec585a0e1974b11943f9e124bca7046956fbaef4535eeb"
+      },
+      {
+        "title": "Sports Ministry hands over new javelin to Rumesh Tharanga in Japan",
+        "url": "https://www.newswire.lk/2026/09/26/sports-ministry-hands-over-new-javelin-to-rumesh-tharanga-in-japan/",
+        "timestamp": "2026-09-26T18:16:12+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Sri Lankan javelin star Rumesh Tharanga Pathirage has received a new javelin from the Sports Ministry ahead of his eventContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/FB_IMG_1790426702977.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "5ef4b12728c2baf9a61ff4beba427026a05d75c9d30c521c6c40de1cfc03677e"
+      },
+      {
+        "title": "Hospital worker dies after explosion at Polonnaruwa Nephrology Hospital",
+        "url": "https://www.newswire.lk/2026/09/26/hospital-worker-dies-after-explosion-at-polonnaruwa-nephrology-hospital/",
+        "timestamp": "2026-09-26T16:58:12+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "A hospital worker has died after sustaining injuries in the explosion at the kitchen premises of the National Nephrology HospitalContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/IMG_6370.jpeg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8191a7aa65ab28732832088bdd7b00f10ea10fbf8afbc207689fb86553dcd16d"
+      },
+      {
+        "title": "Kawanthissa tusker continues to receive treatment",
+        "url": "https://www.newswire.lk/2026/09/26/kawanthissa-tusker-continues-to-receive-treatment/",
+        "timestamp": "2026-09-26T16:49:12+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Kawanthissa, the injured tusker roaming the Siyambalangamuwa area, received another round of antibiotic injections today (Sept. 26), as treatment continuedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-9.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "a565d74e05707763481c13963d97759a7063d445f3cd79d25bcf288d8da2cb9c"
+      },
+      {
+        "title": "Indira at 50: Karu Jayasuriya remembers the inspiration behind the Indira Cancer Trust",
+        "url": "https://www.newswire.lk/2026/09/26/indira-at-50-karu-jayasuriya-remembers-the-inspiration-behind-the-indira-cancer-trust/",
+        "timestamp": "2026-09-26T16:36:01+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "By Karu Jayasuriya It was exactly 50 years ago today that I held my daughter Indira in my arms forContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260926_162159_Editor-Lite.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "19c4ec3e13f9e3e7ed986b1a6cf67b384f93cb762c05691c63f4438aa9cf8356"
+      },
+      {
+        "title": "Police warn property owners over renting out homes",
+        "url": "https://www.newswire.lk/2026/09/26/police-warn-property-owners-over-renting-out-homes/",
+        "timestamp": "2026-09-26T16:29:16+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Police have urged property owners to exercise caution and conduct proper background checks before renting out houses, business premises orContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-8.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "7951c21b3d07d01850f9680f1f70819b7dcba27df06e5215dddcd89fd6c48c02"
+      },
+      {
+        "title": "Buying exotic jewellery? Some materials could be illegal",
+        "url": "https://www.newswire.lk/2026/09/26/buying-exotic-jewellery-some-materials-could-be-illegal/",
+        "timestamp": "2026-09-26T16:19:49+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Wildlife officers have seized several pieces of jewellery allegedly made from ivory and black coral during raids in the PannegamuwaContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260926_161733_Facebook.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "db235b21616afc252dbe6fc5fa90a3fa74fdf4e03085ff0fdf7606a73ac3d0ce"
+      },
+      {
+        "title": "Sri Lanka’s solar capacity tops 3,070 MW as grid operator outlines new measures",
+        "url": "https://www.newswire.lk/2026/09/26/sri-lankas-solar-capacity-tops-3070-mw-as-grid-operator-outlines-new-measures/",
+        "timestamp": "2026-09-26T16:01:58+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Sri Lanka’s installed solar power capacity has surpassed 3,070 MW, with solar energy now meeting around 15% to 25% ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Solar-power-technicians.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "409eff28188c7d25d6dc45f41c4bb90da406f6029d2eca90889b93d490ba1f01"
+      },
+      {
+        "title": "Peradeniya University retains top Sri Lankan spot in 2026 UI GreenMetric rankings",
+        "url": "https://www.newswire.lk/2026/09/26/peradeniya-university-retains-top-sri-lankan-spot-in-2026-ui-greenmetric-rankings/",
+        "timestamp": "2026-09-26T14:22:38+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "The University of Peradeniya has retained its position as the No. 1 university in Sri Lanka in the 2026 UIContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-7.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "04e1b329d8ff5de2333c237a010c84c7f446ae65cd037ddc7d0fa2f5d7a3e91e"
+      },
+      {
+        "title": "PAYE tax relief coming? Minister drops major Budget hint",
+        "url": "https://www.newswire.lk/2026/09/26/paye-tax-relief-coming-minister-drops-major-budget-hint/",
+        "timestamp": "2026-09-26T12:11:09+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Minister Bimal Ratnayake has indicated that the government intends to provide further relief on Pay-As-You-Earn (PAYE) tax in the upcomingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/08/Bimal-Rathnayake-1.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "b318db69ee1413d5cb4b221cc212e4245f28b8c7ee10314c1dcfa2797a46904a"
+      },
+      {
+        "title": "Sri Lanka told to prepare for possible floods in October and November",
+        "url": "https://www.newswire.lk/2026/09/26/sri-lanka-told-to-prepare-for-possible-floods-in-october-and-november/",
+        "timestamp": "2026-09-26T11:37:53+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Sri Lanka could experience increased rainfall during October and November, with authorities potentially needing to prepare for flood conditions, anContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260926_113653_ChatGPT.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "bd75bf3e014e35712245570ee897075e9e9cc2ec53bb1586e4c92ed16cc7a652"
+      },
+      {
+        "title": "Sangakkara identifies what Sri Lanka “must not change” for ODI decider",
+        "url": "https://www.newswire.lk/2026/09/26/sangakkara-identifies-what-sri-lanka-must-not-change-for-odi-decider/",
+        "timestamp": "2026-09-26T11:20:09+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Former Sri Lanka captain Kumar Sangakkara has urged Sri Lanka not to get carried away by their victory over EnglandContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260926_111833_YouTube.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "684d0b9b0ea803851ccf58093ba8cc89d7bdb4a7bc474efbcb8da90f92b3f783"
+      },
+      {
+        "title": "Re-scrutinised 2025 O/L examination results released : doenets.lk",
+        "url": "https://www.newswire.lk/2026/09/26/re-scrutinised-2025-o-l-examination-results-released-doenets-lk/",
+        "timestamp": "2026-09-26T11:01:38+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "The re-scrutinised results of the 2025 (2026) G.C.E. Ordinary Level Examination have been released, according to the Department of Examinations.Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/scholarship-exam-1.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "967384bcc1b1905f26eef34ccf34fa426682a986e18fd6db636949180375c29b"
+      },
+      {
+        "title": "Two more arrested over Dehiwala grenade attack",
+        "url": "https://www.newswire.lk/2026/09/26/two-more-arrested-over-dehiwala-grenade-attack/",
+        "timestamp": "2026-09-26T09:36:51+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Two more suspects have been arrested for allegedly aiding and abetting the crime involving a grenade attack in Dehiwala thatContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/women-arrest.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "b9172af0999e5f13eac4b4c8783f97cffd1495f7cb07760c77827f00c3281785"
+      },
+      {
+        "title": "7 injured in explosion at Polonnaruwa Kidney Hospital",
+        "url": "https://www.newswire.lk/2026/09/26/7-injured-in-explosion-at-polonnaruwa-kidney-hospital/",
+        "timestamp": "2026-09-26T09:31:00+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Seven people were injured in a powerful explosion at the National Nephrology Hospital in Polonnaruwa early Saturday (Sept. 26). TheContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/IMG_6370.jpeg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "c8659168f4cc1f94671f214b84bddb0fabe9a43c40f7da86ca1bc10d816e3d0f"
+      },
+      {
+        "title": "Weather: Showers expected across several provinces",
+        "url": "https://www.newswire.lk/2026/09/26/weather-showers-expected-across-several-provinces/",
+        "timestamp": "2026-09-26T09:23:59+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Showers are expected at times in the Western and Sabaragamuwa provinces and in the Galle, Matara, Kandy and Nuwara-Eliya districtsContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/08/Rain-street.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "aea332893ac4648a3ff6a55bf198697ba6ca6b50ea18fabc948554121ee5ebbf"
+      },
+      {
+        "title": "“If more Lasanthas emerge, their message fails” – CIABOC DG calls on society to reverse the culture of fear",
+        "url": "https://www.newswire.lk/2026/09/26/if-more-lasanthas-emerge-their-message-fails-ciaboc-dg-calls-on-society-to-reverse-the-culture-of-fear/",
+        "timestamp": "2026-09-26T00:53:35+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "The assassination of journalist Lasantha Wickrematunge was not merely intended to eliminate an individual but to send a warning toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260926_005307_Editor-Lite.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "54f555af22897a538749b376b137fa0d5ab69f2b2f0c3f9f572fbebac99d5a77"
+      },
+      {
+        "title": "Shop accused of charging Rs. 850 for a photocopy raided by CAA",
+        "url": "https://www.newswire.lk/2026/09/26/shop-accused-of-charging-rs-850-for-a-photocopy-raided-by-caa/",
+        "timestamp": "2026-09-26T00:38:16+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "The Consumer Affairs Authority (CAA) has raided a shop in the Puttalam District following allegations that it charged Rs. 850Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/FB_IMG_1790363178014.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1f4ed142493f4da1dab6afa5080269ce816c5018275bce8d9494d68fdd5deff5"
+      },
+      {
+        "title": "Sri Lanka will exit current IMF programme in 2027 – Minister Bimal",
+        "url": "https://www.newswire.lk/2026/09/26/sri-lanka-will-exit-current-imf-programme-in-2027-minister-bimal/",
+        "timestamp": "2026-09-26T00:33:32+05:30",
+        "readableTime": "September 26, 2026",
+        "byline": "Minister Bimal Rathnayake says the government intends to complete Sri Lanka’s current International Monetary Fund programme when the four-year ExtendedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/05/Bimal-Rathnayake.jpg",
+        "isoTimestamp": "2026-09-26T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f9b5ea654e031a806ee27b6de1ad55e00e7a67488faac54ad63f479dfefb126f"
+      },
+      {
+        "title": "Lanka Sathosa reduces essential commodity prices",
+        "url": "https://www.newswire.lk/2026/09/25/lanka-sathosa-reduces-essential-commodity-prices/",
+        "timestamp": "2026-09-25T22:18:17+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Lanka Sathosa Limited has decided to reduce the prices of six essential consumer goods across its island-wide outlet network withContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Sathisa.png",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8970e13b8a398c9db1ee3e0ca24d0b4527624a33e31d3577451f65a23cff7b6c"
+      },
+      {
+        "title": "Shanakiyan meets ACJU General Secretary over Anojan’s release",
+        "url": "https://www.newswire.lk/2026/09/25/shanakiyan-meets-acju-general-secretary-over-anojans-release/",
+        "timestamp": "2026-09-25T21:25:45+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Ilankai Tamil Arasu Kachchi (ITAK) Parliamentarian Shanakiyan Rasamanickam stated that the General Secretary of the All Ceylon Jamiyyathul Ulama (ACJU),Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-5.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1ffc5a1d0cafdcf09f7ff496f93a07c38805192223661a5a2b5bbca9c11ebf8c"
+      },
+      {
+        "title": "22nd Amendment officially comes into force",
+        "url": "https://www.newswire.lk/2026/09/25/22nd-amendment-officially-comes-into-force/",
+        "timestamp": "2026-09-25T20:50:48+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Speaker Dr. Jagath Wickramaratne has endorsed the certificate on the Twenty-Second Amendment to the Constitution Bill after it was passedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260925_205007_Editor-Lite.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "d45d5eba6c15e9f5306e7a96d1e053e9c8929539ae76bdff56600afcdf4d0c29"
+      },
+      {
+        "title": "Judicature (Amendment) Bill passed in Parliament",
+        "url": "https://www.newswire.lk/2026/09/25/judicature-amendment-bill-passed-in-parliament/",
+        "timestamp": "2026-09-25T20:14:03+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The Third Reading of the Judicature (Amendment) Bill has been passed in Parliament by a special majority without amendments. AContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-6.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "4c06e567395b8096ff57c7e93a98bf1a28bc44f17bd25ba09063c3679f684c17"
+      },
+      {
+        "title": "Court further remands Shiran Basik’s father",
+        "url": "https://www.newswire.lk/2026/09/25/court-further-remands-shiran-basiks-father/",
+        "timestamp": "2026-09-25T20:13:12+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Abdul Razak Mohamed Basik, the father of alleged large-scale drug trafficker Shiran Basik, has been further remanded until October 08.Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2020/12/Court.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "7a53cbabbb1e19fd2691a8f55a51119dedf0e24c9a56563cd319a67d5a8fa8a4"
+      },
+      {
+        "title": "22nd Amendment to the Constitution passed in Parliament",
+        "url": "https://www.newswire.lk/2026/09/25/22nd-amendment-to-the-constitution-passed-in-parliament/",
+        "timestamp": "2026-09-25T19:28:46+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The Third Reading of the Twenty-Second Amendment to the Constitution Bill was passed with amendments by a special majority inContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-4.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "c2c509e7fd931d87e15ebceb018872fb2ba6808d46dd3fd611ed6616653f51cd"
+      },
+      {
+        "title": "European Parliament delegation discusses GSP+ and Constitutional reforms",
+        "url": "https://www.newswire.lk/2026/09/25/european-parliament-delegation-discusses-gsp-and-constitutional-reforms-in-sri-lanka/",
+        "timestamp": "2026-09-25T19:02:54+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "A visiting delegation from the European Parliament met with Sri Lankan parliamentary leaders on September 24, 2026, where discussions highlightedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Parliament-delegation.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "263a127afa5a9831353cfa06d85af8114ea3f4fbefebff8108e99975a3debf71"
+      },
+      {
+        "title": "Two arrested with Black Coral in Mount Lavinia, Ratmalana",
+        "url": "https://www.newswire.lk/2026/09/25/two-arrested-with-black-coral-in-mount-lavinia-ratmalana/",
+        "timestamp": "2026-09-25T18:43:54+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Two suspects were arrested today (25) near the Maliban Junction in Rathmalana and the “Nisala Sevana” cemetery in Mount LaviniaContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kalani-3.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "65711c84f336080981372993150ff7c96006f5ce64d59952e3311da6e1b31a39"
+      },
+      {
+        "title": "Bimal Rathnayake demands corrections from media over 22nd Amendment remarks",
+        "url": "https://www.newswire.lk/2026/09/25/bimal-rathnayake-demands-corrections-from-media-over-22nd-amendment-remarks/",
+        "timestamp": "2026-09-25T18:13:53+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Leader of the House Minister Bimal Rathnayake has demanded corrections from several media organisations over reports that he had acknowledgedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/e39d459c-5304-4660-8c82-9030a97caf3a.jpeg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "3c006fe233450f25d5e2ceda09044e89afff17d0bdb7e9508995ef37fcccf17d"
+      },
+      {
+        "title": "Sarana Gunawardena’s wife remanded over alleged bribery attempt",
+        "url": "https://www.newswire.lk/2026/09/25/sarana-gunawardenas-wife-remanded-over-alleged-bribery-attempt/",
+        "timestamp": "2026-09-25T17:05:01+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Lakmanthi Hettiarachchi, the wife of former Deputy Minister Sarana Gunawardena, has been remanded until October 6 in connection with anContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Sarana-Gunawardena-wife.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "764140f6e0f6213e0f406dd396a748d3a46e80ff1365e0086c42033ed7c9720e"
+      },
+      {
+        "title": "“No need to dance to every tune of IMF”: Harsha’s advice to Govt",
+        "url": "https://www.newswire.lk/2026/09/25/no-need-to-dance-to-every-tune-of-imf-harshas-advice-to-govt/",
+        "timestamp": "2026-09-25T16:54:54+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Harsha says government cannot present Budget without IMF agreement   Opposition MP Harsha de Silva says the government will haveContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/07/Screenshot-2025-07-21-at-18.06.12.png",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "2b4441a12b188e7c10515fb2eff2939feb6b5b1ed25c18885c13441923eb6aea"
+      },
+      {
+        "title": "Red alert landslide warnings issued for parts of Galle, Kandy and Nuwara Eliya",
+        "url": "https://www.newswire.lk/2026/09/25/red-alert-landslide-warnings-issued-for-parts-of-galle-kandy-and-nuwara-eliya/",
+        "timestamp": "2026-09-25T16:40:24+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The National Building Research Institute (NBRO) has issued Level 3 (Red) landslide evacuation warnings for several areas in the Galle,Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/08/Landslide-warning-1.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "cd0e86ea65af1db785274a4d1b725d92b49861106b08e8926c221ce666c03aef"
+      },
+      {
+        "title": "Ella restaurant fined Rs. 1 million for selling bottled water above MRP",
+        "url": "https://www.newswire.lk/2026/09/25/ella-restaurant-fined-rs-1-million-for-selling-bottled-water-above-mrp/",
+        "timestamp": "2026-09-25T16:36:01+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "A restaurant in Ella has been fined Rs. 1 million for selling a one-litre bottle of drinking water at twiceContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Ella-CAA-water-bottle.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "93dab4699253e9c988de7e557fc005a09dfd04d45e38ab12e6d7d94471cd3abc"
+      },
+      {
+        "title": "“Police powers to the military?” FSP raises alarm over new anti-terror Bill",
+        "url": "https://www.newswire.lk/2026/09/25/police-powers-to-the-military-fsp-raises-alarm-over-new-anti-terror-bill/",
+        "timestamp": "2026-09-25T16:07:17+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The Frontline Socialist Party (FSP) has strongly criticised the proposed Protection of the State from Terrorism Bill, claiming the legislationContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260925_160538_Editor-Lite.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8f58e3540d7c942988cf552355e93c8225dc9b50fe959b41185b2ffcc699be01"
+      },
+      {
+        "title": "Sri Lanka to gazette 20 forests covering 9,538 hectares as reserves",
+        "url": "https://www.newswire.lk/2026/09/25/sri-lanka-to-gazette-20-forests-covering-9538-hectares-as-reserves/",
+        "timestamp": "2026-09-25T16:01:56+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The Ministry of Environment has announced that 20 forests covering approximately 9,538 hectares will be gazetted as reserves tomorrow (26)Continue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/03/Forests.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "3be34bca0c5b6b308ed296fc23c7953b9995ed3fc4a007098d9c91259f296367"
+      },
+      {
+        "title": "Yevan David caps rookie FIA Formula 3 Season with strong late-season progress",
+        "url": "https://www.newswire.lk/2026/09/25/yevan-david-caps-rookie-fia-formula-3-season-with-strong-late-season-progress/",
+        "timestamp": "2026-09-25T15:24:20+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Sri Lankan racing driver Yevan David has completed his rookie FIA Formula 3 season, ending the year with a strongContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Yevan-david.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "29d20bc21fc4149345fc4ead0ee66f01bf27f3aec7fcbf48767d16215e3009f5"
+      },
+      {
+        "title": "Sajith compares Govt’s 22A claims to Hans Andersen’s ‘Emperor’s New Clothes’",
+        "url": "https://www.newswire.lk/2026/09/25/sajith-compares-govts-22a-claims-to-hans-andersens-emperors-new-clothes/",
+        "timestamp": "2026-09-25T15:19:51+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Opposition Leader Sajith Premadasa today (25) strongly criticised the proposed 22nd Amendment to the Constitution, alleging that it would undermineContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Sajith-Premadasa-1.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "cca16d20fd7031f821254c3c6ea9018965abeab2af9ed0369468d414ac3ac2c4"
+      },
+      {
+        "title": "US trains Sri Lankan officials to detect maritime sanctions evasion",
+        "url": "https://www.newswire.lk/2026/09/25/us-trains-sri-lankan-officials-to-detect-maritime-sanctions-evasion/",
+        "timestamp": "2026-09-25T15:06:55+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The United States has trained more than 40 Sri Lankan officials to identify suspicious vessels, detect deceptive shipping practices andContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/US-Embassy-training.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "f0207895e9bf0f21e143abebcc33a6d12f8781866576d8418f9d4528991929d8"
+      },
+      {
+        "title": "Former Buddhasasana Ministry Secretary arrested",
+        "url": "https://www.newswire.lk/2026/09/25/former-buddhasasana-ministry-secretary-arrested/",
+        "timestamp": "2026-09-25T15:01:07+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Former Secretary to the Ministry of Buddhasasana Kamal Bandara Dissanayake has been arrested by the Bribery Commission over allegations ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260925_150034_ChatGPT.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "df101e63c7a79283cd553680a6827e45c1a9cca59334a6822149caf09a73f6ee"
+      },
+      {
+        "title": "Former Minister’s wife arrested over alleged bribe attempt to save husband from prison",
+        "url": "https://www.newswire.lk/2026/09/25/former-ministers-wife-arrested-over-alleged-bribe-attempt-to-save-husband-from-prison/",
+        "timestamp": "2026-09-25T14:54:41+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Lakmanthi Hettiarachchi, the wife of former Deputy Minister Sarana Gunawardhana, has been arrested by the Bribery Commission for allegedly offeringContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Sarana-Gunawardena-arrest.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "dd934f5743a6b8b64644c3738210762d80168d3b6f58b314ef3193fa4f1df076"
+      },
+      {
+        "title": "Bimal acknowledges ‘small division’ in society over 22nd Amendment",
+        "url": "https://www.newswire.lk/2026/09/25/bimal-acknowledges-small-division-in-society-over-22nd-amendment/",
+        "timestamp": "2026-09-25T14:45:22+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Leader of the House and Minister Bimal Rathnayake has acknowledged that the proposed 22nd Amendment to the Constitution has causedContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/e39d459c-5304-4660-8c82-9030a97caf3a.jpeg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "da30520754ea1028f2cb86448103e1096a9f71fc523577c1f4ecda84c70ca05a"
+      },
+      {
+        "title": "West Indies Cricketers face 25% Salary cut amid financial restructuring",
+        "url": "https://www.newswire.lk/2026/09/25/west-indies-cricketers-face-25-salary-cut-amid-financial-restructuring/",
+        "timestamp": "2026-09-25T14:08:25+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Cricket West Indies (CWI) has announced a 25% reduction in retainer fees for internationally contracted men’s players as part ofContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Screenshot_20260925_140740_Gallery.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "8c64224c72f7907bbb2cfde3debed9e8d4f2e3bb60ff72c7a8ee71e121c4e40f"
+      },
+      {
+        "title": "Former Lanka Mineral Sands Chairman arrested over Rs. 34.4 Mn in salary payments",
+        "url": "https://www.newswire.lk/2026/09/25/former-lanka-mineral-sands-chairman-arrested-over-rs-34-4-mn-in-salary-payments/",
+        "timestamp": "2026-09-25T13:55:44+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Former Chairman of Lanka Mineral Sands Limited Udeni Jayaratne Dassanayake was arrested by the Commission to Investigate Allegations of BriberyContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Lanka-Minerals-bribery-arrest.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "ebbeff171458bfdee377605bf611d9254b647d8dd28d5397c10418dcd5a4b2c1"
+      },
+      {
+        "title": "CBSL rates: US Dollar selling rate steady at Rs. 334",
+        "url": "https://www.newswire.lk/2026/09/25/cbsl-rates-us-dollar-selling-rate-steady-at-rs-334/",
+        "timestamp": "2026-09-25T13:43:59+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The Sri Lankan Rupee has depreciated further against the US Dollar today (25), compared to Thursday, with the US DollarContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2025/07/5-1.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "95beafd23021c6ef2224c59e18cb8b132e87ebe582e6a4d9f03447f75356d047"
+      },
+      {
+        "title": "TIN Certificate compulsory for key transactions from November 1 – IRD",
+        "url": "https://www.newswire.lk/2026/09/25/tin-certificate-compulsory-for-key-transactions-from-november-1-ird/",
+        "timestamp": "2026-09-25T13:38:18+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "A valid Taxpayer Identification Number (TIN) Certificate will become compulsory for a range of key transactions in Sri Lanka fromContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/TIN-IRD.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "0ec8599d19805e4f7f72b000cf4cadf838ecdffb5eb1c63ad60e1638751c1543"
+      },
+      {
+        "title": "Wildlife teams continue treatment to save Tusker ‘Kawanthissa’",
+        "url": "https://www.newswire.lk/2026/09/25/wildlife-teams-continue-treatment-to-save-tusker-kawanthissa/",
+        "timestamp": "2026-09-25T13:27:23+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Wildlife veterinarians and officers are continuing treatment today (25) for ‘Kawanthissa’, the elephant of Siyambalangamuwa, as efforts remain underway toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Kawanthissa-elephant.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "1ffd2fbd70c9541bc67aeab9be921881fcbe2e7b7dbf2ab3d7e0ca545b376f4a"
+      },
+      {
+        "title": "Australia Women to tour Sri Lanka in December",
+        "url": "https://www.newswire.lk/2026/09/25/australia-women-to-tour-sri-lanka-in-december/",
+        "timestamp": "2026-09-25T13:20:12+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Sri Lanka Cricket (SLC) has announced that the Australia Women’s Team will arrive in Sri Lanka in December 2026 toContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Australia-women-cricket.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "7ff9b9299791452949115f3fa9b7ea0df7c9602838abe7180c6a7be98c954598"
+      },
+      {
+        "title": "India to make its fastest-ever bullet train to match Japan’s E10",
+        "url": "https://www.newswire.lk/2026/09/25/india-to-make-its-fastest-ever-bullet-train-to-match-japans-e10/",
+        "timestamp": "2026-09-25T13:17:49+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "India is getting closer to having its own high-speed bullet train, as Railways are working on the B35, a trainContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/India-bullet-train.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "2646e4294dfbb067f9bffcef4308d047e2245cadeb9851c7a8647bef9eab383c"
+      },
+      {
+        "title": "‘Source of anxiety’: Pakistan cracks down before march to free Imran Khan",
+        "url": "https://www.newswire.lk/2026/09/25/source-of-anxiety-pakistan-cracks-down-before-march-to-free-imran-khan/",
+        "timestamp": "2026-09-25T13:05:43+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "The motorway linking Pakistan’s capital with Peshawar, about 180km (110 miles) to the northwest, has been closed to all trafficContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Pakistan-Imran-Khan-protest.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "aec9cd1212e12d85cb9c8210d3785fa14ce7ad5afb0321028b4f3b2a0da28412"
+      },
+      {
+        "title": "Indian High Commissioner meets former President Ranil",
+        "url": "https://www.newswire.lk/2026/09/25/indian-high-commissioner-meets-former-president-ranil/",
+        "timestamp": "2026-09-25T13:00:26+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Indian High Commissioner to Sri Lanka Santosh Jha met former President Ranil Wickremesinghe in Colombo this morning (25). The meetingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Ranil-Indian-HC.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "472a99214f3c12b828b5c441b435569a6636e23bc702830de49ff35cbfae8216"
+      },
+      {
+        "title": "Sri Lanka, Qatar explore expanded cooperation in agri-tech and food production",
+        "url": "https://www.newswire.lk/2026/09/25/sri-lanka-qatar-explore-expanded-cooperation-in-agri-tech-and-food-production/",
+        "timestamp": "2026-09-25T12:43:38+05:30",
+        "readableTime": "September 25, 2026",
+        "byline": "Sri Lanka and Qatar have explored opportunities to expand cooperation in agricultural technology, climate-resilient farming and sustainable food production, includingContinue Reading",
+        "imageUrl": "https://www.newswire.lk/wp-content/uploads/2026/09/Arun-hemachandra-Qatar.jpg",
+        "isoTimestamp": "2026-09-25T00:00:00+05:30",
+        "baseUrl": "https://www.newswire.lk",
+        "checkSum": "b9470204a42f2ebcd6be0784796e5611c55d5276e5f06a150f9ea99b1e312965"
+      }
+    ]
+  }
+}
